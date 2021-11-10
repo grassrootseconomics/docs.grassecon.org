@@ -1,0 +1,10 @@
+image: python:3.8-alpine
+
+pages:
+  script:
+    - pip install -r requirements.txt
+    - mkdocs build
+  artifacts:
+    paths:
+      - site/
+
