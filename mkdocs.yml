@@ -1,0 +1,6 @@
+site_name: CIC Stack 
+site_url: https://example.com
+nav:
+  - Home: index.md
+  - Roadmap: road_map.md
+theme: readthedocs
