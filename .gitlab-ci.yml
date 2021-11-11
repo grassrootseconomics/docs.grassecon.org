@@ -6,5 +6,5 @@ pages:
     - mkdocs build
   artifacts:
     paths:
-      - site/
+      - public/
 
