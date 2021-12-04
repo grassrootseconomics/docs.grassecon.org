@@ -1,36 +1,21 @@
-# Introduction to Grassroots Economics' Documentation
-
-Grassroots Economics is a non-profit foundation that seeks to empower marginalized communities to take charge of their own livelihoods and economic future. We focus on community development through economic empowerment, basic income and Community Inclusion Currency (CIC) programs.
-
-## Vision
-
-We see a world where communities are in control of their own currency technology as an essential ingredient for economic liberty and empowerment.
-
-Grassroots Economics is dedicated to helping communities realize and share their abundance. 
-
-While core beneficiaries of our programs include small businesses and people living in informal settlements as well as rural areas, the documentation and tools have been broadly applied worldwide.
+# Introduction to CIC Stack 
 
 For the Grassroots Economics website visit [grassrootseconomics.org](https://www.grassrootseconomics.org).
 
-It is tremendously important to us that people take, use, build on and share what we've found to be useful. This documentation site is a collection of the various learnings and tools we've helped build and use over the years.
-
-These documents are broken down into:
-
-* Operational Documentation:
-  * Learn how to work with and empower communities to develop their own CICs
-  * Learn how people and organizations can form Clearning Unions together and share their abundance using legal instruments.
-* Software Documentation:
-  * Join a community of developers working to build the CIC Stack
-  * Become a technical service provider and help communities develop their own financial instruments.
-
 ## Mission
 
-Here we offer a collection of documents and tools to create community inclusion currencies, and to enable interactions between any community created currency and various technologies. This documentation enables people to choose and implement software that is flexible to meet their needs and comprehension. Communities can use these tools to develop assignable credit oblications on different ledger technologies and networks. In turn, they use these tools and networks to create their own applications and services that provide, connect, serve and protect the currencies they have created.
+The CIC Commons presents a collection of tools to create community inclusion currencies, and to enable interactions between any community created currency and various technologies. The CIC Commons enables people to choose and implement software that is flexible to meet their needs and comprehension. Communities can use these tools to develop assignable credit oblications on different ledger technologies and networks. In turn, they use these tools and networks to create their own applications and services that provide, connect, serve and protect the currencies they have created.
+
+## Vision
+
+The Community Inclusion Currency (CIC) Tech Commons sees a world where communities are in control of their own currency technology as an essential ingredient for economic liberty and empowerment.
+
+Grassroots Economics is dedicated to helping communities realize and share their abundance. 
 
 ## How
 
-* Identify and define concepts that are common across the bulk of existing cryptocurrency and community currency methods and technologies
-* Turn these concepts into low-cost, highly available, docuentation and blockchain agnostic tooling for CIC creation
+* Identify and define concepts that are common across the bulk of existing cryptocurrency and community currency technologies
+* Turn these concepts into low-cost, highly available, blockchain agnostic tooling for CIC creation
 * Contribute to node infrastructure that can be run on any devices, especially low-end ones
 * Counteract centralization of blockchain node infrastructure by making nodes as localized as possible
 * Treat technology implementers as contributors not just consumers
@@ -41,28 +26,28 @@ Here we offer a collection of documents and tools to create community inclusion 
 
 ## Community Statment
 
-This is an open group that identifies key roles that make up the community: software engineers, practitioners, community groups, field & support engineers, designers and artists, system administrators, web designers, writers, speakers, translators, volunteers and more. Organizations such as Grassroots Economics Foundation identify employees and community bounty programs to support these efforts based on avalible funding from grants. Community members are extreemly important - your input and support is needed to make these tools useful.
+The CIC Commons is an open group that identifies key roles that make up the community: software engineers, practitioners, community groups, field & support engineers, designers and artists, system administrators, web designers, writers, speakers, translators, volunteers and more.Organizations such as Grassroots Economics Foundation identify employees and community bounty programs to support the CIC Commons based on avalible funding from grants. Community members are extreemly important to the CIC commons as they are the commons - your input and support is needed to make these tools useful.
 
 ## Contribution Guidelines
 
-Hello and welcome to the Grassroots Economics repository.
+Hello and welcome to the CIC Stack repository. Targeted for use with the ethereum virtual machine and a ussd capable telecom provider. 
 
-__To request a change to the code please fork the relevant repository and submit a merge request.__
+__To request a change to the code please fork this repository and sumbit a merge request.__
 
 __If there is a Grassroots Economics Kanban Issue please include that in our MR it will help us track contributions. Karibu sana!__
 
 __Visit the Development Kanban board here: https://gitlab.com/grassrootseconomics/cic-internal-integration/-/boards/2419764__
 
-__Ask a question in our community chat:__
+__Ask a question in our dev chat:__
 
 [Mattermost](https://chat.grassrootseconomics.net/cic/channels/dev)
 
 [Discord](https://discord.gg/XWunwAsX)
 
+[Matrix, IRC soon?]
+
 
 ## Contributor Covenant Code of Conduct
-
-By contributing toward this project you agree to the following code of conduct
 
 ## Our Pledge
 
@@ -142,6 +127,4 @@ https://www.contributor-covenant.org/faq
 ...Try to keep in mind the immortal
 words of Bill and Ted, "Be excellent to each other."
 
-These documents are licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/
-And further any software Grassrotos Economics supports is under licenced under GNU GENERAL PUBLIC LICENSE Version 3 https://www.gnu.org/licenses/
 
