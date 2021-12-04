@@ -1,7 +1,14 @@
-site_name: CIC Stack 
+site_name: Grassroots Economics Documentation
 site_url: https://example.com
 nav:
   - Home: index.md
+  - CIC Ops: cic_ops.md
+  - CIC Training Guide: cic_training.md
+  - Sarafu Clearing Union (SCU): sarafu_clearing_union.md
+  - SCU Member (CSP): scu_member_csp.md
+  - SCU Member (Group): scu_member_group.md
+  - SCU Intermember agreement): scu_intermember.md
+  - CIC Stack: cic_stack.md
   - Roadmap: road_map.md
 theme: readthedocs
 site_dir: public
