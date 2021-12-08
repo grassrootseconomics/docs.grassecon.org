@@ -1,24 +1,26 @@
 site_name: Grassroots Economics Documentation
 site_url: https://example.com
 nav:
-  - Home: index.md
-  - Glossary: glossary.md
+  - General:
+      - Karibu: index.md
+      - Glossary: glossary.md
+      - Roadmap: roadmap.md
   - Community:
       - Charter: charter.md
       - Contribution Guidelines: contrib.md
       - Code of Conduct: conduct.md
   - Operations:
-      - Operations: ops.md
+      - Intro: ops.md
       - Training Guide:
           - Training Guide: training.md
       - Legal Structures:
           - Sarafu Clearing Union (SCU): sarafu_clearing_union.md
-          - SCU Member (CSP): scu_member_csp.md
-          - SCU Member (Group): scu_member_group.md
-          - SCU Intermember agreement): scu_intermember.md
+          - Member (CSP): scu_member_csp.md
+          - Member (Group): scu_member_group.md
+          - Intermember agreement: scu_intermember.md
   - Software:
       - CIC Stack: cic_stack.md
-  - Roadmap: road_map.md
+  
 theme: mkdocs
 #readthedocs
 site_dir: public
