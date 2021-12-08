@@ -9,4 +9,4 @@ The Operational Docs are broken down into the following:
     *  [SCU Member Agreement (Core Service Providers)](/scu_member_csp/)
     *  [SCU Member Agreement (groups)](/scu_member_group/)
     *  [SCU Intermember Agreement](/scu_membership/)
--  [Community Training Guide](/cic_training/): A basic training for identifying local resources and sharing them together using a CIC. 
+-  [Community Training Guide](/training/): A basic training for identifying local resources and sharing them together using a CIC. 

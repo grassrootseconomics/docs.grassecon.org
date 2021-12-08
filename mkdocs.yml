@@ -2,6 +2,7 @@ site_name: Grassroots Economics Documentation
 site_url: https://example.com
 nav:
   - Home: index.md
+  - Glossary: glossary.md
   - Community:
       - Charter: charter.md
       - Contribution Guidelines: contrib.md
@@ -18,5 +19,6 @@ nav:
   - Software:
       - CIC Stack: cic_stack.md
   - Roadmap: road_map.md
-theme: readthedocs
+theme: mkdocs
+#readthedocs
 site_dir: public
