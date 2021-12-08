@@ -86,7 +86,7 @@
   <tr>
    <td>Token
    </td>
-   <td>Impact Claim/NFT
+   <td>Impact Claim
    </td>
    <td>A real or virtual object (fungible or non fungible) that may be accepted by another Member in exchange for value at their complete discretion. There is no obligation to accept a Token nor is there any obligation to redeem a Token by the issuer. (Unilateral agreement)
    </td>
