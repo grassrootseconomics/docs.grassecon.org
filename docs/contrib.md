@@ -1,16 +1,12 @@
 # Contribution Guidelines
 
-Hello and welcome to the Grassroots Economics repository.
+**Karibu sana!** Hello and welcome to the Grassroots Economics [repository](https://gitlab.com/grassrootseconomics).
 
-__To request a change to the code please fork the relevant repository and submit a merge request.__
-
-__If there is a Grassroots Economics Kanban Issue please include that in our MR it will help us track contributions. Karibu sana!__
-
-__Visit the Development Kanban board here: https://gitlab.com/grassrootseconomics/cic-internal-integration/-/boards/2419764__
-
-__Ask a question in our community chat:__
-
-[Mattermost](https://chat.grassrootseconomics.net/cic/channels/dev)
-
-[Discord](https://discord.gg/XWunwAsX)
+* To request a change to the code please fork the relevant repository and submit a merge request.
+* If there is a Grassroots Economics Kanban Issue please include that in our MR it will help us track contributions. 
+    * Visit the Grassroots Economics Organization [Kanban board](https://gitlab.com/groups/grassrootseconomics/-/boards)
+    * Visit the CIC Stack Development [Kanban board](https://gitlab.com/grassrootseconomics/cic-internal-integration/-/boards/2419764)
+* Ask a question in our community chat:
+    * [Mattermost](https://chat.grassrootseconomics.net/cic/channels/dev)
+    * [Discord](https://discord.gg/ud32KMgH76)
 
