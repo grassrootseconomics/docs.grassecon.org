@@ -1,14 +1,5 @@
 # Community Inclusion Currencies (CICs) Group Training Guide - Kenya
 
-October - 15 -2021
-
-Contents
-
-
-[TOC]
-
-
-
 ## **How to Use This Guide** 
 
 This guide is designed to give communities a feel for how Community Inclusion Currencies (CICs) work. You will find out more information about what a CIC is and what kind of community support is needed. This guide gives enough background for you to know if you need to go back to one of those steps, but it does not cover them in full. It also does not cover next steps or the technical requirements for implementing a CIC.  
