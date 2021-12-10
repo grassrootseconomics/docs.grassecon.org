@@ -40,7 +40,100 @@ While work toward non-custodial and we interfaces are underway the CIC Stack is 
 	* **cic-cache**: Cache syncer and database fetching and storing details on transactions of interest.
 	* **cic-ussd**: State machine, microservices and gateway for end-users using the USSD (Unstructured Supplementary Service Data) interface via telcos.
 	* **cic-notify**: Pluggable notification engine, initially used only for SMS notifications to end-users.
+	
+```graphviz dot stack.svg
+digraph {
+	blockchain [ label="blockchain", shape="doublecircle" ];
 
+	subgraph cic_eth {
+		cic_eth_dispatcher [ label="cic-eth-dispatcher", shape="box" ];
+		cic_eth_tasker [ label="cic-eth-tasker", shape="box" ];
+		cic_eth_tracker [ label="cic-eth-tracker", shape="box" ];
+		cic_eth_retrier [ label="cic-eth-retrier", shape="box" ];
+		cic_eth_server [ label="cic-eth-server", shape="box" ];
+	}
+
+	subgraph cic_cache {
+		cic_cache_tasker [ label="cic-cache-tasker", shape="box" ];
+		cic_cache_tracker [ label="cic-cache-tracker", shape="box" ];
+		cic_cache_server [ label="cic-cache-server", shape="box" ];
+		cache_store [ label="cache store", shape="cylinder" ];
+	}
+	
+	subgraph cic_user {
+		cic_user_server [ label="cic-user-server", shape="box" ];
+		cic_user_tasker [ label="cic-user-tasker", shape="box" ];
+		cic_user_ussd_server [ label="cic-user-ussd-server", shape="box" ];
+		user_store [ label="ussd user store", shape="cylinder" ];
+	}
+
+	subgraph cic_notify {
+		cic_notify_tasker [ label="cic-notify-tasker", shape="box" ];
+	}
+
+	subgraph cic_data {
+		cic_data_server [ label="cic-data-server", shape="box" ];
+		cic_data_fetcher [ label="cic-data-fetcher", shape="box" ];
+		data_store [ label="analytics store", shape="cylinder" ];
+	}
+
+	queue [ label="queue store", shape="cylinder" ];
+
+	storage_mux [ label="Storage muxer", shape="box", style="dotted" ];
+
+	swarm [ label="Swarm", shape="cylinder" ];
+	ipfs [ label="IPFS", shape="cylinder" ];
+	httpd [ label="Web2 server", shape="cylinder" ];
+	torrent [ label="Torrent", shape="cylinder" ];
+
+	telco [ label="Telco", shape="diamond" ];
+
+	ussd_wallet_user [ label="ussd wallet user", shape="none", style="underline" ];
+	web_wallet_user [ label="web wallet user", shape="none", style="underline" ];
+	staff_user [ label="staff user", shape="none", style="underline" ];
+	sovereign_user [ label="sovereign wallet user", shape="none", style="underline" ];
+	analytics_user [ label="analytics user", shape="none", style="underline" ];
+
+	staff_user -> web_wallet_user;
+	staff_user -> cic_user_server;
+	staff_user -> cic_data_server;
+
+	web_wallet_user -> cic_cache_server -> cache_store;
+	web_wallet_user -> storage_mux;
+	web_wallet_user -> cic_eth_server -> cic_eth_tasker;
+	web_wallet_user -> cic_data_server;
+
+	sovereign_user -> storage_mux;
+	sovereign_user -> blockchain;
+
+	staff_user -> storage_mux;
+
+	analytics_user -> cic_data_server;
+
+	cic_user_ussd_server -> storage_mux;
+	cic_user_ussd_server -> cic_user_tasker -> cic_eth_tasker;
+	cache_store -> cic_cache_tasker -> cic_user_tasker;
+
+	cic_eth_tasker -> queue -> cic_eth_dispatcher -> blockchain;
+	blockchain -> cic_eth_tracker -> queue;
+	cic_eth_tracker -> cic_user_tasker -> cic_notify_tasker -> telco;
+
+	ussd_wallet_user -> telco -> cic_user_ussd_server -> user_store;
+	user_store -> cic_user_server;
+
+	blockchain -> cic_cache_tracker -> cache_store -> storage_mux;
+
+	queue -> cic_eth_retrier -> blockchain;
+
+	cic_cache_server -> cic_data_fetcher -> data_store -> storage_mux;
+	data_store -> cic_data_server;
+
+	storage_mux -> swarm;
+	storage_mux -> ipfs;
+	storage_mux -> httpd;
+	storage_mux -> torrent;
+}
+```
 
 ### Deployment components
 
