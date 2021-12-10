@@ -2,7 +2,7 @@ image: python:3.8-alpine
 
 pages:
   script:
-    - apt-get update && apt -y install graphviz
+    - apk add graphviz
     - pip install -r requirements.txt
     - mkdocs build
   artifacts:

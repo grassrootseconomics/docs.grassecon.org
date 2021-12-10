@@ -1,2 +1,2 @@
 mkdocs==1.2.3
-mkdocs-graphviz==4.0.1
+mkdocs-graphviz==1
