@@ -24,3 +24,5 @@ nav:
 theme: mkdocs
 #readthedocs
 site_dir: public
+markdown_extensions:
+    - mkdocs_graphviz
