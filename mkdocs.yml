@@ -21,9 +21,38 @@ nav:
   - Software:
       - CIC Stack: cic_stack.md
       - Design Principles: principles.md
-  
-theme: mkdocs
+
+repo_url: https://gitlab.com/grassrootseconomics/grassrootseconomics.gitlab.io
+repo_name: grassrootseconomics/docs
+edit_uri: -/tree/main/docs
+theme:
+  name: material
+  logo: assets/logo.svg
+  favicon: assets/favicon.svg
+  icon:
+    repo: fontawesome/brands/git-alt
+  palette:
+    primary: green
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - header.autohide
 #readthedocs
 site_dir: public
 markdown_extensions:
-    - mkdocs_graphviz
+  - mkdocs_graphviz
+  - toc:
+      permalink: true
+
+extra:
+  generator: false
+
+plugins:
+  - git-revision-date
+  - search
