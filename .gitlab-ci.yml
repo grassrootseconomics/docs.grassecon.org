@@ -2,6 +2,7 @@ image: python:3.8-alpine
 
 pages:
   script:
+    - apk add git # Need to display the date a document was last updated
     - apk add graphviz
     - pip install -r requirements.txt
     - mkdocs build
