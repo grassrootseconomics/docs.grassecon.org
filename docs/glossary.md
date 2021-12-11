@@ -84,6 +84,14 @@
    </td>
   </tr>
   <tr>
+   <td>Community Inclusion Currency (CIC)
+   </td>
+   <td>Sarafu
+   </td>
+   <td>A Voucher that acts a common medium of exchange within a community
+   </td>
+  </tr>
+  <tr>
    <td>Token
    </td>
    <td>Impact Claim
