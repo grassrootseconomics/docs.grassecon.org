@@ -55,6 +55,13 @@ All further mention of Sarafu in this Application will refer to the GE’s uniqu
         6. Auditing
 3. **Sarafu Denomination:** Sarafu are denominated in Kenyan Shillings and GE commits to accept SRF at current market value in Kenyan Shillings for their goods and services. Note that destruction of outstanding Sarafu will be controlled via Levies. 
 4. **Levies:** All Kitabu balances holding SRF vouchers will be subject to an automatic and continuous community levy accruing to 2% a month, the proceeds of which will automatically go to the Kibuyu Account _(See Kitabu Account Holder under Official  Signatories) _for the purpose of promoting liquidity and supporting the Kibuyu’s greater community. 
+
+## Token Implementation 
+
+1. We wish to collect our Voucher user data into anonymous Impact Claims that can be eligible for support.
+
+##Addendum:
+
 5. **Membership:** Anyone holding SRF Vouchers is by definition a member agreeing to the Sarafu Clearing Union Agreement.
 6. **Good Faith:** GE enters into this Agreement in good faith and holds harmless Members of the Sarafu Clearing Union.
 7. **Entirety:** this application represents consent to the entirety of a mutual agreement between Sarafu Unlimited Members to the expressed common purpose and no other.
