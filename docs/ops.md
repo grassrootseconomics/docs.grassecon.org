@@ -12,7 +12,7 @@ By developing an inclusive legal frame work you create an open community that an
     *  [Sarafu Clearing Union agreement](/sarafu_clearing_union/)
     *  [Member Agreement (Core Service Providers)](/scu_member_csp/)
     *  [General Member Agreement (Groups)](/scu_member_group/)
-    *  [Intermember (Service) Agreement](/scu_membership/)
+    *  [Intermember (Service) Agreement](/scu_intermember/)
 
 Note that performing legal due diligence is extreemly important in any country you are in. 
 
@@ -74,5 +74,5 @@ Collective Commitments: Coming up with agreements on what each member of the com
 
 1. **Stakeholder Gatherings and Trainings**: These are similar to the steps mentioned in Voucher creation, but will often involve a wider range of stakeholders including local government. 
 1. **Capacity Building**: When identifying resources that people have to share – gaps in those resources compared to need often arise. Filling these gaps through training and asset development can help the community have a solid framework for voucher redemption. 
-1. **Evidence based support**: Based on results from Impact Data resulting from Voucher circulation a Humanitarian organization can choose to purchase vouchers from the Community Group and redistribute those to people in need.
+1. **Evidence based support**: Based on results from Impact Data derived from Voucher circulation a Humanitarian organization can choose to purchase vouchers from the Community Group and redistribute those to people in need. 
 
