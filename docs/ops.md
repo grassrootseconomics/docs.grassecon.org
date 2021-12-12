@@ -4,14 +4,45 @@ The following documentation is meant to give you an idea and examples of impleme
 
 ## Legal Framework
 
-Performing some legal due diligence is important in any country you are in. By developing an inclusive legal frame work you also protect your community against abuse.
+This legal design for a Fiscal Commons utilizes the 'Nondominium' framework developed by Chris Cook, where mutually defined Instruments are utilized by (General Members) who jointly oversee active stewards (Service Providers) subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
 
-- Legal Structures and Agreements: Establishes an overarching clearing union type structure for agreemetns between CIC issuers and other service providers
+By developing an inclusive legal frame work you create an open community that anyone can jion and as long as the agreements are followed they can develop member to member service agreements. 
+
+- The agreements Legal Structures can be broken into various agreements:
     *  [Sarafu Clearing Union agreement](/sarafu_clearing_union/)
     *  [Member Agreement (Core Service Providers)](/scu_member_csp/)
-    *  [Member Agreement (Groups)](/scu_member_group/)
-    *  [Intermember Agreement](/scu_membership/)
+    *  [General Member Agreement (Groups)](/scu_member_group/)
+    *  [Intermember (Service) Agreement](/scu_membership/)
 
+Note that performing legal due diligence is extreemly important in any country you are in. 
+
+
+```graphviz dot clearing_union2.svg
+digraph D {
+ compound=true;
+ 
+  subgraph cluster_p {
+      
+    label = "Clearing Union";
+     style="rounded"
+
+
+	e [label= "Guardians"]
+        nd_1   [label = "General\nMember"];
+        nd_2   [label = "General\nMember"];
+        nd_3   [label = "General\nMember"];
+        nd_4   [label = "General\nMember"];
+	serve_1   [label = "Service Agreements"];
+	csp   [label = "Core Service Providers"];
+        nd_1 -> serve_1 -> csp
+        nd_2 -> serve_1 -> csp
+        nd_3 -> serve_1 -> csp
+        nd_4 -> serve_1 -> csp
+	serve_1 -> e;
+
+  }
+}
+```
 
 ## Technology Setup
 
