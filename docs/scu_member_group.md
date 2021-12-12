@@ -10,7 +10,7 @@
 
 ## Preamble
 
-We ____________________________________________ _(herein called the Kibuyu) _hereby agree to the Sarafu - Community Inclusion Collective agreement as a Member (Kibuyu) and to support other Members. We further seek to create a Sarafu (Voucher) with the following properties and constraints as per this agreement:
+We ____________________________________________ _(herein called the Kibuyu) _hereby agree to the Sarafu - Community Inclusion Collective agreement as a Member (Kibuyu) and to support other Members. We further seek to create a Instruments with the following properties and constraints as per this agreement:
 
 
 ## Voucher Implementation 
@@ -26,14 +26,20 @@ We ____________________________________________ _(herein called the Kibuyu) _her
 All further mention of Sarafu in this Application will refer to the Kibuyu’s unique Sarafu to be created and named above as per this agreement.
 
 
-
 1. **Sarafu Issuance:** The Kibuyu’s issuance of Sarafu will be registered in a shared ledger (“Kitabu”) as per the Sarafu Clearing Union and the Kibuyu will be bound to accept their Sarafu when presented in payment for their goods and services.
     1. **Issuance Limits:** The Kibuyu’s capacity to issue Sarafu will be no greater than their ability to redeem it within a one year period. 
     2. ___________________ (amount) (Sarafu will be issued given a Core Service Agreement).
 2. **Sarafu Acceptance: **Kibuyu undertakes to accept Sarafu up to the agreed level of commitment _(See Kibuyu Membership Table(s)). _
 3. **Sarafu Denomination:** Sarafu are denominated in Kenyan Shillings and the Kibuyu commits to accept Sarafu at current market value in national currency for their goods and services.
 4. **Levies:** Kitabu balances of Sarafu will be subject to an automatic and continuous community levy accruing to 2% a month, the proceeds of which will automatically go to the Kibuyu Account _(See Kitabu Account Holder under Official  Signatories) _for the purpose of promoting liquidity and supporting the Kibuyu’s greater community. 
-5. **Membership:** Anyone holding the Kibuyu’s Sarafu voucher is by definition a member agreeing to the Sarafu Clearing Union.
+
+## Token Implementation 
+
+1. We wish to collect our Voucher user data into anonymous Impact Claims that can be eligible for support.
+
+## Addendum:
+
+5. **Membership:** Anyone holding the Kibuyu’s Sarafu Voucher is by definition a member agreeing to this agreement and the Sarafu Clearing Union agreement.
 6. **Good Faith:** GE enters into this Agreement in good faith and holds harmless Members of the Sarafu Clearing Union.
 7. **Entirety:** this application represents consent to the entirety of a mutual agreement between Sarafu Unlimited Members to the expressed common purpose and no other.
 8. **In WITNESS WHEREOF**, the duly authorized representatives of the Applicant sign this agreement on the dates indicated below, and agree to abide by the terms of this agreement.
