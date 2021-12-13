@@ -4,15 +4,15 @@ The following documentation is meant to give you an idea and examples of impleme
 
 ## Legal Framework
 
-This legal design for a Fiscal Commons utilizes the 'Nondominium' framework developed by Chris Cook, where mutually defined Instruments are utilized by (General Members) who jointly oversee active stewards (Service Providers) subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
+This legal design for a Fiscal Commons utilizes the [Nondominium](https://wiki.p2pfoundation.net/Nondominium) framework developed by Chris Cook, where mutually defined Instruments are utilized by (General Members) who jointly oversee active stewards (Service Providers) subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
 
-By developing an inclusive legal frame work you create an open community that anyone can jion and as long as the agreements are followed they can develop member to member service agreements. 
+By developing an inclusive legal Nondominium framework an open community is created that anyone can opt into and as long as the protocols are followed they can develop member to member agreements which decentralize the commons and maintaining integrity.
 
-- The agreements Legal Structures can be broken into various agreements:
+- The agreements Fiscal Commons can be broken into various agreements:
     *  [Sarafu Clearing Union agreement](/sarafu_clearing_union/)
-    *  [Member Agreement (Core Service Providers)](/scu_member_csp/)
-    *  [General Member Agreement (Groups)](/scu_member_group/)
-    *  [Intermember (Service) Agreement](/scu_intermember/)
+    *  [Core Service Provider Agreement](/scu_member_csp/)
+    *  [General Member Agreement](/scu_member_group/)
+    *  [Intermember Service Agreement](/scu_intermember/)
 
 Note that performing legal due diligence is extreemly important in any country you are in. 
 
