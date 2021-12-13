@@ -105,8 +105,6 @@ The Platform includes the following categories of Core Services:
 
 There are three Member Classes with the following rights and obligations: 
 
-
-
 1. **Kibuyu _(plural Vibuyu)_: **A **Kibuyu** is a Sarafu Chama Member or an association of Sarafu Chama Members with a common purpose.
     1. Right to issue, accept, assign, and redeem Vouchers
     2. Right to register Swaps and enter into production, surplus, asset and data use sharing Swap Agreements
@@ -133,27 +131,24 @@ There are three Member Classes with the following rights and obligations:
                 9. Obligation to arbitrate disputes in relation to issuance, assignment and return of Vouchers.
                 10. Right to assign a validator to assess Sarafu redemption commitments and Applications and shall be given access to audit commitments and shall verify the Member’s capacity to sustainably redeem their issued Sarafu for one year's worth of specified goods or services. 
                 11. Right to assign arbitrators for the mediation of disputes.
-    10. **Guardians**
-        2. Rights of final veto on behalf of Members generally in respect of amendments to this agreement incompatible with the Aim and Principles.
-        3. Obligation to arbitrate disputes in relation to Aim and Principles.
-
+3. **Guardians**
+    1. Rights of final veto on behalf of Members generally in respect of amendments to this agreement incompatible with the Aim and Principles.
+    2. Obligation to arbitrate disputes in relation to Aim and Principles.
 
 ### (b) Class Agreements and Admissions 
 
-
-
 1. Members may participate in more than one Member Class. E.g. A Core Service Provider can also be a Kibuyu and develop a voucher redeemable for their services.
-2. While anyone may agree to this Sarafu Chama Agreement Agreement, Membership is defined by agreements between Members. 
+2. While anyone may agree to this Sarafu Clearing Union Agreement, Membership is defined by agreements between Members. 
 3. All Members will be identified as per their accounts on the Sarafu Network Platform.
 4. Mutual agreements within Classes define membership, standards, rights and obligations.
-    1. Members, such as a Kibuyu and a Core Service Provider, creating an Agreement and/or mutual using Instruments is by definition a Member of the Sarafu Chama.
+    1. Members, such as a Kibuyu and a Core Service Provider, creating an Agreement and/or mutual using Instruments is by definition a Member of the Sarafu Clearing Union.
     2. Anyone registering on Sarafu Network Platform or who accepts Vouchers is considered a Member.
 5. All Members must demonstrate technical and management capabilities and capacity to meet appropriate standards.
 6. **Termination of Membership:** Member’s may terminate Membership at any time upon 60 days advance written notice of termination and shall comply with the obligations in effect at the time of termination.
     3. Should the Applicant wish to terminate this agreement and end their membership they must return all Sarafu issued to them, to the Service Provider or pay an equivalent settlement in kind for outstanding Sarafu obligations.
     4. A Non-Performing Member wishing to terminate membership must demonstrate their complete inability to perform obligations to a Validator assigned by the Service Provider.
 7. **Non-Performance:** should a Member be unable or unwilling to uphold their obligations or honour stated commitments they will be designated as non-performing subject to the following:
-        1. a non-performing Sarafu Chama Member agrees to mediation with an assigned Mediator and to a levy payable to the Mediator up to the amount of unredeemed Sarafu .
+        1. a non-performing Member agrees to mediation with an assigned Mediator and to a levy payable to the Mediator up to the amount of unredeemed Sarafu .
         2. any material shortfall in commitments or obligations by Kibuyu Members individually or collectively shall be made good following review and recommendations by the Service Provider and subject to the agreement of Members generally. 
 
      
@@ -188,13 +183,13 @@ There are three Member Classes with the following rights and obligations:
 
 
 
-1. Amendments to the Sarafu Chama Agreement require a majority in number of Members.
+1. Amendments to this Agreement require a majority in number of Members.
 2. Amendments in conflict with the Aim and Principles are subject to veto by a majority in number of Guardians.
 
 
 ## 10/ Entirety 
 
-This agreement represents consent to the entirety of a mutual agreement between Sarafu Chama Agreement to the expressed common purpose and no other.
+This agreement represents consent to the entirety of a mutual agreement between Members to the expressed common purpose and no other.
 
 
 ## 11/ Notices 
@@ -203,95 +198,32 @@ Any notice given by the Members shall be valid only if made in writing and deliv
 
 Grassroots Economics Foundation +254757628885 PO Box, 1659-80108  Kilifi Kenya [info@grassecon.org](mailto:info@grassecon.org) 
 
-**In WITNESS WHEREOF**, the duly authorized Guardians of the Sarafu Chama Agreement sign this agreement on the dates indicated below, and agree to abide by the terms of this agreement. 
+**In WITNESS WHEREOF**, the duly authorized Guardians of the Sarafu Clearing Union sign this agreement on the dates indicated below, and agree to abide by the terms of this agreement. 
 
 
 ## Official Signatories 
 
-
 <table>
   <tr>
-   <td><strong>Position </strong>
-   </td>
    <td><strong>Full Name</strong>
-   </td>
-   <td><strong>Phone </strong>
-   </td>
-   <td><strong>National ID</strong>
    </td>
    <td><strong>Date</strong>
    </td>
-   <td><strong>Signature</strong>
-   </td>
   </tr>
   <tr>
-   <td>Guardian
+   <td>
+   William O. Ruddick
    </td>
    <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Guardian
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Guardian
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
+   December 12 2021
    </td>
   </tr>
   <tr>
    <td>
+   Shaila Agha
    </td>
    <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
+   December 12 2021
    </td>
   </tr>
 </table>

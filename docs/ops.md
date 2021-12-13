@@ -9,7 +9,7 @@ This legal design for a Fiscal Commons utilizes the [Nondominium](https://wiki.p
 By developing an inclusive legal Nondominium framework an open community is created that anyone can opt into and as long as the protocols are followed they can develop member to member agreements which decentralize the commons and maintaining integrity.
 
 - The agreements Fiscal Commons can be broken into various agreements:
-    *  [Sarafu Clearing Union agreement](/sarafu_clearing_union/)
+    *  [Clearing Union Agreement](/sarafu_clearing_union/)
     *  [Core Service Provider Agreement](/scu_member_csp/)
     *  [General Member Agreement](/scu_member_group/)
     *  [Intermember Service Agreement](/scu_intermember/)
