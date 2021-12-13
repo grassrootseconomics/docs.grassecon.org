@@ -3,6 +3,7 @@ site_url: https://example.com
 nav:
   - General:
       - Karibu: index.md
+      - FAQ: faq.md
       - Glossary: glossary.md
       - Roadmap: roadmap.md
   - Community:
@@ -14,10 +15,10 @@ nav:
       - Training Guide:
           - Training Guide: training.md
       - Legal Structures:
-          - Sarafu Clearing Union (SCU): sarafu_clearing_union.md
-          - Member (CSP): scu_member_csp.md
-          - Member (Group): scu_member_group.md
-          - Intermember agreement: scu_intermember.md
+          - Clearing Union: sarafu_clearing_union.md
+          - Service Provider: scu_member_csp.md
+          - General Member: scu_member_group.md
+          - Service Agreement: scu_intermember.md
   - Software:
       - CIC Stack: cic_stack.md
       - Design Principles: principles.md
