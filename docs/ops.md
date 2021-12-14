@@ -9,10 +9,10 @@ This legal design for a Fiscal Commons utilizes the [Nondominium](https://wiki.p
 By developing an inclusive legal Nondominium framework an open community is created that anyone can opt into and as long as the protocols are followed they can develop member to member agreements which decentralize the commons and maintaining integrity.
 
 - The agreements Fiscal Commons can be broken into various agreements:
-    *  [Clearing Union Agreement](/sarafu_clearing_union/)
-    *  [Core Service Provider Agreement](/scu_member_csp/)
-    *  [General Member Agreement](/scu_member_group/)
-    *  [Intermember Service Agreement](/scu_intermember/)
+    *  [Clearing Union (CU)](/sarafu_clearing_union/): A general overarching agreement that defines the commons
+    *  [Core Service Provider (CSP) Agreement](/scu_member_csp/): CSPs are providing training, mediation, and runnig various micro-services, like blockchain nodes, wallets and marketplaces.
+    *  [General Member](/scu_member_group/): Community Groups, organizations and individuals using Vouchers or other CU defined Instruments are considered General Members
+    *  [Intermember Service](/scu_intermember/): Establishes agreements between General Members and Service Providers
 
 Note that performing legal due diligence is extreemly important in any country you are in. 
 
@@ -83,16 +83,14 @@ Collective Commitments: Coming up with agreements on what each member of the com
 
 ```graphviz dot hum_dev.svg
 digraph D {
-rank="sink";
-compound=true;
-
+  rankdir=TB;
   subgraph cluster_v_1 {
       
     label = "CIC";
      style="rounded"
 
 
-	chama [label= "Community Issuing Groups"]
+	chama [label= "Community Groups"]
         nd_1a   [label = "General\nMember"];
         nd_2a   [label = "General\nMember"];
         nd_3a   [label = "General\nMember"];
@@ -138,29 +136,33 @@ compound=true;
 
   }
 
+  chama -> treasuries
+  treasuries->chama [style = dotted];
+  treasuries->training [style = dotted];
   donors -> treasuries [style = dotted];
   impacti -> treasuries [style = dotted, constraint=false];
   impacti -> nftm [style = dashed, constraint=false];
-  impacti -> cucm 
-  treasuries -> donors [style = dashed];
+  impacti -> cucm
+    treasuries -> donors [style = dashed];
   treasuries -> impacti [style = dashed];
   treasuries -> impacti
 
   chama -> datam [ style = dashed    ];
-  chama -> treasuries
+
   endo -> datam [ style = dashed    ];
   datam -> indexer [ style = dashed    ];
   indexer -> treasuries [ style = dashed    ];
-  training -> chama [ style = dotted   ];
+  
+  chama -> training;
+  training -> treasuries
   treasuries  -> nd_1a
-  treasuries  -> nd_2a
   treasuries  -> nd_3a
   
 
-subgraph clusterLegend_5 { 
+subgraph cluster_Legend_5 { 
     rank = sink;
+    peripheries=0;
     label = "Legend";
-    fontsize = 20
     node [ color="white" ]
     {rank=same; key, key2}
     key [ label=<<table border="0" cellpadding="1" cellspacing="0" cellborder="0">
@@ -177,6 +179,9 @@ subgraph clusterLegend_5 {
     key:i2 -> key2:i2 [ style=dashed ]
     key:i3 -> key2:i3 [ style=dotted ]
    }
+   
+   edge[ style = invis ];
+   {nd_3a nftm} -> key:i1;
 
 }
 ```
