@@ -83,9 +83,10 @@ Collective Commitments: Coming up with agreements on what each member of the com
 
 ```graphviz dot hum_dev.svg
 digraph D {
- compound=true;
+rank="sink";
+compound=true;
 
-  subgraph cluster_v {
+  subgraph cluster_v_1 {
       
     label = "CIC";
      style="rounded"
@@ -101,8 +102,7 @@ digraph D {
 
   }
 
-
-  subgraph cluster_data {
+  subgraph cluster_data_2 {
       
     label = "Impact Evidence";
      style="rounded"
@@ -114,7 +114,17 @@ digraph D {
 
   }
 
-  subgraph cluster_index {
+  subgraph cluster_market_5 {
+     rank=tb;
+     label = "Impact Markets";
+     style="rounded"
+	cucm [label= "CIC Markets", shape = box]
+	nftm [label= "Impact Data (NFT) Markets", shape = box]
+
+  }
+
+
+  subgraph cluster_index_3 {
       
     label = "Humaniatrian Supporters";
      style="rounded"
@@ -124,13 +134,19 @@ digraph D {
 	indexer [label= "SDG Indexing", shape = cylinder]
 	treasuries [label= "Aid Treasuries", shape = cylinder]
 	donors [label= "Donors"]
+	impacti[label= "Impact Investors"]
 
   }
 
   donors -> treasuries [style = dotted];
+  impacti -> treasuries [style = dotted, constraint=false];
+  impacti -> nftm [style = dashed, constraint=false];
+  impacti -> cucm 
   treasuries -> donors [style = dashed];
+  treasuries -> impacti [style = dashed];
+  treasuries -> impacti
+
   chama -> datam [ style = dashed    ];
-  treasuries -> chama [ style = dotted    ];
   chama -> treasuries
   endo -> datam [ style = dashed    ];
   datam -> indexer [ style = dashed    ];
@@ -141,21 +157,21 @@ digraph D {
   treasuries  -> nd_3a
   
 
-subgraph clusterLegend { 
+subgraph clusterLegend_5 { 
     rank = sink;
     label = "Legend";
     fontsize = 20
     node [ color="white" ]
     {rank=same; key, key2}
-    key [ label=<<table border="0" cellpadding="2" cellspacing="0" cellborder="0">
+    key [ label=<<table border="0" cellpadding="1" cellspacing="0" cellborder="0">
       <tr><td align="right" port="i1"> </td></tr>
       <tr><td align="right" port="i2"> </td></tr>
       <tr><td align="right" port="i3"> </td></tr>
       </table>> ]
-    key2 [ label=<<table border="0" cellpadding="2" cellspacing="0" cellborder="0">
+    key2 [ label=<<table border="0" cellpadding="1" cellspacing="0" cellborder="0">
       <tr><td align="left" port="i1"> </td><td>CICs</td></tr>
       <tr><td align="left" port="i2"> </td><td>Impact Evidence/ Data / NFTs</td></tr>
-      <tr><td align="left" port="i3"> </td><td>National currency / fiat / other vouchers/ tokens</td></tr>
+      <tr><td align="left" port="i3"> </td><td>Fiat / other vouchers</td></tr>
       </table>>]
     key:i1 -> key2:i1 
     key:i2 -> key2:i2 [ style=dashed ]
