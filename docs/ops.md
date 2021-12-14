@@ -54,7 +54,7 @@ Generally the technical setup is done by a local Core Service Provider like Gras
 1. **Data Sharing**: Given the consent of the community, anonymous transaction data can be recorded and displayed 
 
 
-## Voucher Creation
+## Voucher (CIC) Creation
 
 Our [Community Training Guide](/training/) gives a basic training for identifying local resources and sharing them together using a CIC. 
 
@@ -62,9 +62,10 @@ Our [Community Training Guide](/training/) gives a basic training for identifyin
 1. **Learning through games**: Demonstrate 
 Collective Commitments: Coming up with agreements on what each member of the community can offer to the whole in exchange for vouchers. 
 1. **Audits, Endorsements and Conflict Mitigation**: Commitments should be internally audited by the community and as well with a designated auditor to ensure that the vouchers can be redeemed in a  reasonable amount of time. A mediator should be assigned to deal with conflicts, like when a member spends but refuses to redeem vouchers they created.
-1. **Clearing Union Membership Agreement**: The above work is collected into a membership agreement to a Clearing Union. 
-1. **Service Agreement**: Should the community need a service provider, then an agreement is developed between the community and a Core Service Provider.
-1. **Minting / Voucher Creation**: This is generally handled by  a Core Service Provider like Grassroots Economics, who will validate the groups commitments, audits and endorsements and deploy a contract on a ledger that is visible to anyone. This contract (smart contract) will hold all the relevant information about the Voucher and create the supply. 
+1. **Agreements Signed**
+    1. **Clearing Union Membership Agreement**: The above work is collected into a membership agreement to a Clearing Union. 
+    1. **Service Agreement**: Should the community need a service provider, then an agreement is developed between the community and a Core Service Provider.
+1. **Minting / Voucher Creation**: This is generally handled by a Core Service Provider like Grassroots Economics, who will validate the groups commitments, audits and endorsements and deploy a contract on a ledger that is visible to anyone. This contract (smart contract) will hold all the relevant information about the Voucher and create the supply. 
 1. **Initial Voucher Distribution**: After minting, Vouchers will then be distributed to the Community that has committed to redeeming them with full transparency. This will be done as per the instructions of the community and can be facilitated by a community treasurer. It is recommended to have a voted on community fund /treasury which will also collect any levies (demurrage). 
 1. **Greater Community Outreach**: While the community of issuers may begin to assign and clear vouchers among each other, they will generally want to spread their usage to their greater community. They can choose to give new users a small amount out of a community fund as is done with Sarafu, or to simply try to sell the Vouchers or use them to buy goods or services.
 1. **Long Term Maintenance**: Imbalance / inequality is a common character of any credit system. Some people may end up with a lot and some people may end up with zero. Having regular meetings, or market days and actively clearing imbalances together is highly recommended. A levy on accounts is a good way to ensure that people have no incentive to hold Vouchers as a form of savings or investment and that they continue to circulate as a medium of exchange.
@@ -73,6 +74,93 @@ Collective Commitments: Coming up with agreements on what each member of the com
 ## Humanitarian Support
 
 1. **Stakeholder Gatherings and Trainings**: These are similar to the steps mentioned in Voucher creation, but will often involve a wider range of stakeholders including local government. 
-1. **Capacity Building**: When identifying resources that people have to share – gaps in those resources compared to need often arise. Filling these gaps through training and asset development can help the community have a solid framework for voucher redemption. 
-1. **Evidence based support**: Based on results from Impact Data derived from Voucher circulation a Humanitarian organization can choose to purchase vouchers from the Community Group and redistribute those to people in need. 
+1. **Capacity Building**: When identifying resources that people have to share – gaps in those resources compared to need often arise. Filling these gaps through training and asset development can help the community have a solid framework for voucher redemption.
+1. **Evidence based support**
+    1. **SDG Indexing**: Data from CIC circulation and endorsments from validators is indexed based on Sustainable Development Goals and a rank and reward can be calculated for support
+    1. **Donor Support**: Donors can be rewarded with SDG impact data in the form of a certificate (NFTs) they can also followup on future impacts.
+    1. **Aid Treasuries**: Based on results from SDG Indexing a Humanitarian organization can choose to purchase vouchers with donor funds (held in *Aid Treasuries*). 
+    1. **Redistribution**: Based on results from SDG Indexing CICs held in *Aid Treasuries* can be redistribute directly to those people in need. 
 
+```graphviz dot hum_dev.svg
+digraph D {
+ compound=true;
+
+  subgraph cluster_v {
+      
+    label = "CIC";
+     style="rounded"
+
+
+	chama [label= "Community Issuing Groups"]
+        nd_1a   [label = "General\nMember"];
+        nd_2a   [label = "General\nMember"];
+        nd_3a   [label = "General\nMember"];
+        nd_4a   [label = "General\nMember"];
+        chama -> nd_1a -> nd_2a -> nd_3a -> nd_4a -> chama
+	nd_3a -> nd_1a
+
+  }
+
+
+  subgraph cluster_data {
+      
+    label = "Impact Evidence";
+     style="rounded"
+
+
+	endo [label= "Endorsments"]
+	datam [label= "Anonymous CIC trade \n& meta data" , shape = cylinder]
+	
+
+  }
+
+  subgraph cluster_index {
+      
+    label = "Humaniatrian Supporters";
+     style="rounded"
+
+
+	training [label= "Training \n& Capacity Building"]
+	indexer [label= "SDG Indexing", shape = cylinder]
+	treasuries [label= "Aid Treasuries", shape = cylinder]
+	donors [label= "Donors"]
+
+  }
+
+  donors -> treasuries [style = dotted];
+  treasuries -> donors [style = dashed];
+  chama -> datam [ style = dashed    ];
+  treasuries -> chama [ style = dotted    ];
+  chama -> treasuries
+  endo -> datam [ style = dashed    ];
+  datam -> indexer [ style = dashed    ];
+  indexer -> treasuries [ style = dashed    ];
+  training -> chama [ style = dotted   ];
+  treasuries  -> nd_1a
+  treasuries  -> nd_2a
+  treasuries  -> nd_3a
+  
+
+subgraph clusterLegend { 
+    rank = sink;
+    label = "Legend";
+    fontsize = 20
+    node [ color="white" ]
+    {rank=same; key, key2}
+    key [ label=<<table border="0" cellpadding="2" cellspacing="0" cellborder="0">
+      <tr><td align="right" port="i1"> </td></tr>
+      <tr><td align="right" port="i2"> </td></tr>
+      <tr><td align="right" port="i3"> </td></tr>
+      </table>> ]
+    key2 [ label=<<table border="0" cellpadding="2" cellspacing="0" cellborder="0">
+      <tr><td align="left" port="i1"> </td><td>CICs</td></tr>
+      <tr><td align="left" port="i2"> </td><td>Impact Evidence/ Data / NFTs</td></tr>
+      <tr><td align="left" port="i3"> </td><td>National currency / fiat / other vouchers/ tokens</td></tr>
+      </table>>]
+    key:i1 -> key2:i1 
+    key:i2 -> key2:i2 [ style=dashed ]
+    key:i3 -> key2:i3 [ style=dotted ]
+   }
+
+}
+```
