@@ -35,7 +35,12 @@ All further mention of Sarafu in this Application will refer to the Kibuyu’s u
 
 ## Token Implementation 
 
-1. We wish to collect our Voucher user data into anonymous Impact Claims that can be eligible for support.
+1. Voucher user and transaction data is anonymsed and may be made avalaible to Members by mutual agreement.
+
+## Swap Implementation
+
+1. Value supplied by Members in money or in-kind exchanged for Tokens, will be used to maintain the Sarafu Network infrastructure and to support Members as specified by mutual agreement.
+
 
 ## Addendum:
 

@@ -11,7 +11,7 @@
 
 ## 1/ Aim 
 
-**Sarafu Clearing Union **is an open association of people and organizations with the aim of inclusive community  access to purchasing power.
+**Sarafu Clearing Union** is an open association of people and organizations with the aim of inclusive community access to purchasing power.
 
 
 ## 2/ Principles 
@@ -41,9 +41,6 @@ All Members are bound by local law generally and tax laws specifically. Any usag
 
 
 ### Instruments 
-
-Community Inclusion Currencies include any of the following defined Instruments:
-
 
 
 1. **Voucher (Bilateral agreement)** – a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the issuer. 
@@ -194,14 +191,14 @@ This agreement represents consent to the entirety of a mutual agreement between 
 
 ## 11/ Notices 
 
-Any notice given by the Members shall be valid only if made in writing and delivered as listed below:
+Any notice given by the Members shall be valid only if made in writing and delivered as listed below representing the Guardians:
 
 Grassroots Economics Foundation +254757628885 PO Box, 1659-80108  Kilifi Kenya [info@grassecon.org](mailto:info@grassecon.org) 
 
 **In WITNESS WHEREOF**, the duly authorized Guardians of the Sarafu Clearing Union sign this agreement on the dates indicated below, and agree to abide by the terms of this agreement. 
 
 
-## Official Signatories 
+## Official Guardian Signatories 
 
 <table>
   <tr>
