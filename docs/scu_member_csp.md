@@ -4,9 +4,6 @@
 ##  (Core Service Provider)
 
 
-### (English) Draft: November 23 2021
-
-
 ## Preamble
 
 We **Grassroots Economics Foundation** _(herein called the GE) _hereby agree to the Sarafu Clearing Union agreement as both a Kibuyu and Core Service Providing Member and to support the Sarafu Network Platform in service to other Members. 
@@ -50,7 +47,7 @@ All further mention of Sarafu in this Application will refer to the GE’s uniqu
         1. Community Inclusion Currency - Sarafu Training and Support
         2. Syntropic Agroforestry Training
         3. Sarafu ledger deployment and maintenance
-        4. Software integrations and customizations
+        4. Software integration and customization
         5. Arbitration
         6. Auditing
 3. **Sarafu Denomination:** Sarafu are denominated in Kenyan Shillings and GE commits to accept SRF at current market value in Kenyan Shillings for their goods and services. Note that destruction of outstanding Sarafu will be controlled via Levies. 
@@ -58,7 +55,7 @@ All further mention of Sarafu in this Application will refer to the GE’s uniqu
 
 ## Token Implementation 
 
-1. Voucher user and transaction data is anonymsed and may be made avalaible to Members by mutual agreement.
+1. Voucher user and transaction data is anonymously made avalible to Members by mutual agreement.
 
 ## Swap Implementation
 

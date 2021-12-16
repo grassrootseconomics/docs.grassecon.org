@@ -1,10 +1,6 @@
 
 # Sarafu Clearing Union - Intermember Service Agreement
 
-
-### (English) Draft: November 23 2021
-
-
 ## Preamble
 
 Two members of the Sarafu Clearing Union willingly consent to the following service agreement:
