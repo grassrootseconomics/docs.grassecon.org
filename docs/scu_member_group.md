@@ -1,11 +1,7 @@
 
 # Sarafu Clearing Union -  Membership Agreement
 
-
 ##  (Association / Group / Chama)
-
-
-### (English) Draft: November 23 2021
 
 
 ## Preamble
@@ -34,8 +30,7 @@ All further mention of Sarafu in this Application will refer to the Kibuyu’s u
 4. **Levies:** Kitabu balances of Sarafu will be subject to an automatic and continuous community levy accruing to 2% a month, the proceeds of which will automatically go to the Kibuyu Account _(See Kitabu Account Holder under Official  Signatories) _for the purpose of promoting liquidity and supporting the Kibuyu’s greater community. 
 
 ## Token Implementation 
-
-1. Voucher user and transaction data is anonymsed and may be made avalaible to Members by mutual agreement.
+1. Voucher user and transaction data is anonymously made avalible to Members by mutual agreement.
 
 ## Swap Implementation
 

@@ -2,9 +2,6 @@
 # Sarafu Clearing Union
 
 
-(English) Draft: November 23 2021
-
-
 [TOC]
 
 
@@ -20,8 +17,8 @@ The core Principles are:
 
 
 
-1. Care for people - maximise amenity, well being, happiness and contentment.
-2. Care for land - minimise use of finite resources for economic activity.
+1. Care for people - maximize amenity, well being, happiness and contentment.
+2. Care for land - minimize use of finite resources for economic activity.
 3. Equity - affordable and secure access to land, resources, knowledge & care.
 4. Reciprocity – mutual sharing of risk, cost and surplus. 
 5. Non-Dominance - no person to have dominant rights over any other.
@@ -32,7 +29,7 @@ The core Principles are:
 
 ## 3/ Jurisdiction
 
-The Community Inclusion Collective (S-CICo) Agreement, as an associative and participative agreement, transcends jurisdiction and is tax transparent.
+Sarafu Union, as an associative and participatory agreement, transcends jurisdiction and is tax transparent.
 
 All Members are bound by local law generally and tax laws specifically. Any usage of Instruments are between willing Members who must satisfy themselves that all trades are locally lawful.
 
@@ -95,7 +92,7 @@ The Platform includes the following categories of Core Services:
 3. Legal: Due Diligence, audits and arbitration of disputes 
 
 
-## 5/ Organisation  
+## 5/ Organization  
 
 
 ### (a) Members  
@@ -144,8 +141,8 @@ There are three Member Classes with the following rights and obligations:
 6. **Termination of Membership:** Member’s may terminate Membership at any time upon 60 days advance written notice of termination and shall comply with the obligations in effect at the time of termination.
     3. Should the Applicant wish to terminate this agreement and end their membership they must return all Sarafu issued to them, to the Service Provider or pay an equivalent settlement in kind for outstanding Sarafu obligations.
     4. A Non-Performing Member wishing to terminate membership must demonstrate their complete inability to perform obligations to a Validator assigned by the Service Provider.
-7. **Non-Performance:** should a Member be unable or unwilling to uphold their obligations or honour stated commitments they will be designated as non-performing subject to the following:
-        1. a non-performing Member agrees to mediation with an assigned Mediator and to a levy payable to the Mediator up to the amount of unredeemed Sarafu .
+7. **Non-Performance:** should a Member be unable or unwilling to uphold their obligations or honor stated commitments they will be designated as non-performing subject to the following:
+        1. a non-performing Member agrees to mediation with an assigned Mediator and to a levy payable to the Mediator up to the amount of non-redeemed Sarafu.
         2. any material shortfall in commitments or obligations by Kibuyu Members individually or collectively shall be made good following review and recommendations by the Service Provider and subject to the agreement of Members generally. 
 
      
