@@ -21,16 +21,18 @@ The applying member _____________________________ (herein called the Applicant) 
 1. **Voucher Creation**
     3. Cost: 1000 SRF for each Voucher issuance event. 
     4. Quantity and parameters of created Vouchers are specified in the Applicant’s Sarafu Union Membership Agreement. (Note that a **Validator** appointed by the Service Provider shall assess/audit Sarafu redemption commitments and shall verify the Applicant's capacity to sustainably redeem Sarafu for one year's worth of specified goods or services.) 
-2. **Impact Claim**
-    5. GE will utilize Kitabu data to create anonymous certificates that represent sustainable development goal relaetd impacts made by the Applicant and any Members holding the Applications Vouchers. Donations to support these impacts will be used to maintain the infrastructure and may be used to support the Applicant through purchase of their Vouchers.
+2. **Impact Tokens**
+    5. GE will utilize Kitabu data to create certificates (Tokens) that represent sustainable development goal related to the usage of any Members holding the Applicant's Vouchers.
+2. **Impact Swaps**    
+    6. Value supplied by Member in money or in-kind exchanged for Impact Tokens, will be used to maintain the Sarafu Network infrastructure and to support the Applicant as specified by mutual agreement.
 3. **Platform Access and Maintenance**
-    6. A yearly payment to continue using the Platform covers the following:
+    1. A yearly payment to continue using the Platform covers the following:
         1. Phone Support
         2. Servers, wallets, USSD, SMS and other operational costs. 
-    7. Cost: 1000 SRF per year.
-    8. **Kitabu Access:** All Kitabu accounts are accessible via Sarafu Network. 
-    9. **Public Access:** anonymous transaction data and user information will be generally available to Researchers and Members and (subject to a one month waiting period) individual balances and trade history will be provided to individual Members and Mediators upon request 
-    10. **Terms and Conditions:** When using Platform (herein called Sarafu Network) the Applicant agrees to the [Terms and Conditions](http://grassrootseconomics.org/tos) of Grassroots Economics Foundation which is a member of the Sarafu Union. 
+    1. Cost: 1000 SRF per year.
+    1. **Kitabu Access:** All Kitabu accounts are accessible via Sarafu Network. 
+    1. **Public Access:** anonymous transaction data and user information will be generally available to Researchers and Members and (subject to a one month waiting period) individual balances and trade history will be provided to individual Members and Mediators upon request 
+    1. **Terms and Conditions:** When using Platform (herein called Sarafu Network) the Applicant agrees to the [Terms and Conditions](http://grassrootseconomics.org/tos) of Grassroots Economics Foundation which is a member of the Sarafu Union. 
 
 **The Applicant and Service Provider further agree to the following:**
 
