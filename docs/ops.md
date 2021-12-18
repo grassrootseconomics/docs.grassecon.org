@@ -10,11 +10,11 @@ By developing an inclusive legal Nondominium framework an open community is crea
 
 - The agreements Fiscal Commons can be broken into various agreements:
     *  [Clearing Union (CU)](/sarafu_clearing_union/): A general overarching agreement that defines the commons
-    *  [Core Service Provider (CSP) Agreement](/scu_member_csp/): CSPs are providing training, mediation, and runnig various micro-services, like blockchain nodes, wallets and marketplaces.
+    *  [Core Service Provider (CSP) Agreement](/scu_member_csp/): CSPs are providing training, mediation, and running various micro-services, like blockchain nodes, wallets and marketplaces.
     *  [General Member](/scu_member_group/): Community Groups, organizations and individuals using Vouchers or other CU defined Instruments are considered General Members
     *  [Intermember Service](/scu_intermember/): Establishes agreements between General Members and Service Providers
 
-Note that performing legal due diligence is extreemly important in any country you are in. 
+Note that performing legal due diligence is extremely important in any country you are in. 
 
 
 ```graphviz dot clearing_union2.svg
@@ -59,8 +59,8 @@ Generally the technical setup is done by a local Core Service Provider like Gras
 Our [Community Training Guide](/training/) gives a basic training for identifying local resources and sharing them together using a CIC. 
 
 1. **Resource Mapping**: Working with your community to map out resources and needs. Often people don’t realize how much they can offer and how much they can support each-other. The Training guide goes through the majority of these steps. Also note that individuals and organizations like Grassroots Economics can create their own vouchers.
-1. **Learning through games**: Demonstrate 
-Collective Commitments: Coming up with agreements on what each member of the community can offer to the whole in exchange for vouchers. 
+1. **Learning through games**: Ensure that everyone involved or expected to utilize a CIC is able to play through a demonstration with others. Work out all the kinks BEFORE you start.
+1. **Demonstrate Collective Commitments**: Coming up with agreements on what each member of the community can offer to the whole in exchange for vouchers. 
 1. **Audits, Endorsements and Conflict Mitigation**: Commitments should be internally audited by the community and as well with a designated auditor to ensure that the vouchers can be redeemed in a  reasonable amount of time. A mediator should be assigned to deal with conflicts, like when a member spends but refuses to redeem vouchers they created.
 1. **Agreements Signed**
     1. **Clearing Union Membership Agreement**: The above work is collected into a membership agreement to a Clearing Union. 
@@ -73,11 +73,11 @@ Collective Commitments: Coming up with agreements on what each member of the com
 
 ## Humanitarian Support
 
-1. **Stakeholder Gatherings and Trainings**: These are similar to the steps mentioned in Voucher creation, but will often involve a wider range of stakeholders including local government. 
+1. **Stakeholder Gatherings and Training**: These are similar to the steps mentioned in Voucher creation, but will often involve a wider range of stakeholders including local government. 
 1. **Capacity Building**: When identifying resources that people have to share – gaps in those resources compared to need often arise. Filling these gaps through training and asset development can help the community have a solid framework for voucher redemption.
 1. **Evidence based support**
-    1. **SDG Indexing**: Data from CIC circulation and endorsments from validators is indexed based on Sustainable Development Goals and a rank and reward can be calculated for support
-    1. **Donor Support**: Donors can be rewarded with SDG impact data in the form of a certificate (NFTs) they can also followup on future impacts.
+    1. **SDG Indexing**: Data from CIC circulation and endorsements from validators is indexed based on Sustainable Development Goals and a rank and reward can be calculated for support
+    1. **Donor Support**: Donors can be rewarded with SDG impact data in the form of a digital certificate they can also followup on future impacts.
     1. **Aid Treasuries**: Based on results from SDG Indexing a Humanitarian organization can choose to purchase vouchers with donor funds (held in *Aid Treasuries*). 
     1. **Redistribution**: Based on results from SDG Indexing CICs held in *Aid Treasuries* can be redistribute directly to those people in need. 
 
@@ -106,7 +106,7 @@ digraph D {
      style="rounded"
 
 
-	endo [label= "Endorsments"]
+	endo [label= "Endorsements"]
 	datam [label= "Anonymous CIC trade \n& meta data" , shape = cylinder]
 	
 
@@ -117,14 +117,14 @@ digraph D {
      label = "Impact Markets";
      style="rounded"
 	cucm [label= "CIC Markets", shape = box]
-	nftm [label= "Impact Data (NFT) Markets", shape = box]
+	nftm [label= "Impact Data Markets", shape = box]
 
   }
 
 
   subgraph cluster_index_3 {
       
-    label = "Humaniatrian Supporters";
+    label = "Humanitarian Supporters";
      style="rounded"
 
 
@@ -172,7 +172,7 @@ subgraph cluster_Legend_5 {
       </table>> ]
     key2 [ label=<<table border="0" cellpadding="1" cellspacing="0" cellborder="0">
       <tr><td align="left" port="i1"> </td><td>CICs</td></tr>
-      <tr><td align="left" port="i2"> </td><td>Impact Evidence/ Data / NFTs</td></tr>
+      <tr><td align="left" port="i2"> </td><td>Impact Evidence/Data</td></tr>
       <tr><td align="left" port="i3"> </td><td>Fiat / other vouchers</td></tr>
       </table>>]
     key:i1 -> key2:i1 
