@@ -79,7 +79,7 @@ Our [Community Training Guide](/training/) gives a basic training for identifyin
     1. **Impact Indexing**: Data from CIC circulation and endorsements from validators is indexed based on Sustainable Development Goals and a rank and reward can be calculated for support
     1. **Donor Support**: Donors can be rewarded with impact data in the form of a digital certificate they can also followup on future impacts.
     1. **Treasuries**: Based on results from Indexing a Humanitarian organization can choose to purchase vouchers with donor funds (held in *Treasuries*). 
-    1. **Redistribution**: Based on results from Indexing CICs held in *Treasuries* can be redistribute directly to those people in need. 
+    1. **Redistribution**: Based on results from Indexing CICs held in *Treasuries* can be redistributed directly to those people in need. 
 
 ```graphviz dot hum_dev.svg
 digraph D {
