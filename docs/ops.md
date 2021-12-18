@@ -76,10 +76,10 @@ Our [Community Training Guide](/training/) gives a basic training for identifyin
 1. **Stakeholder Gatherings and Training**: These are similar to the steps mentioned in Voucher creation, but will often involve a wider range of stakeholders including local government. 
 1. **Capacity Building**: When identifying resources that people have to share – gaps in those resources compared to need often arise. Filling these gaps through training and asset development can help the community have a solid framework for voucher redemption.
 1. **Evidence based support**
-    1. **SDG Indexing**: Data from CIC circulation and endorsements from validators is indexed based on Sustainable Development Goals and a rank and reward can be calculated for support
-    1. **Donor Support**: Donors can be rewarded with SDG impact data in the form of a digital certificate they can also followup on future impacts.
-    1. **Aid Treasuries**: Based on results from SDG Indexing a Humanitarian organization can choose to purchase vouchers with donor funds (held in *Aid Treasuries*). 
-    1. **Redistribution**: Based on results from SDG Indexing CICs held in *Aid Treasuries* can be redistribute directly to those people in need. 
+    1. **Impact Indexing**: Data from CIC circulation and endorsements from validators is indexed based on Sustainable Development Goals and a rank and reward can be calculated for support
+    1. **Donor Support**: Donors can be rewarded with impact data in the form of a digital certificate they can also followup on future impacts.
+    1. **Treasuries**: Based on results from Indexing a Humanitarian organization can choose to purchase vouchers with donor funds (held in *Treasuries*). 
+    1. **Redistribution**: Based on results from Indexing CICs held in *Treasuries* can be redistribute directly to those people in need. 
 
 ```graphviz dot hum_dev.svg
 digraph D {
@@ -129,8 +129,8 @@ digraph D {
 
 
 	training [label= "Training \n& Capacity Building"]
-	indexer [label= "SDG Indexing", shape = cylinder]
-	treasuries [label= "Aid Treasuries", shape = cylinder]
+	indexer [label= "Indexing", shape = cylinder]
+	treasuries [label= "Treasuries", shape = cylinder]
 	donors [label= "Donors"]
 	impacti[label= "Impact Investors"]
 
