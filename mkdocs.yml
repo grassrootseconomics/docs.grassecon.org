@@ -12,7 +12,8 @@ nav:
       - Code of Conduct: conduct.md
   - Operations:
       - Intro: ops.md
-      - Training Guide:
+      - Training:
+          - Case Study: case_study.md
           - Training Guide: training.md
       - Legal Structures:
           - Clearing Union: sarafu_clearing_union.md
