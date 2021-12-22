@@ -15,6 +15,7 @@ nav:
       - Training:
           - Case Study: case_study.md
           - Training Guide: training.md
+          - Team Guide: team_guide.md
           - Logical Framework: log_frame.md
           - Stakeholder Guide: local_stakeholders.md
       - Legal:
