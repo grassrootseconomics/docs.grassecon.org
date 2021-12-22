@@ -15,11 +15,12 @@ nav:
       - Training:
           - Case Study: case_study.md
           - Training Guide: training.md
-      - Legal Structures:
+      - Legal:
           - Clearing Union: sarafu_clearing_union.md
           - Service Provider: scu_member_csp.md
           - General Member: scu_member_group.md
           - Service Agreement: scu_intermember.md
+          - Data Policy: data_policy.md
   - Software:
       - CIC Stack: cic_stack.md
       - Design Principles: principles.md
