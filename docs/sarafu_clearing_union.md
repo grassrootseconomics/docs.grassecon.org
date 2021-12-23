@@ -8,19 +8,17 @@
 
 ## 1/ Aim 
 
-**Sarafu Clearing Union** is an open association of people and organizations with the aim of inclusive community access to purchasing power.
+**Sarafu Clearing Union** is an open association of people and organizations with the aim of inclusive community creation and clearing of purchasing power.
 
 
 ## 2/ Principles 
 
 The core Principles are:
 
-
-
 1. Care for people - maximize amenity, well being, happiness and contentment.
 2. Care for land - minimize use of finite resources for economic activity.
 3. Equity - affordable and secure access to land, resources, knowledge & care.
-4. Reciprocity – mutual sharing of risk, cost and surplus. 
+4. Reciprocity – and mutual sharing of risk, cost and surplus. 
 5. Non-Dominance - no person to have dominant rights over any other.
 6. Financial independence - support financial systems that are localized and/or community based
 7. Sustainability - ensure the continuation of community based systems
@@ -29,7 +27,7 @@ The core Principles are:
 
 ## 3/ Jurisdiction
 
-Sarafu Union, as an associative and participatory agreement, transcends jurisdiction and is tax transparent.
+Sarafu Clearing Union, as an associative and participatory agreement, transcends jurisdiction and is tax transparent.
 
 All Members are bound by local law generally and tax laws specifically. Any usage of Instruments are between willing Members who must satisfy themselves that all trades are locally lawful.
 
@@ -40,54 +38,42 @@ All Members are bound by local law generally and tax laws specifically. Any usag
 ### Instruments 
 
 
-1. **Voucher (Bilateral agreement)** – a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the issuer. 
+1. **Voucher (Bilateral Instrument)** – herein called **Sarafu** are a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the issuer.
 
-    (If the acceptor/final holder of the voucher presents it in payment to the issuer, for goods or services supplied, it must be accepted in payment.)
+    The following are properties of Vouchers.
+    
+    * If the acceptor/final holder of the voucher presents it in payment to the issuer, for goods or services supplied, it must be accepted in payment.
+    * Unit of Account: Standard unit of measure for value in exchange. Each Voucher on the Platform issued by a Member should specify a Unit of Account.
+        * Example: 1000 SRF Vouchers can be said to be redeemable by the Issuing Member for 1000 Kenyan Shillings worth of the issuer’s services.)
+    * Expiry Date or Rate: Vouchers should not be redeemable forever. Each Voucher on the Platform issued by a Member should specify an expiry date or a gradual expiration rate over time.
+        * Example: An gradual expiration rate of 2% a month will mean that any outstanding Voucher balances will automatically be reduced by 2% a month.
+    * No redemption for national currency: the Issuer shall not redeem Vouchers for National Currency and bears full sole responsibility for their Sarafu issuance, assignment and redemption in goods and/or services.
 
-
-    **Vouchers**  herein called **Sarafu** are assignable credit obligations issued by a provider of goods and services in exchange for value received from an acceptor and are redeemable or returnable by the ultimate acceptor in exchange for value provided by the issuer.
-
-
-    **Unit of Account: **Standard unit of measure for value in exchange. Each Voucher on the Platform issued by a Member should specify a Unit of Account.
-
-
-    (Example: 1000 SRF Vouchers can be said to be redeemable by the Issuing Member for 1000 Kenyan Shillings worth of the issuer’s services.)
-
-
-    **No redemption for national currency:**  the Issuer shall not redeem Vouchers for National Currency and bears full sole responsibility for their Sarafu issuance, assignment and redemption in goods and/or services.
-
-2. **Token (Unilateral agreement)** - a real or virtual object (fungible or non fungible) that may be accepted by another Member in exchange for value at their complete discretion. 
+2. **Token (Unilateral Instrument)** - a real or virtual object (fungible or non fungible) that may be accepted by another Member in exchange for value at their complete discretion. 
 
     (There is no obligation to accept a Token nor is there any obligation to redeem a Token by the issuer. Tokens may represent receipts for having supported a local community.)
 
-3. **Swap (Multilateral agreement)** – a production and risk sharing agreement over time.
+3. **Swap (Multilateral Instrument)** – a production and risk sharing agreement over time.
 
-    (e.g. A Swap may entitle a group of Members to share in the revenue or production from land usage over a period of time. The sales of Tokens might be divided into the accounts of several Members.)
-
+    (e.g. A Swap may entitle a group of Members to share in the revenue or production from land usage over a period of time. Vouchers or Tokens based on flows of land use revenue or production are allocated proportionally between the accounts of Members.)
 
 
 ### Platform  
 
-The Platform (herein called ‘**Sarafu Network’) **is maintained by Platform Core Service Providers, namely,** **Grassroots Economics Foundation, a non-profit foundation based in Kenya.
-
-The Platform includes the following categories of Core Services:
-
-
+The Platform (herein called ‘**Sarafu Network’) is maintained by Core Service Providers and includes the following categories of Core Services:
 
 1. Technical: 
-    1. Secure shared Instrument registries (“Exchequers/Public Ledgers/**Vitabu(Singular Kitabu)**”) 
-
-        The Vitabu in use on the Platform are defined by the following specification:
-
-
-        **Chain Specification (CHAIN_SPEC):**
-
-1. **Architecture: **e.g. EVM Ethereum Virtual Machine
-2. **Fork/Version:  **e.g. Byzantium
-3. **Chain/Network ID: **e.g. 8996
-4. **Common Name: **e.g. BloxBerg
-5. **Custom Parameters: **{RPC Endpoint, http://bloxberg.org}
-    2. Communications interface (“Wallet”). The Core Service Providers will provide a basic wallet that enables Members to access the Kitabu. Kitabu may use any means or interfaces to access it with or without the Service Provider.
+    1. Secure shared Instrument registries (“Exchequers/Ledgers/Vitabu _Singular Kitabu_”) have the following properties:
+        1. All Member accounts and all Instruments are recorded on a Kitabu.
+        1. Multiple Instruments per Account: A Member account on a Kitabu can hold multiple Instruments and tracks any usage of these instruments security over time.
+        1. Decentralization: No single Core Service Provider should have the ability to shut a Kitabu down.
+        1. The Vitabu in use on the Platform are defined by the following **Chain Specification (CHAIN_SPEC):**
+             1. **Architecture: **e.g. EVM Ethereum Virtual Machine
+             2. **Fork/Version:  **e.g. Byzantium
+             3. **Chain/Network ID: **e.g. 8996
+             4. **Common Name: **e.g. BloxBerg
+             5. **Custom Parameters: ** e.g. {RPC Endpoint, http://bloxberg.org}
+    2. Communications interfaces (“Wallets”). The Core Service Providers will provide a basic wallet that enables Members to access a Kitabu. Kitabu may use any means or interfaces to access it with or without the Service Provider.
 2. Social: The shared knowledge and code base and implementation and educational methodologies. 
 3. Legal: Due Diligence, audits and arbitration of disputes 
 
@@ -99,31 +85,31 @@ The Platform includes the following categories of Core Services:
 
 There are three Member Classes with the following rights and obligations: 
 
-1. **Kibuyu _(plural Vibuyu)_: **A **Kibuyu** is a Sarafu Chama Member or an association of Sarafu Chama Members with a common purpose.
+1. **Generaly Members** (herin called Kibuyu or _plural Vibuyu_): A Kibuyu is an individual person, organization oran association of Sarafu Clearing Union Members with a common purpose.
     1. Right to issue, accept, assign, and redeem Vouchers
     2. Right to register Swaps and enter into production, surplus, asset and data use sharing Swap Agreements
     3. Right to issue and to exchange Tokens.
     4. Right to delegate custody of their Kitabu data to a Core Service Provider
     5. Right to assign a _Kibuyu Account _to a member. This is used for the purposes of initial Sarafu allocation, fines, levies,  savings and other group holdings. 
-    6. Obligation to register any Instrument on the Kitabu 
+    6. Obligation to register any Instrument on a Kitabu 
     7. Obligation to contribute via Voucher assignments, in money or in kind the agreed upon development and operating costs of Core Service Providers. 
-    8. Right to hold a means of secure identification in order to interact with the Kitabu.
-2. **Platform Core Service Providers **
+    8. Right to hold a means of secure identification in order to interact with a Kitabu.
+2. **Core Service Providers **
     9. Right to receive agreed development and operating costs and an agreed production share in respect of services.
         1. Core Service Providers are categorized as follows:
             1. Technical: 
-                1. Right to migrate to an appropriate Kitabu
+                1. Right to use and migrate to an appropriate Kitabu
                 2. Obligation to develop the Platform’s open source code base
                 3. Obligation to operate the Platform’s servers and various microservices.
                 4. Obligation to hold and secure granted Member data and intellectual property jointly in common. 
                 5. Obligation to give Members access to their Kitabu accounts. 
-                6. Obligation to provide a means of a secure identification to Members in order to interact with the Kitabu.
+                6. Obligation to provide a means of a secure identification to Members in order to interact with a Kitabu.
             2. Social: 
                 7. Obligation to provide training and education, administer Member admission, ensure data transparency, oversee quality standards.
                 8. Right to make available anonymous transaction data and user information to Researchers and Members and (subject to a one month waiting period) individual balances and trade history will be provided to individual Members and Mediators upon request 
             3. Legal: 
                 9. Obligation to arbitrate disputes in relation to issuance, assignment and return of Vouchers.
-                10. Right to assign a validator to assess Sarafu redemption commitments and Applications and shall be given access to audit commitments and shall verify the Member’s capacity to sustainably redeem their issued Sarafu for one year's worth of specified goods or services. 
+                10. Right to assign a validator to assess Member's Instruments and Applications. 
                 11. Right to assign arbitrators for the mediation of disputes.
 3. **Guardians**
     1. Rights of final veto on behalf of Members generally in respect of amendments to this agreement incompatible with the Aim and Principles.
@@ -142,8 +128,8 @@ There are three Member Classes with the following rights and obligations:
     3. Should the Applicant wish to terminate this agreement and end their membership they must return all Sarafu issued to them, to the Service Provider or pay an equivalent settlement in kind for outstanding Sarafu obligations.
     4. A Non-Performing Member wishing to terminate membership must demonstrate their complete inability to perform obligations to a Validator assigned by the Service Provider.
 7. **Non-Performance:** should a Member be unable or unwilling to uphold their obligations or honor stated commitments they will be designated as non-performing subject to the following:
-        1. a non-performing Member agrees to mediation with an assigned Mediator and to a levy payable to the Mediator up to the amount of non-redeemed Sarafu.
-        2. any material shortfall in commitments or obligations by Kibuyu Members individually or collectively shall be made good following review and recommendations by the Service Provider and subject to the agreement of Members generally. 
+    1. a non-performing Member agrees to mediation with an assigned Mediator and to a levy payable to the Mediator up to the amount of non-redeemed Sarafu.
+    2. any material shortfall in commitments or obligations by Kibuyu Members individually or collectively shall be made good following review and recommendations by the Service Provider and subject to the agreement of Members generally. 
 
      
 
@@ -153,9 +139,9 @@ There are three Member Classes with the following rights and obligations:
 
 
 
-1. Platform Users submit monetary and Instrument transaction data directly or via Platform Service Providers to the Kitabu. 
-2. Data is registered in unique time order in the Kitabu.
-3. Instruments are binding on Platform Users under this agreement when registered in the Kitabu. 
+1. Platform Users submit monetary and Instrument transaction data directly or via Platform Service Providers to a Kitabu. 
+2. Data is registered in unique time order in a Kitabu.
+3. Instruments are binding on Platform Users under this agreement when registered in a Kitabu. 
 
 
 ## 7/ Identity and Transparency 
