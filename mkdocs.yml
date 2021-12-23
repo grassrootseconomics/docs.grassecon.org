@@ -22,6 +22,7 @@ nav:
           - Clearing Union: sarafu_clearing_union.md
           - Service Provider: scu_member_csp.md
           - General Member: scu_member_group.md
+          - General Member Self Service: scu_member_ssp.md
           - Service Agreement: scu_intermember.md
           - Data Policy: data_policy.md
   - Software:
