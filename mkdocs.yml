@@ -7,27 +7,27 @@ nav:
       - Glossary: glossary.md
       - Roadmap: roadmap.md
   - Community:
-      - Charter: charter.md
-      - Contribution Guidelines: contrib.md
-      - Code of Conduct: conduct.md
+      - Charter: community/charter.md
+      - Contribution Guidelines: community/contrib.md
+      - Code of Conduct: community/conduct.md
+
   - Operations:
-      - Intro: ops.md
-      - Training:
-          - Case Study: case_study.md
-          - Training Guide: training.md
-          - Team Guide: team_guide.md
-          - Logical Framework: log_frame.md
-          - Stakeholder Guide: local_stakeholders.md
-      - Legal:
-          - Clearing Union: sarafu_clearing_union.md
-          - Service Provider: scu_member_csp.md
-          - General Member: scu_member_group.md
-          - General Member Self Service: scu_member_ssp.md
-          - Service Agreement: scu_intermember.md
-          - Data Policy: data_policy.md
+      - Intro: operations/ops.md
+      - Case Study: operations/case_study.md
+      - Training Guide: operations/training.md
+      - Team Guide: operations/team_guide.md
+      - Logical Framework: operations/log_frame.md
+      - Stakeholder Guide: operations/local_stakeholders.md
+  - Legal:
+      - Intro: legal/legal.md
+      - Clearing Union Schema: legal/clearing_union_schema.md
+      - Sarafu Clearing Union: legal/cu_sarafu.md
+      - Voucher Creation: legal/cu_voucher.md
+      - Service Agreement: legal/cu_intermember.md
+      - Data Policy: legal/data_policy.md
   - Software:
-      - CIC Stack: cic_stack.md
-      - Design Principles: principles.md
+      - CIC Stack: software/cic_stack.md
+      - Design Principles: software/principles.md
 
 repo_url: https://gitlab.com/grassrootseconomics/grassrootseconomics.gitlab.io
 repo_name: grassrootseconomics/docs
