@@ -1,4 +1,4 @@
-# Grassroots Economics Economic Commons License 1 (GECL 1)
+# Grassroots Economics Economic Commons License v1 (GECL 1)
 
 ## About
 
