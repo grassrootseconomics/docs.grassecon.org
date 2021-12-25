@@ -1,10 +1,10 @@
 # Sarafu Clearing Union - Agreement
 
-*example: A Clearing Union implementation for a intitution wishing to create Instruments and operate a Platform and offer various services to other Members*
+*example: An Economic Commons  implementation for a intitution wishing to create Instruments and operate a Platform and offer various services to other Members*
 
 ## Preamble
 
-We **Grassroots Economics Foundation** _(herein called the Founding Member)_ hereby implement the Clearing Union Schema in the following Sarafu Clearing Union Agreement as its Guardian, General Member and Platform Service Provider. The Founding Member further seeks to create a voucher registered on the specified the Platform.
+We **Grassroots Economics Foundation** _(herein called the Founding Member)_ hereby incorporate the Grassroots Economics Commons Licence 1 [GECL 1](/legal/gecl1/) in the following Sarafu Clearing Union Agreement as its Guardian, General Member and Platform Service Provider. The Founding Member further seeks to create a voucher registered on the specified the Platform.
 
 ## Platform:
 
@@ -30,13 +30,14 @@ The Platform (herin called Sarafu Network) will utilize the Founding Member as t
     1. **Voucher Name**: e.g. Sarafu (Minimum 3 and Maximum 32 characters)
     1. **Voucher Symbol**: e.g. SRF (Minimum 3 and Maximum 6 characters used for display on the Platform)
     1. **Voucher Supply**: 20,000,000 Vouchers
+    1. **Unit of Account and Denomination**: Vouchers are denominated in **Kenyan Shillings** and each 1 Voucher is worth **1 Kenyan Shilling** of mentioned goods and/or services. 
     1. **Voucher Allocations**: 50 SRF will be allocated to each additional Member as they join as a Member on the Platform
     1. **Voucher Acceptance**: The Founding Member undertakes to accept vouchers as payment for the following goods and/or services:
-        1. Training and Support related to Clearing Unions, Platforms, Instruments and related Member provided services
+        1. Training and Support related to Economic Commons and Clearing Unions, Platforms, Instruments and related Member provided services
         1. Platform and Instrument creation and maintenance
         1. Software integration and customization
         1. Arbitration of disputes related to Instruments and Platform usage
-    1. **Unit of Account and Denomination**: Vouchers are denominated in **Kenyan Shillings** and each 1 Voucher is worth **1 Kenyan Shilling** of mentioned goods and/or services. 
+
     1. **Expiration Rate**: The Vouchers expire at cumulative rate of 2% per month each minute.
 
 1. Token

@@ -10,7 +10,7 @@ Our [Community Training Guide](/operations/training/) gives a basic training for
 1. **Learning through games**: Ensure that everyone involved or expected to utilize a CIC is able to play through a demonstration with others. Work out all the kinks BEFORE you start.
 1. **Demonstrate Collective Commitments**: Coming up with agreements on what each member of the community can offer to the whole in exchange for vouchers. 
 1. **Audits, Endorsements and Conflict Mitigation**: Commitments should be internally audited by the community and as well with a designated auditor to ensure that the vouchers can be redeemed in a  reasonable amount of time. A mediator should be assigned to deal with conflicts, like when a member spends but refuses to redeem vouchers they created.
-1. **Agreements Signed (see [legal section](/legal/legal/) )**
+1. **Agreements Signed (see [legal section](/legal/) )**
     1. **Clearing Union Implementation**: The above work defining the Voucher is collected into a Clearing Union Implementation. 
     1. **Service Agreement**: Should the community need a service provider, then an agreement is developed between the community and a Platform Service Provider.
 1. **Minting / Voucher Creation**: This is generally handled by a Platform Service Provider like Grassroots Economics, who will validate the groups commitments, audits and endorsements and deploy a contract on a ledger that is visible to anyone. This contract (smart contract) will hold all the relevant information about the Voucher and create the supply. 
@@ -23,7 +23,7 @@ Our [Community Training Guide](/operations/training/) gives a basic training for
 
 Generally the technical setup is done by a local Platform Service Provider like Grassroots Economics. The more local the better.
 
-1. **Open Source (CopyLeft) Software**: Ensure that you trust the software being used and that even if it is open source now, that improvements and upgrades will remain open source. Check out our [stack](/software/cic_stack/).
+1. **Open Source (CopyLeft) Software**: Ensure that you trust the software being used and that even if it is open source now, that improvements and upgrades will remain open source. Check out our [stack](/software/).
 1. **Distributed Ledger**: We highly recommend developing your own ledger system where members of the community hold nodes that decentralize and secure the ledger.
 1. **Interfaces / Wallets**: We’ve built custodial systems that enable users to assign guardians that can help them reset lost passwords. 
 1. **Data Sharing**: Given the consent of the community, anonymous transaction data can be recorded and displayed 

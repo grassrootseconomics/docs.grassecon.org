@@ -7,26 +7,25 @@ nav:
       - Glossary: glossary.md
       - Roadmap: roadmap.md
   - Community:
-      - Charter: community/charter.md
+      - Charter: community/index.md
       - Contribution Guidelines: community/contrib.md
       - Code of Conduct: community/conduct.md
-
   - Operations:
-      - Intro: operations/ops.md
+      - Intro: operations/index.md
       - Case Study: operations/case_study.md
       - Training Guide: operations/training.md
       - Team Guide: operations/team_guide.md
       - Logical Framework: operations/log_frame.md
       - Stakeholder Guide: operations/local_stakeholders.md
   - Legal:
-      - Intro: legal/legal.md
-      - Clearing Union Schema: legal/clearing_union_schema.md
-      - Sarafu Clearing Union: legal/cu_sarafu.md
-      - Voucher Creation: legal/cu_voucher.md
-      - Service Agreement: legal/cu_intermember.md
+      - Intro: legal/index.md
+      - GE Commons License: legal/gecl1.md
+      - Sarafu Clearing Union: legal/scu.md
+      - Voucher Creation: legal/scu_voucher.md
+      - Service Agreement: legal/scu_service.md
       - Data Policy: legal/data_policy.md
   - Software:
-      - CIC Stack: software/cic_stack.md
+      - CIC Stack: software/index.md
       - Design Principles: software/principles.md
 
 repo_url: https://gitlab.com/grassrootseconomics/grassrootseconomics.gitlab.io
