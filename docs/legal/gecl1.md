@@ -1,18 +1,17 @@
-# Grassroots Economics Economic Commons License v1 (GECL 1)
+# Grassroots Economics Commons License v1 (GECL 1)
 
 ## About
 
-This schema defines a Economic Commons for general implementation as an open association of people and organizations.
+This license defines an Economic Commons for general implementation as an open association of people and organizations.
+An Economic Commons that incorporates this license must include the following Aims, Principles, Juristiction, Definitions and Notices
 
 ## Aim 
 
-
 Inclusive community creation and clearing of purchasing power.
-
 
 ## Principles 
 
-The core Principles of an Economic Commons are:
+The core Principles of an Economic Commons include:
 
 1. Care for people - maximize amenity, well being, happiness and contentment.
 2. Care for land - minimize use of finite resources for economic activity.
@@ -35,10 +34,9 @@ The core Principles of an Economic Commons are:
 
 ## Definitions 
 
-
 ### Instruments 
 
-Economic Commonss implement one of following Instruments:
+The Instruments of an Economic Commons include:
 
 1. **Token (Unilateral Instrument)** - a real or virtual object (fungible or non fungible) that may be accepted by another Member in exchange for value at their complete discretion. 
 
@@ -63,15 +61,16 @@ Economic Commonss implement one of following Instruments:
 The Platform of a Economic Commons is maintained by Platform Service Providers and includes the following categories of services:
 
 1. Technical Services: 
-    1. Secure shared Member account and Instrument registries (herin called “Ledgers”) have the following properties:
-        1. All Member accounts, data and Instruments are recorded on a Ledger in unique time order in a Ledger.
-        1. A Member account on a Ledger can hold multiple Instruments and tracks all usage of these Instruments security and immutably.
+    1. Secure Member accounts and shared Instrument registries (herin called “Ledgers”) have the following properties:
+        1. All Member accounts, data and shared Instruments are recorded in unique time order in a Ledger.
+        1. A Member account on a Ledger can hold multiple Instruments.
+	1. A Ledger tracks all usage of Instruments security and immutably.
         1. Decentralization: No single Member should have the ability to shut a Ledger down.
 	1. Instruments are binding on Members under a Economic Commons Implementation when registered in a Ledger. 
-        1. Ledgers are defined by the following **Chain Specification (CHAIN_SPEC):**
+        1. Ledgers are defined by the following **Ledger Specification (LEDGER_SPEC):**
              1. **Architecture: **e.g. EVM Ethereum Virtual Machine
              2. **Fork/Version:  **e.g. Byzantium
-             3. **Chain/Network ID: **e.g. 8996
+             3. **Network ID: **e.g. 8996
              4. **Common Name: **e.g. BloxBerg
              5. **Custom Parameters: ** e.g. {RPC Endpoint: http://bloxberg.org, Interface: ERC20}
     2. Communications interfaces (“Wallets”).
@@ -85,7 +84,7 @@ The Platform of a Economic Commons is maintained by Platform Service Providers a
 
 ### (a) Members  
 
-A Member is an individual person, organization or an association of Members with a common purpose, who ratify and Implement a Economic Commons it or use implemented Economic Commons Instruments as per their local needs. 
+A Member of an Economic Commons is an individual person, organization or an association of Members with a common purpose, who ratify and Implement a Economic Commons it or use implemented Economic Commons Instruments as per their local needs. 
 
 There are three Member Classes, with the following rights and obligations: 
 
@@ -130,7 +129,8 @@ There are three Member Classes, with the following rights and obligations:
 1. **Termination of Membership:** Member’s may terminate Membership at any time upon 60 days advance written notice of termination and shall comply with the obligations in effect at the time of termination.
     1. A Non-Performing Member wishing to terminate membership must demonstrate their complete inability to perform obligations to a Validator assigned by the Service Provider.
 
-## Amendments 
+## Amendments
+
 1. Amendments to this Agreement require a majority in number of Members.
 2. Amendments in conflict with the Aim and Principles are subject to veto by a majority in number of Guardians.
 
@@ -153,8 +153,6 @@ Any notice given by the Members shall be valid only if delivered via the contact
 1. Proof of Identity: (e.g. Passport number and country or other proof)
 1. Date of Signing:
 1. Signature or Hash:
-
-## Notices
 
 1. This License is maintained by Grassroots Economics Foundation at http://docs.grassecon.org and can be reached at tel: +254757628885 mail: PO Box, 1659-80108  Kilifi Kenya email: [info@grassecon.org](mailto:info@grassecon.org)
 1. Copyright © 2021 Grassroots Economics Foundation
