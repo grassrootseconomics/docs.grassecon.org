@@ -1,14 +1,14 @@
-# Sarafu Clearing Union - Agreement
+# Sarafu Clearing Union Agreement
 
-*example: An Economic Commons  implementation for a intitution wishing to create Instruments and operate a Platform and offer various services to other Members*
+*example: An Economic Commons implementation for a intitution wishing to create Instruments, operate a Platform and offer various services to other Members*
 
 ## Preamble
 
-We **Grassroots Economics Foundation** _(herein called the Founding Member)_ hereby incorporate the Grassroots Economics Commons Licence 1 [GECL 1](/legal/gecl1/) in the following Sarafu Clearing Union Agreement as its Guardian, General Member and Platform Service Provider. The Founding Member further seeks to create a voucher registered on the specified the Platform.
+We **Grassroots Economics Foundation** _(herein called the Founding Member)_ hereby ratify and incorporate the Grassroots Economics Commons Licence 1 [GECL 1](/legal/gecl1/) in the following Economic Commons (herin called the Sarafu Clearing Union) as its Guardian, General Member and Platform Service Provider. 
 
 ## Platform:
 
-The Platform (herin called Sarafu Network) will utilize the Founding Member as the Platform Service Provider and provide the following services:
+The Platform of the Sarafu Clearing Union (herin called Sarafu Network) will utilize the Founding Member as the Platform Service Provider and provide the following services:
 
 1. Ledger Services:
     1. The Founding Member will deploy their own and other Member Instruments and register them on the following Ledger with **Chain Specifications (CHAIN_SPEC):**
@@ -30,7 +30,7 @@ The Platform (herin called Sarafu Network) will utilize the Founding Member as t
     1. **Voucher Name**: e.g. Sarafu (Minimum 3 and Maximum 32 characters)
     1. **Voucher Symbol**: e.g. SRF (Minimum 3 and Maximum 6 characters used for display on the Platform)
     1. **Voucher Supply**: 20,000,000 Vouchers
-    1. **Unit of Account and Denomination**: Vouchers are denominated in **Kenyan Shillings** and each 1 Voucher is worth **1 Kenyan Shilling** of mentioned goods and/or services. 
+    1. **Unit of Account and Denomination**: Vouchers are denominated in **Kenyan Shillings** and each 1 Voucher is worth **1 Kenyan Shilling** of goods and/or services describes in this agreement. 
     1. **Voucher Allocations**: 50 SRF will be allocated to each additional Member as they join as a Member on the Platform
     1. **Voucher Acceptance**: The Founding Member undertakes to accept vouchers as payment for the following goods and/or services:
         1. Training and Support related to Economic Commons and Clearing Unions, Platforms, Instruments and related Member provided services
@@ -42,11 +42,11 @@ The Platform (herin called Sarafu Network) will utilize the Founding Member as t
 
 1. Token
 
-    1. Member data on any Platform registered Instrument is made avalible to Members by mutual agreement through Tokens (herin called an Impact Tokens). See [data protection policy](/legal/data_policy/).
+    1. Member data on any Platform registered Instrument is made avalible to Members by mutual agreement through Tokens (herin called an Impact Tokens). See [data protection policy](/legal/data_policy/). 
 
 1. Swap
 
-    1. Value supplied by Members in money or in-kind exchanged for Impact Tokens, will be used to maintain the Sarafu Network infrastructure and to support Members as specified by mutual agreement.
+    1. Value supplied by Members in money or in-kind exchanged for Vouchers or Impact Tokens, will be used to maintain the Sarafu Network infrastructure and to support Members as specified by mutual agreement.
 
 ##Addendum:
 

@@ -3,7 +3,7 @@
 ## About
 
 This license defines an Economic Commons for general implementation as an open association of people and organizations.
-An Economic Commons that incorporates this license must include the following Aims, Principles, Juristiction, Definitions and Notices
+An Economic Commons that incorporates this license includes and ratifies following Aims, Principles, Jurisdiction, Definitions, Organization and Notices
 
 ## Aim 
 
@@ -49,19 +49,20 @@ The Instruments of an Economic Commons include:
     1. If the acceptor/final holder of the voucher presents it in payment to the issuer, for goods or services supplied, it must be accepted in payment.
     1. Unit of Account: Standard unit of measure for value in exchange. Each Voucher on the Platform issued by a Member should specify a Unit of Account.
         1. Example: 1000 SRF Vouchers can be said to be redeemable by the Issuing Member for 1000 Kenyan Shillings worth of the issuer’s services.)
-    1. Expiry Date or Rate: Vouchers should not be redeemable forever. Each Voucher on the Platform issued by a Member should specify an expiry date or a gradual expiration rate over time.
-        1. Example: An gradual expiration rate of 2% a month will mean that any outstanding Voucher balances will automatically be reduced by 2% a month.
+    1. Expiry Date or Rate: Each Voucher on the Platform issued by a Member should specify no expiration, an expiry date or a gradual expiration rate over time. Expired Vouchers will automatically be placed in a Community Account.
+        1. Example: An gradual expiration rate of 2% a month will mean that any outstanding Voucher balances will automatically be reduced by 2% a month and placed in the designated Community Account.
     1. No redemption for national currency: the Issuer shall not redeem Vouchers for National Currency and bears full sole responsibility for their issuance, assignment and redemption in goods and/or services.
     
 3. **Swap (Multilateral Instrument)** – a production and risk sharing agreement over time.
-    (e.g. A Swap may entitle a group of Members to share in the revenue or production from land usage over a period of time. Vouchers or Tokens based on flows of land use revenue or production are allocated proportionally between the accounts of Members.)
+    1. e.g. A Swap may entitle a group of Members to share in the revenue or production from land usage over a period of time. Vouchers or Tokens based on flows of land use revenue or production are allocated proportionally between the accounts of Members.
+    2. e.g. A Swap may entitle a provider of a Voucher or Token in exchange for another to receive a share of the exchange volume.    
 
 ### Platform  
 
 The Platform of a Economic Commons is maintained by Platform Service Providers and includes the following categories of services:
 
 1. Technical Services: 
-    1. Secure Member accounts and shared Instrument registries (herin called “Ledgers”) have the following properties:
+    1. Secure Member account and shared Instrument registries (herein called “Ledgers”) have the following properties:
         1. All Member accounts, data and shared Instruments are recorded in unique time order in a Ledger.
         1. A Member account on a Ledger can hold multiple Instruments.
 	1. A Ledger tracks all usage of Instruments security and immutably.
@@ -73,7 +74,7 @@ The Platform of a Economic Commons is maintained by Platform Service Providers a
              3. **Network ID: **e.g. 8996
              4. **Common Name: **e.g. BloxBerg
              5. **Custom Parameters: ** e.g. {RPC Endpoint: http://bloxberg.org, Interface: ERC20}
-    2. Communications interfaces (“Wallets”).
+    2. Communications interfaces (hering called Wallets).
         1. A wallet enables Members to access to viewing and interacting with Instruments and Accounts on a Ledger.
 2. Social Services: Support and sharing of knowledge regarding specific Economic Commons implementations. 
 3. Legal: Due Diligence, audits and arbitration of disputes regarding specific Economic Commons implementations. 
@@ -86,35 +87,36 @@ The Platform of a Economic Commons is maintained by Platform Service Providers a
 
 A Member of an Economic Commons is an individual person, organization or an association of Members with a common purpose, who ratify and Implement a Economic Commons it or use implemented Economic Commons Instruments as per their local needs. 
 
-There are three Member Classes, with the following rights and obligations: 
+There are three Member Classes defined below, with the following rights and obligations: 
 
 1. **General Members**:
     1. Right to utilize all a Economic Commons defined Instruments
-    3. Right to hold or assign custodianshop of Ledger Accounts
-    2. Right to delegate custody of their Ledger accounts
-    4. Obligation to register any Instrument on a Ledger
-    5. Obligation to contribute in money or in kind the agreed upon development and operating costs of the Platform
-    6. Obligation to hold a means of secure identification in order to interact with a Ledger
-    5. Obligation to demonstrate technical and management capabilities and capacity to meet appropriate standards
+    1. Right to hold or delegate custodianship of Ledger Accounts
+    1. Obligation to register any Instrument or Instrument usage on a Ledger
+    1. Obligation to contribute in money or in kind the agreed upon development and operating costs of the Platform
+    1. Obligation to hold a means of secure identification in order to interact with a Ledger
+    1. Obligation to demonstrate technical and management capabilities and capacity to meet appropriate standards
 
-2. **Platform Service Providers **
+2. **Platform Service Providers**
     1. Technical:
-        1. Right to receive agreed development and operating costs and an agreed production share in respect of Platform services
-        1. Right to use and migrate to appropriate Ledgers
-        2. Obligation to develop the Platform’s open source code base
-        3. Obligation to operate the Platform’s servers and various microservices.
-        4. Obligation to hold and secure granted Member data and intellectual property jointly in common. 
-        5. Obligation to give Members access to their Kitabu accounts. 
-        6. Obligation to provide a means of a secure identification to Members in order to interact with a Kitabu.
+        1. Right to receive agreed development and operating costs and an agreed production share in respect of Platform services and Swaps
+        1. Right to use and migrate custodial Member Accounts and Instruments to appropriate Ledgers
+        1. Obligation to maintain the Platform’s open source software code base
+        1. Obligation to operate the Platform’s servers and various micro-services.
+        1. Obligation to hold and secure granted Member data and intellectual property jointly in common. 
+        1. Obligation to provide Members access to their Ledger accounts and shared Instruments. 
+        1. Obligation to provide a means of a secure identification to Members in order to interact with a Ledger.
     2. Social: 
-        7. Obligation to provide training and education, administer Member admission, ensure data transparency, oversee quality standards.
-        8. Right to make available anonymous transaction data and user information to Researchers and Members and (subject to a one month waiting period) individual balances and trade history will be provided to individual Members and Mediators upon request 
+        1. Right to make available non confidential Member and Instrument data to Researchers and Members.
+        1. Obligation to provide training and education, administer Member service agreements, ensure confidential data transparency, oversee quality standards.
     3. Legal: 
-        9. Obligation to arbitrate disputes in relation to usage of Instruments
-        10. Right to assign a validator to assess Member's Instruments and Applications. 
-        11. Right to assign arbitrators for the mediation of disputes.
+        1. Right to assign an auditor to assess any Member Instruments and Applications.
+	1. Right to suspend services and remove Wallet access to Member Accounts and Instuments
+        1. Right to assign arbitrators for the mediation of disputes.
+        1. Obligation to arbitrate disputes in relation to usage of Instruments.
+
 3. **Guardians**
-    1. Rights to design and Implement a Economic Commons.
+    1. Rights to design and Implement an Economic Commons.
     1. Rights of final veto on behalf of Members generally in respect of amendments to this agreement incompatible with the Aim and Principles.
     2. Obligation to arbitrate disputes in relation to Aim and Principles of a Economic Commons Agreement.
 
@@ -139,7 +141,6 @@ There are three Member Classes, with the following rights and obligations:
 
 This agreement represents consent to the entirety of a mutual agreement between Members to the expressed common purpose and no other.
 
-
 ## Notices 
 
 Any notice given by the Members shall be valid only if delivered via the contact information for the Guardians.
@@ -153,6 +154,8 @@ Any notice given by the Members shall be valid only if delivered via the contact
 1. Proof of Identity: (e.g. Passport number and country or other proof)
 1. Date of Signing:
 1. Signature or Hash:
+
+## License Notices
 
 1. This License is maintained by Grassroots Economics Foundation at http://docs.grassecon.org and can be reached at tel: +254757628885 mail: PO Box, 1659-80108  Kilifi Kenya email: [info@grassecon.org](mailto:info@grassecon.org)
 1. Copyright © 2021 Grassroots Economics Foundation
