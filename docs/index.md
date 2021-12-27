@@ -4,11 +4,11 @@ Grassroots Economics is a non-profit foundation that seeks to empower marginaliz
 
 It is tremendously important to us that people take, use, build on and share what we've found to be useful. This collaborative documentation site is a work in progress and an evolving collection of the various learnings and tools and broken into:
 
-* **General**: Glossary of terms and programatic roadmap.
-* **Community**: Join us in demonstrating, disseminating, designing & curating the best tech and practices to empower communities to create and manage their own financial instruments. 
-* **Operations**: Learn how to work with and empower communities to develop their own CICs
-* **Legal**: Learn how legal frameworks are formed around CICs
-* **Software**: Join a community of developers working to build the technical stack and become a platform service provider to help communities develop their own financial instruments. 
+* **General**: Glossary of terms and programatic roadmap (you are here).
+* [Community](/community/): Join us in demonstrating, disseminating, designing & curating the best tech and practices to empower communities to create and manage their own financial instruments. 
+* [Operations](/operations/): Learn how to work with and empower communities to develop their own CICs
+* [Legal](/legal/): Learn how legal frameworks are formed around CICs
+* [Software](/software/): Join a community of developers working to build the technical stack and become a platform service provider to help communities develop their own financial instruments. 
 
 
 
