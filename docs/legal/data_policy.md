@@ -1,9 +1,7 @@
-# Data Protection Policy
+# Grassroots Economics Foundation's Data Protection Policy
 
 
-### Grassroots Economics Foundation
-
-**_Note about this policy template: Protecting individuals’ Personal Data is an integral part of protecting their life, integrity and dignity. The right to privacy has long been recognized globally as a human right, while the right to Personal Data protection is a relatively recent human right that is closely connected to the right to privacy and sets forth conditions for the Processing of data of an identified or identifiable individual. This is why Personal Data protection is of fundamental importance for Humanitarian Organizations like us. This policy details our Foundations commitment to Data protection and privacy._**
+**_Note about this policy: Protecting individuals’ Personal Data is an integral part of protecting their life, integrity and dignity. The right to privacy has long been recognized globally as a human right, while the right to Personal Data protection is a relatively recent human right that is closely connected to the right to privacy and sets forth conditions for the Processing of data of an identified or identifiable individual. This is why Personal Data protection is of fundamental importance for Humanitarian Organizations like us. This policy details our Foundations commitment to Data protection and privacy._**
 
 
 ## Definitions
