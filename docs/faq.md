@@ -1,7 +1,5 @@
 # Frequently Asked Questions (FAQ)
 
-October 8 2021 
-
 This FAQ accompanies the [Training Guide](/training/) and the [Glossary](/glossary/).
 
 
@@ -9,18 +7,18 @@ This FAQ accompanies the [Training Guide](/training/) and the [Glossary](/glossa
 
 
 ## Basics
-  
+
 
 * What are Community Inclusion Currencies (CICs)?
-    * CICs are tradable **Vouchers, redeemeable for goods and/or services** of participating individuals, organizations, schools, shops, groups, farms, and clinics. Anyone can create their own CIC which acts as **a local means of trade and exchange **that does not replace but rather supplements (tops-up) lacking national currency. Through increasing trade by matching unmet local needs with under-utilized local resources CICs enable sustainable economic, environmental and social development. Here you can see our definition of a [Voucher](/sarafu_clearing_union/).
+    * CICs are tradable **Vouchers, redeemable for goods and/or services** of participating individuals, organizations, schools, shops, groups, farms, and clinics. Anyone can create their own CIC which acts as **a local means of trade and exchange **that does not replace but rather supplements (tops-up) lacking national currency. Through increasing trade by matching unmet local needs with under-utilized local resources CICs enable sustainable economic, environmental and social development. Here you can see our definition of a [Voucher](/sarafu_clearing_union/).
     * Note that we will often call all CICs on Sarafu Network a *Sarafu* (which means currency in Kiswahili).
-* How do you create a CIC? 
-    * People, groups (chamas) and organizations can issue or create a CIC by creating a backing guarantee or Commitment Agreement - see [Operations](/ops/).
+* How do you create a CIC?
+    * People, groups (chamas) and organizations can issue or create a CIC by creating a backing guarantee or Commitment Agreement - see [Operations](/operations/).
 * What is my CIC’s exchange rate?
-    * When creating a CIC you specify the unit of account. Generally issueers create CICs denominated 1:1 with natioanl currency to make their usage easier, but others will choose units of account like fresh water.
-    * There is no official exchange for CICs and national currency - the only guarentee is redemption for goods and services of the issuers - as payment in-lieu of or in addition to national currency.
-*  How do you get more CIC? 
-    * **Buying: **By allowing users to buy your goods or services using CIC, this is considered barter trade as you should be able to spend the CIC you recieve back at other users in the community. This doesn’t change the CICs exchange value. n.b. You could also call this **selling** your Vouchers. Note that while vouchers can be exchanged for other vouchers or goods and services they can allso be excahnged for (purchased with) national currency - but there is no guarentee of redemption for national currency.
+    * When creating a CIC you specify the unit of account. Generally issuers create CICs denominated 1:1 with national currency to make their usage easier, but others will choose units of account like fresh water.
+    * There is no official exchange for CICs and national currency - the only guarantee is redemption for goods and services of the issuers - as payment in-lieu of or in addition to national currency.
+*  How do you get more CIC?
+    * **Buying: **By allowing users to buy your goods or services using CIC, this is considered barter trade as you should be able to spend the CIC you receive back at other users in the community. This doesn’t change the CICs exchange value. n.b. You could also call this **selling** your Vouchers in-kind. Note that while vouchers can be exchanged for other vouchers or goods and services they can also be exchanged for (purchased with) national currency - but there is no guarantee of redemption for national currency.
     * **Creating/Minting: **People, groups (chamas) and organizations can issue or create a CIC by creating a backing guarantee as part of their Membership Agreement - see [Operations](/ops/).
     * **Redistribution:** A group creating a CIC may give out CIC to members and collect it back as a tax and redistribute for community support.
 * What is the difference between Sarafu (SRF) and other Sarafu/CICs on Sarafu Network
@@ -32,20 +30,20 @@ This FAQ accompanies the [Training Guide](/training/) and the [Glossary](/glossa
     * **Increase trade:** increase your daily sales and customers; and to save more National Currency for needs outside the community.
     * **Reduce Informal debt:** instead of trading increase your daily sales and customers; and to save more National Currency for needs outside the community.
     * **Strengthen local markets:** create a strong community network and market (allowing people to meet, share ideas, trade goods and services and to launch group programs and initiatives).
-    * **Community participation:** enable greater participation in community events 
+    * **Community participation:** enable greater participation in community events
 * What are the benefits of creating CICs?
     * **Leverage:** By committing resources backing CIC you create a credit (with no interest) against your future production and multiply your purchasing power.
     * **Share holders:** Because CICs derive their value from social backing (acceptance of goods and services) - by holding CICs members hold a share of a fiscal commons. This gives holders a stake in the local economy.
-    * **Traceability:** Since people and even donors can see anonymous trading data they can choose to support a CIC that is supporting a community in need. CIC's can in turn be purchased by humanitarian orgs and redistributed to both help empower and support vulnerable communities. 
+    * **Traceability:** Since people and even donors can see anonymous trading data they can choose to support a CIC that is supporting a community in need. CIC's can in turn be purchased by humanitarian orgs and redistributed to both help empower and support vulnerable communities.
 * Why is it important to keep CICs circulating?
     * The more CICs are exchanged among members, the more it they develop the local economy. If they stops circulating, they stops helping people trade. As much as anyone spends a CIC they should also be accepting CIC for any goods or services to support the community.
     * The impact a CIC has on the local community and economy is higher the more CICs are used (multiplier effect).
-* Trade Balance (TB) 
-    * TB can be defined as the amount of CIC spent by the amoutn of CIC received for goods and services minus the amount they have spent. The goal for good circulation is to maintain a 0 trade balance. Voucher Issuing Members wishing to leave the network should also come back to a zero trade balance before leaving.
-    * A TB less than zero represents a situation where they have spent more than they have accepted back and are therefore in debt to the community and should accept more CIC. 
+* Trade Balance (TB)
+    * TB can be defined as the amount of CIC spent by the amount of CIC received for goods and services minus the amount they have spent. The goal for good circulation is to maintain a 0 trade balance. Voucher Issuing Members wishing to leave the network should also come back to a zero trade balance before leaving.
+    * A TB less than zero represents a situation where they have spent more than they have accepted back and are therefore in debt to the community and should accept more CIC.
     * While a TB greater than zero would represent having received more CIC than they have spent and the user should spend more CIC in the community.
 
-## Running a Business 
+## Running a Business
 
 * How do I top-up my CIC once I have used it?
     * Try to buy using your CIC each day and try to sell your goods with CIC each day. Balance your purchases and sales.
@@ -61,18 +59,18 @@ This FAQ accompanies the [Training Guide](/training/) and the [Glossary](/glossa
     * Your balance may go up and down but on average you should match your spending with your income of CICs.
     * If you decide to hold CICs long term you are investing in the growth of the economy they represent (markets and businesses using the CIC).
 * What should I do if I have too many CICs?
-    * If you receive more CIC than you are able to spend, you can solve this problem by: 
-        * Finding workers or businesses to buy services from using CICs 
+    * If you receive more CIC than you are able to spend, you can solve this problem by:
+        * Finding workers or businesses to buy services from using CICs
         * Enrolling businesses that you want to spend CICs at!
         * Giving CIC as change to your customers or as top ups or salary advances to your workers.
         * Contact the CIC issuer or group and explain the situation and ask for help.
 * What should I do if I have too little CICs?
-    * By spending your CICs you have received goods and/or services from other users. You must accept CICs back for your goods and services. 
+    * By spending your CICs you have received goods and/or services from other users. You must accept CICs back for your goods and services.
     * You need more customers with CIC. Have your customers register and advertise yourself to more members.
     * If no one is buying your goods and services using CIC
         * Contact the CIC issuers or chama
         * Enroll your clients and get a referral bonus
-        * Buy goods and services from members in Kenyan Shillings and accept change in CICs. 
+        * Buy goods and services from members in Kenyan Shillings and accept change in CICs.
 * What should I do if other members are not accepting CICs 1:1 with national currency as indicated on the CIC?
     * Make sure the member understands the program; they might not understand how to price their items using CICs
     * Give the person a chance to explain why they are not accepting it and try again later.
@@ -93,9 +91,9 @@ This FAQ accompanies the [Training Guide](/training/) and the [Glossary](/glossa
 
 * How are CICs regulated?
     * On August 23<sup>rd</sup> 2013, Bangla-Pesa which is a CIC was deemed by the Director of Public Prosecution in Kenya to not have broken any laws.
-    * 
+    *
 * Do CICs expire?
-    * CICs gradualy expire in the form of a levy on balances. Which accrues to 2% a month and automatically goes to the creator or community group creating that CIC.
+    * CICs gradually expire in the form of a levy on balances. Which accrues to 2% a month and automatically goes to the creator or community group creating that CIC.
 * How does a Savings Group (Chama) use CICs?
     * Chama members can register for an account and begin to save and loan CICs just like they do with National Currencies.
     * One chama member account is designated as the *Chama account* where members store their savings.
@@ -106,9 +104,9 @@ This FAQ accompanies the [Training Guide](/training/) and the [Glossary](/glossa
     * Users are expected to use the CIC mainly as a means of exchange in the local business community and to keep the KSH to build up savings or buy “imported” products.
 * Your CIC vs other CICs (Trading between communities)
     * If someone sends you another CIC from another community, you will have multiple CICs in your wallet and can choose between them.
-    * Each CIC represents the goods and services of a particular community. 
+    * Each CIC represents the goods and services of a particular community.
 * What is the technology behind CICs?
-    * CICs are digital and residing on a public blockchain. 
+    * CICs are digital and residing on a public blockchain.
     * CICs accounts can be accessed through USSD on feature phones - and soon an app and web interface.
     * The Sarafu Network was built using Python and Typescript and Solidity
 * Is the technology open source?
@@ -128,7 +126,7 @@ QUIZ / JARIBIO
 
 **1. How much Sarafu (SRF) do new members get?**
 
-(a) 100 (b) 200 (c) 50 (d) 500 (e) depends on the member’s activity, type and size of businesses (f) Depends on Grassroots Economics avaliability of SRF
+(a) 100 (b) 200 (c) 50 (d) 500 (e) depends on the member’s activity, type and size of businesses (f) Depends on Grassroots Economics availability of SRF
 
 **2. How many CICs will be created if a group commits to backing them with 10,000 KSH worth of their products? (Assuming the group can redeem these vouchers within a month)**
 
@@ -146,7 +144,7 @@ QUIZ / JARIBIO
 
 (c) Never
 
-(d) When a willing party choosed to buy them (there is no obligation)
+(d) When a willing party chose to buy them (there is no obligation)
 
 **5. What is the value behind 50 CICs generally? **
 
