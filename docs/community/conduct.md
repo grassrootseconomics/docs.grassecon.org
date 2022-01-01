@@ -81,5 +81,4 @@ https://www.contributor-covenant.org/faq
 words of Bill and Ted, "Be excellent to each other."
 
 These documents are licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/
-And further any software Grassrotos Economics supports is under licenced under GNU GENERAL PUBLIC LICENSE Version 3 https://www.gnu.org/licenses/
-
+And further any software Grassroots Economics supports is licenced under GNU GENERAL PUBLIC LICENSE Version 3 https://www.gnu.org/licenses/

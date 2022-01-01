@@ -9,7 +9,7 @@
     1. Key Result: Run 1 disaster recovery exercise and report findings and create DR playbook
     1. Key Result: Integration tests are ran on all commits to master
     1. Key Result: Able to output reports / dashboard on CIC data
-    
+
 1. Objective: make the monorepo less of a chore to run {Q4_2021}
     1.  Key Result: services use mounted code and hot reload
     1.  Key Result: the root README.md gives new users enough info to get started
@@ -17,7 +17,7 @@
 ## Community Distributed Services
 
 1. Objective: Local Blockchain Development
-    1. Key Result: Specifications for all shared ledger features with consistancy with CIC legal and tech framework {Q1_2022}
+    1. Key Result: Specifications for all shared ledger features with consistency with CIC legal and tech framework {Q1_2022}
     1. Key Result: Tested Interoperability between CIC Chains (BloxBerg and new chains) {Q3_2022}
     1. Key Result: New Chain deployed on a local CIC network with 5+ nodes {Q4_2022}
 
@@ -27,8 +27,8 @@
     1. Key Result: Teaching service providers {Q4_2022}
 
 1. Objective: Bring online and offline content to those underserved {Q2_2022}
-    1. Key Result: Deploy a mesh network 
-    1. Key Result: Create a CIC for broadband services 
+    1. Key Result: Deploy a mesh network
+    1. Key Result: Create a CIC for broadband services
     1. Key Result: Create a CIC for offline local content
 
 1. Objective: User should be able to share local content {Q2_2022}
@@ -41,10 +41,10 @@
     1. Key Result: Develop spec on impact claims regarding CICs
     1. Key Result: visualize claims about a CIC
     1. Key Result: We deploy and visualize claims about software development
-    1. Key Result: We enable supporters to contibute toward claims
+    1. Key Result: We enable supporters to contribute toward claims
 
 1. Objective: Sarafu (gift token) is fairly issued to users {Q2_2022}
-    1. Key Result: Users are co-endorsed before they get Sarafu or Sarafu disbursments (also for gas).
+    1. Key Result: Users are co-endorsed before they get Sarafu or Sarafu disbursements (also for gas).
 
 1. Objective: Service Providers and Users have the ability to connect to other tokens on other chains (bridging)
     1. Key Result: Able to create a liquidity pool between Sarafu and Eth via partners
@@ -52,9 +52,9 @@
 ## Privacy
 
 1. Objective: To give users control over their own data
-    1. Key Result: Research zkp for transactions 
+    1. Key Result: Research zkp for transactions
     1. Key Result: Research zkp other parameters
-    
+
 1. Objective: Censor Resiliency
     1. Key Result: Define secure tech for communications, data storage
 
@@ -62,11 +62,11 @@
 
 1. Objective: Users can interact with multiple tokens on USSD {Q4_2021}
     1. Key Result: Users on the Grassroots Economics mainnet deployment can hold multiple tokens
-    1. Key Result: Users can hold 100 tokens without performance degraedation
+    1. Key Result: Users can hold 100 tokens without performance degradation
     1. Key Result: Interview/test 2 chamas on UX of token creation and usage and report findings
 
-1. Objective: Users can support eachother to unlock / recover pins {Q4_2021}
-    1. Key Result: Launch a social recovery feature 
+1. Objective: Users can support each other to unlock / recover pins {Q4_2021}
+    1. Key Result: Launch a social recovery feature
     1. Key Result: 50% of new users using the social recovery function
 
 1. Objective: Users can see and choose recent/common contacts/recipients {Q1_2022}
@@ -92,7 +92,7 @@
 1. Objective: Users can interface with CICs and hold their own keys (Non-custodial wallet spec)
     1. Key Result: Specifications for all CIC features on a non-custodial wallet
 
-1. Objective: Users can rate eachothers goods and services and share those ratings on a marketplace / directory  {Q2_2022}
+1. Objective: Users can rate each others' goods and services and share those ratings on a marketplace / directory  {Q2_2022}
     1. Key Result: Rating menu item
     1. Key Result: Utilize ratings in Directory
 
@@ -125,21 +125,21 @@
 1. Objective: Our codebase has a great onboarding experience
     1. Key Result: Include a code of conduct for the Grassroots Economics is in the monorepo
     1. Key Result: The README describes how to build the monorepo and test
-    1. Key Result: Documention website
+    1. Key Result: Documentation website
     1. Key Result: create a strategy for chat communications
     1. Key Result: Re-deploy Nextcloud for team
     1. Key Result: All pr's use a "fork and pr" flow. Create a tutorial on how to  do this.
     1. Key Result: Deploy a Discourse forum and use it for longform content like RFC's and operational changes
-    1. Key Result: Desing track growth of our project (how many new contributes to chat/code/contribute)
+    1. Key Result: Design track growth of our project (how many new contributes to chat/code/contribute)
     1. Key Result: we a clear strategy around git self hosting and contributor experience
-    1. Key Result: All of our in-house code dependecies have test, ci, semver tagging and publish to relevent registry (e.g, pypi ect)
+    1. Key Result: All of our in-house code dependencies have test, ci, semver tagging and publish to relevant registry (e.g, pypi etc)
 
 ## Legal
 
 1. Objective: Clear legal framework for CIC issuance and service provision
     1. Key Result: A Clearing Union Charter {Q4_2021}
     1. Key Result: A Service Agreement contract for CIC creation and GE services {Q4_2021}
-    1. Key Result: New round of Legal Due Dilligence {Q1_2022}
+    1. Key Result: New round of Legal Due Diligence {Q1_2022}
 
 ## Implementations
 

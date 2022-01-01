@@ -1,6 +1,6 @@
 # Introduction to Legal
 
-The following documentation is meant to give you templates on designing legal frameworks surrounding community driven financial instruments like Community Inclusion Currencies. 
+The following documentation is meant to give you templates on designing legal frameworks surrounding community driven financial instruments like Community Inclusion Currencies.
 
 ## Legal Framework
 
@@ -10,8 +10,8 @@ By developing an inclusive legal Nondominium framework an open community is crea
 
 - The Economic Commons can be broken into various agreements:
     * [Grassroots Economics Commons License v1 (GECL v1)](/legal/gecl1/): A general overarching template that defines an Economic Commons and various rights and responsibilities of its Members.
-    * [Sarafu Clearing Union](/legal/scu/): The Sarafu Clearing Union (SCU) is an example Economic Commons which incorporates the GECL v1 with Grassroots Economics Foundation's Sarafu Network as its Platform. Futher Grassroots Economics as a Platform Service Provider declares the Sarafu Voucher and offers training, clearing, mediation, and running various micro-services, like blockchain nodes, wallets and marketplaces.
-    * [Voucher Creation](/legal/scu_voucher/): An example of an individual or group that wants to create a Voucher withing the SCU
+    * [Sarafu Clearing Union](/legal/scu/): The Sarafu Clearing Union (SCU) is an example Economic Commons which incorporates the GECL v1 with Grassroots Economics Foundation's Sarafu Network as its Platform. Further Grassroots Economics as a Platform Service Provider declares the Sarafu Voucher and offers training, clearing, mediation, and running various micro-services, like blockchain nodes, wallets and marketplaces.
+    * [Voucher Creation](/legal/scu_voucher/): An example of an individual or group that wants to create a Voucher within the SCU
     * [Intermember Service Agreement](/legal/scu_service/): Establishes agreements between SCU Members. This example a Voucher creator wishes to subscribe to the services of Grassroots Economics while paying service fees in Vouchers.
     * [Data Policy](/legal/data_policy/): Here is an example of a data protection policy of Grassroots Economics as a Platform Service Provider.
 
@@ -19,9 +19,9 @@ By developing an inclusive legal Nondominium framework an open community is crea
 ```graphviz dot clearing_union2.svg
 digraph D {
  compound=true;
- 
+
   subgraph cluster_p {
-      
+
     label = "Clearing Union";
      style="rounded"
 
@@ -42,4 +42,3 @@ digraph D {
   }
 }
 ```
-

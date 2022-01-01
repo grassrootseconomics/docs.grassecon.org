@@ -16,13 +16,13 @@ While work toward non-custodial and we interfaces are underway the CIC Stack is 
 
 - **Base components**, containing all necessary provisions for services and tooling. ([Chaintools](https://gitlab.com/chaintool))
 - **Generic services components**, libraries, daemons and services making up the custodial engine. ([cicnet](https://gitlab.com/chaintool))
-- **Deployment components**, which facilitates deployment of the custodial engine, as well as seeding data for development, demonstration and migration. ([GrassrootsEconomics](https://gitlab.com/grassrootseconomics/)) 
+- **Deployment components**, which facilitates deployment of the custodial engine, as well as seeding data for development, demonstration and migration. ([GrassrootsEconomics](https://gitlab.com/grassrootseconomics/))
 
 
 ## Base components
 
-- **Queue handling** ([chainqueue](https://gitlab.com/chaintool/chainqueue)): Makes sure that a transaction sent on behalf of a user is sent, resubmitted if stalled, and whose execution is verified by quering the network state. 
-- **Chain syncing**, ([chainsyncer](https://gitlab.com/chaintool/chainsyncer)): Retrieves all state changes from the network and executes an arbitary number of code fragments per transaction. 
+- **Queue handling** ([chainqueue](https://gitlab.com/chaintool/chainqueue)): Makes sure that a transaction sent on behalf of a user is sent, resubmitted if stalled, and whose execution is verified by querying the network state.
+- **Chain syncing**, ([chainsyncer](https://gitlab.com/chaintool/chainsyncer)): Retrieves all state changes from the network and executes an arbitrary number of code fragments per transaction.
 - **RPC (Remote Procedure Call) interface**, which divides in two parts:
 	1. **Generic interface** ([chainlib](https://gitlab.com/chaintool/chainlib)): Concepts common to all chain-like RPCs, and provides a thread-safe interaction framework.
 	1. **Ethereum interface** ([chainlib-eth](https://gitlab.com/chaintool/chainlib-eth)): An extension of the former for the Ethereum/EVM network.
@@ -36,7 +36,7 @@ While work toward non-custodial and we interfaces are underway the CIC Stack is 
 - All smart contract wrappers in the [cicnet](https://gitlab.com/cicnet) repository.
 - **CIC Contract registry** ([cic-eth-registry](https://gitlab.com/grassrootseconomics/cic-eth-registry)): Defines token and resource pointer lookup and authentication resources.
 - Daemons and microservices in the **apps** subdirectories in the [cic-internal-integration](https://gitlab.com/grassrootseconomics/cic-internal-integration) monorepo, specifically:
-	* **cic-eth**: Massively parallell and fault-tolerant implementation of the custodial signer/queuer/syncer engine, accepting tasks from end-users via middleware.
+	* **cic-eth**: Massively parallel and fault-tolerant implementation of the custodial signer/queuer/syncer engine, accepting tasks from end-users via middleware.
 	* **cic-cache**: Cache syncer and database fetching and storing details on transactions of interest.
 	* **cic-ussd**: State machine, microservices and gateway for end-users using the USSD (Unstructured Supplementary Service Data) interface via telcos.
 	* **cic-notify**: Pluggable notification engine, initially used only for SMS notifications to end-users.
@@ -65,7 +65,7 @@ digraph {
 		cic_cache_server [ label="cic-cache-server", shape="box" ];
 		cache_store [ label="cache store", shape="cylinder" ];
 	}
-	
+
 	subgraph cic_user {
 		cic_user_server [ label="cic-user-server", shape="box" ];
 		cic_user_tasker [ label="cic-user-tasker", shape="box" ];
@@ -140,4 +140,3 @@ digraph {
 	storage_mux -> torrent;
 }
 ```
-
