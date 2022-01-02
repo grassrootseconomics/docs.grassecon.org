@@ -1,0 +1,15 @@
+# Voucher (CIC) Creation
+
+This is a summary of the Voucher creation process. Our [Community Training Guide](/operations/training/) gives a basic training for identifying local resources and sharing them together using a voucher.
+
+1. **Resource Mapping**: Working with your community to map out resources and needs. Often people don’t realize how much they can offer and how much they can support each-other. The Training guide goes through the majority of these steps. Also note that individuals and organizations like Grassroots Economics can create their own vouchers.
+1. **Learning through games**: Ensure that everyone involved or expected to utilize a CIC is able to play through a demonstration with others. Work out all the kinks BEFORE you start.
+1. **Demonstrate Collective Commitments**: Coming up with agreements on what each member of the community can offer to the whole in exchange for vouchers.
+1. **Audits, Endorsements and Conflict Mitigation**: Commitments should be internally audited by the community and as well with a designated auditor to ensure that the vouchers can be redeemed in a  reasonable amount of time. A mediator should be assigned to deal with conflicts, like when a member spends but refuses to redeem vouchers they created.
+1. **Agreements Signed (see [legal section](/legal/) )**
+    1. **Voucher Declaration**: The above work defining the Voucher is collected into a Voucher Declaration.
+    1. **Service Agreement**: Should the community need a service provider, then an agreement is developed between the community and a Platform Service Provider.
+1. **Minting / Voucher Creation**: This is generally handled by a Platform Service Provider like Grassroots Economics, who will validate the groups commitments, audits and endorsements and deploy a contract on a ledger that is visible to anyone. This contract (smart contract) will hold all the relevant information about the Voucher and create the supply.
+1. **Initial Voucher Distribution**: After minting, Vouchers will then be distributed to the Community that has committed to redeeming them with full transparency. This will be done as per the instructions of the community and can be facilitated by a community treasurer. It is recommended to have a voted on community fund /treasury which will also collect any levies (demurrage).
+1. **Greater Community Outreach**: While the community of issuers may begin to assign and clear vouchers among each other, they will generally want to spread their usage to their greater community. They can choose to give new users a small amount out of a community fund as is done with Sarafu, or to simply try to sell the Vouchers or use them to buy goods or services.
+1. **Long Term Maintenance**: Imbalance / inequality is a common character of any credit system. Some people may end up with a lot and some people may end up with zero. Having regular meetings, or market days and actively clearing imbalances together is highly recommended. A levy on accounts is a good way to ensure that people have no incentive to hold Vouchers as a form of savings or investment and that they continue to circulate as a medium of exchange.
