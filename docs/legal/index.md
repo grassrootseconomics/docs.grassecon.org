@@ -20,6 +20,14 @@ By developing an inclusive legal Nondominium framework an open community is crea
 digraph D {
  compound=true;
 
+  subgraph cluster_e {
+
+    label = "Economic Commons";
+     style="rounded"
+
+
+
+
   subgraph cluster_p {
 
     label = "Clearing Union";
@@ -32,7 +40,7 @@ digraph D {
         nd_3   [label = "General\nMember"];
         nd_4   [label = "General\nMember"];
 	serve_1   [label = "Service Agreements"];
-	csp   [label = "Core Service Providers"];
+	csp   [label = "Platform Service Providers"];
         nd_1 -> serve_1 -> csp
         nd_2 -> serve_1 -> csp
         nd_3 -> serve_1 -> csp
@@ -40,5 +48,6 @@ digraph D {
 	serve_1 -> e;
 
   }
+    }
 }
 ```
