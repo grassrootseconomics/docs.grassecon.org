@@ -11,13 +11,13 @@
   <tr>
    <td><strong>GE / the Foundation</strong>
    </td>
-   <td>Grassroots Economics, a registered Foundation.
+   <td>Grassroots Economics Foundation, a registered non-profit
    </td>
   </tr>
   <tr>
    <td><strong>GDPR</strong>
    </td>
-   <td>The General Data Protection Regulation.
+   <td>The General Data Protection Regulation
    </td>
   </tr>
   <tr>
@@ -133,8 +133,7 @@ Regular staff training will be conducted to ensure individuals are sensitive to 
 
 ## 12. Data Stored and Classifications
 
-The following data are stored by the Foundation. Note that items that are non-public identifying information (non-PII) are considered non-confidential.
-
+The following data are stored by the Foundation. Note that data that contitutes non-public identifying information (non-PII) as well as information users have chosen to share publicaly is considered non-confidential.
 
 <table>
   <tr>
@@ -145,6 +144,16 @@ The following data are stored by the Foundation. Note that items that are non-pu
    <td><strong>Description</strong>
    </td>
    <td><strong>Classification</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Instrument Data</strong>
+   </td>
+   <td>Mandatory
+   </td>
+   <td>All public information about the details and obligations associated with Instruments such as Vouchers. E.g. This is to ensure that anyone can look-up who issued a Voucher and how it can be redeemed as payment. This may include contact information and endorsments for a business or community group issuing a Voucher.
+   </td>
+   <td>Non-Confidential
    </td>
   </tr>
   <tr>
@@ -192,7 +201,7 @@ The following data are stored by the Foundation. Note that items that are non-pu
    </td>
    <td>Mandatory
    </td>
-   <td>Ledger Information (non-PII) referencing only Public Key
+   <td>Ledger Information (non-PII) referencing only Public Key for all registered Instruments utilized by Members
    </td>
    <td>Non-Confidential
    </td>

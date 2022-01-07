@@ -1,4 +1,4 @@
-# Grassroots Economics Commons License v1 (GECL 1)
+# Grassroots Economics Commons License (GECL) v1.0
 
 ## About
 
@@ -34,14 +34,32 @@ The core Principles of an Economic Commons include:
 
 ## Definitions
 
-### Instruments
+### Platform  
+
+The Platform of a Economic Commons is maintained by Platform Service Providers and includes the following categories of services:
+
+1. Technical Services: 
+    1. Secure Member account and shared Instrument registries (herein called “Ledgers”) have the following properties:
+        1. All Member accounts, data and shared Instruments are recorded in unique time order in a Ledger.
+        1. Member accounts on a Ledger can hold multiple Instruments.
+	1. A Ledger tracks all usage of Instruments security and immutably.
+        1. Ledgers must be secure and resistant to security breached and loss of data.
+	1. Instruments are binding on Members when registered in a Ledger. 
+        1. Ledgers must open for inspection by Members.
+    2. Communications interfaces (herin called Wallets).
+        1. A wallet enables Members to access to viewing and interacting with Instruments and Accounts on a Ledger.
+2. Social Services: Support and sharing of knowledge regarding specific Economic Commons implementations. 
+3. Legal: Due Diligence, audits and arbitration of disputes regarding specific Economic Commons implementations. 
+
+
+### Instruments 
 
 The Instruments of an Economic Commons include:
 
 1. **Token (Unilateral Instrument)** - a real or virtual object (fungible or non fungible) that may be accepted by another Member in exchange for value at their complete discretion.
 
-    (There is no obligation to accept a Token nor is there any obligation to redeem a Token by the issuer. Tokens may represent receipts for having supported a local community.)
-
+    (There is no obligation to accept a Token nor is there any obligation to redeem a Token by the issuer. Tokens may represent collectible endorsed data such as Voucher usage.)
+    
 2. **Voucher (Bilateral Instrument)** – a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the issuer.
 
     The following are properties of Vouchers:
@@ -55,39 +73,17 @@ The Instruments of an Economic Commons include:
 
 3. **Swap (Multilateral Instrument)** – a production and risk sharing agreement over time.
     1. e.g. A Swap may entitle a group of Members to share in the revenue or production from land usage over a period of time. Vouchers or Tokens based on flows of land use revenue or production are allocated proportionally between the accounts of Members.
-    2. e.g. A Swap may entitle a provider of a Voucher or Token in exchange for another to receive a share of the exchange volume.    
-
-### Platform  
-
-The Platform of a Economic Commons is maintained by Platform Service Providers and includes the following categories of services:
-
-1. Technical Services:
-    1. Secure Member account and shared Instrument registries (herein called “Ledgers”) have the following properties:
-        1. All Member accounts, data and shared Instruments are recorded in unique time order in a Ledger.
-        1. A Member account on a Ledger can hold multiple Instruments.
-	1. A Ledger tracks all usage of Instruments security and immutably.
-        1. Decentralization: No single Member should have the ability to shut a Ledger down.
-	1. Instruments are binding on Members under a Economic Commons Implementation when registered in a Ledger.
-        1. Ledgers are defined by the following **Ledger Specification (LEDGER_SPEC):**
-             1. **Architecture: **e.g. EVM Ethereum Virtual Machine
-             2. **Fork/Version:  **e.g. Byzantium
-             3. **Network ID: **e.g. 8996
-             4. **Common Name: **e.g. BloxBerg
-             5. **Custom Parameters: ** e.g. {RPC Endpoint: http://bloxberg.org, Interface: ERC20}
-    2. Communications interfaces (herein called Wallets).
-        1. A wallet enables Members to access to viewing and interacting with Instruments and Accounts on a Ledger.
-2. Social Services: Support and sharing of knowledge regarding specific Economic Commons implementations.
-3. Legal: Due Diligence, audits and arbitration of disputes regarding specific Economic Commons implementations.
+    2. e.g. A Swap may entitle a provider of a Instrument in exchange for another Instrument to receive a share of the exchange volume.    
 
 
 ## Organization  
 
 
-### (a) Members  
+### Members  
 
 A Member of an Economic Commons is an individual person, organization or an association of Members with a common purpose, who ratify and Implement a Economic Commons it or use implemented Economic Commons Instruments as per their local needs.
 
-There are three Member Classes defined below, with the following rights and obligations:
+There are three Member **Classes** defined below, with the following rights and obligations: 
 
 1. **General Members**:
     1. Right to utilize all Economic Commons-defined Instruments
@@ -102,31 +98,31 @@ There are three Member Classes defined below, with the following rights and obli
         1. Right to receive agreed development and operating costs and an agreed production share in respect of Platform services and Swaps
         1. Right to use and migrate custodial Member Accounts and Instruments to appropriate Ledgers
         1. Obligation to maintain the Platform’s open source software code base
-        1. Obligation to operate the Platform’s servers and various micro-services.
-        1. Obligation to hold and secure granted Member data and intellectual property jointly in common.
-        1. Obligation to provide Members access to their Ledger accounts and shared Instruments.
-        1. Obligation to provide a means of a secure identification to Members in order to interact with a Ledger.
-    2. Social:
-        1. Right to make available non confidential Member and Instrument data to Researchers and Members.
-        1. Obligation to provide training and education, administer Member service agreements, ensure confidential data transparency, oversee quality standards.
-    3. Legal:
-        1. Right to assign an auditor to assess any Member Instruments and Applications.
-	1. Right to suspend services and remove Wallet access to Member Accounts and Instruments
-        1. Right to assign arbitrators for the mediation of disputes.
-        1. Obligation to arbitrate disputes in relation to usage of Instruments.
+        1. Obligation to operate the Platform’s servers and various micro-service
+        1. Obligation to hold and secure granted Member data and intellectual property jointly in common
+        1. Obligation to provide Members access to their Ledger accounts and shared Instruments
+        1. Obligation to provide a means of a secure identification to Members in order to interact with a Ledger
+    2. Social: 
+        1. Right to make available non confidential Member and Instrument data to Researchers and Members
+        1. Obligation to provide training and education, administer Member service agreements, ensure confidential data transparency, oversee quality standards
+    3. Legal: 
+        1. Right to assign an auditor to assess any Member Instruments and Applications
+        1. Right to suspend services and remove Wallet access for Members
+        1. Right to assign arbitrators for the mediation of disputes
+        1. Obligation to arbitrate disputes in relation to usage of Instruments
 
 3. **Guardians**
-    1. Rights to design and Implement an Economic Commons.
-    1. Rights of final veto on behalf of Members generally in respect of amendments to this agreement incompatible with the Aim and Principles.
-    2. Obligation to arbitrate disputes in relation to Aim and Principles of a Economic Commons Agreement.
+    1. Rights to design and Implement an Economic Commons
+    1. Rights of final veto on behalf of Members generally in respect of amendments to thisan Economic Commons agreement incompatible with the Aim and Principles.
+    2. Obligation to arbitrate disputes in relation to Aim and Principles of an Economic Commons.
 
-### (b) Class Agreements and Admissions
+### Class Agreements and Admissions 
 
-1. Members may participate in more than one Member Class. E.g. A Platform Service Provider can also be a General Member and develop a voucher redeemable for their services.
-1. Any person or organizations holding an account or whom utilizes Instruments on the Platform is considered a Member.
-1. Mutual agreements between Members define standards, rights and obligations.
+1. Members may participate in more than one Member Class. E.g. A Platform Service Provider can also be a General Member and develop a voucher redeemable for their services
+1. Any person or organizations holding an Platform account or whom utilizes Instruments on the Platform is considered a Member
+1. Mutual agreements beween Members define standards, rights and obligations
 7. **Non-Performance:** should a Member be unable or unwilling to uphold their obligations or honor stated commitments they will be designated as non-performing subject to the following:
-    1. any material shortfall in commitments or obligations by Members individually or collectively shall be made good following review and recommendations by the Service Provider and subject to the agreement of Members generally.
+    1. any material shortfall in commitments or obligations by Members individually or collectively shall be made good following review and recommendations by the Service Provider and subject to the agreement of Members generally
 
 1. **Termination of Membership:** Member’s may terminate Membership at any time upon 60 days advance written notice of termination and shall comply with the obligations in effect at the time of termination.
     1. A Non-Performing Member wishing to terminate membership must demonstrate their complete inability to perform obligations to a Validator assigned by the Service Provider.
@@ -135,7 +131,7 @@ There are three Member Classes defined below, with the following rights and obli
 
 1. Amendments to this Agreement require a majority in number of Members.
 2. Amendments in conflict with the Aim and Principles are subject to veto by a majority in number of Guardians.
-
+3. All Members enters into this agreement in good faith and holds harmless Members of the Economic Commons.
 
 ## Entirety
 
