@@ -8,7 +8,7 @@ We **Grassroots Economics Foundation** _(herein called the Founding Member)_ her
 
 ## Platform:
 
-The Platform of the Sarafu Clearing Union (herin called Sarafu Network) will utilize the Founding Member as the Platform Service Provider and provide the following services:
+The Platform of the Sarafu Clearing Union (herein called Sarafu Network) will utilize the Founding Member as the Platform Service Provider and provide the following services:
 
 1. Ledger Services:
     1. The Founding Member will deploy their own and other Member Instruments and register them on the following Ledger with **Chain Specifications (CHAIN_SPEC):**
@@ -25,7 +25,7 @@ The Platform of the Sarafu Clearing Union (herin called Sarafu Network) will uti
 ## Instruments
 
 1. Voucher
-    All further mention of Vouchers in this agreement will refer to the Founding Members’s unique Voucher with the following properties and constraints:
+    All further mention of Vouchers in this agreement will refer to the Founding Member’s unique Voucher with the following properties and constraints:
 
     1. **Voucher Name**: e.g. Sarafu (Minimum 3 and Maximum 32 characters)
     1. **Voucher Symbol**: e.g. SRF (Minimum 3 and Maximum 6 characters used for display on the Platform)
@@ -54,13 +54,13 @@ The Platform of the Sarafu Clearing Union (herin called Sarafu Network) will uti
 6. **Good Faith:** All Member enters into this Agreement in good faith and holds harmless Members of the Sarafu Clearing Union.
 7. **Entirety:** this application represents consent to the entirety of a mutual agreement between Sarafu Clearing Union Members to the expressed common purpose and no other.
 
-## Official Signatories 
-**In WITNESS WHEREOF**, the duly authorized Guardians of the Sarafu Clearing Union sign this agreement on the dates indicated below, and agree to abide by the terms of this agreement. 
+## Official Signatories
+**In WITNESS WHEREOF**, the duly authorized Guardians of the Sarafu Clearing Union sign this agreement on the dates indicated below, and agree to abide by the terms of this agreement.
 
 1. Founding Member
     1. Full Name:
     1. Contact Information or Service: (e.g. email or phone number)
-    1. On behalf of: (e.g. If signing as a duly authorized represetnative of an association, business or entity)
+    1. On behalf of: (e.g. If signing as a duly authorized representative of an association, business or entity)
     1. Proof of Identity: (e.g. Passport number and country or other proof)
     1. Date of Signing:
     1. Signature or Hash:

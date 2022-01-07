@@ -1,6 +1,18 @@
-# CIC Stack Summary
+# CIC Software
 
-While work toward non-custodial and we interfaces are underway the CIC Stack is currently a custodial wallet and blockchain bidirectional interface engine for community inclusion currencies
+## Technology Setup
+
+Generally the technical setup is done by a local Platform Service Provider like Grassroots Economics. The more local the better.
+
+1. **Open Source (CopyLeft) Software**: Ensure that you trust the software being used and that even if it is open source now, that improvements and upgrades will remain open source. Check out our [stack](/software/).
+1. **Distributed Ledger**: We highly recommend developing your own ledger system where members of the community hold nodes that decentralize and secure the ledger.
+1. **Interfaces / Wallets**: We’ve built custodial systems that enable users to assign guardians that can help them reset lost passwords.
+1. **Data Sharing**: Given the consent of the community, anonymous transaction data can be recorded and displayed
+
+
+## CIC Stack Summary
+
+While work toward *non-custodial* and web interfaces are underway, the CIC Stack is currently a *custodial* wallet and blockchain bidirectional interface engine for community inclusion currencies
 
 - Fully Open source GPL 3.0 License
 - Automates the full lifecycle of blockchain transactions
@@ -36,7 +48,7 @@ While work toward non-custodial and we interfaces are underway the CIC Stack is 
 - All smart contract wrappers in the [cicnet](https://git.grassecon.net/cicnet) repository.
 - **CIC Contract registry** ([cic-eth-registry](https://gitlab.com/grassrootseconomics/cic-eth-registry)): Defines token and resource pointer lookup and authentication resources.
 - Daemons and microservices in the **apps** subdirectories in the [cic-internal-integration](https://gitlab.com/grassrootseconomics/cic-internal-integration) monorepo, specifically:
-	* **cic-eth**: Massively parallell and fault-tolerant implementation of the custodial signer/queuer/syncer engine, accepting tasks from end-users via middleware.
+	* **cic-eth**: Massively parallel and fault-tolerant implementation of the custodial signer/queuer/syncer engine, accepting tasks from end-users via middleware.
 	* **cic-cache**: Cache syncer and database fetching and storing details on transactions of interest.
 	* **cic-ussd**: State machine, microservices and gateway for end-users using the USSD (Unstructured Supplementary Service Data) interface via telcos.
 	* **cic-notify**: Pluggable notification engine, initially used only for SMS notifications to end-users.
@@ -65,7 +77,7 @@ digraph {
 		cic_cache_server [ label="cic-cache-server", shape="box" ];
 		cache_store [ label="cache store", shape="cylinder" ];
 	}
-	
+
 	subgraph cic_user {
 		cic_user_server [ label="cic-user-server", shape="box" ];
 		cic_user_tasker [ label="cic-user-tasker", shape="box" ];
@@ -140,4 +152,3 @@ digraph {
 	storage_mux -> torrent;
 }
 ```
-

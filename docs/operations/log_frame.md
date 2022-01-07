@@ -62,7 +62,7 @@
   <tr>
    <td>
    </td>
-   <td>The CIC ledger is securly distributed and can be accessed by many CSPs (ideally a server (node) can be run by the Implementing Organization)
+   <td>The CIC ledger is securely distributed and can be accessed by many CSPs (ideally a server (node) can be run by the Implementing Organization)
    </td>
    <td>List of Ledger Nodes locations and operators
    </td>
@@ -444,4 +444,3 @@
    </td>
   </tr>
 </table>
-

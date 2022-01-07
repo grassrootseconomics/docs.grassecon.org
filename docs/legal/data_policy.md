@@ -79,7 +79,7 @@ _In the case of Humanitarian aid ie. cash transfers being dependent on data coll
 1. All data processed by the foundation must be done on one of the following lawful bases: consent, contract, legal obligation, vital interests, public task or legitimate interests ([see Kenya Data Protection Act Guideline](https://www.dataguidance.com/notes/kenya-data-protection-overview)).
 2. The Foundation shall note the appropriate lawful basis in the Register of Systems.
 3. Where consent is relied upon as a lawful basis for processing data, evidence of opt-in  consent shall be kept with the personal data.
-4. Where communications are sent to individuals based on their consent, the option for the individual to revoke their consent should be clearly available and systems should be in place to ensure such revocation is reflected accurately in the Foundation’s systems. 
+4. Where communications are sent to individuals based on their consent, the option for the individual to revoke their consent should be clearly available and systems should be in place to ensure such revocation is reflected accurately in the Foundation’s systems.
 
 
 ## 5. Data minimisation
@@ -93,7 +93,7 @@ _In the case of Humanitarian aid ie. cash transfers being dependent on data coll
 
 
 
-1. Sensitive Data means Personal Data (aka Personal Identifying Information (PII)), which if disclosed, may result in discrimination or violence against or the repression of an individual. Typically, data relating to health, race or ethnicity, religious/political/armed group affiliation, or genetic and biometric data are considered to be Sensitive Data. 
+1. Sensitive Data means Personal Data (aka Personal Identifying Information (PII)), which if disclosed, may result in discrimination or violence against or the repression of an individual. Typically, data relating to health, race or ethnicity, religious/political/armed group affiliation, or genetic and biometric data are considered to be Sensitive Data.
 2. All Sensitive Data requires augmented protection. Given the environments in which Humanitarian Organizations work and the possibility that various data elements that we handle may give rise to discrimination, setting out a definitive list of Sensitive Data categories. For example, in some situations, a simple list of names may be very sensitive, if it puts the individuals on the list and/or their families at risk of persecution. Equally, in other situations, data collected to respond to Humanitarian Emergencies may need to include data that in a regular data protection context would be considered to be Sensitive Data and the Processing of such data would be, in principle, prohibited, but in the local culture and the specific circumstances may be relatively harmless. Therefore, it is necessary to consider the sensitivity of data and the appropriate safeguards to protect Sensitive Data (e.g. technical and organizational security measures) on a case-by-case basis.
 
 
@@ -107,15 +107,15 @@ The Foundation shall take reasonable steps to ensure personal data is accurate. 
 
 
 1. To ensure that personal data is kept for no longer than necessary, the Foundation shall put in place an archiving policy for each area in which personal data is processed and review this process annually.
-2. The archiving policy shall consider what data should/must be retained, for how long, and why. (Various partners require records for 10years) 
+2. The archiving policy shall consider what data should/must be retained, for how long, and why. (Various partners require records for 10 years)
 
 
 ## 9. Security
 
 
 
-1. The Foundation shall ensure that personal data is stored securely using modern software that is kept-up-to-date. 
-2. An annual security audit should be carried out to test the Register of Systems integrity 
+1. The Foundation shall ensure that personal data is stored securely using modern software that is kept-up-to-date.
+2. An annual security audit should be carried out to test the Register of Systems integrity
 3. Access to personal data shall be limited to personnel who need access and appropriate security should be in place to avoid unauthorised sharing of information.
 4. When personal data is deleted this should be done safely such that the data is irrecoverable.
 5. Appropriate back-up and disaster recovery solutions shall be in place.
@@ -126,9 +126,9 @@ The Foundation shall take reasonable steps to ensure personal data is accurate. 
 In the event of a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data, the Foundation shall promptly assess the risk to people’s rights and freedoms and if appropriate report this breach to the appropriate parties.
 
 
-## 11. Training 
+## 11. Training
 
-Regular staff training will be conducted to ensure individuals are sensitive to the latest Data Protection legislation and are aware of sensitive data, its collection and processing. 
+Regular staff training will be conducted to ensure individuals are sensitive to the latest Data Protection legislation and are aware of sensitive data, its collection and processing.
 
 
 ## 12. Data Stored and Classifications
@@ -308,14 +308,14 @@ Non-Pii (Non-Confidential) Data (see [example](https://reshare.ukdataservice.ac.
 
 
 
-* “Open data” 
+* “Open data”
     * CC-BY-NC-SA, allows non-commercial and “open” use only
 * “Safeguarded data” -- research only, access granted on a standardized basis
     * UKDA is granted authority to administer data on GE’s behalf
     * Access is automatically limited to “registered users”
         * Researchers must give name, address, legal affiliation, and more.
         * Must agree to to follow the licenses on data files, on threat of losing access and/or legal action
-    * UKDATA “[End User License](https://ukdataservice.ac.uk/get-data/how-to-access/conditions/eul.aspx)” 
+    * UKDATA “[End User License](https://ukdataservice.ac.uk/get-data/how-to-access/conditions/eul.aspx)”
         * Prohibits attempting to identify people in the data
         * Prohibits commercial use unless granted permission
         * Requires the data be stored safely (behind a password)
@@ -337,25 +337,25 @@ Data Protection checklist for Data collection from [ICRC Handbook](https://rm.co
 
 1. Is there Processing of Personal Data? **(yes)**
 2. Are individuals likely to be identified by the data processed? **(no)**
-3. Does the information require protection even if it is not considered to be Personal Data? 
-4. Have (if applicable) local data protection and privacy laws been complied with? 
-5. For what purpose are the data being collected and processed? Is the Processing strictly limited to this purpose? Does this purpose justify the interference with the privacy of the Data Subject? 
-6. What is the legal basis for Processing? How will it be ensured that the data are processed fairly and lawfully? 
+3. Does the information require protection even if it is not considered to be Personal Data?
+4. Have (if applicable) local data protection and privacy laws been complied with?
+5. For what purpose are the data being collected and processed? Is the Processing strictly limited to this purpose? Does this purpose justify the interference with the privacy of the Data Subject?
+6. What is the legal basis for Processing? How will it be ensured that the data are processed fairly and lawfully?
 7. Is the Processing of Personal Data proportionate? **(yes)** Could the same purpose be achieved in a less intrusive way? Only the data necessary for operation is required and any PII is considered confidential.
 8. Which parties are Data Controllers and Data Processors? What is the relationship between them? **(GE)**
 9. Are the data accurate and up to date? **(Yes)**
-10. Will the smallest amount of data possible be collected and processed? 
-11. How long will Personal Data be retained? How will it be ensured that data are only retained as long as necessary to achieve the purpose of the Processing? 
+10. Will the smallest amount of data possible be collected and processed?
+11. How long will Personal Data be retained? How will it be ensured that data are only retained as long as necessary to achieve the purpose of the Processing?
 
     **(Yes) - as long as the user is using the system and wishes to be active. Their PII data will be removed after 10 years of inactivity.**
 
-12. Have adequate security measures been implemented to protect the data? 
+12. Have adequate security measures been implemented to protect the data?
 
     **(Yes) - Our data services are all encrypted with only two staff with the ability to decrypt them.**
 
-13. Has it been made clear to individuals who is accountable and responsible for the Processing of Personal Data? 
+13. Has it been made clear to individuals who is accountable and responsible for the Processing of Personal Data?
 
-    **(Yes) GE is responsible for the processing and handeling of all personal data.**
+    **(Yes) GE is responsible for the processing and handling of all personal data.**
 
 14. Has information been provided to individuals about how their Personal Data are processed and with whom they will be shared? **(Yes) this is part of the terms of service**
 15. Are procedures in place to ensure that Data Subjects can assert their rights with regard to the Processing of Personal Data? **(Yes) users can always remove their personal data and all personal data is optional for usage.**

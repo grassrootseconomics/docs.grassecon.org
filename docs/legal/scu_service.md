@@ -4,7 +4,7 @@
 
 Two Members of the [Sarafu Clearing Union](/legal/scu/) willingly consent to the following service agreement.
 
-The applying Member [Name/ Association or Organization Name] (herein called the Applicant) wishes to receive services described in this agreement from Grassroots Economics Foundation, a non-profit foundation based in Kenya (herein called the Service Provider of the Sarafu Network Platform): 
+The applying Member [Name/ Association or Organization Name] (herein called the Applicant) wishes to receive services described in this agreement from Grassroots Economics Foundation, a non-profit foundation based in Kenya (herein called the Service Provider of the Sarafu Network Platform):
 
 ## Platform Services
 
@@ -38,22 +38,22 @@ The applying Member [Name/ Association or Organization Name] (herein called the 
 4. **Entirety**: this service agreement represents consent to the entirety of a mutual agreement between the Applicant and Service provider to the expressed common purpose and no other.
 5. **Payments**: All payments for Services should be made to the Kitabu account of the Service Provider using this number: +254757628885
 6. **Notices**: Any notice given by the Applicant or Service Provider shall be valid only if made in writing and delivered to the respective representatives of each party listed and signed below.
-7. **In WITNESS WHEREOF**, the duly authorized representatives of the Applicant and Service Provider sign this agreement on the dates indicated below, and agree to abide by the terms of this agreement. 
+7. **In WITNESS WHEREOF**, the duly authorized representatives of the Applicant and Service Provider sign this agreement on the dates indicated below, and agree to abide by the terms of this agreement.
 ## Official Signatories
 1. For the Applicant
     1. Full Name:
     1. Contact Information or Service: (e.g. email or phone number)
-    1. On behalf of: (e.g. If signing as a duly authorized represetnative of an association, business or entity)
+    1. On behalf of: (e.g. If signing as a duly authorized representative of an association, business or entity)
     1. Proof of Identity: (e.g. Passport number and country or other proof)
     1. Date of Signing:
     1. Signature or Hash:
 
-1. For the PLatform Service Provider
+1. For the Platform Service Provider
     1. Full Name:
-    1. Contact Information or Service: +254757628885 PO Box, 1659-80108  Kilifi Kenya [info@grassecon.org](mailto:info@grassecon.org) 
+    1. Contact Information or Service: +254757628885 PO Box, 1659-80108  Kilifi Kenya [info@grassecon.org](mailto:info@grassecon.org)
     1. On behalf of: Grassroots Economics Foundation
     1. Proof of Identity: (e.g. Passport number and country or other proof)
-    1. Date of Signing: 
+    1. Date of Signing:
     1. Signature or Hash:
 
 Copyright © 2021 Grassroots Economics Foundation

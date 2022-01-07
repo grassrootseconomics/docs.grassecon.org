@@ -7,16 +7,19 @@ nav:
       - Glossary: glossary.md
       - Roadmap: roadmap.md
   - Community:
-      - Charter: community/index.md
+      - Intro: community/index.md
+      - Charter: community/charter.md
       - Contribution Guidelines: community/contrib.md
       - Code of Conduct: community/conduct.md
   - Operations:
       - Intro: operations/index.md
-      - Case Study: operations/case_study.md
-      - Training Guide: operations/training.md
-      - Team Guide: operations/team_guide.md
+      - Case Study: operations/case_study.md      
       - Logical Framework: operations/log_frame.md
+      - Training Guide: operations/training.md
+      - Voucher Creation: operations/voucher.md
+      - Team Guide: operations/team_guide.md
       - Stakeholder Guide: operations/local_stakeholders.md
+      - Humanitarian Support: operations/support.md
   - Legal:
       - Intro: legal/index.md
       - GE Commons License: legal/gecl1.md
@@ -62,3 +65,6 @@ extra:
 plugins:
   - git-revision-date
   - search
+
+extra_javascript:
+  - js/shynet.js

@@ -50,7 +50,7 @@ Furthermore, there should exist local-only alternate services of the underlying 
 
 ## Coherent configurations regardless of entry-point
 
-Merged ini-format configuration files constitue configuration schemas and overrides, translating to a configuration directive vocabulary overrideable by environment variables of the same name.
+Merged ini-format configuration files constitute configuration schemas and overrides, translating to a configuration directive vocabulary overridable by environment variables of the same name.
 
 
 ## CLI tooling framework
@@ -61,4 +61,4 @@ Full and intuitive control of overriding configuration directives with command l
 
 Easy generation of base resource objects (such as rpc, wallet) directly from rendered configurations.
 
-Faciliate and encourage use of chainable commands (e.g. UNIX pipelines).
+Facilitate and encourage use of chainable commands (e.g. UNIX pipelines).
