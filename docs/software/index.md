@@ -14,26 +14,26 @@ While work toward non-custodial and we interfaces are underway the CIC Stack is 
 
 ## System parts
 
-- **Base components**, containing all necessary provisions for services and tooling. ([Chaintools](https://gitlab.com/chaintool))
-- **Generic services components**, libraries, daemons and services making up the custodial engine. ([cicnet](https://gitlab.com/chaintool))
-- **Deployment components**, which facilitates deployment of the custodial engine, as well as seeding data for development, demonstration and migration. ([GrassrootsEconomics](https://gitlab.com/grassrootseconomics/)) 
+- **Base components**, containing all necessary provisions for services and tooling. ([Chaintools](https://git.grassecon.net/chaintool))
+- **Generic services components**, libraries, daemons and services making up the custodial engine. ([cicnet](https://git.grassecon.net/chaintool))
+- **Deployment components**, which facilitates deployment of the custodial engine, as well as seeding data for development, demonstration and migration. ([GrassrootsEconomics](https://git.grassecon.net/grassrootseconomics)) 
 
 
 ## Base components
 
-- **Queue handling** ([chainqueue](https://gitlab.com/chaintool/chainqueue)): Makes sure that a transaction sent on behalf of a user is sent, resubmitted if stalled, and whose execution is verified by quering the network state. 
-- **Chain syncing**, ([chainsyncer](https://gitlab.com/chaintool/chainsyncer)): Retrieves all state changes from the network and executes an arbitary number of code fragments per transaction. 
+- **Queue handling** ([chainqueue](https://git.grassecon.net/chaintool/chainqueue)): Makes sure that a transaction sent on behalf of a user is sent, resubmitted if stalled, and whose execution is verified by quering the network state. 
+- **Chain syncing**, ([chainsyncer](https://git.grassecon.net/chaintool/chainsyncer)): Retrieves all state changes from the network and executes an arbitary number of code fragments per transaction. 
 - **RPC (Remote Procedure Call) interface**, which divides in two parts:
-	1. **Generic interface** ([chainlib](https://gitlab.com/chaintool/chainlib)): Concepts common to all chain-like RPCs, and provides a thread-safe interaction framework.
-	1. **Ethereum interface** ([chainlib-eth](https://gitlab.com/chaintool/chainlib-eth)): An extension of the former for the Ethereum/EVM network.
-- **Chain tooling** ([chainlib](https://gitlab.com/chaintool/chainlib), [chainlib-eth](https://gitlab.com/chaintool/chainlib-eth)): Granular access to all conceptual layers of chain interaction, including binary serializations and application interfaces, along with CLI (Command Line Interface) tooling framework.
-- **Signer**, ([crypto-dev-signer](https://gitlab.com/chaintool/crypto-dev-signer)) Low-security keystore and signer which is easily usable in both production (provided that no external access is possible) and in any development environment.
+	1. **Generic interface** ([chainlib](https://git.grassecon.net/chaintool/chainlib)): Concepts common to all chain-like RPCs, and provides a thread-safe interaction framework.
+	1. **Ethereum interface** ([chainlib-eth](https://git.grassecon.net/chaintool/chainlib-eth)): An extension of the former for the Ethereum/EVM network.
+- **Chain tooling** ([chainlib](https://git.grassecon.net/chaintool/chainlib), [chainlib-eth](https://gitlab.com/chaintool/chainlib-eth)): Granular access to all conceptual layers of chain interaction, including binary serializations and application interfaces, along with CLI (Command Line Interface) tooling framework.
+- **Signer**, ([crypto-dev-signer](https://git.grassecon.net/chaintool/crypto-dev-signer)) Low-security keystore and signer which is easily usable in both production (provided that no external access is possible) and in any development environment.
 - **Configuration** ([confini](https://gitlab.com/nolash/python-confini)): Incrementally merging configuration definition from multiple modules, and easily overriding them with command line flags and environment variables.
 
 
 ### Generic services components
 
-- All smart contract wrappers in the [cicnet](https://gitlab.com/cicnet) repository.
+- All smart contract wrappers in the [cicnet](https://git.grassecon.net/cicnet) repository.
 - **CIC Contract registry** ([cic-eth-registry](https://gitlab.com/grassrootseconomics/cic-eth-registry)): Defines token and resource pointer lookup and authentication resources.
 - Daemons and microservices in the **apps** subdirectories in the [cic-internal-integration](https://gitlab.com/grassrootseconomics/cic-internal-integration) monorepo, specifically:
 	* **cic-eth**: Massively parallell and fault-tolerant implementation of the custodial signer/queuer/syncer engine, accepting tasks from end-users via middleware.

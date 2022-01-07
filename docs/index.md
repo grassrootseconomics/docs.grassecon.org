@@ -7,7 +7,7 @@ It is tremendously important to us that people take, use, build on and share wha
 * **General**: Glossary of terms and programatic roadmap (you are here).
 * [Community](/community/): Join us in demonstrating, disseminating, designing & curating the best tech and practices to empower communities to create and manage their own financial instruments. 
 * [Operations](/operations/): Learn how to work with and empower communities to develop their own CICs
-* [Legal](/legal/): Learn how legal frameworks are formed around CICs
+* [Legal](/legal/): Learn how legal frameworks for Economic Commons are formed
 * [Software](/software/): Join a community of developers working to build the technical stack and become a platform service provider to help communities develop their own financial instruments. 
 
 

@@ -4,7 +4,7 @@
 
 ## Preamble
 
-We **Grassroots Economics Foundation** _(herein called the Founding Member)_ hereby ratify and incorporate the Grassroots Economics Commons Licence 1 [GECL 1](/legal/gecl1/) in the following Economic Commons (herin called the Sarafu Clearing Union) as its Guardian, General Member and Platform Service Provider. 
+We **Grassroots Economics Foundation** _(herein called the Founding Member)_ hereby ratify and incorporate the [Grassroots Economics Commons Licence v1](/legal/gecl1/) in the following Economic Commons (herin called the Sarafu Clearing Union) as its Guardian, General Member and Platform Service Provider. 
 
 ## Platform:
 
@@ -12,11 +12,11 @@ The Platform of the Sarafu Clearing Union (herin called Sarafu Network) will uti
 
 1. Ledger Services:
     1. The Founding Member will deploy their own and other Member Instruments and register them on the following Ledger with **Chain Specifications (CHAIN_SPEC):**
-        1. **Architecture: **EVM Ethereum Virtual Machine
-        2. **Fork/Version:  **Byzantium
-        3. **Chain/Network ID: **8996
-        4. **Common Name: **Kitabu
-        5. **Custom Parameters: ** {RPC Endpoint: http://bloxberg.org, Interface: ERC20}
+        1. **Architecture:** EVM Ethereum Virtual Machine
+        2. **Fork/Version:** Byzantium
+        3. **Chain/Network ID:** 8996
+        4. **Common Name:** Kitabu
+        5. **Custom Parameters:** {RPC Endpoint: http://rpc.grassecon.net, Interface: ERC20}
         1. Kitabu is operated by Grassrots Economics Foundation docs.grassecon.org
 1. **Public Access:** transaction data and user information will be generally available to Researchers and Members and (subject to a one month waiting period) individual balances and trade history will be provided to individual Members and Mediators upon request. See [data protection policy](/legal/data_policy/). 
 1. **Terms and Conditions:** When using the Platform the Applicant agrees to the [Terms and Conditions](http://grassrootseconomics.org/tos) of Grassroots Economics Foundation.
@@ -29,20 +29,21 @@ The Platform of the Sarafu Clearing Union (herin called Sarafu Network) will uti
 
     1. **Voucher Name**: e.g. Sarafu (Minimum 3 and Maximum 32 characters)
     1. **Voucher Symbol**: e.g. SRF (Minimum 3 and Maximum 6 characters used for display on the Platform)
-    1. **Voucher Supply**: 20,000,000 Vouchers
-    1. **Unit of Account and Denomination**: Vouchers are denominated in **Kenyan Shillings** and each 1 Voucher is worth **1 Kenyan Shilling** of goods and/or services describes in this agreement. 
-    1. **Voucher Allocations**: 50 SRF will be allocated to each additional Member as they join as a Member on the Platform
+    1. **Voucher Supply**: 20,000,000 Twenty Million Vouchers 
+    1. **Unit of Account and Denomination**: Vouchers are denominated in **Kenyan Shillings** and each 1 Voucher is worth **1 Kenyan Shilling** of goods and/or services describes in this agreement
+    1. **Voucher Allocations**: 50 SRF will be allocated to each additional Member when joining as a Member on the Platform
     1. **Voucher Acceptance**: The Founding Member undertakes to accept vouchers as payment for the following goods and/or services:
         1. Training and Support related to Economic Commons and Clearing Unions, Platforms, Instruments and related Member provided services
-        1. Platform and Instrument creation and maintenance
+        1. Platform and Instrument reporting, creation and maintenance
         1. Software integration and customization
         1. Arbitration of disputes related to Instruments and Platform usage
-
     1. **Expiration Rate**: The Vouchers expire at cumulative rate of 2% per month each minute.
+    1. **Community Account: Issuance**: Created vouchers will be placed into the following account with the specified amount: e.g 20,000,000 Twenty Milllion Vouchers +254757628885
+    1. **Community Account: Expiration**: All expired Vouchers will be distributed to the following account specified here: e.g +254757628885
 
 1. Token
 
-    1. Member data on any Platform registered Instrument is made avalible to Members by mutual agreement through Tokens (herin called an Impact Tokens). See [data protection policy](/legal/data_policy/). 
+    1. Non-Confidential Member data utilizing any Platform registered Instrument is made avalible to Members by mutual agreement in the form of Tokens (herin called an Impact Tokens) which hold endorsments and reports on Instrument usage. See [data protection policy](/legal/data_policy/). 
 
 1. Swap
 
@@ -50,7 +51,7 @@ The Platform of the Sarafu Clearing Union (herin called Sarafu Network) will uti
 
 ##Addendum:
 
-6. **Good Faith:** The Founding Member enters into this Agreement in good faith and holds harmless Members of the Sarafu Clearing Union.
+6. **Good Faith:** All Member enters into this Agreement in good faith and holds harmless Members of the Sarafu Clearing Union.
 7. **Entirety:** this application represents consent to the entirety of a mutual agreement between Sarafu Clearing Union Members to the expressed common purpose and no other.
 
 ## Official Signatories 
