@@ -24,3 +24,27 @@ mkdocs serve
 ```
 mkdocs build
 ```
+
+## Edit
+
+Download repo
+```
+git clone https://gitlab.com/grassrootseconomics/grassrootseconomics.gitlab.io.git
+```
+
+Make sure you are uptodate and create a branch
+```
+git checkout main
+git pull origin main
+git checkout -b your-name/new-topic
+```
+
+edit or add new files to the repo then commit and push
+
+```
+git add .
+git commit -m “information about changes”	
+git push -u origin your-name/new-topic
+```
+
+finally follow the instructions to create a merge request
