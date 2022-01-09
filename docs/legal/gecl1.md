@@ -2,8 +2,10 @@
 
 ## About
 
-This license defines an Economic Commons for general implementation as an open association of people and organizations.
-An Economic Commons that incorporates this license includes and ratifies following Aims, Principles, Jurisdiction, Definitions, Organization and Notices
+
+This license defines an Economic Commons for general implementation as an open association of people and organizations, where mutually defined Instruments are utilized by (General Members) who jointly oversee active stewards (Service Providers) subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
+
+Incorporations of this license must ratify following Aims, Principles, Jurisdiction, Definitions, Organization and Notices
 
 ## Aim
 
@@ -38,7 +40,7 @@ The core Principles of an Economic Commons include:
 
 The Platform of a Economic Commons is maintained by Platform Service Providers and includes the following categories of services:
 
-1. Technical Services: 
+1. Technical: 
     1. Secure Member account and shared Instrument registries (herein called “Ledgers”) have the following properties:
         1. All Member accounts, data and shared Instruments are recorded in unique time order in a Ledger.
         1. Member accounts on a Ledger can hold multiple Instruments.
@@ -47,8 +49,8 @@ The Platform of a Economic Commons is maintained by Platform Service Providers a
 	1. Instruments are binding on Members when registered in a Ledger. 
         1. Ledgers must open for inspection by Members.
     2. Communications interfaces (herin called Wallets).
-        1. A wallet enables Members to access to viewing and interacting with Instruments and Accounts on a Ledger.
-2. Social Services: Support and sharing of knowledge regarding specific Economic Commons implementations. 
+        1. Members must have access to viewing and interacting with Instruments and Accounts on a Ledger.
+2. Social: Support and sharing of knowledge regarding the Economic Commons' implementations, Instruments as well as Member rights and obligations. 
 3. Legal: Due Diligence, audits and arbitration of disputes regarding specific Economic Commons implementations. 
 
 

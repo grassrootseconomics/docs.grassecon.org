@@ -36,7 +36,7 @@ The applying Member [Name/ Association or Organization Name] (herein called the 
     2. All the Applicant's Voucher holders will be given 60 days to transfer their Vouchers balances to a new account outside the Sarafu Network.
 3. **Good Faith**: the Applicant and Service Provider enter into this Service Agreement in good faith and hold harmless any Members subject to the provisions of the Sarafu Clearing Union Agreement or this Service Agreements.
 4. **Entirety**: this service agreement represents consent to the entirety of a mutual agreement between the Applicant and Service provider to the expressed common purpose and no other.
-5. **Payments**: All payments for Services should be made to the Kitabu account of the Service Provider using this number: +254757628885
+5. **Payments**: All payments for Services should be made to the account of the Service Provider using this number: +254757628885
 6. **Notices**: Any notice given by the Applicant or Service Provider shall be valid only if made in writing and delivered to the respective representatives of each party listed and signed below.
 7. **In WITNESS WHEREOF**, the duly authorized representatives of the Applicant and Service Provider sign this agreement on the dates indicated below, and agree to abide by the terms of this agreement.
 ## Official Signatories
