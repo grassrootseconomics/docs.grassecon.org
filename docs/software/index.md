@@ -152,3 +152,47 @@ digraph {
 	storage_mux -> torrent;
 }
 ```
+
+## Components by category
+
+(in no particular order)
+
+| area | category | components | maintainer | support | tech | relative complexity | maturity |
+|---|---|---|---|---|---|---|---|
+| chain queue/sync base | any | [chainqueue](https://git.grassecon.net/chaintool/chainqueue), [chainsyncer](https://git.grassecon.net/chaintool/chainsyncer) | Louis | ? | py | mid | hi | 
+| chain queue/sync engine | custodial | [cic-eth](https://gitlab.com/grassrootseconomics/cic-internal-integration/-/tree/master/apps/cic-eth), [cic-eth-registry](https://gitlab.com/grassrootseconomics/cic-eth-registry), [cic-signer](https://gitlab.com/grassrootseconomics/cic-internal-integration/-/tree/master/apps/cic-signer) | Louis | Phil | py, celery | hi | hi |
+| notifications | custodial | [cic-notify](https://gitlab.com/grassrootseconomics/cic-internal-integration/-/tree/master/apps/cic-notify) | Phil | ? | py, celery | lo | mid |
+| ussd wallet | custodial | [cic-ussd](https://gitlab.com/grassrootseconomics/cic-internal-integration/-/tree/master/apps/cic-ussd) | Phil | ? | py, celery | hi | hi |
+| wallet interface translations | any | [cic-translations](https://gitlab.com/grassrootseconomics/cic-internal-integration/-/tree/master/apps/cic-eth) | Will? | Phil | yaml? | lo | hi |
+| HTTP authentications | custodial | [usumbufu](https://git.defalsify.org/python-usumbufu/), [cic-auth-helper](https://gitlab.com/grassrootseconomics/cic-auth-helper) |  Louis | Blair, Sohail | py | hi | hi |
+| python chain libaries | any | [chainlib-eth](https://git.grassecon.net/chaintool/chainlib-eth), [chainlib](https://git.grassecon.net/chaintool/chainlib-eth),  | Louis | (community?) | py | mid | hi |
+| python signer libraries | any | [funga](https://git.grassecon.net/chaintool/funga), [funga-eth](https://gitlab.com/grassrootseconomics/cic-eth-registry) | Louis | ? | py | mid | hi |
+| local queue and sync | non-custodial |  [chaind](https://git.grassecon.net/chaintool/chaind), [chaind-eth](https://git.grassecon.net/chaintool/chaind-eth), [cic-batch](https://git.grassecon.net/grassrootseconomics/cic-batch) | Louis | ? | py | mid | ? |
+| contract interfaces | any | [cic-contracts](https://git.grassecon.net/cicnet/cic-contracts), [eth-erc20](https://gitlab.com/cicnet/eth-erc20), [eth-owned](https://gitlab.com/cicnet/eth-owned), [erc20-faucet](https://gitlab.com/cicnet/erc20-faucet), [eth-interface](https://gitlab.com/cicnet/eth-interface) | Louis | ? | solidity, py, bash | mid | hi |
+| ge token contract | any | [erc20-demurrage-token](https://gitlab.com/cicnet/erc20-demurrage-token), [sarafu-faucet](https://gitlab.com/grassrootseconomics/sarafu-faucet) | Louis | ? | solidity, py | hi | hi/lo |
+| verificable claims base | any | [okota](https://git.grassecon.net/cicnet/okota) | Louis | ? | solidity, py | mid | hi |
+| cic analytics and aggregator | custodial | [cic-data-golang](https://gitlab.com/grassrootseconomics/cic-data-golang) | Blair | Darren | golang | mid | mid |
+| cic analytics views | custodial | [cic-data-golang](https://gitlab.com/grassrootseconomics/cic-data-golang) | Darren | ? | grafana, golang? | mid | ? |
+| web2 metadata store | custodial | [cic-meta](https://gitlab.com/grassrootseconomics/cic-internal-integration/-/tree/master/apps/cic-meta) | ? | Louis | typescript | mid | hi |
+| metadata protocol | any | [crdt-meta](https://gitlab.com/cicnet/crdt-meta) | ~~Spence~~ | ~~Geoff~~, Louis | typescript | mid | hi |
+| metadata schemas | any | [cic-types](https://gitlab.com/grassrootseconomics/cic-types) | Phil | ~~Geoff~~ | py | mid | hi |
+| contributor badge nft | non-custodial | [(rose bootcamp project)](https://rapid-silence-3500.on.fleek.co/), [nft-badgetoken](https://git.defalsify.org/evm-badgetoken/) | solidity, py, typescript, react(?) | Rose | Louis | mid | lo |
+| web3 transition adapters | any | [fadafada](https://git.defalsify.org/fadafada/), [fadafada-curl](https://git.defalsify.org/fadafada-curl/) | Louis | (community?) | rust | mid | mid |
+| cli cic creation | any | [cic-cli](https://git.grassecon.net/cicnet/cic-cli) | Phil | Louis | py | hi | mid |
+| cli metadata viewer | custodial | [clicada](), [cic-staff-installer](https://git.grassecon.net/grassrootseconomics/cic-staff-client) | ? | Louis | py | lo | lo |
+| ge blog | website | [pelican website](https://git.grassecon.net/grassrootseconomics/pelican-website-ge) | Ida | Will | py, pelican | lo | hi |
+| ge docs | website | [docs webstie](https://gitlab.com/grassrootseconomics/grassrootseconomics.gitlab.io) | Will | ? | py, (platform)? | mid? | mid |
+| local dev bootstrap | devops | [cic-stack](https://gitlab.com/grassrootseconomics/cic-internal-integration) | ? | all | bash, docker-compose | hi | hi |
+| dev data seeding / migration | any | [cic-stack](https://gitlab.com/grassrootseconomics/cic-internal-integration) | Phil | Louis | py, bash, typecsript | hi | hi |
+| Telegram wallet | custodial | ? | Sohail? | ? | ? | ? | no |
+| chain queue/sync interface | custodial | [cic-eth-server](https://gitlab.com/grassrootseconomics/cic-internal-integration/-/merge_requests/312), ... | Lum | ? | py | ? | ? |
+| Web2 wallet | custodial | [social recovery protocol](https://gitlab.com/grassrootseconomics/cic-docs/-/blob/lash/social-recovery/spec/025_social_recovery.md) | Lum | ? | ? | ? | no |
+| P2P Services discovery | any | [cic-p2p](https://gitlab.com/grassrootseconomics/cic-p2p), [village message protocol](https://gitlab.com/cicnet/vmp) | Louis | ? | ? | ? | ? |
+| Gas helpers | any | [cic-gas-proxy](https://gitlab.com/grassrootseconomics/eth-gas-proxy/-/blob/master/gas_proxy/proxy.py), [ethd-gas-sum](https://git.grassecon.net/chaintool/ethd-gas-sum) | Louis | ? | py | lo | lo |
+| Swarm provisions | non-custodial | [libswarm-ng](https://git.defalsify.org/libswarm-ng/), [pylibswarm](https://git.defalsify.org/pylibswarm/) | Louis | (community?) | c, py | mid | hi |
+| Multisig | non-custodial | [erc20-transfer-authorization](https://gitlab.com/cicnet/erc20-transfer-authorization) | Louis | ? | solidity, py | mid | lo |
+| 
+
+("Relative complexity" means complexity in relation to the function of the component.)
+
+
