@@ -1142,14 +1142,13 @@ _Note: Community acceptance, usage and the value of a CIC starts with the issuer
 In order to certify and support a community to create a CIC, Grassroots Economics’ CIC Creation criteria requires groups creating a CIC to have a:
 
 
-
 1. Initial registration as a group at least 1 year ago
 2. Minimum 10 members with active membership
 3. Have a minimum commitments of 50,000 Ksh of goods and services
 4. Demonstrable backing capacity for tokens created. (Business audit)
 5. Have the endorsement of a community official or village elder.
 6. Have a leading member that has gone through this training.
-7. A completed [Sarafu Network Voucher Creation Application](https://docs.google.com/document/d/1qKk-SRWfowi5bHeEUSuSFu4JyBR87zbW6RUhKxrWbeo/edit)
+7. A completed [Voucher application form](/legal/) - Please inquire for specific forms.
 
 
 ## Appendix B: CIC Technology
