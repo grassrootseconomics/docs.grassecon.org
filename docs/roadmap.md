@@ -4,8 +4,8 @@
 
 1. Objective: Launch CIC-Stack (v2 codebase) (MVP Launch Milestone in GL) {Q4_2021}
 
-    1. Key Result: CIC-Stack contracts deployed to bloxberg mainnet
-    1. Key Result: 100% of users migrated from Sempo/xDAI
+    1. Key Result: CIC-Stack contracts deployed 
+    1. Key Result: 100% of users migrated 
     1. Key Result: Run 1 disaster recovery exercise and report findings and create DR playbook
     1. Key Result: Integration tests are ran on all commits to master
     1. Key Result: Able to output reports / dashboard on CIC data
@@ -18,7 +18,7 @@
 
 1. Objective: Local Blockchain Development
     1. Key Result: Specifications for all shared ledger features with consistency with CIC legal and tech framework {Q1_2022}
-    1. Key Result: Tested Interoperability between CIC Chains (BloxBerg and new chains) {Q3_2022}
+    1. Key Result: Tested Interoperability between CIC Chains {Q3_2022}
     1. Key Result: New Chain deployed on a local CIC network with 5+ nodes {Q4_2022}
 
 1. Objective: Local Micro Services {Q4_2022}
@@ -80,24 +80,23 @@
     1. Key Result: deploy a web based marketplace
     1. Key Result: Interview 5 users and create a ux report
 
+1. Objective: Users can rate each others' goods and services and share those ratings on a marketplace / directory  {Q2_2022}
+    1. Key Result: Rating menu item
+    1. Key Result: Utilize ratings in Directory
+
 1. Objective: Create a web interface to CIC Stack (Custodial Web wallet) {Q1_2022}
     1. Key Result: API interfaces allow for feature parity with USSD interface (rest)
     1. Key Result: Create a CLI tool for testing
     1. Key Result: deploy a web based custodial web wallet
     1. Key Result: Interview 5 users for feedback and create a report
 
-1. Objective: Users have the option for exchanging CIC's with one-time codes / scratch cards {Q1_2022}
-    1. key result: print cards with onetime code
+1. Objective: Users have the option for exchanging CIC's using paper vouchers {Q1_2022}
+    1. key result: print cards with uniquie codes
 
 1. Objective: Users can interface with CICs and hold their own keys (Non-custodial wallet spec)
     1. Key Result: Specifications for all CIC features on a non-custodial wallet
+    1. Key Result: Able to provide all the same features on a non-custodial wallet - {Q4_2022}
 
-1. Objective: Users can rate each others' goods and services and share those ratings on a marketplace / directory  {Q2_2022}
-    1. Key Result: Rating menu item
-    1. Key Result: Utilize ratings in Directory
-
-1. Objective: Users can interface with CICs and hold their own keys (Non-custodial wallet)  {Q3_2022}
-    1. Key Result: Able to provide all the same features on a non-custodial wallet - via a partner
 
 1. Objective: Users can create their own CIC on the web {Q2_2022}
     1. Key Result: DAO CIC creation structure
@@ -137,7 +136,7 @@
 ## Legal
 
 1. Objective: Clear legal framework for CIC issuance and service provision
-    1. Key Result: A Clearing Union Charter {Q4_2021}
+    1. Key Result: A Economic Commons / Clearing Union Charter {Q4_2021}
     1. Key Result: A Service Agreement contract for CIC creation and GE services {Q4_2021}
     1. Key Result: New round of Legal Due Diligence {Q1_2022}
 
