@@ -22,10 +22,10 @@ nav:
       - Humanitarian Support: operations/support.md
   - Legal:
       - Intro: legal/index.md
-      - GE Commons License: legal/gecl1.md
-      - Sarafu Clearing Union: legal/scu.md
-      - Voucher Creation: legal/scu_voucher.md
-      - Service Agreement: legal/scu_service.md
+      - GE Commons License: legal/license.md
+      - Sarafu Clearing Union: legal/agreement.md
+      - Voucher Creation: legal/voucher.md
+      - Service Agreement: legal/service.md
       - Data Policy: legal/data_policy.md
   - Software:
       - CIC Stack: software/index.md
