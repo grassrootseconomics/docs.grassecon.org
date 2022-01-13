@@ -28,13 +28,13 @@ The community group is now aware of their potential, but with the local deficit 
 
 The community group decides to issue their own Community Inclusion Currency - a tradable Voucher, redeemable for the collective goods and services within the group. The group gathers, and each member presents the quantity of goods or services they have to offer within a month (either as a month’s value, or 12% of a year’s value) and are willing to provide in exchange for the vouchers (CICs) that they will create. They denominate their offerings in national currency, and there is a collective verification of that value by elders, chiefs, and others. 
 
-## Joining a Clearing Union
+## Joining a Economic Commons
 
-> The community group becomes part of a Clearing  Union
+> The community group becomes part of an Economic Commons
 
 In order to issue their own CIC, the group needs to enter into three agreements, in this order:
 
-1. A Clearing Union Agreement: this is an agreement every member has to sign individually, and is effectively a terms and conditions of the full ecosystem. 
+1. An Economic Commons Agreement: this is an agreement every member has to sign individually, and is effectively a terms and conditions of the full ecosystem. 
 2. A Membership Agreement: this agreement exists between the members of the group (Binguni), and ensures that: 
     1. They’ve **identified and quantified their commitments**/offerings to each other, using national currency as the unit of account. 
     2. They’ve all been **audited and verified** on their commitments/offerings, by the chiefs/elders/chairpersons/local governance. 
@@ -47,7 +47,7 @@ In order to issue their own CIC, the group needs to enter into three agreements,
     9. They’ve agreed on any **savings/voucher-pooling mechanisms** within the group, and what that savings will be used for. 
 3. A CU Intermember Agreement: this is an agreement with a Core Service Provider around training, arbitration of disputes, instrument creation, data handling and technical platform access & maintenance (access to the core ledger, blockchain, wallet, phone support etc). 
 
-Now that they have joined the Clearing Union, and established themselves as a group. Binguni is now considered an association of CU members and anyone holding their Binguni Vouchers is also considered a member through the terms of service.
+Now that they have joined an Economic Commons, and established themselves as a group. Binguni is now considered an association of CU members and anyone holding their Binguni Vouchers is also considered a member through the terms of service.
 
 In this case the Binguni member decide to all commit to the same amount goods and services they will redeem for vouchers, so that the voucher amount created is the same for each member. Auditing should verify that these vouchers are over-collateralized such that there is more production than vouchers, rather than too many vouchers without the resources to match. 
 
