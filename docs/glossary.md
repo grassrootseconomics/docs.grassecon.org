@@ -8,57 +8,56 @@
    </td>
   </tr>
   <tr>
-   <td>Economic Commons
+   <td>Economic Commons (EC)
    </td>
-   <td>An open association of people and organizations with the aim of inclusive community creation and clearing of purchasing power. 
+   <td>An open association of people and organizations with the aim of inclusive community creation and organizations of purchasing power. 
+   </td>
+  </tr>
+   <td>Guardians 
+   </td>
+   <td>Guardian of a EC, hold veto rights and exist to passively uphold the aims and principles of the EC.
    </td>
   </tr>
   <tr>
-   <td>Clearing Union (CU)
+   <td>General Members (GM)
    </td>
-   <td>An implementation of an Economic Commons with a focus on supporting Members to clear debits and credits. 
-   </td>
-  </tr>
-  <tr>
-   <td>Guardians (CUG)
-   </td>
-   <td>Guardian of the CU, hold veto rights and exist to passively uphold the aims and principles of the CU.
+   <td>A general member that has implemented or uses the instruments defined by a EC and could be an individual, and organization or an association of Members.
    </td>
   </tr>
   <tr>
-   <td>General Members (CUGM)
+   <td>Platform
    </td>
-   <td>A general member that has implemented or uses the instruments defined by a CU and could be an individual, and organization or an association of members.
+   <td>A set of services offered by an EC including Ledger Access, Training and Arbitration
    </td>
   </tr>
   <tr>
    <td>Platform Service Providers (PSP)
    </td>
-   <td>A CU Member that is providing Platform Services such as Ledger Access, Training and Arbitration
+   <td>A EC Member that is providing Platform Services such as Ledger Access, Training and Arbitration
    </td>
   </tr>
   <tr>
-   <td>Grassroots Economics Commons License (GECL)
+   <td>Grassroots Economic Commons License (GECL)
    </td>
-   <td>An open license the rights and responsibilities of an Economic Commons
-   </td>
-  </tr>
-  <tr>
-   <td>Clearing Union Aggreement
-   </td>
-   <td>Implements the GECL for local application and defines all Instruments. A CUI is an Agreement made by CU Members relating to arbitration, validation, accountability, and Instruments.
+   <td>An open license defining the rights and responsibilities of an Economic Commons
    </td>
   </tr>
   <tr>
-   <td>CU Intermember Service Agreement (CUISA)
+   <td>Grassroots Economic Commons Aggreement
    </td>
-   <td>Service agreements made between CU Members
+   <td>Implements the GECL for local application and defines all Instruments. This is an Agreement made by EC Members relating to arbitration, validation, accountability, and Instruments.
+   </td>
+  </tr>
+  <tr>
+   <td>Intermember Service Agreement 
+   </td>
+   <td>Service agreements made between EC Members
    </td>
   </tr>
   <tr>
    <td>Exchequer or Ledger Technology (LT)
    </td>
-   <td>Ledgers within the CU platform that hold all of the final information related to Member accounts and Instruments
+   <td>Ledgers within the EC Platform that hold all of the final information related to Member accounts and Instruments
    </td>
   </tr>
   <tr>

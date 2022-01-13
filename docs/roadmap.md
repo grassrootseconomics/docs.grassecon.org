@@ -136,7 +136,7 @@
 ## Legal
 
 1. Objective: Clear legal framework for CIC issuance and service provision
-    1. Key Result: A Economic Commons / Clearing Union Charter {Q4_2021}
+    1. Key Result: A Economic Commons Agreement defined {Q4_2021}
     1. Key Result: A Service Agreement contract for CIC creation and GE services {Q4_2021}
     1. Key Result: New round of Legal Due Diligence {Q1_2022}
 

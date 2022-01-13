@@ -10,7 +10,7 @@ This FAQ accompanies the [Training Guide](/training/) and the [Glossary](/glossa
 
 
 * What are Community Inclusion Currencies (CICs)?
-    * CICs are tradable **Vouchers, redeemable for goods and/or services** of participating individuals, organizations, schools, shops, groups, farms, and clinics. Anyone can create their own CIC which acts as **a local means of trade and exchange **that does not replace but rather supplements (tops-up) lacking national currency. Through increasing trade by matching unmet local needs with under-utilized local resources CICs enable sustainable economic, environmental and social development. Here you can see our definition of a [Voucher](/sarafu_clearing_union/).
+    * CICs are tradable **Vouchers, redeemable for goods and/or services** of participating individuals, organizations, schools, shops, groups, farms, and clinics. Anyone can create their own CIC which acts as **a local means of trade and exchange **that does not replace but rather supplements (tops-up) lacking national currency. Through increasing trade by matching unmet local needs with under-utilized local resources CICs enable sustainable economic, environmental and social development. Here you can see our definition of a [Voucher](/legal/).
     * Note that we will often call all CICs on Sarafu Network a *Sarafu* (which means currency in Kiswahili).
 * How do you create a CIC?
     * People, groups (chamas) and organizations can issue or create a CIC by creating a backing guarantee or Commitment Agreement - see [Operations](/operations/).
@@ -54,7 +54,7 @@ This FAQ accompanies the [Training Guide](/training/) and the [Glossary](/glossa
 * Who is a CIC Issuer?
     * Any group can issue a CIC by completing a Membership Agreement. Generally these are community groups with the permission of Village Elders/Admins.
 * Who are CIC holders?
-    * Anyone agreeing to the Sarafu Network Terms and Conditions can have a CIC account via mobile phone and is considered a Member of the Sarafu Clearing Union. The CICs stored in your account are yours alone and represent an investment you hold in an economy made up of other CIC holders.
+    * Anyone agreeing to the Sarafu Network Terms and Conditions can have a CIC account via mobile phone and is considered a Member of the Grassroots Economic Commons. The CICs stored in your account are yours alone and represent an investment you hold in an economy made up of other CIC holders.
 * How much CIC should I keep?  
     * Your balance may go up and down but on average you should match your spending with your income of CICs.
     * If you decide to hold CICs long term you are investing in the growth of the economy they represent (markets and businesses using the CIC).
