@@ -28,12 +28,15 @@ The Platform of the Grassroots Economics Commons (herein called Sarafu Network) 
 
     1. **Voucher Name**: e.g. Sarafu (Minimum 3 and Maximum 32 characters)
     1. **Voucher Symbol**: e.g. SRF (Minimum 3 and Maximum 6 characters used for display on the Platform)
-    1. **Voucher Supply**: 20,000,000 Twenty Million Vouchers 
-    1. **Unit of Account and Denomination**: Vouchers are denominated in **Kenyan Shillings** 
-    1. **Exchange Rate**: e.g. 1 Weza Voucher is redeemable as payment for goods and/or services valued at **1 Kenyan Shilling** of Founding Members. Note that SRF vouchers are not redeemed **for** Kenyan shillings.  
-    1. **Voucher Allocations**: 50 SRF will be allocated to each additional Member when joining as a Member on the Platform
+    1. **Voucher Supply**: 2,000,000 Two Million Vouchers 
+    1. **Unit of Account and Denomination**: (Energy = GE Service minutes) 1 minute of Grassroots Economics Foundation services or equivalent services should be obtained in exchange for at least 1 SRF Voucher.
+    1. **Minimum exchange rates**:
+        1. To national currency in Kenya: 1 SRF is worth at least 10 Kenyan Shillings.
+        1. To calories: 1 SRF is worth at least 1.4 calories. Minimum Energy Calculation: Daily recommended human consumption = 2000 calories / 24 hours
+1. **Unit of Account and Denomination**: Vouchers are denominated in **Kenyan Shillings** 
+    1. **Voucher Allocations**: 5 SRF will be allocated to each additional Member when joining as a Member on the Platform
     1. **Expiration Rate**: The Vouchers expire at cumulative rate of 2% per month each minute.
-    1. **Community Account: Issuance**: Created vouchers will be placed into the following account with the specified amount: e.g 20,000,000 Twenty Milllion Vouchers +254757628885
+    1. **Community Account: Issuance**: Created vouchers will be placed into the following account with the specified amount: e.g 2,000,000 Two Milllion Vouchers +254757628885
     1. **Community Account: Expiration**: All expired Vouchers will be distributed to the following account specified here: e.g +254757628885
     1. **Voucher Acceptance**: e.g. The Founding Member(s) signing below as official signatories undertake to accept vouchers as payment for goods and/or services as specified under *Offering*.
 

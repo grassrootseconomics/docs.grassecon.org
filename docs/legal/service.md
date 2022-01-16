@@ -9,24 +9,24 @@ The applying Member [Name/ Association or Organization Name] (herein called the 
 ## Platform Services
 
 1. **Training**
-    1. Cost: 10 SRF per person attending a training session.
+    1. Cost: 1 SRF per person attending a training session.
     1. Bookings for training sessions must be done at least one month in advance.
 2. **Dispute Resolution**
     1. Cost: 50 SRF per mediation session
     1. Bookings for mediation sessions must be done at least one month in advance.
     2. All disputes will be mediated in the first instance by a designated **Mediator** assigned by the Service Provider as specified in this agreement. _(See Official Signatories)_ . The Applicant agrees to accept the decision of the appointed Mediator as final subject to an appeal to an neutral arbitrator assigned by the Grassroots Economics Commons.
 1. **Voucher Creation**
-    3. Cost: 1000 SRF for each Voucher issuance event. 
+    3. Cost: 100 SRF for each Voucher issuance event. 
     4. Quantity and parameters of created Vouchers are specified in the Applicant’s [Voucher Declaration](/legal/voucher/). (Note that an **auditor** appointed by the Service Provider shall verify the Applicant's capacity to sustainably redeem Vouchers for one year's worth of specified goods or services. Upon acceptance by the Service Provider the Vouchers in the Application's [Voucher Declaration](/legal/voucher/) will be created digitally and allocated directly to the Applicant's Founding Members.) 
 1. **Platform Access and Maintenance**
     1. A yearly payment to continue using the Platform covers the following:
         1. Phone Support
 	1. USSD Interface with SMS receipts
         1. Servers and other operational costs
-    1. Cost: 1000 SRF per year.
+    1. Cost: 100 SRF per year.
 1. **Analytics Service**
     1. Information on all Members holding the Applicant's Instruments can be provided after a request and a 1 month waiting period given Member consent.
-    1. Cost: 100 SRF per request.
+    1. Cost: 10 SRF per request.
 
 **The Applicant and Service Provider further agree to the following:**
 
