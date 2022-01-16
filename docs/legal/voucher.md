@@ -18,8 +18,6 @@ I/We [Name/Association Name] _(herein called the Founding Member(s))_ hereby agr
         1. To national currency in Kenya: 1 Weza is worth at least 10 Kenyan Shillings.
         1. To calories: 1 Weza is worth at least 1.4 calories. Minimum Energy Calculation: Daily recommended human consumption = 2000 calories / 24 hours / 60 minutes = 1.4 calories / minute
     1. **Unit of Account and Denomination**: e.g. Weza Vouchers are denominated in **Kenyan Shillings**
-    1. **Exchange Rate**: e.g. 1 Weza Voucher is redeemable as payment for goods and/or services valued at **1 Kenyan Shilling** of Founding Members. Note that Weza vouchers are not redeemed **for** Kenyan shillings.  
-    1. **Expiration Rate**: e.g. The Vouchers expire at cumulative rate of 2% per month on a minute by minute basis.
     1. **Community Account: Issuance**: Created vouchers will be placed into the following account with the specified amount: e.g 4,000 Vouchers +25472865xxxx
     1. **Community Account: Expiration**: All expired Vouchers will be distributed to the following account specified here: e.g +25472865xxxx
     1. **Voucher Acceptance**: e.g. The Founding Member(s) signing below as official signatories undertake to accept vouchers as payment for goods and/or services as specified under *Offering worth an amount of Vouchers*.
