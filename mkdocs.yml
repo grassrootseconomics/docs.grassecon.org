@@ -22,8 +22,8 @@ nav:
       - Humanitarian Support: operations/support.md
   - Legal:
       - Intro: legal/index.md
-      - GE Commons License: legal/license.md
-      - Sarafu Clearing Union: legal/agreement.md
+      - Commons License: legal/license.md
+      - Commons Agreement: legal/agreement.md
       - Voucher Creation: legal/voucher.md
       - Service Agreement: legal/service.md
       - Data Policy: legal/data_policy.md
