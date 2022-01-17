@@ -29,11 +29,8 @@ The Platform of the Grassroots Economics Commons (herein called Sarafu Network) 
     1. **Voucher Name**: e.g. Sarafu (Minimum 3 and Maximum 32 characters)
     1. **Voucher Symbol**: e.g. SRF (Minimum 3 and Maximum 6 characters used for display on the Platform)
     1. **Voucher Supply**: 2,000,000 Two Million Vouchers 
-    1. **Unit of Account and Denomination**: (Energy = GE Service minutes) 1 minute of Grassroots Economics Foundation services or equivalent services should be obtained in exchange for at least 1 SRF Voucher.
-    1. **Minimum exchange rates**:
-        1. To national currency in Kenya: 1 SRF is worth at least 10 Kenyan Shillings.
-        1. To calories: 1 SRF is worth at least 1.4 calories. Minimum Energy Calculation: Daily recommended human consumption = 2000 calories / 24 hours
-1. **Unit of Account and Denomination**: Vouchers are denominated in **Kenyan Shillings** 
+    1. **Unit of Account and Denomination**: Grassroots Economics Foundation service minutes
+    1. **Acceptance rate**: 1 Minute of Grassroots Economics Foundation's services or equivalent goods or services should be obtained in return for 1 SRF.
     1. **Voucher Allocations**: 5 SRF will be allocated to each additional Member when joining as a Member on the Platform
     1. **Expiration Rate**: The Vouchers expire at cumulative rate of 2% per month each minute.
     1. **Community Account: Issuance**: Created vouchers will be placed into the following account with the specified amount: e.g 2,000,000 Two Milllion Vouchers +254757628885
@@ -60,7 +57,7 @@ Value supplied by Members in money or in-kind exchanged for Vouchers or Impact T
     1. Full Name:
     1. Contact Information or Service: (e.g. email or phone number)
     1. On behalf of: (e.g. If signing as a duly authorized representative of an association, business or entity)
-    1. Offering and Value: Grassroots Econonomics Foundation Services can be obtained through all twenty Million SRF Vouchers issued include:
+    1. Offering and Value: Grassroots Econonomics Foundation Services can be obtained through all two million SRF Vouchers issued include:
         1. Training and Support related to Economic Commons and Clearing Unions, Platforms, Instruments and related Member provided services
         1. Platform and Instrument reporting, creation and maintenance
         1. Software integration and customization
