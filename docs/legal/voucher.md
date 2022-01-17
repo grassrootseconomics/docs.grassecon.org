@@ -13,11 +13,8 @@ I/We [Name/Association Name] _(herein called the Founding Member(s))_ hereby agr
     1. **Voucher Name**: e.g. Weza (Minimum 3 and Maximum 32 characters)
     1. **Voucher Symbol**: e.g. WEZA (Minimum 3 and Maximum 6 characters used for display on the Platform)
     1. **Voucher Supply**: e.g. 4,000 Four Thousand Weza Vouchers
-    1. **Unit of Account and Denomination**: (Energy = Bodaboda minutes) 1 minute of BodaBoda transportation or equivalent services should be obtained in exchange for at least 1 Weza Voucher.
-    1. **Minimum exchange rates**:
-        1. To national currency in Kenya: 1 Weza is worth at least 10 Kenyan Shillings.
-        1. To calories: 1 Weza is worth at least 1.4 calories. Minimum Energy Calculation: Daily recommended human consumption = 2000 calories / 24 hours / 60 minutes = 1.4 calories / minute
-    1. **Unit of Account and Denomination**: e.g. Weza Vouchers are denominated in **Kenyan Shillings**
+    1. **Unit of Account and Denomination:** Bodaboda transport minutes or liters of drinking water.
+    1. **Acceptance rate**: 1 Minute of Boda transport or 20 litres of drinking water or equivalent goods or services should be obtained in return for 1 Weza.
     1. **Community Account: Issuance**: Created vouchers will be placed into the following account with the specified amount: e.g 4,000 Vouchers +25472865xxxx
     1. **Community Account: Expiration**: All expired Vouchers will be distributed to the following account specified here: e.g +25472865xxxx
     1. **Voucher Acceptance**: e.g. The Founding Member(s) signing below as official signatories undertake to accept vouchers as payment for goods and/or services as specified under *Offering worth an amount of Vouchers*.
@@ -35,8 +32,8 @@ I/We [Name/Association Name] _(herein called the Founding Member(s))_ hereby agr
     1. Title: *e.g. Director*
     1. Full Name: *e.g. John Kamau*
     1. Contact Information: *e.g. +254755106255*
-    1. On behalf of: *Kamau Chai Banda* (If signing as a duly authorized representative of an association, business or entity)
-    1. Offering and Value: *e.g. Chai worth 2,000 Weza Vouchers*
+    1. On behalf of: *Kamau Water Banda* (If signing as a duly authorized representative of an association, business or entity)
+    1. Offering and Value: *e.g. Drinking water worth 2,000 Weza Vouchers*
     1. Proof of Identity: *National ID Number #54A407*
     1. Date of Signing: *May 7 2021*
     1. Signature or Hash: *xxxxxx*
