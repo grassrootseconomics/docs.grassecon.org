@@ -15,6 +15,7 @@ nav:
       - Intro: operations/index.md
       - Case Study: operations/case_study.md      
       - Logical Framework: operations/log_frame.md
+      - Program Toolkit: operations/pqt.md
       - Training Guide: operations/training.md
       - Voucher Creation: operations/voucher.md
       - Team Guide: operations/team_guide.md
