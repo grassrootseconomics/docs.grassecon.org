@@ -1,63 +1,87 @@
-# Grassroots Economics Commons - Voucher Declaration
-
-*example: A declaration made by an individual person, group or organization wishing to create a Voucher and assign technical services*
+# **Voucher Declaration (en)**
 
 ## Preamble
 
-I/We [Name/Association Name] _(herein called the Founding Member(s))_ hereby agree to the [Grassroots Economics Commons Agreement](/legal/agreement/) and join as a Member. Further we seek to create a Voucher registered on the Sarafu Network Platform as per the [Service Agreement](/legal/service/) with Grassroots Economics Foundation.
+We .....................................................................................................[Group Name] _(herein called the Founding Member(s))_ hereby agree to the Grassroots Economics Commons Agreement and join as a Member. Further we seek to create a Voucher registered on the Sarafu Network Platform as per the Service Agreement with Grassroots Economics Foundation.
 
-## Instruments
+## Voucher
+All further mention of Vouchers in this agreement will refer to the Founding Member’s unique Voucher with the following properties and constraints:
 
-1. Voucher: All further mention of Vouchers in this agreement will refer to the Founding Member’s unique Voucher with the following properties and constraints:
+1. **Voucher Name**: .............................. _e.g. Weza (Minimum 3 and Maximum 32 characters))_
+2. **Voucher Symbol**: ............................. _e.g. WEZA (Minimum 3 and Maximum 6 characters used for display on the Platform)_
+3. **Voucher Supply**: ............................. _e.g. 4,000 Four Thousand Weza Vouchers_
+4. **Unit of Account and Denomination**:
 
-    1. **Voucher Name**: e.g. Weza (Minimum 3 and Maximum 32 characters)
-    1. **Voucher Symbol**: e.g. WEZA (Minimum 3 and Maximum 6 characters used for display on the Platform)
-    1. **Voucher Supply**: e.g. 4,000 Four Thousand Weza Vouchers
-    1. **Unit of Account and Denomination:** Bodaboda transport minutes or liters of drinking water.
-    1. **Acceptance rate**: 1 Minute of Boda transport or 20 litres of drinking water or equivalent goods or services should be obtained in return for 1 Weza.
-    1. **Community Account: Issuance**: Created vouchers will be placed into the following account with the specified amount: e.g 4,000 Vouchers +25472865xxxx
-    1. **Community Account: Expiration**: All expired Vouchers will be distributed to the following account specified here: e.g +25472865xxxx
-    1. **Voucher Acceptance**: e.g. The Founding Member(s) signing below as official signatories undertake to accept vouchers as payment for goods and/or services as specified under *Offering worth an amount of Vouchers*.
-
-## Addendum
-
-4. **Good Faith:** The Founding Members enters into this Agreement in good faith and holds harmless other Members of the Grassroots Economics Commons
-5. **Entirety:** this application represents consent of the Member and anyone using the Member's Voucher
+    ..............................................................................................................................
 
 
-## Official Signatories
-**In WITNESS WHEREOF**, the Founding Member(s) sign this agreement on the dates indicated below, and agree to abide by the terms of this agreement. Further each Founding Member must declar what goods or services they will accept as well as their value in the [WEZA] Voucher. 
+    .............................................................................................................................. 
 
-1. Founding Member 1
-    1. Title: *e.g. Director*
-    1. Full Name: *e.g. John Kamau*
-    1. Contact Information: *e.g. +254755106255*
-    1. On behalf of: *Kamau Water Banda* (If signing as a duly authorized representative of an association, business or entity)
-    1. Offering and Value: *e.g. Drinking water worth 2,000 Weza Vouchers*
-    1. Proof of Identity: *National ID Number #54A407*
-    1. Date of Signing: *May 7 2021*
-    1. Signature or Hash: *xxxxxx*
-1. Founding Member 2
-    1. Title: *e.g. Mr.*
-    1. Full Name: *e.g. Janet Killimani*
-    1. Contact Information: *e.g. +254712836455*
-    1. On behalf of: *e.g. Self*
-    1. Offering and Value: *e.g. Bodaboda rides worth 2,000 Weza Vouchers*
-    1. Proof of Identity: *National ID Number #54A407*
-    1. Date of Signing: *May 7 2021*
-    1. Signature or Hash: *xxxxxx*
 
-...
+    _e.g. Bodaboda transport minutes or liters of drinking water._
 
-1. Wittness
-    1. Title:
-    1. Full Name:
-    1. Contact Information: (e.g. email or phone number)
-    1. On behalf of: (e.g. If signing as a duly authorized represetnative of an association, business or entity)
-    1. Proof of Identity: (e.g. Passport number and country or other proof)
-    1. Date of Signing:
-    1. Signature or Hash:
+5. **Acceptance rate**:
 
+    ..............................................................................................................................
+
+    ..............................................................................................................................
+
+    _e.g (Items worth an equal amount) 1 Minute of Boda transport or 20 liters of drinking water or equivalent goods or services should be obtained in return for 1 Weza._
+    
+7. **Community Account for Issuance**: Created vouchers will be placed into the following account with the specified amount: 
+
+    Amount .................... Account Phone Number..................
+
+
+    e.g 4,000 [WEZA] +25472865xxxx
+
+8. **Expiration Rate**: The Vouchers expire at a cumulative rate of _[2%]_ per month each minute.
+9. **Community Account for Expiration**: All expired Vouchers will be distributed to the following account specified here:
+
+    Account Phone Number..................... e.g +25472865xxxx
+
+10. **Voucher Acceptance**: e.g. The Founding Member(s) signing below as official signatories undertake to accept vouchers as payment for goods and/or services as specified under _Offering and Value in Voucher_.
+
+
+## **Addendum**
+
+1. **Good Faith:** The Founding Members enters into this Agreement in good faith and holds harmless other Members of the Grassroots Economics Commons
+2. **Entirety:** this agreement represents consent of the Founding Members and anyone using the Member's Voucher
+
+
+## **Official Signatories**
+
+**In WITNESS WHEREOF**, the Founding Member(s) sign this agreement on the dates indicated below, and agree to abide by the terms of this agreement. (one page printed per Founding Member that will receive Vouchers)
+
+### Founding Member 
+
+1. Title: .......................... _e.g. Director_
+2. Full Name: .......................... _e.g. John Kamau_
+3. Account Phone Number: .......................... _e.g. +254755106255_
+4. On behalf of: .......................... e.g. _Kamau Chai Banda_ (If signing as a duly authorized representative of an association, business or entity)
+5. Offering and Value: 
+
+    Offering ................... Worth ...................
+
+
+    Offering ................... Worth ...................
+
+
+    _e.g. Chai worth 2,000 Weza Vouchers_
+
+6. Proof of Identity: .......................... _e.g. National ID_
+7. Date of Signing: .......................... _e.g. May 7 2021_
+8. Signature: ..........................
+
+### Witness 
+
+1. Title: .......................... _e.g. Director_
+2. Full Name: .......................... _e.g. John Kamau_
+3. Contact Number: .......................... _e.g. +254755106255_
+4. On behalf of: .......................... _e.g. Kamau Chai Banda (If signing as a duly authorized representative of an association, business or entity)_
+5. Proof of Identity: .......................... _e.g. National ID_
+6. Date of Signing: .......................... _e.g. May 7 2021_
+7. Signature: ..........................
 
 Copyright © 2021 Grassroots Economics Foundation
 This document is licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/ )
