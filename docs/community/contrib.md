@@ -7,6 +7,4 @@
     * If there is a Grassroots Economics Kanban Issue please include that in the MR it will help us track contributions. 
         * Visit the overall Grassroots Economics Organization [Kanban board](https://gitlab.com/groups/grassrootseconomics/-/boards)
         * Visit the Software Development [Kanban board](https://gitlab.com/grassrootseconomics/cic-internal-integration/-/boards/2419764)
-* Ask a question in our community chat:
-    * [Mattermost](https://chat.grassrootseconomics.net/cic/channels/dev)
-    * [Discord](https://discord.gg/ud32KMgH76)
+* Ask a question in our community chat on [Mattermost](https://chat.grassrootseconomics.net/cic/channels/dev)
