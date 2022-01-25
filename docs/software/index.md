@@ -29,6 +29,7 @@ While work toward *non-custodial* and web interfaces are underway, the CIC Stack
 - **Base components**, containing all necessary provisions for services and tooling. ([Chaintools](https://git.grassecon.net/chaintool))
 - **Generic services components**, libraries, daemons and services making up the custodial engine. ([cicnet](https://git.grassecon.net/chaintool))
 - **Deployment components**, which facilitates deployment of the custodial engine, as well as seeding data for development, demonstration and migration. ([GrassrootsEconomics](https://git.grassecon.net/grassrootseconomics)) 
+- [Test Coverage](https://coverage-reports.grassecon.net/)
 
 
 ## Base components
