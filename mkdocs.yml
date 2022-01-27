@@ -31,6 +31,7 @@ nav:
   - Software:
       - CIC Stack: software/index.md
       - Design Principles: software/principles.md
+      - Smoke Test: software/smoke-test.md
 
 repo_url: https://gitlab.com/grassrootseconomics/grassrootseconomics.gitlab.io
 repo_name: grassrootseconomics/docs
