@@ -1,26 +1,21 @@
 site_name: Grassroots Economics Documentation
 site_url: https://example.com
 nav:
-  - General:
-      - Karibu: index.md
-      - FAQ: faq.md
-      - Glossary: glossary.md
-      - Roadmap: roadmap.md
+  - Karibu: index.md
   - Community:
       - Intro: community/index.md
       - Charter: community/charter.md
       - Contribution Guidelines: community/contrib.md
       - Code of Conduct: community/conduct.md
+      - Roadmap: community/roadmap.md
   - Operations:
-      - Intro: operations/index.md
-      - Case Study: operations/case_study.md      
-      - Logical Framework: operations/log_frame.md
-      - Program Toolkit: operations/pqt.md
-      - Training Guide: operations/training.md
-      - Voucher Creation: operations/voucher.md
-      - Team Guide: operations/team_guide.md
-      - Stakeholder Guide: operations/local_stakeholders.md
-      - Humanitarian Support: operations/support.md
+      - Intro: ops/index.md
+      - Logical Framework: ops/log_frame.md
+      - Program Toolkit: ops/pqt.md
+      - Voucher Creation: ops/voucher.md
+      - Team Guide: ops/team_guide.md
+      - Stakeholder Guide: ops/local_stakeholders.md
+      - Humanitarian Support: ops/support.md
   - Legal:
       - Intro: legal/index.md
       - Commons License: legal/license.md
@@ -32,6 +27,16 @@ nav:
       - CIC Stack: software/index.md
       - Design Principles: software/principles.md
       - Smoke Test: software/smoke-test.md
+  - Education:
+      - Intro: edu/index.md
+      - Glossary: edu/glossary.md
+      - FAQ: edu/faq.md
+      - Quiz: https://forms.gle/yJfVKsZUS1Tdmmmc9
+      - Training Guide: edu/training.md
+      - Case Study: edu/case_study.md
+      - MOOC: https://www.grassrootseconomics.org/pages/mooc.html
+
+
 
 repo_url: https://gitlab.com/grassrootseconomics/grassrootseconomics.gitlab.io
 repo_name: grassrootseconomics/docs

@@ -10,21 +10,21 @@ This FAQ accompanies the [Training Guide](/training/) and the [Glossary](/glossa
 
 
 * What are Community Inclusion Currencies (CICs)?
-    * CICs are tradable **Vouchers, redeemable for goods and/or services** of participating individuals, organizations, schools, shops, groups, farms, and clinics. Anyone can create their own CIC which acts as **a local means of trade and exchange **that does not replace but rather supplements (tops-up) lacking national currency. Through increasing trade by matching unmet local needs with under-utilized local resources CICs enable sustainable economic, environmental and social development. Here you can see our definition of a [Voucher](/legal/).
-    * Note that we will often call all CICs on Sarafu Network a *Sarafu* (which means currency in Kiswahili).
-* How do you create a CIC?
-    * People, groups (chamas) and organizations can issue or create a CIC by creating a backing guarantee or Commitment Agreement - see [Operations](/operations/).
+    * CICs are tradable **Vouchers, redeemable as payment for goods and/or services** of issuers or other participating individuals, organizations, schools, shops, groups, farms, and clinics. Anyone can create their own CIC which can act as **a local means of trade and exchange** that does not replace but rather supplements (tops-up) lacking national currency. Through increasing trade by matching unmet local needs with under-utilized local resources CICs enable sustainable economic, environmental and social development. Here you can see our definition of a [Voucher](/legal/).
+    * Note that we will often call all CICs on Sarafu Network a Voucher or *Sarafu*  (which means currency in Kiswahili).
+* How do you create a CIC / Voucher / Sarafu?
+    * People, groups (chamas) and organizations can issue or create a CIC by creating a backing guarantee or Commitment Agreement - see Voucher creation under [Operations](/ops/). 
 * What is my CIC’s exchange rate?
-    * When creating a CIC you specify the unit of account. Generally issuers create CICs denominated 1:1 with national currency to make their usage easier, but others will choose units of account like fresh water.
-    * There is no official exchange for CICs and national currency - the only guarantee is redemption for goods and services of the issuers - as payment in-lieu of or in addition to national currency.
+    * When creating a CIC you specify the unit of account. Generally issuers create CICs denominated in a small unit of their services or goods, like on minute of specific work or 1 egg.
+    * There is no official exchange for CICs and national currency - the only guarantee is redemption for goods and services of the issuers - as payment in-lieu of, or in addition to national currency.
 *  How do you get more CIC?
     * **Buying: **By allowing users to buy your goods or services using CIC, this is considered barter trade as you should be able to spend the CIC you receive back at other users in the community. This doesn’t change the CICs exchange value. n.b. You could also call this **selling** your Vouchers in-kind. Note that while vouchers can be exchanged for other vouchers or goods and services they can also be exchanged for (purchased with) national currency - but there is no guarantee of redemption for national currency.
     * **Creating/Minting: **People, groups (chamas) and organizations can issue or create a CIC by creating a backing guarantee as part of their Membership Agreement - see [Operations](/ops/).
     * **Redistribution:** A group creating a CIC may give out CIC to members and collect it back as a tax and redistribute for community support.
-* What is the difference between Sarafu (SRF) and other Sarafu/CICs on Sarafu Network
-    * **Become a user:** When someone first creates a CIC wallet on Sarafu Network they get some Sarafu (SRF) tokens. These tokens are used to train people how to use the system and prepare for making their own CIC.
+* What is the difference between Sarafu (SRF) and other Vouchers/CICs on Sarafu Network
+    * **Become a user:** When someone first creates a CIC wallet on Sarafu Network they get some (currently 5 but it may change depending on the supply avalible) Sarafu (SRF) tokens. These Vouchers are used to train people how to use the system and prepare for making their own CIC.
     * **Refer to new users: **Sarafu (SRF) is often given as a reward to the first person who trades with a new user.
-    * SRF is the CIC of Grassroots Economics Foundation and redeemable for our services such as Voucher creation and training.
+    * SRF is the Voucher of Grassroots Economics Foundation and redeemable for our services such as Voucher creation and training.
 * What are the benefits of using CICs?
     * **Meet basic needs:** enable people and their community to meet daily needs during the hard times of the month or year or during a crisis.
     * **Increase trade:** increase your daily sales and customers; and to save more National Currency for needs outside the community.
@@ -91,9 +91,8 @@ This FAQ accompanies the [Training Guide](/training/) and the [Glossary](/glossa
 
 * How are CICs regulated?
     * On August 23<sup>rd</sup> 2013, Bangla-Pesa which is a CIC was deemed by the Director of Public Prosecution in Kenya to not have broken any laws.
-    *
 * Do CICs expire?
-    * CICs gradually expire in the form of a levy on balances. Which accrues to 2% a month and automatically goes to the creator or community group creating that CIC.
+    * CICs gradually expire in the form of a levy on balances. Which generally accrues to 2% a month and automatically goes to the creator or community group creating that CIC.
 * How does a Savings Group (Chama) use CICs?
     * Chama members can register for an account and begin to save and loan CICs just like they do with National Currencies.
     * One chama member account is designated as the *Chama account* where members store their savings.
@@ -119,61 +118,4 @@ This FAQ accompanies the [Training Guide](/training/) and the [Glossary](/glossa
 
 
 ## Quiz
-Test your Knowledge with the Quiz below
-
-
-QUIZ / JARIBIO
-
-**1. How much Sarafu (SRF) do new members get?**
-
-(a) 100 (b) 200 (c) 50 (d) 500 (e) depends on the member’s activity, type and size of businesses (f) Depends on Grassroots Economics availability of SRF
-
-**2. How many CICs will be created if a group commits to backing them with 10,000 KSH worth of their products? (Assuming the group can redeem these vouchers within a month)**
-
-(a) 0 (b) 10,000 (c) 75,680  (d) 200,000  (e) 400,000
-
-**3. If a CIC has a holding tax (levy/demurrage), where does this tax go?**
-
-(a) It is destroyed (b) It is the choice of the chama/issuer creating it (c) government
-
-**4. When can CICs be exchanged for Kenya Shillings?**
-
-(a) End of the month and only 50% of their balance
-
-(b) When you have more than 10,000 CICs
-
-(c) Never
-
-(d) When a willing party chose to buy them (there is no obligation)
-
-**5. What is the value behind 50 CICs generally? **
-
-(a) 50 Ksh (b) 50 Ksh of goods and services (c) Less than 50 Ksh
-
-**6. What does it mean if you have too much CIC? (mark all that apply)**
-
-(a) I have much more CICs than I started with
-
-(b) I need to sell more products for CICs
-
-(c) I should be buying more goods and services with CICs
-
-**7. What does it mean if you don't have enough CICs? (mark all that apply)**
-
-(a) I should be spending CICs it as fast as possible
-
-(b) I have spent CICs with other members.
-
-(c) I need to sell more goods or services for CICs.
-
-**8. How do non-issuers use CICs? (mark all that apply)**
-
-(a) Receive it as change
-
-(b) They never get to use it
-
-(c) They can accept it voluntarily as payment for work or community services.
-
-(d) They need to register for an account
-
-_User Quiz Answers: 1.) f  2.) b  3.) b  4.) d  5.) b  6.)  a, c  7.) b, c  8.) a, d, c_
+Test your Knowledge with the [Quiz](https://forms.gle/xuZTC3JyZ8zJmLXr6)

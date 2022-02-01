@@ -348,7 +348,7 @@ This module seeks to give an overall understanding of what CICs are. It outlines
 
 ### **Case Study - Binguni & Mbele in Kenya**
 
-Read the case study here: [case_study](/operations/case_study/)
+Read the case study here: [case_study](/edu/case_study/)
 
 
 ### PREPAREDNESS
@@ -780,7 +780,7 @@ To ensure liquidity, ability to restock as well as to meet the objective of boos
 
 Therefore, the community groups and other stakeholders will determine the supply of vouchers generated per group as above, how that amount varies within different groups within the community (based on their production capacity), and how the vouchers will be disbursed.
 
-Read more about the Voucher (CIC) Creation process: [voucher creation steps](/operations/voucher/)
+Read more about the Voucher (CIC) Creation process: [voucher creation steps](/edu/voucher/)
 
 
 
@@ -926,25 +926,33 @@ M&E outputs should be shared both internally within the implementing organisatio
 
 ## **Appedicies**
 
-Operations: [https://docs.grassecon.org/operations](https://docs.grassecon.org/operations) 
+Educational: [https://docs.grassecon.org/edu](https://docs.grassecon.org/edu) 
 
+* [Glossary](/edu/glossary/) of terms
+* [Frequently asked questions](/edu/faq/)
+* [Quiz](https://forms.gle/yJfVKsZUS1Tdmmmc9)
+* [Community Training Guide](/edu/training/)
+* [Voucher Creation Summary](/edu/voucher/)
+* [Case Study](/edu/case_study/)
+* [Other online materials](https://www.grassrootseconomics.org/pages/mooc.html)
 
+Operations: [https://docs.grassecon.org/ops](https://docs.grassecon.org/ops) 
 
 1. Logical Framework
 2. Team Training Guide
-3. CIC Training Guide
-4. Stakeholder Engagement Guide
+3. Stakeholder Engagement Guide
+4. Humanitarian Support
 
 Legal: [https://docs.grassecon.org/legal](https://docs.grassecon.org/legal) 
 
-5. Economic Commons Licence
-6. Clearing Union Agreement
-7. Voucher Creation
-8. Service Agreement
-9. Data Policy
+1. Economic Commons Licence
+2. Clearing Union Agreement
+3. Voucher Creation
+4. Service Agreement
+5. Data Policy
 
 Software: [https://docs.grassecon.org/software/](https://docs.grassecon.org/software/) 
 
 Extra:
-10. Cash Hub for Cash and Voucher Assistance Programs: [https://cash-hub.org/](https://cash-hub.org/) 
-11. A quick delivery guide: Vouchers (2011) CaLP: [http://www.cashlearning.org/resources/library/25-vouchers---a-quick-delivery-guide-booklet-version](http://www.cashlearning.org/resources/library/25-vouchers---a-quick-delivery-guide-booklet-version)
+1. Cash Hub for Cash and Voucher Assistance Programs: [https://cash-hub.org/](https://cash-hub.org/) 
+2. A quick delivery guide: Vouchers (2011) CaLP: [http://www.cashlearning.org/resources/library/25-vouchers---a-quick-delivery-guide-booklet-version](http://www.cashlearning.org/resources/library/25-vouchers---a-quick-delivery-guide-booklet-version)
