@@ -23,6 +23,7 @@ nav:
       - Voucher Creation: legal/voucher.md
       - Service Agreement: legal/service.md
       - Data Policy: legal/data_policy.md
+      - Child Protection Policy: legal/child_policy.md
   - Software:
       - CIC Stack: software/index.md
       - Design Principles: software/principles.md
