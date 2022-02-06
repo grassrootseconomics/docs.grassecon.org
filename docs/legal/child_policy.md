@@ -1,4 +1,4 @@
-# Grassroots Economics Foundation's Chil Protection POlicy and Proceedures
+# Grassroots Economics Foundation's Chil Protection Policy and Proceedures
 
 **_Note about this policy template: Grassroots Economic Foundation recognizes child protection is a life-saving priority. Child protection prevention and response mechanisms responses must be established from the start of an intervention, or children's lives and well-being will be put at risk. The most important outcomes of child protection are to prevent violence, abuse and exploitation, and to ensure all children access to protection services, by establishing or supporting national and community-level child protection systems._**
 
