@@ -27,6 +27,7 @@ nav:
   - Software:
       - CIC Stack: software/index.md
       - Design Principles: software/principles.md
+      - Kitabu Blockchain: software/kitabu.md
       - Smoke Test: software/smoke-test.md
   - Education:
       - Intro: edu/index.md
