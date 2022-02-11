@@ -5,8 +5,9 @@
 The Kitabu (Meaning Ledger or Book in Kiswahili) Blockchain was developed by Grassroots Economics Foundation to enable ledger services to reach vulnerable and marginalized communities. It is a key part of Sarafu Network and the Grassroots Economic Commons which enable people and organizations to create and utilize Instruments.
 
 ## Key elements:
-1. Genisis block: The inital amount of a native Voucher called Ukurasa (UKU) (page in Kiswahili) will be created equal to an estimated transaction capacity of 50 transactions per second for 12 months at an median price of 1 gwei per transaction. (50x60x60x24x12x1 gwei = 129,600,000 UKU will be created).
-1. Ukurasa (UKU) are Vouchers (CICs) redeemable as payment to Validators for writing or executing any contract on the Kitabu Chain.
+1. Genisis block: 129,600,000 [Vouchers](/legal/license/#instruments) called Ukurasa (symbol: UKU) (aka "page" in Kiswahili) will be created and redeemable as payment for 1 transaction on the Kitbu Chain.
+    1. These UTU equal to an estimated transaction capacity of 50 transactions per second for 12 months at an median price of 1 gwei per transaction. (50x60x60x24x12x1 gwei = 129,600,000 UKU will be created).
+    1. Ukurasa (UKU) are Vouchers (CICs) redeemable as payment to Validators for writing or executing any contract on the Kitabu Chain.
     1. UKU are given to Validators as rewards for validating blocks / transactions. They also prevent abuse of the Kitabu Chain.
     1. UKU have no expiration date.
 1. Community Fund: UKU Vouchers are intially created in a community fund and freely distributed to users via a faucet when they initally register an account or when they run out of UKU from doing transactions. Existing users from previous Sarafu-Network chains will be imported with 5 UKU
