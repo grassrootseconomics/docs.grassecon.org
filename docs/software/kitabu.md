@@ -6,6 +6,20 @@ The Kitabu (Meaning 'Ledger or Book' in Kiswahili) Blockchain is derived from Op
 
 ## Technology
 
+### **Chain Specifications (CHAIN_SPEC):**
+
+#### evm:byzantium:5050:kitabu
+
+1. **Architecture:** EVM Ethereum Virtual Machine
+2. **Fork/Version:** Byzantium
+3. **Chain/Network ID:** 5050
+4. **Common Name:** Kitabu
+
+
+**Custom Parameters:** {RPC Endpoint: http://rpc.grassecon.net, Interface: ERC20}
+
+### Chain details
+
 1. Kitabu chain is a proof of authority chain and utilizes Open Ethereum and the [Aura Consensus](https://openethereum.github.io/Aura).
 1. The open source code for Kitabu Chain as well as instructions to run a node can be found on [gitLab](https://gitlab.com/grassrootseconomics/kitabu-chain)
 
