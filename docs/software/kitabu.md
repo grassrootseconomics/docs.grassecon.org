@@ -35,9 +35,9 @@ The Kitabu (Meaning 'Ledger or Book' in Kiswahili) Blockchain is derived from Op
 ## Validators
 1. Voting: Any changes to Kitabu chain, such as but not limited to, validator addition or removal are voted on by existing Validators.
     1. 1 Validator = 1 vote.
-    1. Quorum must reach 50% of all validators and for a vote to pass 90% of the voting Validators must agree.
-    1. Voting will take place on the Grassroots Economics [chat server](https://chat.grassrootseconomics.net). 
-    1. Grassroots Economics Foundation will be the Chair of the quorum and enact decisions created. Voting for validators will eventually (by 2023) be automated as a contract on Kitabu Chain.
+    1. Quorum must reach 50% of all validators and for a vote to pass 50% of the voting Validators must agree.
+    1. Voting and proposals will take place on chain. Prior discussion to a proposal will take place on our Mattermost [chat server](https://chat.grassrootseconomics.net/cic/channels/kitabu-governance). 
+    1. Grassroots Economics Foundation will be the Chair of the quorum and enact decisions created if not automated. Voting for validators will eventually (by 2023) be automated as a contract on Kitabu Chain.
     1. No single organization including Grassroots Economics Foundation shall control or have interests or power over more than 45% of the validation nodes.
 1. All validators as well as users of Kitabu chain agree to the [Grassroots Economics Commons Agreement](/legal/agreement/) as Members.
 1. All validators agree to our [Code of Conduct](/community/conduct/).
