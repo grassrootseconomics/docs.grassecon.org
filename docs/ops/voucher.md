@@ -1,6 +1,6 @@
 # Voucher (CIC) Creation
 
-This is a summary of the Voucher creation process. Our [Community Training Guide](/operations/training/) gives a basic training for identifying local resources and sharing them together using a voucher.
+This is a summary of the Voucher creation process. Our [Community Training Guide](/edu/training/) gives a basic training for identifying local resources and sharing them together using a voucher.
 
 1. **Resource Mapping**: Working with your community to map out resources and needs. Often people don’t realise how much they can offer and how much they can support each-other. The Training guide goes through the majority of these steps. Also note that individuals and organisations like the Red Cross or Core Service providers can create their own vouchers redeemable for goods or services.
 2. **Learning through games**: Ensure that everyone involved or expected to utilise a CIC is able to play through a demonstration with others. Work out all the kinks BEFORE you start.
@@ -8,12 +8,13 @@ This is a summary of the Voucher creation process. Our [Community Training Guide
 4. **Audits, Endorsements and Conflict Mitigation**: Commitments should be internally audited by the community and as well with a designated auditor to ensure that the vouchers can be redeemed in a reasonable amount of time. A mediator should be assigned to deal with conflicts, like when a member spends but refuses to redeem vouchers they created.
 5. **Agreements Signed **In order to issue their own CIC, the group needs to enter into three agreements, in this order:
     1. **_A Economic Commons Agreement:_** this is an agreement every member must agree to before the creation of their Voucher. It is effectively a terms and conditions of the full ecosystem.
-    2. **_A Voucher Declaration / Membership Agreement: _**an agreement exists between the members of the group, and ensures that:
-        1. They’ve **identified and quantified their commitments**/offerings to each other, using national currency as the unit of account.
-        2. They’ve all been **audited and verified** on their commitments/offerings, by the service provider chiefs/elders/chairpersons/local governance.
-        3. They’ve **agreed on the total supply/quantity of vouchers** to be issued, matched to their commitments, and have named their voucher.
-        4. They’ve **agreed to accept the vouchers** for their goods and services.
-        5. They’ve **set limits to how many vouchers they can receive** for their goods and services within a day/week/month/year, to ensure that they never receive more than they are able to spend (ensuring movement of vouchers).
+    2. **_A Voucher Declaration / Membership Agreement: _**an [agreement](/legal/voucher/) exists between the members of the group, and ensures that:
+        1. They’ve identified a common unit of account, (1 Voucher = 1 Egg)
+        2. They’ve **identified and quantified their commitments**/offerings to each other, using their choosen unit of account.
+        3. They’ve all been **audited and verified** on their commitments/offerings, by the service provider chiefs/elders/chairpersons/local governance.
+        4. They’ve **agreed on the total supply/quantity of vouchers** to be issued, matched to their commitments, and have named their voucher.
+        5. They’ve **agreed to accept the vouchers** for their goods and services.
+        6. They’ve **set limits to how many vouchers they can receive** for their goods and services within a day/week/month/year, to ensure that they never receive more than they are able to spend (ensuring movement of vouchers).
         6. They set a **group issuance limit on the vouchers**, to ensure that the amount of vouchers created matches the redeemable goods and services.
         7. They’ve agreed to, and elected a means of **mediation/arbitration** in case there is a fault.
         8. They’ve agreed on a **gradual expiration of the vouchers** to ensure that the voucher is not hoarded, but traded (demurrage). Because groups don't want their vouchers to be lost forever in the hands of collectors/hoarders, they ensure that they expire slowly over time at ~2% a month - and return to their group accounts. This means that anyone holding 100 Vouchers will lose 2 of them from their account each month. These amounts in the community funds of the groups can be used for projects and supporting the needy.
