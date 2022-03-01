@@ -1,8 +1,5 @@
 # **Grassroots Economics Commons Agreement (en)**
 
-_example: An Economic Commons implementation for a institution wishing to create Instruments, operate a Platform and offer various services to Members_
-
-
 ## **Preamble**
 
 We **Grassroots Economics Foundation** _(herein called the Founding Member)_ hereby ratify and incorporate the[ Grassroots Economics Commons License v1](https://docs.grassecon.org/legal/license/) in the following Economic Commons (herein called the Grassroots Economics Commons) as its Guardian, General Member and Platform Service Provider.
