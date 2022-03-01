@@ -1,4 +1,3 @@
-
 # **Grassroots Economics Commons Agreement (en)**
 
 _example: An Economic Commons implementation for a institution wishing to create Instruments, operate a Platform and offer various services to Members_
@@ -6,7 +5,7 @@ _example: An Economic Commons implementation for a institution wishing to create
 
 ## **Preamble**
 
-We **Grassroots Economics Foundation** _(herein called the Founding Member)_ hereby ratify and incorporate the[ Grassroots Economics Commons Licence v1](https://docs.grassecon.org/legal/license/) in the following Economic Commons (herein called the Grassroots Economics Commons) as its Guardian, General Member and Platform Service Provider.
+We **Grassroots Economics Foundation** _(herein called the Founding Member)_ hereby ratify and incorporate the[ Grassroots Economics Commons License v1](https://docs.grassecon.org/legal/license/) in the following Economic Commons (herein called the Grassroots Economics Commons) as its Guardian, General Member and Platform Service Provider.
 
 
 ## **Platform:**
@@ -24,18 +23,18 @@ The Platform of the Grassroots Economics Commons (herein called Sarafu Network) 
 
     1. **Voucher Name**: e.g. Sarafu (Minimum 3 and Maximum 32 characters)
     2. **Voucher Symbol**: e.g. SRF (Minimum 3 and Maximum 6 characters used for display on the Platform)
-    3. **Voucher Supply**: 2,000,000 Two Million SRF Vouchers
-    4. **Unit of Account and Denomination**: Grassroots Economics Foundation service minutes
+    3. **Voucher Supply**: 2,000,000 Two Million SRF Vouchers will be issued out to existing Sarafu users. Supply will fluctuate based on Voucher Allocation
+    4. **Voucher Allocations**: 5 SRF will created and allocated to each additional Member when joining Sarafu Network
+    5. **Unit of Account and Denomination**: Grassroots Economics Foundation service minutes
     5. **Acceptance rate**: 1 Minute of Grassroots Economics Foundation's services or equivalent goods or services should be obtained in return for 1 SRF.
     6. **Offering and Value**: Grassroots Economics Foundation Services can be obtained through SRF Vouchers, including but not limited to:
-        1. Training and Support related to Economic Commons and Clearing Unions, Excahnge Platforms, Instruments and related Member provided services
+        1. Training and Support related to Economic Commons and Clearing Unions, Exchange Platforms, Instruments and related Member provided services
         2. Platform and Instrument reporting, creation and maintenance
         3. Software integration and customization
         4. Arbitration of disputes related to Instruments and Platform usage
-    7. **Voucher Allocations**: 5 SRF will be allocated to each additional Member when joining as a Member on the Platform
-    8. **Expiration Rate**: The Vouchers expire each minute with at cumulative rate of 2% per month.
-    9. **Community Account: Issuance**: Created vouchers will be placed into the following account with the specified amount: Two Milllion Vouchers +254757628885
-    10. **Community Account: Expiration**: All expired Vouchers will be distributed to the following account specified here: e.g +254757628885
+    7. **Expiration Rate**: The Vouchers expire each minute with at cumulative rate of 2% per month.
+    8. **Community Account: Issuance**: Created vouchers will be placed into the following account with the specified amount: Two Million Vouchers +254757628885
+    9. **Community Account: Expiration**: All expired Vouchers will be distributed to the following account specified here: e.g +254757628885
 2. Token: Non-Confidential Member data utilizing any Platform registered Instrument is made available to Members by mutual agreement in the form of Tokens (herein called an Impact Tokens) which hold endorsements and reports on Instrument usage. See our [data protection policy](https://docs.grassecon.org/legal/data_policy/). 
 3. Swap: Value supplied by Members in money or in-kind exchanged for Vouchers or Impact Tokens, will be used to maintain the Sarafu Network infrastructure and to support Members as specified by mutual agreement. 
 
