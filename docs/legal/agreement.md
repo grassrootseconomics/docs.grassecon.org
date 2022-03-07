@@ -22,7 +22,7 @@ The Platform of the Grassroots Economics Commons (herein called Sarafu Network) 
     2. **Voucher Symbol**: e.g. SRF (Minimum 3 and Maximum 6 characters used for display on the Platform)
     3. **Voucher Supply**: Inital SRF Vouchers will be minted for preexisting Sarafu users and additional SRF will minted and allocated to each additional Member when joining Sarafu Network.
     5. **Unit of Account and Denomination**: Grassroots Economics Foundation service minutes
-    5. **Acceptance rate**: 1 Minute of Grassroots Economics Foundation's services or equivalent goods or services should be obtained in return for 1 SRF.
+    5. **Acceptance rate**: 100 SRF will be redeemable as payment for a single Voucher creation service or equivalent value of services from Grassroots Economics Foundation.
     6. **Offering and Value**: Grassroots Economics Foundation Services can be obtained through SRF Vouchers, including but not limited to:
         1. Training and Support related to Economic Commons and Clearing Unions, Exchange Platforms, Instruments and related Member provided services
         2. Platform and Instrument reporting, creation and maintenance
