@@ -20,8 +20,7 @@ The Platform of the Grassroots Economics Commons (herein called Sarafu Network) 
 
     1. **Voucher Name**: e.g. Sarafu (Minimum 3 and Maximum 32 characters)
     2. **Voucher Symbol**: e.g. SRF (Minimum 3 and Maximum 6 characters used for display on the Platform)
-    3. **Voucher Supply**: 2,000,000 Two Million SRF Vouchers will be issued out to existing Sarafu users. Supply will fluctuate based on Voucher Allocation
-    4. **Voucher Allocations**: 5 SRF will created and allocated to each additional Member when joining Sarafu Network
+    3. **Voucher Supply**: Inital SRF Vouchers will be minted for preexisting Sarafu users and additional SRF will minted and allocated to each additional Member when joining Sarafu Network.
     5. **Unit of Account and Denomination**: Grassroots Economics Foundation service minutes
     5. **Acceptance rate**: 1 Minute of Grassroots Economics Foundation's services or equivalent goods or services should be obtained in return for 1 SRF.
     6. **Offering and Value**: Grassroots Economics Foundation Services can be obtained through SRF Vouchers, including but not limited to:
@@ -30,8 +29,8 @@ The Platform of the Grassroots Economics Commons (herein called Sarafu Network) 
         3. Software integration and customization
         4. Arbitration of disputes related to Instruments and Platform usage
     7. **Expiration Rate**: The Vouchers expire each minute with at cumulative rate of 2% per month.
-    8. **Community Account: Issuance**: Created vouchers will be placed into the following account with the specified amount: Two Million Vouchers +254757628885
-    9. **Community Account: Expiration**: All expired Vouchers will be distributed to the following account specified here: e.g +254757628885
+    8. **Community Account: Issuance**: Created vouchers will be placed into the following account: 0xBBb4a93c8dCd82465B73A143f00FeD4AF7492a27
+    9. **Community Account: Expiration**: All expired Vouchers will be distributed to the following account specified here: 0xBBb4a93c8dCd82465B73A143f00FeD4AF7492a27
 2. Token: Non-Confidential Member data utilizing any Platform registered Instrument is made available to Members by mutual agreement in the form of Tokens (herein called an Impact Tokens) which hold endorsements and reports on Instrument usage. See our [data protection policy](https://docs.grassecon.org/legal/data_policy/). 
 3. Swap: Value supplied by Members in money or in-kind exchanged for Vouchers or Impact Tokens, will be used to maintain the Sarafu Network infrastructure and to support Members as specified by mutual agreement. 
 
