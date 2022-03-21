@@ -8,3 +8,9 @@
         * Visit the overall Grassroots Economics Organization [Kanban board](https://gitlab.com/groups/grassrootseconomics/-/boards)
         * Visit the Software Development [Kanban board](https://gitlab.com/grassrootseconomics/cic-internal-integration/-/boards/2419764)
 * Ask a question in our community chat on [Mattermost](https://chat.grassrootseconomics.net/cic/channels/dev)
+
+We recommend:
+1. python3 -m venv .venv
+1. source .venv/bin/activate
+1. pip install -r requirements.txt --extra-index-url https://pip.grassrootseconomics.net
+1. ex. https://git.grassecon.net/grassrootseconomics/clicada#installation
