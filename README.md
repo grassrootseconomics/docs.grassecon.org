@@ -29,7 +29,7 @@ mkdocs build
 
 Download repo
 ```
-git clone https://gitlab.com/grassrootseconomics/grassrootseconomics.gitlab.io.git
+git clone https://github.com/grassrootseconomics/docs.grassecon.org.git
 ```
 
 Make sure you are uptodate and create a branch
