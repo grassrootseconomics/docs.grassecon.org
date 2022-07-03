@@ -38,10 +38,10 @@ digraph D {
 By developing an inclusive legal Nondominium framework an open community is created that anyone can opt into and as long as the protocols are followed they can develop member to member agreements which decentralize the commons and maintaining integrity.
 
 - An Economic Commons can be broken into various agreements:
-    * [Grassroots Economics Commons License v1 (GECL v1)](/legal/license/): A general overarching template that defines an Economic Commons and various rights and responsibilities of its Members.
-    * [Grassroots Economics Commons Agreement](/legal/agreement/): The Grassroots Economics Commons Agreement is an example Economic Commons which incorporates the GECL v1 with Grassroots Economics Foundation's Sarafu Network as its Platform. Further Grassroots Economics as a Platform Service Provider declares the Sarafu Voucher redeemable as payment for various services such as training, clearing, mediation, and running various micro-services, like blockchain nodes, wallets and marketplaces.
-    * [Voucher Creation](/legal/voucher/): An example of an individual or group that wants to create a Voucher within an Economic Commons
-    * [Intermember Service Agreement](/legal/service/): Establishes agreements between Economic Commons Members. In this example a Voucher creating Member wishes to subscribe to the services of a Platform Service Provider.
-    * [Data Policy](/legal/data_policy/): Here is an example of a data protection policy of Grassroots Economics as a Platform Service Provider.
+    * [Grassroots Economics Commons License v1 (GECL v1)](/commons/license/): A general overarching template that defines an Economic Commons and various rights and responsibilities of its Members.
+    * [Grassroots Economics Commons Agreement](/commons/agreement/): The Grassroots Economics Commons Agreement is an example Economic Commons which incorporates the GECL v1 with Grassroots Economics Foundation's Sarafu Network as its Platform. Further Grassroots Economics as a Platform Service Provider declares the Sarafu Voucher redeemable as payment for various services such as training, clearing, mediation, and running various micro-services, like blockchain nodes, wallets and marketplaces.
+    * [Voucher Creation](/commons/voucher/): An example of an individual or group that wants to create a Voucher within an Economic Commons
+    * [Intermember Service Agreement](/commons/service/): Establishes agreements between Economic Commons Members. In this example a Voucher creating Member wishes to subscribe to the services of a Platform Service Provider.
+    * [Data Policy](/commons/data_policy/): Here is an example of a data protection policy of Grassroots Economics as a Platform Service Provider.
 
 

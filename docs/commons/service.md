@@ -5,7 +5,7 @@
 
 ## **Preamble**
 
-Two Members of the[ Grassroots Economic Commons](https://docs.grassecon.org/legal/agreement/) willingly consent to the following service agreement.
+Two Members of the[ Grassroots Economic Commons](https://docs.grassecon.org/commons/agreement/) willingly consent to the following service agreement.
 
 The applying Member (herein called the Applicant) wishes to receive services described in this agreement from Grassroots Economics Foundation, a non-profit foundation based in Kenya (herein called the Service Provider of the Sarafu Network Platform):
 
@@ -23,7 +23,7 @@ The applying Member (herein called the Applicant) wishes to receive services des
     5. All disputes will be mediated in the first instance by a designated **Mediator** assigned by the Service Provider as specified in this agreement. _(See Official Signatories)_ . The Applicant agrees to accept the decision of the appointed Mediator as final subject to an appeal to an neutral arbitrator assigned by the Grassroots Economics Commons.
 3. **Voucher Creation**
     6. Cost: 100 SRF for each Voucher issuance event.
-    7. Quantity and parameters of created Vouchers are specified in the Applicant’s[ Voucher Declaration](https://docs.grassecon.org/legal/voucher/). (Note that an **auditor** appointed by the Service Provider shall verify the Applicant's capacity to sustainably redeem Vouchers for one year's worth of specified goods or services. Upon acceptance by the Service Provider the Vouchers in the Application's[ Voucher Declaration](https://docs.grassecon.org/legal/voucher/) will be created digitally and allocated directly to the Applicant's Founding Members.)
+    7. Quantity and parameters of created Vouchers are specified in the Applicant’s[ Voucher Declaration](https://docs.grassecon.org/commons/voucher/). (Note that an **auditor** appointed by the Service Provider shall verify the Applicant's capacity to sustainably redeem Vouchers for one year's worth of specified goods or services. Upon acceptance by the Service Provider the Vouchers in the Application's[ Voucher Declaration](https://docs.grassecon.org/commons/voucher/) will be created digitally and allocated directly to the Applicant's Founding Members.)
 4. **Platform Access and Maintenance**
     8. A yearly payment to continue using the Platform covers the following:
         1. Phone Support

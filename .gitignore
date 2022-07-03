@@ -2,3 +2,4 @@ site/
 public/
 *~
 venv
+.venv/

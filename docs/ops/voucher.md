@@ -8,7 +8,7 @@ This is a summary of the Voucher creation process. Our [Community Training Guide
 4. **Audits, Endorsements and Conflict Mitigation**: Commitments should be internally audited by the community and as well with a designated auditor to ensure that the vouchers can be redeemed in a reasonable amount of time. A mediator should be assigned to deal with conflicts, like when a member spends but refuses to redeem vouchers they created.
 5. **Agreements Signed **In order to issue their own CIC, the group needs to enter into three agreements, in this order:
     1. **_A Economic Commons Agreement:_** this is an agreement every member must agree to before the creation of their Voucher. It is effectively a terms and conditions of the full ecosystem.
-    2. **_A Voucher Declaration / Membership Agreement: _**an [agreement](/legal/voucher/) exists between the members of the group, and ensures that:
+    2. **_A Voucher Declaration / Membership Agreement: _**an [agreement](/commons/voucher/) exists between the members of the group, and ensures that:
         1. They’ve identified a common unit of account, (1 Voucher = 1 Egg)
         2. They’ve **identified and quantified their commitments**/offerings to each other, using their choosen unit of account.
         3. They’ve all been **audited and verified** on their commitments/offerings, by the service provider chiefs/elders/chairpersons/local governance.
