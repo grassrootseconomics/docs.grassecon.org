@@ -1148,7 +1148,7 @@ In order to certify and support a community to create a CIC, Grassroots Economic
 4. Demonstrable backing capacity for tokens created. (Business audit)
 5. Have the endorsement of a community official or village elder.
 6. Have a leading member that has gone through this training.
-7. A completed [Voucher application form](/legal/) - Please inquire for specific forms.
+7. A completed [Voucher application form](/commons/) - Please inquire for specific forms.
 
 
 ## Appendix B: CIC Technology

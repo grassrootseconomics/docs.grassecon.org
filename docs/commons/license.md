@@ -1,4 +1,4 @@
-# Grassroots Economics Commons License (GECL) v1.0 (en)
+# Grassroots Economic Commons License (GECL) v1.0 (en)
 
 ## About
 
@@ -9,7 +9,7 @@ Usage or incorporation of this license must ratify following Aims, Principles, J
 
 ## Aim
 
-Inclusive community creation and clearing of purchasing power.
+Inclusive community creation of prosperity.
 
 
 ## Principles

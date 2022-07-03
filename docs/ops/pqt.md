@@ -943,7 +943,7 @@ Operations: [https://docs.grassecon.org/ops](https://docs.grassecon.org/ops)
 3. Stakeholder Engagement Guide
 4. Humanitarian Support
 
-Legal: [https://docs.grassecon.org/legal](https://docs.grassecon.org/legal) 
+Legal: [https://docs.grassecon.org/commons/](https://docs.grassecon.org/commons) 
 
 1. Economic Commons Licence
 2. Clearing Union Agreement

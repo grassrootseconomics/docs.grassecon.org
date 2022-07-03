@@ -10,7 +10,7 @@ This FAQ accompanies the [Training Guide](/training/) and the [Glossary](/glossa
 
 
 * What are Community Inclusion Currencies (CICs)?
-    * CICs are tradable **Vouchers, redeemable as payment for goods and/or services** of issuers or other participating individuals, organizations, schools, shops, groups, farms, and clinics. Anyone can create their own CIC which can act as **a local means of trade and exchange** that does not replace but rather supplements (tops-up) lacking national currency. Through increasing trade by matching unmet local needs with under-utilized local resources CICs enable sustainable economic, environmental and social development. Here you can see our definition of a [Voucher](/legal/).
+    * CICs are tradable **Vouchers, redeemable as payment for goods and/or services** of issuers or other participating individuals, organizations, schools, shops, groups, farms, and clinics. Anyone can create their own CIC which can act as **a local means of trade and exchange** that does not replace but rather supplements (tops-up) lacking national currency. Through increasing trade by matching unmet local needs with under-utilized local resources CICs enable sustainable economic, environmental and social development. Here you can see our definition of a [Voucher](/commons/).
     * Note that we will often call all CICs on Sarafu Network a Voucher or *Sarafu*  (which means currency in Kiswahili).
 * How do you create a CIC / Voucher / Sarafu?
     * People, groups (chamas) and organizations can issue or create a CIC by creating a backing guarantee or Commitment Agreement - see Voucher creation under [Operations](/ops/). 

@@ -16,14 +16,15 @@ nav:
       - Team Guide: ops/team_guide.md
       - Stakeholder Guide: ops/local_stakeholders.md
       - Humanitarian Support: ops/support.md
-  - Legal:
-      - Intro: legal/index.md
-      - Commons License: legal/license.md
-      - Commons Agreement: legal/agreement.md
-      - Voucher Creation: legal/voucher.md
-      - Service Agreement: legal/service.md
-      - Data Policy: legal/data_policy.md
-      - Child Protection Policy: legal/child_policy.md
+  - Commons:
+      - Intro: commons/index.md
+      - Commons License: commons/license.md
+      - Commons Agreement: commons/agreement.md
+      - Voucher Creation: commons/voucher.md
+      - Service Agreement: commons/service.md
+      - GEC Swap: commons/gec-swap.md
+      - Data Policy: commons/data_policy.md
+      - Child Protection Policy: commons/child_policy.md
   - Software:
       - CIC Stack: software/index.md
       - Design Principles: software/principles.md

@@ -20,7 +20,7 @@ digraph D {
 
 
 	chama [label= "Community Groups"]
-        nd_1a   [label = "General\nMember", href="https://docs.grassecon.org/legal/"];
+        nd_1a   [label = "General\nMember", href="https://docs.grassecon.org/commons/"];
         nd_2a   [label = "General\nMember"];
         nd_3a   [label = "General\nMember"];
         nd_4a   [label = "General\nMember"];
