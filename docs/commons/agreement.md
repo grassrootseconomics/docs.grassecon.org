@@ -39,9 +39,9 @@ The Platform of the Grassroots Economics Commons (herein called Sarafu Network) 
     7. **Expiration Rate**: The Vouchers expire each minute with cumulative rate of 2% per month.
     8. **Community Account: Issuance**: Created vouchers will be placed into the following account: 0xBBb4a93c8dCd82465B73A143f00FeD4AF7492a27
     9. **Community Account: Expiration**: All expired Vouchers will be distributed to the following account specified here: 0xBBb4a93c8dCd82465B73A143f00FeD4AF7492a27
-2. Token: Non-Confidential Member data utilizing any Platform registered Instrument is made available to Members by mutual agreement in the form of Tokens (herein called an Impact Tokens) which hold endorsements and reports on Instrument usage. See our [data protection policy](https://docs.grassecon.org/commons/data_policy/). 
+2. Certificate: Non-Confidential Member data utilizing any Platform registered Instrument is made available to Members by mutual agreement in the form of Certificates (herein called an Impact Certificates) which hold endorsements and reports on Instrument usage. See our [data protection policy](https://docs.grassecon.org/commons/data_policy/). 
 3. Swap:
-    1. Value supplied by Members in money or in-kind exchanged for Vouchers or Impact Tokens, will be used to maintain the Sarafu Network infrastructure and to support Members as specified by mutual agreement.
+    1. Value supplied by Members in money or in-kind exchanged for Vouchers or Impact Certificates, will be used to maintain the Sarafu Network infrastructure and to support Members as specified by mutual agreement.
     2. GEC Swap: The GEC Swap is an community run instrument that is in the process of being defined. Please [read more](./gec-swap.md) and join us in its creation. 
        
 
