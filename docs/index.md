@@ -9,3 +9,4 @@ It is tremendously important to us that people take, use, build on and share wha
 * [Commons](/commons/): Learn how legal frameworks and instruments define and are formed around communities
 * [Software](/software/): Join a community of developers working to build the technical stack and become a platform service provider to help communities develop their own financial instruments.
 * [Education](/edu/): Learn more about Economic Commons and other related materials.
+* [Glossary](/edu/glossary/) of terms.

@@ -7,9 +7,9 @@ We .............................................................................
 ## Voucher
 All further mention of Vouchers in this agreement will refer to the Founding Member’s unique Voucher with the following properties and constraints:
 
-1. **Voucher Name**: .............................. _e.g. Weza (Minimum 3 and Maximum 32 characters))_
+1. **Voucher Name**: .............................. _e.g. Weza Voucher (Minimum 3 and Maximum 32 characters))_
 2. **Voucher Symbol**: ............................. _e.g. WEZA (Minimum 3 and Maximum 6 characters used for display on the Platform)_
-3. **Voucher Supply**: ............................. _e.g. 4,000 Four Thousand Weza Vouchers_
+3. **Voucher Supply**: ............................. _e.g. 4,000 Four Thousand Weza Vouchers_ (Note that this will be the sum of all signed ad audited offerings of Members)
 4. **Unit of Account and Denomination**:
 
     ..............................................................................................................................

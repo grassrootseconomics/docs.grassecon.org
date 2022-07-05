@@ -25,17 +25,15 @@ The applying Member (herein called the Applicant) wishes to receive services des
     6. Cost: 100 SRF for each Voucher issuance event.
     7. Quantity and parameters of created Vouchers are specified in the Applicant’s[ Voucher Declaration](https://docs.grassecon.org/commons/voucher/). (Note that an **auditor** appointed by the Service Provider shall verify the Applicant's capacity to sustainably redeem Vouchers for one year's worth of specified goods or services. Upon acceptance by the Service Provider the Vouchers in the Application's[ Voucher Declaration](https://docs.grassecon.org/commons/voucher/) will be created digitally and allocated directly to the Applicant's Founding Members.)
 4. **Platform Access and Maintenance**
-    8. A yearly payment to continue using the Platform covers the following:
+    8. A yearly payment of 100 SRF to continue using the Platform covers the following:
         1. Phone Support
-    9. USSD Interface with SMS receipts
-        2. Servers and other operational costs
-    10. Cost: 100 SRF per year.
+        2. USSD Interface with SMS receipts
+        3. Servers and other operational costs
 5. **Analytics Service**
     11. Information on all Members holding the Applicant's Instruments can be provided after a request and a 1 month waiting period given Member consent.
     12. Cost: 10 SRF per request.
 
 **The Applicant and Service Provider further agree to the following:**
-
 
 
 1. **Amendments**: this Service Agreement may be amended at any time subject to mutual consent of the Applicant and the Service Provider.

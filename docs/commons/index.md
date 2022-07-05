@@ -4,13 +4,15 @@ The following documentation is meant to give you templates on designing legal fr
 
 This legal design for a Economic Commons utilizes the [Nondominium](https://wiki.p2pfoundation.net/Nondominium) recursive framework, where mutually defined Instruments are utilized by (General Members) who jointly oversee active stewards (Service Providers) subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
 
+* [Glossary](/edu/glossary/) of terms.
+
 ```graphviz dot econ_commons1.svg
 digraph D {
  compound=true;
 
   subgraph cluster_e {
 
-    label = "Economic Commons Framework";
+    label = "Economic Commons Framework (GECL v1)";
      style="rounded"
 
 

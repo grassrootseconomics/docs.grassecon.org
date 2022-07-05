@@ -62,8 +62,8 @@ The Platform of a Economic Commons is maintained by Platform Service Providers a
 The Instruments of an Economic Commons include:
 
 
-1. **Token (Unilateral Instrument)** - a real or virtual object (fungible or non fungible) that may be accepted by another Member in exchange for value at their complete discretion. 
-    (There is no obligation to accept a Token nor is there any obligation to redeem a Token by the issuer. Tokens may represent collectible endorsed data such as Voucher usage.) 
+1. **Certificate (Unilateral Instrument)** - a real or virtual object (fungible or non fungible) that may be accepted by another Member in exchange for value at their complete discretion. 
+    (There is no obligation to accept a Certificate nor is there any obligation to redeem a Certificate by the issuer. Certificates may represent collectible endorsed data such as Voucher usage.) 
 
 2. **Voucher (Bilateral Instrument)** – a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the issuer. 
  
@@ -77,8 +77,9 @@ The Instruments of an Economic Commons include:
     4. No redemption for national currency: the Issuer shall not redeem Vouchers for National Currency and bears full sole responsibility for their issuance, assignment and redemption in goods and/or services.
     
 3. **Swap (Multilateral Instrument)** – a production and risk sharing agreement over time. 
-    5. e.g. A Swap may entitle a group of Members to share in the revenue or production from land usage over a period of time. Vouchers or Tokens based on flows of land use revenue or production are allocated proportionally between the accounts of Members.
+    5. e.g. A Swap may entitle a group of Members to share in the revenue or production from land usage over a period of time. Vouchers or Certificates based on flows of land use revenue or production are allocated proportionally between the accounts of Members.
     6. e.g. A Swap may entitle a provider of a Instrument in exchange for another Instrument to receive a share of the exchange volume.
+    7. e.g. A Swap may representa a partial ownership of an commonly held asset or collection of Instruments
 
 
 ## Organization
