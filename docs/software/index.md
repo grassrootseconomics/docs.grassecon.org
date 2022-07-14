@@ -196,4 +196,48 @@ digraph {
 
 ("Relative complexity" means complexity in relation to the function of the component.)
 
+## Full production components list
+
+```
+Database Stack
+--------------
+- redis v6
+- postgres v12
+
+Networking Stack
+----------------
+- traefik v2
+- cert manager
+
+Configuration management
+------------------------
+- vault v1
+- external secrets operator
+
+Observability
+-------------
+- loki v2
+- promtail v2
+- grafana v8
+- victoria metrics v1
+
+Blockchain
+----------
+- openethereum v3
+- ethstats
+
+Core microservices
+------------------
+- cic-cache
+- cic-eth
+- cic-meta
+- cic-dw
+- cic-ussd
+- cic-notify
+- cic-dw
+
+Frontends
+---------
+- cic-dashboard
+```
 
