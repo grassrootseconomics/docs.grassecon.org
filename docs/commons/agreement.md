@@ -28,7 +28,7 @@ The Platform of the Grassroots Economics Commons (herein called Sarafu Network) 
 1. Voucher: All further mention of Vouchers in this agreement will refer to the Founding Member’s unique Voucher with the following properties and constraints: 
     1. **Voucher Name**: Sarafu 
     2. **Voucher Symbol**: SRF 
-    3. **Voucher Supply**: Inital SRF Vouchers will be minted for preexisting Sarafu users and additional SRF will minted and allocated to each additional Member when joining Sarafu Network. Further minting is per the discretion of Grassroots Economics Foundation.
+    3. **Voucher Supply**: Initial SRF Vouchers will be minted for preexisting Sarafu users and additional SRF will minted and allocated to each additional Member when joining Sarafu Network. Further minting is per the discretion of Grassroots Economics Foundation.
     5. **Unit of Account and Denomination**: Grassroots Economics Foundation service minutes
     5. **Acceptance rate**: 100 SRF will be redeemable as payment for a single Voucher creation service or equivalent value of services from Grassroots Economics Foundation.
     6. **Offering and Value**: Grassroots Economics Foundation Services can be obtained through SRF Vouchers, including but not limited to:
@@ -40,9 +40,9 @@ The Platform of the Grassroots Economics Commons (herein called Sarafu Network) 
     8. **Community Account: Issuance**: Created vouchers will be placed into the following account: 0xBBb4a93c8dCd82465B73A143f00FeD4AF7492a27
     9. **Community Account: Expiration**: All expired Vouchers will be distributed to the following account specified here: 0xBBb4a93c8dCd82465B73A143f00FeD4AF7492a27
 2. Certificate: Non-Confidential Member data utilizing any Platform registered Instrument is made available to Members by mutual agreement in the form of Certificates (herein called an Impact Certificates) which hold endorsements and reports on Instrument usage. See our [data protection policy](https://docs.grassecon.org/commons/data_policy/). 
-3. Swap:
+3. Equity:
     1. Value supplied by Members in money or in-kind exchanged for Vouchers or Impact Certificates, will be used to maintain the Sarafu Network infrastructure and to support Members as specified by mutual agreement.
-    2. GEC Swap: The GEC Swap is an community run instrument that is in the process of being defined. Please [read more](./gec-swap.md) and join us in its creation. 
+    2. GEC Equity: The GEC Equity is an community run instrument that is in the process of being defined. Please [read more](./equity.md) and join us in its creation. 
        
 
 ## **Addendum:**

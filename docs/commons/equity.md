@@ -1,16 +1,17 @@
-# Grassroots Economic Commons Swap (GEC Swap)
+# Grassroots Economic Commons Equity (GEC Equity)
 
 This document is a work in progress and needs your input. Please join our [chat server](https://discord.gg/Jkm4YJ8D). 
 
-The GEC Swap is an instrument credted by the [Grassroots Economic Commons](https://docs.grassecon.org/commons/agreement/) which implements the [Grassroots Economics Commons License v1](https://docs.grassecon.org/commons/license/). The GEC Swap inherits the vision and aims of the Grassroots Economics Commons.
+The GEC Equity is an Instrument credted by the [Grassroots Economic Commons](https://docs.grassecon.org/commons/agreement/) which implements the [Grassroots Economics Commons License v1](https://docs.grassecon.org/commons/license/). The GEC Equity inherits the vision and aims of the Grassroots Economics Commons.
+
+The purpose of the GEC Equity is to enable supporters to covestment into Economic Commons through Curation of viable Vouchers and Cultivation of their utility and Connection to markets.
 
 ## Thanks
 The creation of this instrument wouldn't have been possible without [Commons Stack](https://commonsstack.org/)'s guidance. This document represents a rough draft and synthesis of ideas presented by Commons Stack in support of Grassroots Economics Foundation.
 
-
 ## Draft Process
-1. Hatch: This initial creation of the GEC Swap Instrument 
-    1. The Grassroots Economic Commons will create a GEC Swap (ERC20 contract herein called GEC) with voting rights on all GEC Swap related issues (such as proposals on contract parameters and the usage of Reserve and Community Pools).
+1. Hatch: This initial creation of the GEC Equity Instrument 
+    1. The Grassroots Economic Commons will create a GEC Equity (ERC20 contract herein called GEC) with voting rights on all GEC Equity related issues (such as proposals on contract parameters and the usage of Reserve and Community Pools).
     2. Supporters will be invited to place DAI (USD stable coin) into the Reserve Pool and receive GEC (becoming members).
     3. GEC will be bonded to this Reserve Pool of DAI and issued to supporters and as well to people who provide in-kind support (past and future). The Bonding will be in the form of a Bonding Curve [TBD] such that the more DAI added to the Reserve Pool the less GEC are minted, and the more GEC that are burnt (redeemed for Reserve Pool DAI) the less DAI is released.
 1. Curate Gardens: Economic Commons used herein are: Social enterprises, organizations, or associations that ratify the GECL v.1 and also offer important services to society and have an Instrument redeemable as payment for those services.
@@ -26,16 +27,16 @@ The creation of this instrument wouldn't have been possible without [Commons Sta
 
 ![Screenshot](/img/GE-commons-DAO.png)
 
-*Above: Sketch of the GEC Swap Hatch -> Curate -> Cultivate -> Connect*
+*Above: Sketch of the GEC Equity Hatch -> Curate -> Cultivate -> Connect*
 
-1. (A)Initial parameters are chosen and the GEC Swap Instrument contracts are deployed. GEC are allocated for working groups and sweat equity and supporters are invited to add DAI to the Reserve Pool in return for GEC.
+1. (A)Initial parameters are chosen and the GEC Equity Instrument contracts are deployed. GEC are allocated for working groups and sweat equity and supporters are invited to add DAI to the Reserve Pool in return for GEC.
 2. (B)Curated Economic Commons are presented as proposals by GEC holders.
 3. (C)GEC holders then vote on the proposals and allocate DAI in order to increase their capacity - in return for Vouchers (CICs) that go in to the CIC Treasury. Note that Economic Commons may also receive GEC and become voting members.
 4. (D)Instruments held in the Community Pool and CIC Treasury can be combined to create liquidity pools that enable people to exchange instruments. This creates an exchange market for CICs.
 5. (E)Fees on exchange between CICs are charged as a percentage of volume moving through the pools and are returned to the Reserve Pool.
 
 
-```graphviz dot gec_swap1.svg
+```graphviz dot gec_equity1.svg
 digraph G {
 
 
@@ -106,12 +107,11 @@ These are the initial roles recommended by Commons Stack. To contibute to this d
 6. Financial: This working group is responsible for developing strategies financial sustainable. Among their primary concerns are ensuring revenue streams into the Commons
 
 
-
 ## Technical Specifications
 
 ### **Chain Specifications (CHAIN_SPEC):**
 
-The GEC Swap instrument as well as member accounts will be deployed on the following ledger:
+The GEC Equity instrument as well as member accounts will be deployed on the following ledger:
 
 #### evm:gnosis_chain:100:xdai
 
@@ -120,7 +120,7 @@ The GEC Swap instrument as well as member accounts will be deployed on the follo
 3. **Chain/Network ID:** 100
 4. **Common Name:** xDAI
 
-### ** GEC Swap Contract Parameters**
+### ** GEC Equity Contract Parameters**
 1. ERC20 Contract Augmented Bonding Curve: [GitHub](https://github.com/commonsswarm/augmented-bonding-curve)
 2. Initialization Parameters:
     1. _tokenManager The address of the token manager contract
@@ -138,4 +138,3 @@ The GEC Swap instrument as well as member accounts will be deployed on the follo
     6. UPDATE_FEES_ROLE: Used to change entry and exit fees/tributes.
     7. MINT_ROLE and BURN_ROLE: It should be able to create and destroy tokens from Token Manager.
     8. TRANSFER_ROLE: It should be able to transfer funds from the Reserve Pool.
-
