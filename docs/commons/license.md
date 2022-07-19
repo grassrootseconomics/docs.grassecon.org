@@ -47,8 +47,8 @@ The Platform of a Economic Commons is maintained by Platform Service Providers a
     1. Secure Member account and shared Instrument registries (herein called “Ledgers”) have the following properties:
         1. All Member accounts, data and shared Instruments are recorded in unique time order in a Ledger.
         2. Member accounts on a Ledger can hold multiple Instruments.
-    2. A Ledger tracks all usage of Instruments security and immutably.
-        3. Ledgers must be secure and resistant to security breached and loss of data.
+    2. A Ledger tracks all usage of all Instruments, securely and immutably.
+        3. Ledgers must be secure and resistant to security breaches and loss of data.
     3. Instruments are binding on Members when registered in a Ledger.
         4. Ledgers must open for inspection by Members.
     4. Communications interfaces (herin called Wallets).
@@ -76,10 +76,10 @@ The Instruments of an Economic Commons include:
         2. Example: An gradual expiration rate of 2% a month will mean that any outstanding Voucher balances will automatically be reduced by 2% a month and placed in the designated Community Account.
     4. No redemption for national currency: the Issuer shall not redeem Vouchers for National Currency and bears full sole responsibility for their issuance, assignment and redemption in goods and/or services.
     
-3. **Swap (Multilateral Instrument)** – a production and risk sharing agreement over time. 
-    5. e.g. A Swap may entitle a group of Members to share in the revenue or production from land usage over a period of time. Vouchers or Certificates based on flows of land use revenue or production are allocated proportionally between the accounts of Members.
-    6. e.g. A Swap may entitle a provider of a Instrument in exchange for another Instrument to receive a share of the exchange volume.
-    7. e.g. A Swap may representa a partial ownership of an commonly held asset or collection of Instruments
+3. **Equity (Multilateral Instrument)** – a production and risk sharing agreement over time. 
+    5. e.g. An Equity Instrument may entitle a group of Members to share in the revenue or production from land usage over a period of time. e.g. Vouchers or Certificates based on flows of land use revenue or production are allocated proportionally between the accounts of Members.
+    6. e.g. An Equity may entitle a provider of a Instrument in exchange for another Instrument to receive a share of the exchange volume.
+    7. e.g. A Equity may represent a partial ownership of an commonly held asset or collection of Instruments
 
 
 ## Organization
@@ -103,7 +103,7 @@ There are three Member **Classes** defined below, with the following rights and 
 2. **Platform Service Providers 
 **
     7. Technical:
-        1. Right to receive agreed development and operating costs and an agreed production share in respect of Platform services and Swaps
+        1. Right to receive agreed development and operating costs and an agreed production share in respect of Platform services and Equities
         2. Right to use and migrate custodial Member Accounts and Instruments to appropriate Ledgers
         3. Obligation to maintain the Platform’s open source software code base
         4. Obligation to operate the Platform’s servers and various micro-service
