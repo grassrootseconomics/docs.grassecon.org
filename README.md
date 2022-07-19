@@ -1,4 +1,4 @@
-# CIC Stack Documentation Website 
+# Grassroots Economics Documentation website
 
 [https://www.mkdocs.org/user-guide/](https://www.mkdocs.org/user-guide/)
 ## Requirements
