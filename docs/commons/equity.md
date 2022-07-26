@@ -10,8 +10,9 @@ The purpose of the GEC Equity is to enable supporters to covestment into Economi
 The creation of this instrument wouldn't have been possible without [Commons Stack](https://commonsstack.org/)'s guidance. This document represents a rough draft and synthesis of ideas presented by Commons Stack in support of Grassroots Economics Foundation.
 
 ## Draft Process
+0. Pre-hatch: This the identification of the Community that makes up Grassroots Economics Foundation which will be the inital people making up the Grassroots Economic COmmons Equity members who are invited to vote on hatch (creation) parameters.
 1. Hatch: This initial creation of the GEC Equity Instrument 
-    1. The Grassroots Economic Commons will create a GEC Equity (ERC20 contract herein called GEC) with voting rights on all GEC Equity related issues (such as proposals on contract parameters and the usage of Reserve and Community Pools).
+    1. The Grassroots Economic Commons will create a GEC Equity (ERC20 contract herein called GEC) with voting rights on all GEC Equity related issues (such as proposals on contract parameters and the usage of Reserve and Community Pools). See examples from the [TEC](https://github.com/CommonsBuild/TEC-Hatch-Vote/issues/83).
     2. Supporters will be invited to place DAI (USD stable coin) into the Reserve Pool and receive GEC (becoming members).
     3. GEC will be bonded to this Reserve Pool of DAI and issued to supporters and as well to people who provide in-kind support (past and future). The Bonding will be in the form of a Bonding Curve [TBD] such that the more DAI added to the Reserve Pool the less GEC are minted, and the more GEC that are burnt (redeemed for Reserve Pool DAI) the less DAI is released.
 1. Curate Gardens: Economic Commons used herein are: Social enterprises, organizations, or associations that ratify the GECL v.1 and also offer important services to society and have an Instrument redeemable as payment for those services.
@@ -27,15 +28,28 @@ The creation of this instrument wouldn't have been possible without [Commons Sta
 
 ![Screenshot](/img/GE-commons-DAO.png)
 
+
 *Above: Sketch of the GEC Equity Hatch -> Curate -> Cultivate -> Connect*
 
-1. (A)Initial parameters are chosen and the GEC Equity Instrument contracts are deployed. GEC are allocated for working groups and sweat equity and supporters are invited to add DAI to the Reserve Pool in return for GEC.
-2. (B)Curated Economic Commons are presented as proposals by GEC holders.
-3. (C)GEC holders then vote on the proposals and allocate DAI in order to increase their capacity - in return for Vouchers (CICs) that go in to the CIC Treasury. Note that Economic Commons may also receive GEC and become voting members.
-4. (D)Instruments held in the Community Pool and CIC Treasury can be combined to create liquidity pools that enable people to exchange instruments. This creates an exchange market for CICs.
-5. (E)Fees on exchange between CICs are charged as a percentage of volume moving through the pools and are returned to the Reserve Pool.
+1. (A) Initial parameters are chosen and the GEC Equity Instrument contracts are deployed. GEC are allocated for working groups and sweat equity and supporters are invited to add DAI to the Reserve Pool in return for GEC.
+2. (B) Curated Economic Commons are presented as proposals by GEC holders.
+3. (C) GEC holders then vote on the proposals and allocate DAI in order to increase their capacity - in return for Vouchers (CICs) that go in to the CIC Treasury. Note that Economic Commons may also receive GEC and become voting members.
+4. (D) Instruments held in the Community Pool and CIC Treasury can be combined to create liquidity pools that enable people to exchange instruments. This creates an exchange market for CICs.
+5. (E) Fees on exchange between CICs are charged as a percentage of volume moving through the pools and are returned to the Reserve Pool.
 
 
+![Screenshot](/img/GE-commons-DAO2.png)
+
+*Above: Sketch of the GEC Equity's connection to GEC Vouchers* 
+
+1. (A) Unique CICs (Vouchers) are created by communities that wish to pool their resources together (namley services) and create a sharable access token (CIC). 
+2. (B) CIC holders have a holding fee (demurrage) and can also willing inly contribute to a Community Fund in CICs. Based on contributions the CIC holders are able to vote on proposals for the usage of these funds (n.b. currently this is done by raise of hands in community groups).
+3. (C) One such type of proposal shown here it to contibute the funds toward a liquidity pool co-created by the GE-Equity. This will allow some of the CIC to be exchanged for DAI provided by the GE-Equity.
+4. (D) People contibuting DAI and other sweat equity are allocated voting tokens (GEC).
+5. (E) GEC holders are able to vote on proposals to Cultivate Economic Commons (such as (C)). The result of a passed proposal is the creation of a liquidity pool with DAI from the GEC-Equity Community Fund as well as the CIC of the Economic Commons proposed. This means that anyone can now excahnge DAI for that CIC and as well taht CIC for DAI. 
+6. (F) Fees on exchange between CICs are charged as a percentage of volume moving through the pools and are returned to the GE-Equity Community Fund.
+
+<!--
 ```graphviz dot gec_equity1.svg
 digraph G {
 
@@ -85,11 +99,11 @@ subgraph cluster_g {
  
 }
 ```
-
+-->
 
 ## Community Roles
 
-These are the initial roles recommended by Commons Stack. To contibute to this draft as well as volunteer for community roles please visit our [discord chat server](https://discord.gg/Jkm4YJ8D). 
+These are the initial roles recommended by Commons Stack. To contibute to this draft as well as volunteer for community roles please visit our [discord chat server](https://discord.gg/Jkm4YJ8D). Note that before any roles are assigned - the Community voting on such needs to be established.
 
 1. Rewards: This working group is responsible for launching and maintaining Praise, and any other rewards systems being used. They coordinate quantifiers and quantification periods, as well as custody and distribute rewards to the community. Praise may be given based on member contibutions to the Commons, to well performing Economic Commons, members that curate and submit proposals and so on.
 
