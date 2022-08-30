@@ -1,5 +1,5 @@
 site_name: Grassroots Economics Documentation
-site_url: https://example.com
+site_url: https://docs.grassecon.org
 nav:
   - Karibu: index.md
   - Community:
@@ -46,6 +46,7 @@ repo_name: grassrootseconomics/docs
 edit_uri: -/tree/main/docs
 theme:
   name: material
+  custom_dir: overrides
   logo: assets/logo.svg
   favicon: assets/favicon.svg
   icon:
