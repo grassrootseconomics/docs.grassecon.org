@@ -75,6 +75,3 @@ extra:
 plugins:
   - git-revision-date
   - search
-
-extra_javascript:
-  - js/shynet.js
