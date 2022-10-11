@@ -196,48 +196,19 @@ digraph {
 
 ("Relative complexity" means complexity in relation to the function of the component.)
 
-## Full production components list
+## Deployment requirements
 
-```
-Database Stack
---------------
-- redis v6
-- postgres v12
+There are the requirements to run our complete software stack:
 
-Networking Stack
-----------------
-- traefik v2
-- cert manager
+### Blockchain infrastructure
 
-Configuration management
-------------------------
-- vault v1
-- external secrets operator
+- 3 x (2 CPU, 4GB RAM, 50+ GB Storage) for validator nodes future proofed for 1 yr.
+- n x (1 CPU, 2GB RAM) for prunning state nodes, useful for non-custodial web3 users.
 
-Observability
--------------
-- loki v2
-- promtail v2
-- grafana v8
-- victoria metrics v1
+### Custodial infrastructure
 
-Blockchain
-----------
-- openethereum v3
-- ethstats
+- Kubernetes preffered
+- 4 CPU, 8GB RAM, 50+ GB Storage minimum (Includes additional monitoring components)
 
-Core microservices
-------------------
-- cic-cache
-- cic-eth
-- cic-meta
-- cic-dw
-- cic-ussd
-- cic-notify
-- cic-dw
 
-Frontends
----------
-- cic-dashboard
-```
 
