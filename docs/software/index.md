@@ -202,8 +202,8 @@ There are the requirements to run our complete software stack:
 
 ### Blockchain infrastructure
 
-- 3 x (2 CPU, 4GB RAM, 50+ GB Storage) for validator nodes future proofed for 1 yr.
-- n x (1 CPU, 2GB RAM) for prunning state nodes, useful for non-custodial web3 users.
+- 3 x (2 CPU, 4GB RAM, 50+ GB Storage) for validator nodes future proofed for 1 yr across different cloud providers/data centers. 
+- n x (1 CPU, 2GB RAM) for prunning state nodes, useful for non-custodial web3 users tx submissions.
 
 ### Custodial infrastructure
 
