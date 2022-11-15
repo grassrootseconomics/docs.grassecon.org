@@ -3,6 +3,7 @@
 
 **_Note about this policy: Protecting individuals’ Personal Data is an integral part of protecting their life, integrity and dignity. The right to privacy has long been recognized globally as a human right, while the right to Personal Data protection is a relatively recent human right that is closely connected to the right to privacy and sets forth conditions for the Processing of data of an identified or identifiable individual. This is why Personal Data protection is of fundamental importance for Humanitarian Organizations like us. This policy details our Foundations commitment to Data protection and privacy._**
 
+Grassroots Economics recognizes and does comply with [GDPR](https://gdpr.eu/) and its rights, except as limited. We make it as easy as possible to exercise most rights directly from your account. Users may contact us at privacy@grassecon.org to exercise their GDPR rights.
 
 ## Definitions
 
