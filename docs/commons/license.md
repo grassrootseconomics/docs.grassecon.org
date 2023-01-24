@@ -75,12 +75,6 @@ The Instruments of an Economic Commons include:
     3. Expiry Date or Rate: Each Voucher on the Platform issued by a Member should specify no expiration, an expiry date or a gradual expiration rate over time. Expired Vouchers will automatically be placed in a Community Account.
         2. Example: An gradual expiration rate of 2% a month will mean that any outstanding Voucher balances will automatically be reduced by 2% a month and placed in the designated Community Account.
     4. No redemption for national currency: the Issuer shall not redeem Vouchers for National Currency and bears full sole responsibility for their issuance, assignment and redemption in goods and/or services.
-    
-3. **Equity (Multilateral Instrument)** – a production and risk sharing agreement over time. 
-    5. e.g. An Equity Instrument may entitle a group of Members to share in the revenue or production from land usage over a period of time. e.g. Vouchers or Certificates based on flows of land use revenue or production are allocated proportionally between the accounts of Members.
-    6. e.g. An Equity may entitle a provider of a Instrument in exchange for another Instrument to receive a share of the exchange volume.
-    7. e.g. A Equity may represent a partial ownership of an commonly held asset or collection of Instruments
-
 
 ## Organization
 
