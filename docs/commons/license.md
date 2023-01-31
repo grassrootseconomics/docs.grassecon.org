@@ -51,7 +51,7 @@ The Platform of a Economic Commons is maintained by Platform Service Providers a
         3. Ledgers must be secure and resistant to security breaches and loss of data.
     3. Instruments are binding on Members when registered in a Ledger.
         4. Ledgers must open for inspection by Members.
-    4. Communications interfaces (herin called Wallets).
+    4. Communications interfaces (herein called Wallets).
         5. Members must have access to viewing and interacting with Instruments and Accounts on a Ledger.
 2. Social: Support and sharing of knowledge regarding the Economic Commons' implementations, Instruments as well as Member rights and obligations.
 3. Legal: Due Diligence, audits and arbitration of disputes regarding specific Economic Commons implementations.
@@ -87,15 +87,13 @@ There are three Member **Classes** defined below, with the following rights and 
 
 
 1. **General Members**: 
-
     1. Right to utilize all Economic Commons-defined Instruments
     2. Right to hold or delegate custodianship of Ledger Accounts
     3. Obligation to register any Instrument or Instrument usage on a Ledger
     4. Obligation to contribute in money or in kind the agreed upon development and operating costs of the Platform
     5. Obligation to hold a means of secure identification in order to interact with a Ledger
     6. Obligation to demonstrate technical and management capabilities and capacity to meet appropriate standards
-2. **Platform Service Providers 
-**
+2. **Platform Service Providers**:
     7. Technical:
         1. Right to receive agreed development and operating costs and an agreed production share in respect of Platform services and Equities
         2. Right to use and migrate custodial Member Accounts and Instruments to appropriate Ledgers
@@ -112,9 +110,9 @@ There are three Member **Classes** defined below, with the following rights and 
         11. Right to suspend services and remove Wallet access for Members
         12. Right to assign arbitrators for the mediation of disputes
         13. Obligation to arbitrate disputes in relation to usage of Instruments
-3. Guardians 
+3. **Guardians**:
     10. Rights to design and Implement an Economic Commons
-    11. Rights of final veto on behalf of Members generally in respect of amendments to thisan Economic Commons agreement incompatible with the Aim and Principles.
+    11. Rights of final veto on behalf of Members generally in respect of amendments to an Economic Commons agreement incompatible with the Aim and Principles.
     12. Obligation to arbitrate disputes in relation to Aim and Principles of an Economic Commons.
 
 
@@ -124,7 +122,7 @@ There are three Member **Classes** defined below, with the following rights and 
 
 1. Members may participate in more than one Member Class. E.g. A Platform Service Provider can also be a General Member and develop a voucher redeemable for their services
 2. Any person or organizations holding an Platform account or whom utilizes Instruments on the Platform is considered a Member
-3. Mutual agreements beween Members define standards, rights and obligations
+3. Mutual agreements between Members define standards, rights and obligations
 4. **Non-Performance:** should a Member be unable or unwilling to uphold their obligations or honor stated commitments they will be designated as non-performing subject to the following: 
     1. any material shortfall in commitments or obligations by Members individually or collectively shall be made good following review and recommendations by the Service Provider and subject to the agreement of Members generally
 
