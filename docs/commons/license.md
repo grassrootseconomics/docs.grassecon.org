@@ -1,8 +1,8 @@
-# Grassroots Economic Commons License (GECL) v1.0 (en)
+# Grassroots Economic Commons License (GECL) v1.1 (en)
 
 ## About
 
-This license defines an Economic Commons for general implementation as an open association of people and organizations, where mutually defined Instruments are utilized by (General Members) who jointly oversee active stewards (Service Providers) subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
+This license defines an Economic Commons Agreement for general implementation as an open association of people and organizations, where mutually defined Instruments are utilized by (General Members) who jointly oversee active stewards (Service Providers) subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
 
 Usage or incorporation of this license must ratify following Aims, Principles, Jurisdiction, Definitions, Organization and Notices
 
@@ -71,9 +71,10 @@ The Instruments of an Economic Commons include:
     1. If the acceptor/final holder of the voucher presents it in payment to the issuer, for goods or services supplied, it must be accepted in payment.
     2. Unit of Account: Standard unit of measure for value in exchange. Each Voucher on the Platform issued by a Member should specify a Unit of Account.
         1. Example: 1000 SRF Vouchers can be said to be redeemable by the Issuing Member for 1000 Kenyan Shillings worth of the issuer’s services.)
-    3. Expiry Date or Rate: Each Voucher on the Platform issued by a Member should specify no expiration, an expiry date or a gradual expiration rate over time. Expired Vouchers will automatically be placed in a Community Account.
+    3. Expiry Date and/or Rate: Each Voucher on the Platform issued by a Member should specify no expiration, an expiry date and/or a gradual expiration rate over time. Expired Vouchers will automatically be placed in a Community Account.
         2. Example: An gradual expiration rate of 2% a month will mean that any outstanding Voucher balances will automatically be reduced by 2% a month and placed in the designated Community Account.
-    4. No redemption for national currency: the Issuer shall not redeem Vouchers for National Currency and bears full sole responsibility for their issuance, assignment and redemption in goods and/or services.
+        3. Liability: The issuer(s) of a voucher are obligated to redeem that Voucher as payment at the value and within an Expiry Date if specified.
+    5. No redemption for national currency: the Issuer shall not redeem Vouchers for National Currency and bears full sole responsibility for their issuance, assignment and redemption in goods and/or services.
 
 ## Organization
 
@@ -86,13 +87,16 @@ There are three Member **Classes** defined below, with the following rights and 
 1. **General Members**: 
     1. Right to utilize all Economic Commons-defined Instruments
     2. Right to hold or delegate custodianship of Ledger Accounts and Instruments
-    3. Obligation to register any Instrument or Instrument usage on the Ledger
-    4. Obligation to contribute in money or in-kind the agreed upon development and operating costs of the Platform services as defined in Service Agreements under this License. 
-    5. Obligation to hold a means of secure identification in order to interact with a Ledger
-    6. Obligation to demonstrate technical and management capabilities and capacity to meet appropriate standards
-    7. Obligation to redeem any Vouchers issued as payment at the value and within a timeframe specified during issuance.
+    3. Right to vote on the usage of their issued Instruments in a Community Fund.
+    4. Right to view all Instrument data kept on the Ledger.
+    5. Obligation to report Members that don't comply to this Agreement or local laws.
+    6. Obligation to certify Platform Service Providers
+    7. Obligation to register any Instrument or Instrument usage on the Ledger
+    8. Obligation to contribute in money or in-kind the agreed upon development and operating costs of the Platform services as defined in Service Agreements under this Economic Commons Agreement.
+    9. Obligation to hold a means of secure identification in order to interact with a Ledger
+    10. Obligation to demonstrate technical and management capabilities and capacity to meet Instrument and other appropriate standards.
 2. **Platform Service Providers**: Hold a valid certification issued by Guardans.
-    7. Technical:
+    1. Technical:
         1. Right to receive agreed development and operating costs and an agreed production share in respect of Platform services 
         2. Right to use and migrate custodial Member Accounts and Instruments to an appropriate Ledger
         3. Obligation to maintain the Platform’s open source software code base
@@ -100,19 +104,19 @@ There are three Member **Classes** defined below, with the following rights and 
         5. Obligation to hold and secure granted Member data and intellectual property jointly in common
         6. Obligation to provide Members access to their Ledger accounts and shared Instruments
         7. Obligation to provide a means of a secure identification to Members in order to interact with a Ledger
-    8. Social:
-        8. Right to make available non-confidential Member and Instrument data to Researchers and Members
+    2. Social:
+        8. Right to make available non-confidential Member and Instrument data to the general public
         9. Obligation to provide training and education, administer Member service agreements, ensure confidential data transparency, oversee quality standards
-    9. Legal:
+    3. Legal:
         10. Right to assign an auditor to assess any Member Instruments 
         11. Right to suspend services and remove Wallet access for Non-Performing Members
         12. Right to assign arbitrators for the mediation of disputes
         13. Obligation to arbitrate disputes in relation to usage of Instruments
 3. **Guardians**:
     10. Right to design and implement an Economic Commons
-    11. Right to revoke certificates for Platform Service Providers that don't comply to this License or local laws.
+    11. Right to revoke certificates for Platform Service Providers that don't comply to this Agrement or local laws.
     12. Right of final veto on behalf of Members generally in respect of amendments to an Economic Commons agreement incompatible with the Aim and Principles
-    13. Obligation to certify Platform Service Providers
+    13. Obligation to certify Platform Service Providers and maintain a registry certified Platform Service Providers on behalf of Members
     14. Obligation to arbitrate disputes in relation to Aim and Principles of an Economic Commons
 
 
