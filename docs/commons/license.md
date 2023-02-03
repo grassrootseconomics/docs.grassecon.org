@@ -2,7 +2,7 @@
 
 ## About
 
-This license defines an Economic Commons Agreement for general implementation as an open association of people and organizations, where mutually defined Instruments are utilized by (General Members) who jointly oversee active stewards (Service Providers) subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
+This license defines an Economic Commons Agreement for general implementation as an open association of people and organizations, where mutually defined Instruments are utilized by General Members who jointly oversee Platform Service Providers as active stewards, subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
 
 Usage or incorporation of this license must ratify following Aims, Principles, Jurisdiction, Definitions, Organization and Notices
 
@@ -41,33 +41,28 @@ The core Principles of an Economic Commons include:
 
 ### Platform
 
-The Platform of a Economic Commons is maintained by certified Platform Service Providers and includes the following categories of services:
+The Platform of a Economic Commons is maintained by certified Platform Service Providers and includes the following non-exhaustive categories of essential Platform services:
 
-1. Technical:
-    1. Secure Member account and shared Instrument registries (herein called the “Ledger”) have the following properties:
-        1. All Member accounts, data and shared Instruments are recorded in unique time order in the Ledger
-        2. Member accounts on the Ledger can hold multiple Instruments
-    2. The Ledger tracks all usage of all Instruments, securely and immutably
-        3. The Ledger must be secure and resistant to security breaches and loss of data
-    3. Instruments are binding on Members when registered in the Ledger
-        4. The Ledger must open for inspection by Members
-    4. Communications interfaces (herein called Wallets)
-        5. Members must have access to viewing and interacting with Instruments and Accounts on the Ledger
-2. Social: Support and sharing of knowledge regarding the Economic Commons' implementations, Instruments as well as Member rights and obligations
-3. Legal: Due Diligence, audits and arbitration of disputes regarding specific Economic Commons implementations
+1. Technical Services:
+    1. Secure Member account and shared Instrument on registries (herein called the “Ledger”):
+    2. Track and report all usage of all Member account and Instruments, securely and immutably
+    4. Provide communications interfaces (herein called Wallets)
+2. Social Services:
+    1. Support and sharing of knowledge regarding the Agreement's implementations, Instruments as well as Member rights and obligations
+3. Legal Services:
+    1. Provde Due Diligence, audits and arbitration of disputes for Members
+    1. Ensure that Instruments are binding on Members when registered in the Ledger and inline with this Agreement
 
 ### **Instruments**
 
 The Instruments of an Economic Commons include:
 
-
-1. **Certificate (Unilateral Instrument)** - a data object (fungible or non fungible) that may be accepted by another Member in exchange for value at their complete discretion. 
-    (There is no obligation to accept a Certificate nor is there any obligation to redeem a Certificate by the issuer. Certificates may represent collectible endorsed data such as Voucher usage or capacity to perform services.) 
-
-2. **Voucher (Bilateral Instrument)** – a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the issuer. 
- 
+1. **Certificate (Unilateral Instrument)** - a data object (fungible or non fungible) that may be accepted by another Member in exchange for value at their complete discretion.
     The following are properties of Vouchers: 
-
+    1. No Obligation: There is no obligation to accept a Certificate nor is there any obligation to redeem a Certificate by the issuer.
+    2. Attestation: Certificates represent collectible attestsations to data such as Voucher usage or capacity to perform services. Vouchers as well as Members can be Certified by other Members, for various roles, services, achomplishments and so on. The certification is an attestastation by a Member or Members for another Member or Instrument.
+    3. Revokation or Expiration: Attestation for a certificate can expire and or be revoked, and the history of attestation must be preserved on the Ledger.
+2. **Voucher (Bilateral Instrument)** – a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the issuer. 
     1. If the acceptor/final holder of the voucher presents it in payment to the issuer, for goods or services supplied, it must be accepted in payment.
     2. Unit of Account: Standard unit of measure for value in exchange. Each Voucher on the Platform issued by a Member should specify a Unit of Account.
         1. Example: 1000 SRF Vouchers can be said to be redeemable by the Issuing Member for 1000 Kenyan Shillings worth of the issuer’s services.)
@@ -78,7 +73,7 @@ The Instruments of an Economic Commons include:
 
 ## Organization
 
-### Members
+### Membership
 
 A Member of an Economic Commons is an individual person, organization or an association of Members with a common purpose, who ratify and Implement a Economic Commons it or use implemented Economic Commons Instruments as per their local needs.
 
@@ -87,16 +82,17 @@ There are three Member **Classes** defined below, with the following rights and 
 1. **General Members**: 
     1. Right to utilize all Economic Commons-defined Instruments
     2. Right to hold or delegate custodianship of Ledger Accounts and Instruments
-    3. Right to vote on the usage of their issued Instruments in a Community Fund.
-    4. Right to view all Instrument data kept on the Ledger.
-    5. Obligation to report Members that don't comply to this Agreement or local laws.
-    6. Obligation to certify Platform Service Providers
-    7. Obligation to register any Instrument or Instrument usage on the Ledger
-    8. Obligation to contribute in money or in-kind the agreed upon development and operating costs of the Platform services as defined in Service Agreements under this Economic Commons Agreement.
-    9. Obligation to hold a means of secure identification in order to interact with a Ledger
+    3. Right to hold multiple Accounts and Instruments in the Ledger
+    4. Right to vote on the usage of their issued Instruments in a Community Fund.
+    5. Right to view and inspect all Accounts and Instrument kept on the Ledger.
+    6. Obligation to report Members that don't comply to this Agreement or local laws.
+    7. Obligation to certify Platform Service Providers
+    8. Obligation to register any Instrument or Instrument usage on the Ledger
+    9. Obligation to contribute in money or in-kind the agreed upon development and operating costs of the Platform services as defined in Service Agreements under this Economic Commons Agreement.
+    10. Obligation to hold a means of secure identification in order to interact with a Ledger
     10. Obligation to demonstrate technical and management capabilities and capacity to meet Instrument and other appropriate standards.
-2. **Platform Service Providers**: Hold a valid certification issued by Guardans.
-    1. Technical:
+2. **Platform Service Providers**: Hold a valid Certificate
+    1. Technical:    
         1. Right to receive agreed development and operating costs and an agreed production share in respect of Platform services 
         2. Right to use and migrate custodial Member Accounts and Instruments to an appropriate Ledger
         3. Obligation to maintain the Platform’s open source software code base
@@ -104,6 +100,8 @@ There are three Member **Classes** defined below, with the following rights and 
         5. Obligation to hold and secure granted Member data and intellectual property jointly in common
         6. Obligation to provide Members access to their Ledger accounts and shared Instruments
         7. Obligation to provide a means of a secure identification to Members in order to interact with a Ledger
+	8. Obligation to all Member accounts, data and shared Instruments are recorded in unique time order in the Ledger
+	9. Obligation to utlize Ledgers that are secure and resistant to security breaches and loss of data 
     2. Social:
         8. Right to make available non-confidential Member and Instrument data to the general public
         9. Obligation to provide training and education, administer Member service agreements, ensure confidential data transparency, oversee quality standards
