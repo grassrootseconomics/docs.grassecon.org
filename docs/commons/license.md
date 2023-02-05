@@ -1,4 +1,4 @@
-# Grassroots Economic Commons License (GECL) v1.21 (en)
+# Grassroots Economic Commons License (GECL) v1.21a (en)
 
 ## About
 
@@ -60,9 +60,11 @@ The Instruments of an Economic Commons include:
 1. **Certificate (Unilateral Instrument)** - a data object that may be accepted by another Member in exchange for value at their complete discretion.
     The following are properties of Certificates:
     1. No Obligation: There is no obligation to accept a Certificate nor is there any obligation to redeem a Certificate by the Issuer.
-    2. Attestation: Certificates represent collectible attestations to data such as Voucher usage or capacity to perform services. Vouchers as well as Members can be Certified by other Members, for various roles, services, accomplishments and so on. The certification is an attestation by a Member or Members for another Member or Instrument.
-    3. Revocation or Expiration: Attestation for a certificate can expire and or be revoked, and the history of attestation must be preserved on the Ledger.
-    4. Finality: Once published and registered on the Ledger, the Immutable Properties of the Certificate cannot be changed other than the owner.
+    2. Attestation: Certificates represent collectible attestations to data such as Voucher usage or capacity to perform services. Vouchers as well as Members can be Certified by other Members, for various roles, services, accomplishments and so on. The certification is an attestation by a Member or Members for another Member or Instrument. Note that in the exampleof a Voucher Instrument some Immutable and Mutable data is stored or referenced to on a Certificate (denoted with a (*).
+    3. Finality: Once published and registered on the Ledger certain Immutable Information cannot change while Mutable Information can be changed by a Certificate Contract Manager.
+    4. Certificate Contract Managment: The Certificate Contract (Smart contract) registered and publish on the Ledger has a Manager that can edit the Mutable Information in the Certificate Contract. The default Manager is the Member that published the contract and who may transfer Managment to any Account on the Ledger and also remove themselves as an Manager. Managment can be transferred to a Smart Contract that enables different forms of voting etc.
+    5. Revocation or Expiration: Attestation for a certificate can expire and or be revoked, and the history of attestation must be preserved on the Ledger.
+    6. Finality: Once published and registered on the Ledger, the Immutable Properties of the Certificate cannot be changed.
 2. **Voucher (Bilateral Instrument)** – a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the Issuer. The following are properties of Vouchers:
     1. Redemption Policy: If the acceptor/final holder of the Voucher presents it in payment to the Issuer, for goods or services supplied, it must be accepted in payment. Vouchers are only redeemable for payment of the Issuer's products and cannot be redeemed for cash.
     10. Digital Representation: The Voucher is digital and defined on a secure and immutable public Ledger, where members hold accounts. All transactions, Instruments, and accounts are transparent to the public who have access tokens to the Ledger or use other publicly viewable services such as a block explorer.
@@ -78,22 +80,32 @@ The Instruments of an Economic Commons include:
     11. Bearer Instrument: The Voucher is a digital bearer instrument, meaning that anyone holding the access (private) key to the holder's account is considered the owner of the Voucher or Vouchers in that account. Any holder of the Voucher has the right to redeem it as payment for the products of the Issuer.
     12. Utility: The Voucher should be considered a utility and not marketed or sold as an investment product. It confers no additional rights or benefits beyond the redemption for the Issuer's product.
     13. Liability: The Voucher is a credit obligation with joint and several liability of the Issuers. This means that the Issuers are collectively and individually responsible for fulfilling the obligation of the Voucher.
-    14. Finality: Once published and registered on the Ledger certain Immutable Information can and cannot change while Mutable Information can be changed by Voucher Contract Ownership.
-        1. Immutable Information includes:
-	    1. Name, Symbol
-	    2. Expiration dates and rates
-	    3. Re-issuance period
-	    4. Precision
-	    5. Unit of Account
-	    6. Contract Address (public Key)
-	    7. Voucher information address (public key)
-	2. Mutable Information includes:
-	    1. Voucher Contract Ownership
-	    2. Voucher supply
-	    3. Sink address
-	    4. Contact information
-	        1. Name, phone number, email, location
-    15. Voucher Contract Ownership: The Voucher Contract (Smart contract) registered and publish on the Ledger has Owners that can edit the Mutable Information in the Voucher Contract. The default Owner is the Member that published the contract and who may transfer Ownership to any Account on the Ledger and also remove themselves as an Owner. Ownership can be transferred to a Smart Contract that enables different forms of voting etc.
+    14. Finality: Once published and registered on the Ledger certain Immutable Information cannot change while Mutable Information can be changed by Voucher Contract Manager.
+         1. Immutable Information includes:
+	     1. Name, Symbol
+	     2. Expiration dates and rates
+	     3. Re-issuance period
+	     4. Precision
+	     5. Contract Address* (public Key)
+	     5. Unit of Account*
+	     6. Description*
+	     7. Issuer*
+	     8. Namespace*
+             9. Proofs* (media files, hashes or attachments)
+             10. Version number*
+	     11. Image* (optional logo)
+	     12. Address of Mutable Information*
+	     14. Valid from* (date that the contract was published)
+	     15. Valid until* (date that the information is considered outdated)
+	 2. Mutable Information* includes:
+	     1. Voucher Contract Manager (public key)
+	     2. Voucher supply (via minting or burning)
+	     3. Sink address
+	     4. Contact information
+	         1. Name, phone number, email, location, country
+	     5. Signers (who attest to the certificate information being connected to the Voucher)
+	 3. (*) Note that all the above information is data stored and registered on a Certficate whic is published on the Ledger
+    15. Voucher Contract Managment: The Voucher Contract (Smart contract) registered and publish on the Ledger has a Manager that can edit the Mutable Information in the Voucher Contract. The default Manager is the Member that published the contract and who may transfer Managment to any Account on the Ledger and also remove themselves as an Manager. Managment can be transferred to a Smart Contract that enables different forms of voting etc.
 	
 ## Organization
 
