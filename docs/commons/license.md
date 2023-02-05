@@ -81,29 +81,29 @@ The Instruments of an Economic Commons include:
     12. Utility: The Voucher should be considered a utility and not marketed or sold as an investment product. It confers no additional rights or benefits beyond the redemption for the Issuer's product.
     13. Liability: The Voucher is a credit obligation with joint and several liability of the Issuers. This means that the Issuers are collectively and individually responsible for fulfilling the obligation of the Voucher.
     14. Finality: Once published and registered on the Ledger certain Immutable Information cannot change while Mutable Information can be changed by Voucher Contract Manager.
-         1. Immutable Information includes:
-	     1. Name, Symbol
-	     2. Expiration dates and rates
-	     3. Re-issuance period
-	     4. Precision
-	     5. Contract Address* (public Key)
-	     5. Unit of Account*
-	     6. Description*
-	     7. Issuer*
-	     8. Namespace*
-             9. Proofs* (media files, hashes or attachments)
-             10. Version number*
-	     11. Image* (optional logo)
-	     12. Address of Mutable Information*
-	     14. Valid from* (date that the contract was published)
-	     15. Valid until* (date that the information is considered outdated)
-	 2. Mutable Information* includes:
-	     1. Voucher Contract Manager (public key)
-	     2. Voucher supply (via minting or burning)
-	     3. Sink address
-	     4. Contact information
-	         1. Name, phone number, email, location, country
-	     5. Signers (who attest to the certificate information being connected to the Voucher)
+        1. Immutable Information includes:
+	    1. Name, Symbol
+	    2. Expiration dates and rates
+	    3. Re-issuance period
+	    4. Precision
+	    5. Contract Address* (public Key)
+	    6. Unit of Account*
+	    7. Description*
+	    8. Issuer Name*
+	    9. Namespace*
+            10. Proofs* (media files, hashes or attachments)
+            11. Version number*
+	    12. Image* (optional logo)
+	    13. Address of Mutable Information (derived)*
+	    14. Valid from* (date that the contract was published)
+	    15. Valid until* (date that the information is considered outdated)
+	2. Mutable Information* includes:
+	    1. Voucher Contract Manager (public key)
+	    2. Voucher supply (via minting or burning)
+	    3. Sink address
+	    4. Contact information
+	        1. Name, phone number, email, location, country
+	    5. Signers (who attest to the certificate information being connected to the Voucher)
 	 3. (*) Note that all the above information is data stored and registered on a Certficate whic is published on the Ledger
     15. Voucher Contract Managment: The Voucher Contract (Smart contract) registered and publish on the Ledger has a Manager that can edit the Mutable Information in the Voucher Contract. The default Manager is the Member that published the contract and who may transfer Managment to any Account on the Ledger and also remove themselves as an Manager. Managment can be transferred to a Smart Contract that enables different forms of voting etc.
 	
