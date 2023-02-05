@@ -57,19 +57,28 @@ The Platform of a Economic Commons is maintained by certified Platform Service P
 
 The Instruments of an Economic Commons include:
 
-1. **Certificate (Unilateral Instrument)** - a data object (fungible or non fungible) that may be accepted by another Member in exchange for value at their complete discretion.
+1. **Certificate (Unilateral Instrument)** - a data object that may be accepted by another Member in exchange for value at their complete discretion.
     The following are properties of Vouchers: 
     1. No Obligation: There is no obligation to accept a Certificate nor is there any obligation to redeem a Certificate by the issuer.
     2. Attestation: Certificates represent collectible attestsations to data such as Voucher usage or capacity to perform services. Vouchers as well as Members can be Certified by other Members, for various roles, services, achomplishments and so on. The certification is an attestastation by a Member or Members for another Member or Instrument.
     3. Revokation or Expiration: Attestation for a certificate can expire and or be revoked, and the history of attestation must be preserved on the Ledger.
 2. **Voucher (Bilateral Instrument)** – a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the issuer. 
-    1. If the acceptor/final holder of the voucher presents it in payment to the issuer, for goods or services supplied, it must be accepted in payment.
-    2. Unit of Account: Standard unit of measure for value in exchange. Each Voucher on the Platform issued by a Member should specify a Unit of Account.
-        1. Example: 1000 SRF Vouchers can be said to be redeemable by the Issuing Member for 1000 Kenyan Shillings worth of the issuer’s services.)
-    3. Expiry Date and/or Rate: Each Voucher on the Platform issued by a Member should specify no expiration, an expiry date and/or a gradual expiration rate over time. Expired Vouchers will automatically be placed in a Community Account.
-        2. Example: An gradual expiration rate of 2% a month will mean that any outstanding Voucher balances will automatically be reduced by 2% a month and placed in the designated Community Account.
-        3. Liability: The issuer(s) of a voucher are obligated to redeem that Voucher as payment at the value and within an Expiry Date if specified.
-    5. No redemption for national currency: the Issuer shall not redeem Vouchers for National Currency and bears full sole responsibility for their issuance, assignment and redemption in goods and/or services.
+    1. Redemption Policy: If the acceptor/final holder of the voucher presents it in payment to the issuer, for goods or services supplied, it must be accepted in payment. Vouchers are only redeemable for payment of the issuer's products and cannot be redeemed for cash.
+    2. Divisibility: Vouchers can be divided to a specified precision, as determined by the issuer. This means that the holder of one voucher can send a portion of the voucher to another member, with the precision specified by the issuer, such as a number of digits.
+    3. Name and Symbol: Each Voucher must have a unique name and symbol specified by the issuers.
+    4. Contact Information: The Voucher must include contact information for the holder to know how to redeem the voucher as payment for the issuer's products.
+    5. Unit of Account: Standard unit of measure for value in exchange. Each Voucher on the Platform issued by a Member should specify a Unit of Account.
+        1. Example: 1000 SRF Vouchers can be said to be redeemable by the Issuing Member for 1000 Kenyan Shillings worth of the issuer’s services.
+    6. Expiration: Vouchers may have a specified expiration date or an expiration rate. For example, a Voucher with an expiration rate of 2% per month would result in a holder having 98 Vouchers at the end of the month, if the holder had 100 Vouchers at the beginning of the month.
+    7. Community Fund and Reissuance Period: Expired Vouchers will accrue in a specified association account or contract after a specified reissuance period. This means that the balance of Vouchers in the Community Fund will increase by the sum of expired Vouchers, after the reissuance period.
+    8. Supply: The supply of Vouchers may be increased or destroyed by vote of the issuers. The supply of Vouchers must always be based on the issuer's capacity to redeem them as payment for their products within the specified expiration.
+    9. Fungibility: The Voucher is fungible, meaning that it is interchangeable with another identical voucher and holds the same value.
+    10. Digital Representation: The Voucher is digital and defined on a secure and immutable public Ledger, where members hold accounts. All transactions, instruments, and accounts are transparent to the public.
+    11. Bearer Instrument: The Voucher is a digital bearer instrument, meaning that anyone holding the access (private) key to the holder's account is considered the owner of the voucher. Any holder of the voucher is automatically considered a member.
+    12. Utility: The Voucher should be considered a utility and not marketed or sold as an investment product. It confers no additional rights or benefits beyond the redemption for the issuer's product.
+    13. Liability: The Voucher is a credit obligation with joint and several liability of the issuers. This means that the issuers are collectively and individually responsible for fulfilling the obligation of the voucher.
+    14. Finality: Once issued, the properties of the Voucher cannot be changed.
+	
 
 ## Organization
 
