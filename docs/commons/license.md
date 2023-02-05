@@ -1,4 +1,4 @@
-# Grassroots Economic Commons License (GECL) v1.2 (en)
+# Grassroots Economic Commons License (GECL) v1.21 (en)
 
 ## About
 
@@ -58,13 +58,12 @@ The Platform of a Economic Commons is maintained by certified Platform Service P
 The Instruments of an Economic Commons include:
 
 1. **Certificate (Unilateral Instrument)** - a data object that may be accepted by another Member in exchange for value at their complete discretion.
-    The following are properties of Vouchers:
+    The following are properties of Certificates:
     1. No Obligation: There is no obligation to accept a Certificate nor is there any obligation to redeem a Certificate by the Issuer.
     2. Attestation: Certificates represent collectible attestations to data such as Voucher usage or capacity to perform services. Vouchers as well as Members can be Certified by other Members, for various roles, services, accomplishments and so on. The certification is an attestation by a Member or Members for another Member or Instrument.
     3. Revocation or Expiration: Attestation for a certificate can expire and or be revoked, and the history of attestation must be preserved on the Ledger.
-    4. Finality:
-    4. Finality: Once issued and registered on the Ledger, the immutable properties of the Certificate cannot be changed other than the owner.
-2. **Voucher (Bilateral Instrument)** – a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the Issuer. 
+    4. Finality: Once published and registered on the Ledger, the Immutable Properties of the Certificate cannot be changed other than the owner.
+2. **Voucher (Bilateral Instrument)** – a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the Issuer. The following are properties of Vouchers:
     1. Redemption Policy: If the acceptor/final holder of the Voucher presents it in payment to the Issuer, for goods or services supplied, it must be accepted in payment. Vouchers are only redeemable for payment of the Issuer's products and cannot be redeemed for cash.
     10. Digital Representation: The Voucher is digital and defined on a secure and immutable public Ledger, where members hold accounts. All transactions, Instruments, and accounts are transparent to the public who have access tokens to the Ledger or use other publicly viewable services such as a block explorer.
     2. Divisibility: Vouchers can be divided to a specified precision, as determined by the Issuer. This means that the holder of one Voucher can send a portion of the Voucher to another member, with the precision specified by the Issuer by a number of digits.
