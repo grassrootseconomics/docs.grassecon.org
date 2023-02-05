@@ -101,7 +101,7 @@ The Instruments of an Economic Commons include:
 	    1. Voucher Contract Manager (public key)
 	    2. Voucher supply (via minting or burning)
 	    3. Sink address
-	    4. Contact information
+	    4. Contact information*
 	        1. Name, phone number, email, location, country
 	    5. Signers (who attest to the certificate information being connected to the Voucher)
 	 3. (*) Note that all the above information is data stored and registered on a Certficate whic is published on the Ledger
