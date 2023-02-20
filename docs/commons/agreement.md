@@ -2,7 +2,7 @@
 
 ## **Preamble**
 
-We **Grassroots Economics Foundation** _(herein called the Founding Member)_ hereby ratify and incorporate the [Grassroots Economics Commons License v1](https://docs.grassecon.org/commons/license/) in the following Economic Commons (herein called the Grassroots Economic Commons) as its Guardian, General Member and Platform Service Provider.
+We **Grassroots Economics Foundation** _(herein called the Founding Member)_ hereby ratify and incorporate the [Grassroots Economics Commons Template](https://docs.grassecon.org/commons/template) in the following Economic Commons (herein called the Grassroots Economic Commons) as its Guardian, General Member and Platform Service Provider.
 
 
 ## **Vision**

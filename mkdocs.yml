@@ -18,7 +18,7 @@ nav:
       - Humanitarian Support: ops/support.md
   - Commons:
       - Intro: commons/index.md
-      - Commons License: commons/license.md
+      - Commons Template: commons/template.md
       - Commons Agreement: commons/agreement.md
       - Voucher Agreement: commons/voucher.md
       - Service Agreement: commons/service.md
