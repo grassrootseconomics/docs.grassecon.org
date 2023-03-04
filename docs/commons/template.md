@@ -39,56 +39,58 @@ Instruments are agreements created and used by willing Members. The Instruments 
 
 **Certificate (Unilateral Instrument)** - a data object that may be accepted by another Member in exchange for value at their complete discretion.
     The following are properties of Certificates:
-    1. No Obligation: There is no obligation to accept a Certificate nor is there any obligation to redeem a Certificate by the Issuer.
-    2. Attestation: Certificates represent collectible attestations to data such as Voucher usage or capacity to perform services. Vouchers as well as Members can be Certified by other Members, for various roles, services, accomplishments and so on. The certification is an attestation by a Member or Members for another Member or Instrument. Note that in the example of a Voucher Instrument some Immutable and Mutable data is stored or referenced to on a Certificate (denoted with a (*).
-    3. Finality: Once published and registered on the Ledger certain Immutable Information cannot change while Mutable Information can be changed by a Certificate Contract Manager.
-    4. Certificate Contract Management: The Certificate Contract (Smart contract) registered and publish on the Ledger has a Manager that can edit the Mutable Information in the Certificate Contract. The default Manager is the Member that published the contract and who may transfer Management to any Account on the Ledger and also remove themselves as an Manager. Management can be transferred to a Smart Contract that enables different forms of voting etc.
-    5. Revocation or Expiration: Attestation for a certificate can expire and or be revoked, and the history of attestation must be preserved on the Ledger.
-    6. Finality: Once published and registered on the Ledger, the Immutable Properties of the Certificate cannot be changed.
+    
+   1. No Obligation: There is no obligation to accept a Certificate nor is there any obligation to redeem a Certificate by the Issuer.
+   2. Attestation: Certificates represent collectible attestations to data such as Voucher usage or capacity to perform services. Vouchers as well as Members can be Certified by other Members, for various roles, services, accomplishments and so on. The certification is an attestation by a Member or Members for another Member or Instrument. Note that in the example of a Voucher Instrument some Immutable and Mutable data is stored or referenced to on a Certificate (denoted with a (*).
+   3. Finality: Once published and registered on the Ledger certain Immutable Information cannot change while Mutable Information can be changed by a Certificate Contract Manager.
+   4. Certificate Contract Management: The Certificate Contract (Smart contract) registered and publish on the Ledger has a Manager that can edit the Mutable Information in the Certificate Contract. The default Manager is the Member that published the contract and who may transfer Management to any Account on the Ledger and also remove themselves as an Manager. Management can be transferred to a Smart Contract that enables different forms of voting etc.
+   5. Revocation or Expiration: Attestation for a certificate can expire and or be revoked, and the history of attestation must be preserved on the Ledger.
+   6. Finality: Once published and registered on the Ledger, the Immutable Properties of the Certificate cannot be changed.
 
 ### Voucher
 
 **Voucher (Bilateral Instrument)** – a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the Issuer. The following are properties of Vouchers:
-    1. Redemption Policy: If the acceptor/final holder of the Voucher presents it in payment to the Issuer, for goods or services supplied, it must be accepted in payment. Vouchers are only redeemable for payment of the Issuer's products and cannot be redeemed for cash.
-    10. Digital Representation: The Voucher is digital and defined on a secure and immutable public Ledger, where members hold accounts. All transactions, Instruments, and accounts are transparent to the public who have access tokens to the Ledger or use other publicly viewable services such as a block explorer.
-    2. Divisibility: Vouchers can be divided to a specified precision, as determined by the Issuer. This means that the holder of one Voucher can send a portion of the Voucher to another member, with the precision specified by the Issuer by a number of digits.
-    3. Name and Symbol and Contract Address: Each Voucher must have a name and symbol specified by the Issuer, and a unique Contract Address (public key).
-    4. Contact Information: The Voucher must include contact information for the holder to know how to redeem the Voucher as payment for the Issuer's products. The Issuer must keep this information accurate and up-to date.
-    5. Unit of Account: Standard unit of measure for value in exchange. Each Voucher issued by a Member should specify a Unit of Account.
-        1. Example: 1000 SRF Vouchers can be said to be redeemable by the Issuing Member for 1000 Kenyan Shillings worth of the Issuer’s services.
-    6. Expiration: Vouchers may have a specified expiration date or an expiration rate. For example, a Voucher with an expiration rate of 2% per month would result in a holder having 98 Vouchers at the end of the month, if the holder had 100 Vouchers at the beginning of the month.
-    7. Sink Account and Issuance Period: Expired Vouchers will accrue in a specified association account or contract after a specified Issuance period. This means that the balance of Vouchers in the Sink Account will increase by the sum of expired Vouchers, after the Issuance Period.
-    8. Supply: The supply of Vouchers may be increased or destroyed by vote of the Issuers. The supply of Vouchers shall always be based on the Issuer's capacity to redeem them as payment for their products within the specified expiration.
-    9. Fungibility: Each Voucher is fungible, meaning that it is interchangeable and mixable with another identical Voucher. An account holding multiple identical Vouchers would display sum of their quantity as their Voucher Balance minus any expired Vouchers.
-    11. Bearer Instrument: The Voucher is a digital bearer instrument, meaning that anyone holding the access (private) key to the holder's account is considered the owner of the Voucher or Vouchers in that account. Any holder of the Voucher has the right to redeem it as payment for the products of the Issuer.
-    12. Utility: The Voucher should be considered a utility and not marketed or sold as an investment product. It confers no additional rights or benefits beyond the redemption for the Issuer's product.
-    13. Liability: The Voucher is a credit obligation with joint and several liability of the Issuers. This means that the Issuers are collectively and individually responsible for fulfilling the obligation of the Voucher. A Voucher issued by a group of Issuers is called a Community Asset Voucher.
-    14. Finality: Once published and registered on the Ledger certain Immutable Information cannot change while Mutable Information can be changed by Voucher Contract Manager.
-        1. Immutable Information includes:
-            1. Name, Symbol
-            2. Expiration dates and rates
-            3. Re-issuance period
-            4. Precision
-            5. Contract Address* (public Key)
-            6. Unit of Account*
-            7. Description*
-            8. Issuer Name*
-            9. Namespace*
-            10. Proofs* (media files, hashes or attachments)
-            11. Version number*
-            12. Image* (optional logo)
-            13. Address of Mutable Information (derived)*
-            14. Valid from* (date that the contract was published)
-            15. Valid until* (date that the information is considered outdated)
-        2. Mutable Information* includes:
+
+   1. Redemption Policy: If the acceptor/final holder of the Voucher presents it in payment to the Issuer, for goods or services supplied, it must be accepted in payment. Vouchers are only redeemable for payment of the Issuer's products and cannot be redeemed for cash.
+   1. Digital Representation: The Voucher is digital and defined on a secure and immutable public Ledger, where members hold accounts. All transactions, Instruments, and accounts are transparent to the public who have access tokens to the Ledger or use other publicly viewable services such as a block explorer.
+   1. Divisibility: Vouchers can be divided to a specified precision, as determined by the Issuer. This means that the holder of one Voucher can send a portion of the Voucher to another member, with the precision specified by the Issuer by a number of digits.
+   1. Name and Symbol and Contract Address: Each Voucher must have a name and symbol specified by the Issuer, and a unique Contract Address (public key).
+   1. Contact Information: The Voucher must include contact information for the holder to know how to redeem the Voucher as payment for the Issuer's products. The Issuer must keep this information accurate and up-to date.
+   1. Unit of Account: Standard unit of measure for value in exchange. Each Voucher issued by a Member should specify a Unit of Account.
+      1. Example: 1000 SRF Vouchers can be said to be redeemable by the Issuing Member for 1000 Kenyan Shillings worth of the Issuer’s services.
+   1. Expiration: Vouchers may have a specified expiration date or an expiration rate. For example, a Voucher with an expiration rate of 2% per month would result in a holder having 98 Vouchers at the end of the month, if the holder had 100 Vouchers at the beginning of the month.
+   1. Sink Account and Issuance Period: Expired Vouchers will accrue in a specified association account or contract after a specified Issuance period. This means that the balance of Vouchers in the Sink Account will increase by the sum of expired Vouchers, after the Issuance Period.
+   1. Supply: The supply of Vouchers may be increased or destroyed by vote of the Issuers. The supply of Vouchers shall always be based on the Issuer's capacity to redeem them as payment for their products within the specified expiration.
+   1. Fungibility: Each Voucher is fungible, meaning that it is interchangeable and mixable with another identical Voucher. An account holding multiple identical Vouchers would display sum of their quantity as their Voucher Balance minus any expired Vouchers.
+   1. Bearer Instrument: The Voucher is a digital bearer instrument, meaning that anyone holding the access (private) key to the holder's account is considered the owner of the Voucher or Vouchers in that account. Any holder of the Voucher has the right to redeem it as payment for the products of the Issuer.
+   1. Utility: The Voucher should be considered a utility and not marketed or sold as an investment product. It confers no additional rights or benefits beyond the redemption for the Issuer's product.
+   1. Liability: The Voucher is a credit obligation with joint and several liability of the Issuers. This means that the Issuers are collectively and individually responsible for fulfilling the obligation of the Voucher. A Voucher issued by a group of Issuers is called a Community Asset Voucher.
+   1. Finality: Once published and registered on the Ledger certain Immutable Information cannot change while Mutable Information can be changed by Voucher Contract Manager.
+      1. Immutable Information includes:
+         1. Name, Symbol
+            1. Expiration dates and rates
+            1. Re-issuance period
+            1. Precision
+            1. Contract Address* (public Key)
+            1. Unit of Account*
+            1. Description*
+            1. Issuer Name*
+            1. Namespace*
+            1. Proofs* (media files, hashes or attachments)
+            1. Version number*
+            1. Image* (optional logo)
+            1. Address of Mutable Information (derived)*
+            1. Valid from* (date that the contract was published)
+            1. Valid until* (date that the information is considered outdated)
+         2. Mutable Information* includes:
             1. Voucher Contract Manager (public key)
-            2. Voucher supply (via minting or burning)
-            3. Sink address
-            4. Contact information*
-                1. Name, phone number, email, location, country
+            1. Voucher supply (via minting or burning)
+            1. Sink address
+            1. Contact information*
+               1. Name, phone number, email, location, country
             5. Signers (who attest to the certificate information being connected to the Voucher)
-        3. (*) Note that all the above information is data stored and registered on a Certificate which is published on the Ledger
-    15. Voucher Contract Management: The Voucher Contract (Smart contract) registered and publish on the Ledger has a Manager that can edit the Mutable Information in the Voucher Contract. The default Manager is the Member that published the contract and who may transfer Management to any Account on the Ledger and also remove themselves as an Manager. Management can be transferred to a Smart Contract that enables different forms of voting etc.
+         3. (*) Note that all the above information is data stored and registered on a Certificate which is published on the Ledger
+   1. Voucher Contract Management: The Voucher Contract (Smart contract) registered and publish on the Ledger has a Manager that can edit the Mutable Information in the Voucher Contract. The default Manager is the Member that published the contract and who may transfer Management to any Account on the Ledger and also remove themselves as an Manager. Management can be transferred to a Smart Contract that enables different forms of voting etc.
 
 ### Economic Commons 
 
