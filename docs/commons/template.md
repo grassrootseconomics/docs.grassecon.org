@@ -8,15 +8,14 @@ Agreements that follow this template must ratify following Aims, Principles, Jur
 
 ## Aim
 
-Community creation and maitenence of Instruments for inclusive wellbeing.
-
+Community creation and maintenance of Instruments for inclusive wellbeing.
 
 ## Principles
 
 The core Principles of an Economic Commons include:
 
 1. Care for people - maximize amenity, wellbeing, happiness and contentment
-2. Care for the environment - supprot enviromental regeneration and minimize use of finite resources for economic activity
+2. Care for the environment - support environmental regeneration and minimize use of finite resources for economic activity
 3. Equity - affordable and secure access to Instruments, land, resources, knowledge & care
 4. Reciprocity – and mutual sharing of risk, cost and surplus
 5. Non-Dominance - no person to have dominant rights over any other
@@ -33,16 +32,17 @@ The core Principles of an Economic Commons include:
 
 ## **Instruments**
 
-The Instruments of an Economic Commons include:
+Instruments are agreements created and used by willing Members. The Instruments of an Economic Commons include:
+
 
 ### Certificate
 
 **Certificate (Unilateral Instrument)** - a data object that may be accepted by another Member in exchange for value at their complete discretion.
     The following are properties of Certificates:
     1. No Obligation: There is no obligation to accept a Certificate nor is there any obligation to redeem a Certificate by the Issuer.
-    2. Attestation: Certificates represent collectible attestations to data such as Voucher usage or capacity to perform services. Vouchers as well as Members can be Certified by other Members, for various roles, services, accomplishments and so on. The certification is an attestation by a Member or Members for another Member or Instrument. Note that in the exampleof a Voucher Instrument some Immutable and Mutable data is stored or referenced to on a Certificate (denoted with a (*).
+    2. Attestation: Certificates represent collectible attestations to data such as Voucher usage or capacity to perform services. Vouchers as well as Members can be Certified by other Members, for various roles, services, accomplishments and so on. The certification is an attestation by a Member or Members for another Member or Instrument. Note that in the example of a Voucher Instrument some Immutable and Mutable data is stored or referenced to on a Certificate (denoted with a (*).
     3. Finality: Once published and registered on the Ledger certain Immutable Information cannot change while Mutable Information can be changed by a Certificate Contract Manager.
-    4. Certificate Contract Managment: The Certificate Contract (Smart contract) registered and publish on the Ledger has a Manager that can edit the Mutable Information in the Certificate Contract. The default Manager is the Member that published the contract and who may transfer Managment to any Account on the Ledger and also remove themselves as an Manager. Managment can be transferred to a Smart Contract that enables different forms of voting etc.
+    4. Certificate Contract Management: The Certificate Contract (Smart contract) registered and publish on the Ledger has a Manager that can edit the Mutable Information in the Certificate Contract. The default Manager is the Member that published the contract and who may transfer Management to any Account on the Ledger and also remove themselves as an Manager. Management can be transferred to a Smart Contract that enables different forms of voting etc.
     5. Revocation or Expiration: Attestation for a certificate can expire and or be revoked, and the history of attestation must be preserved on the Ledger.
     6. Finality: Once published and registered on the Ledger, the Immutable Properties of the Certificate cannot be changed.
 
@@ -87,8 +87,12 @@ The Instruments of an Economic Commons include:
             4. Contact information*
                 1. Name, phone number, email, location, country
             5. Signers (who attest to the certificate information being connected to the Voucher)
-        3. (*) Note that all the above information is data stored and registered on a Certficate whic is published on the Ledger
-    15. Voucher Contract Managment: The Voucher Contract (Smart contract) registered and publish on the Ledger has a Manager that can edit the Mutable Information in the Voucher Contract. The default Manager is the Member that published the contract and who may transfer Managment to any Account on the Ledger and also remove themselves as an Manager. Managment can be transferred to a Smart Contract that enables different forms of voting etc.
+        3. (*) Note that all the above information is data stored and registered on a Certificate which is published on the Ledger
+    15. Voucher Contract Management: The Voucher Contract (Smart contract) registered and publish on the Ledger has a Manager that can edit the Mutable Information in the Voucher Contract. The default Manager is the Member that published the contract and who may transfer Management to any Account on the Ledger and also remove themselves as an Manager. Management can be transferred to a Smart Contract that enables different forms of voting etc.
+
+### Economic Commons 
+
+An Economic Commons Agreement (multilateral agreement) as specified in this document is an Instrument
 	
 ## Organization
 
@@ -146,14 +150,14 @@ Provide essential service for the Economic Commons.
       1. Right to assign an auditor to assess any Member Instruments 
       1. Right to suspend services and remove Wallet access for Non-Performing Members
       1. Right to assign arbitrators for the mediation of disputes
-      1. Obligation to provide Due Diligence, audits and arbitration of disputes for Members in relation to usage of Instruments and this Aggreement.
+      1. Obligation to provide Due Diligence, audits and arbitration of disputes for Members in relation to usage of Instruments and this Agreement.
       1. Obligation to ensure that Instruments are binding on Members when registered in the Ledger and inline with this Agreement
        
 #### Guardians
 
     1. Right to develop, design and implement an Economic Commons
     1. Right of final veto on behalf of Members generally in respect of amendments to an Economic Commons agreement incompatible with the Aim and Principles
-    1. Obligation to verify that Members and Instruments are compatble with the Aim and Principles
+    1. Obligation to verify that Members and Instruments are compatible with the Aim and Principles
     1. Obligation to arbitrate disputes of Members in relation to Aim and Principles
 
 ### Class Agreements and Admissions
