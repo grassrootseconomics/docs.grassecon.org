@@ -32,14 +32,13 @@ The core Principles of an Economic Commons include:
 4. Members are subject to local identity laws and regulations in their respective jurisdiction
 5. Data may be shared internationally between Members in different jurisdictions
 
-
-## Definitions
-
-### **Instruments**
+## **Instruments**
 
 The Instruments of an Economic Commons include:
 
-1. **Certificate (Unilateral Instrument)** - a data object that may be accepted by another Member in exchange for value at their complete discretion.
+### Certificate
+
+**Certificate (Unilateral Instrument)** - a data object that may be accepted by another Member in exchange for value at their complete discretion.
     The following are properties of Certificates:
     1. No Obligation: There is no obligation to accept a Certificate nor is there any obligation to redeem a Certificate by the Issuer.
     2. Attestation: Certificates represent collectible attestations to data such as Voucher usage or capacity to perform services. Vouchers as well as Members can be Certified by other Members, for various roles, services, accomplishments and so on. The certification is an attestation by a Member or Members for another Member or Instrument. Note that in the exampleof a Voucher Instrument some Immutable and Mutable data is stored or referenced to on a Certificate (denoted with a (*).
@@ -47,7 +46,10 @@ The Instruments of an Economic Commons include:
     4. Certificate Contract Managment: The Certificate Contract (Smart contract) registered and publish on the Ledger has a Manager that can edit the Mutable Information in the Certificate Contract. The default Manager is the Member that published the contract and who may transfer Managment to any Account on the Ledger and also remove themselves as an Manager. Managment can be transferred to a Smart Contract that enables different forms of voting etc.
     5. Revocation or Expiration: Attestation for a certificate can expire and or be revoked, and the history of attestation must be preserved on the Ledger.
     6. Finality: Once published and registered on the Ledger, the Immutable Properties of the Certificate cannot be changed.
-2. **Voucher (Bilateral Instrument)** – a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the Issuer. The following are properties of Vouchers:
+
+### Voucher
+
+**Voucher (Bilateral Instrument)** – a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the Issuer. The following are properties of Vouchers:
     1. Redemption Policy: If the acceptor/final holder of the Voucher presents it in payment to the Issuer, for goods or services supplied, it must be accepted in payment. Vouchers are only redeemable for payment of the Issuer's products and cannot be redeemed for cash.
     10. Digital Representation: The Voucher is digital and defined on a secure and immutable public Ledger, where members hold accounts. All transactions, Instruments, and accounts are transparent to the public who have access tokens to the Ledger or use other publicly viewable services such as a block explorer.
     2. Divisibility: Vouchers can be divided to a specified precision, as determined by the Issuer. This means that the holder of one Voucher can send a portion of the Voucher to another member, with the precision specified by the Issuer by a number of digits.
@@ -97,48 +99,59 @@ A Member of an Economic Commons is an individual person, organization or an asso
 
 There are three Member **Classes** defined below, with the following rights and obligations:
 
-1. **General Members**: 
-    1. Right to utilize all Economic Commons-defined Instruments
-    1. Right to hold or delegate custodianship of Ledger Accounts and Instruments
-    1. Right to hold multiple Accounts and Instruments in the Ledger
-    1. Right to vote on the usage of their issued Instruments in a Community Fund
-    1. Right to view and inspect all Accounts and Instrument kept on the Ledger
-    1. Obligation to report Members that don't comply to this Agreement or local laws
-    1. Obligation to certify Core Service Providers
-    1. Obligation to register any Instrument or Instrument usage on the Ledger
-    1. Obligation to contribute in money or in-kind the agreed upon development and operating costs of the Core Services as defined in **Service Agreements** under this Economic Commons Agreement
-    1. Obligation to hold a means of secure identification in order to interact with a Ledger
-    1. Obligation to demonstrate technical and management capabilities and capacity to meet Instrument and other appropriate standards.
-2. **Core Service Providers**: Provide essential service for the Economic Commons. 
-    1. Technical:
-        1. Secure Member account and shared Instrument on registries (herein called the “Ledger”):
-        1. Track and report all usage of all Member account and Instruments, securely and immutably
-        1. Provide communications interfaces (herein called Wallets)
-        1. Right to publish Instruments on the Ledger on behalf of Members
-	1. Right to receive agreed development and operating costs and an agreed production share in respect of Core Services 
-        1. Right to use and migrate custodial Member Accounts and Instruments to an appropriate Ledger
-        1. Obligation to maintain an open source software code base under AGPL3.0 for any Core Services and Agreements
-        1. Obligation to operate the servers and various micro-service related to Core Services
-        1. Obligation to hold and secure granted Member data and intellectual property jointly in common
-        1. Obligation to provide Members access to their Ledger accounts and shared Instruments
-        1. Obligation to provide a means of a secure identification to Members in order to interact with a Ledger
-	1. Obligation to all Member accounts, data and shared Instruments are recorded in unique time order in the Ledger
-	1. Obligation to utilize Ledgers that are secure and resistant to security breaches and loss of data
-    2. Social:
-        1. Support and sharing of knowledge regarding the Agreement's implementations, Instruments as well as Member rights and obligations
-        1. Right to make available non-confidential Member and Instrument data to the general public
-        1. Right to make available non-confidential Member and Instrument data to the general public
-        1. Obligation to provide training and education
-        1. Obligation to administer Member service agreements
-        1. Obligation to ensure confidential data privacy and public information transparency
-        1. Obligation to oversee quality standards
-    3. Legal:
-       1. Right to assign an auditor to assess any Member Instruments 
-       1. Right to suspend services and remove Wallet access for Non-Performing Members
-       1. Right to assign arbitrators for the mediation of disputes
-       1. Obligation to provide Due Diligence, audits and arbitration of disputes for Members in relation to usage of Instruments and this Aggreement.
-       1. Obligation to ensure that Instruments are binding on Members when registered in the Ledger and inline with this Agreement
-3. **Guardians**:
+#### General Members
+
+   1. Right to utilize all Economic Commons-defined Instruments
+   1. Right to hold or delegate custodianship of Ledger Accounts and Instruments
+   1. Right to hold multiple Accounts and Instruments in the Ledger
+   1. Right to vote on the usage of their issued Instruments in a Community Fund
+   1. Right to view and inspect all Accounts and Instrument kept on the Ledger
+   1. Obligation to report Members that don't comply to this Agreement or local laws
+   1. Obligation to certify Core Service Providers
+   1. Obligation to register any Instrument or Instrument usage on the Ledger
+   1. Obligation to contribute in money or in-kind the agreed upon development and operating costs of the Core Services as defined in **Service Agreements** under this Economic Commons Agreement
+   1. Obligation to hold a means of secure identification in order to interact with a Ledger
+   1. Obligation to demonstrate technical and management capabilities and capacity to meet Instrument and other appropriate standards.
+    
+#### Core Service Providers###
+
+Provide essential service for the Economic Commons.
+
+   1. Technical:
+   
+      1. Secure Member account and shared Instrument on registries (herein called the “Ledger”):
+      1. Track and report all usage of all Member account and Instruments, securely and immutably
+      1. Provide communications interfaces (herein called Wallets)
+      1. Right to publish Instruments on the Ledger on behalf of Members
+      1. Right to receive agreed development and operating costs and an agreed production share in respect of Core Services
+      1. Right to use and migrate custodial Member Accounts and Instruments to an appropriate Ledger
+      1. Obligation to maintain an open source software code base under AGPL3.0 for any Core Services and Agreements
+      1. Obligation to operate the servers and various micro-service related to Core Services
+      1. Obligation to hold and secure granted Member data and intellectual property jointly in common
+      1. Obligation to provide Members access to their Ledger accounts and shared Instruments
+      1. Obligation to provide a means of a secure identification to Members in order to interact with a Ledger
+      1. Obligation to all Member accounts, data and shared Instruments are recorded in unique time order in the Ledger
+      1. Obligation to utilize Ledgers that are secure and resistant to security breaches and loss of data
+      
+   2. Social:
+   
+      1. Support and sharing of knowledge regarding the Agreement's implementations, Instruments as well as Member rights and obligations
+      1. Right to make available non-confidential Member and Instrument data to the general public
+      1. Right to make available non-confidential Member and Instrument data to the general public
+      1. Obligation to provide training and education
+      1. Obligation to administer Member service agreements
+      1. Obligation to ensure confidential data privacy and public information transparency
+      1. Obligation to oversee quality standards
+      
+   3. Legal:
+      1. Right to assign an auditor to assess any Member Instruments 
+      1. Right to suspend services and remove Wallet access for Non-Performing Members
+      1. Right to assign arbitrators for the mediation of disputes
+      1. Obligation to provide Due Diligence, audits and arbitration of disputes for Members in relation to usage of Instruments and this Aggreement.
+      1. Obligation to ensure that Instruments are binding on Members when registered in the Ledger and inline with this Agreement
+       
+#### Guardians
+
     1. Right to develop, design and implement an Economic Commons
     1. Right of final veto on behalf of Members generally in respect of amendments to an Economic Commons agreement incompatible with the Aim and Principles
     1. Obligation to verify that Members and Instruments are compatble with the Aim and Principles
