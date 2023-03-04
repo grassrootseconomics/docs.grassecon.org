@@ -1,15 +1,15 @@
-# Grassroots Economic Commons Agreement Template (GECAT) v1.21b (en)
+# Grassroots Economic Commons Agreement Template (GECAT) v1.21c (en)
 
 ## About
 
-This template defines an Economic Commons Agreement for general implementation as an open association of people and organizations, where mutually defined Instruments are utilized by General Members who jointly oversee essential Platform Service Providers as active stewards, subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
+This template defines an Economic Commons Agreement for general implementation as an open association of people and organizations, where mutually defined Instruments are utilized by General Members who jointly oversee essential Core Service Providers as active stewards, subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
 
 Agreements that follow this template must ratify following Aims, Principles, Jurisdiction, Definitions, Organization and Notices
 
 
 ## Aim
 
-Community creation of inclusive prosperity.
+Community creation and maitenence of Instruments for inclusive wellbeing.
 
 
 ## Principles
@@ -17,40 +17,23 @@ Community creation of inclusive prosperity.
 The core Principles of an Economic Commons include:
 
 1. Care for people - maximize amenity, well being, happiness and contentment
-2. Care for land - minimize use of finite resources for economic activity
-3. Equity - affordable and secure access to land, resources, knowledge & care
+2. Care for the environment - supprot enviromental regeneration and minimize use of finite resources for economic activity
+3. Equity - affordable and secure access to Instruments, land, resources, knowledge & care
 4. Reciprocity – and mutual sharing of risk, cost and surplus
 5. Non-Dominance - no person to have dominant rights over any other
-6. Financial independence - support financial systems that are localized and/or community based
-7. Sustainability - ensure the continuation of community based systems
-8. Resilience - prepare for economic, political, climate and other shocks
+6. Resilience - ensure the continuation of community based systems and prepare for economic, political, climate and other shocks
 
 
 ## Jurisdiction
 
 1. An Economic Commons, as an associative and participatory Agreement, transcends jurisdiction and is tax transparent
 2. All Members implementing or taking part in a Economic Commons or its Instruments are bound by local law generally and tax laws specifically
-3. Any usage of Clearing Union Instruments are between willing Members who must satisfy themselves that all trades are locally lawful
+3. Any usage of Instruments are between willing Members who must satisfy themselves that all trades are locally lawful
 4. Members are subject to local identity laws and regulations in their respective jurisdiction
 5. Data may be shared internationally between Members in different jurisdictions
 
 
 ## Definitions
-
-
-### Platform
-
-The Platform of a Economic Commons is maintained by certified Platform Service Providers and includes the following non-exhaustive categories of essential Platform services:
-
-1. Technical Services:
-    1. Secure Member account and shared Instrument on registries (herein called the “Ledger”):
-    2. Track and report all usage of all Member account and Instruments, securely and immutably
-    4. Provide communications interfaces (herein called Wallets)
-2. Social Services:
-    1. Support and sharing of knowledge regarding the Agreement's implementations, Instruments as well as Member rights and obligations
-3. Legal Services:
-    1. Provide Due Diligence, audits and arbitration of disputes for Members
-    1. Ensure that Instruments are binding on Members when registered in the Ledger and inline with this Agreement
 
 ### **Instruments**
 
@@ -70,7 +53,7 @@ The Instruments of an Economic Commons include:
     2. Divisibility: Vouchers can be divided to a specified precision, as determined by the Issuer. This means that the holder of one Voucher can send a portion of the Voucher to another member, with the precision specified by the Issuer by a number of digits.
     3. Name and Symbol and Contract Address: Each Voucher must have a name and symbol specified by the Issuer, and a unique Contract Address (public key).
     4. Contact Information: The Voucher must include contact information for the holder to know how to redeem the Voucher as payment for the Issuer's products. The Issuer must keep this information accurate and up-to date.
-    5. Unit of Account: Standard unit of measure for value in exchange. Each Voucher on the Platform issued by a Member should specify a Unit of Account.
+    5. Unit of Account: Standard unit of measure for value in exchange. Each Voucher issued by a Member should specify a Unit of Account.
         1. Example: 1000 SRF Vouchers can be said to be redeemable by the Issuing Member for 1000 Kenyan Shillings worth of the Issuer’s services.
     6. Expiration: Vouchers may have a specified expiration date or an expiration rate. For example, a Voucher with an expiration rate of 2% per month would result in a holder having 98 Vouchers at the end of the month, if the holder had 100 Vouchers at the beginning of the month.
     7. Sink Account and Issuance Period: Expired Vouchers will accrue in a specified association account or contract after a specified Issuance period. This means that the balance of Vouchers in the Sink Account will increase by the sum of expired Vouchers, after the Issuance Period.
@@ -78,7 +61,7 @@ The Instruments of an Economic Commons include:
     9. Fungibility: Each Voucher is fungible, meaning that it is interchangeable and mixable with another identical Voucher. An account holding multiple identical Vouchers would display sum of their quantity as their Voucher Balance minus any expired Vouchers.
     11. Bearer Instrument: The Voucher is a digital bearer instrument, meaning that anyone holding the access (private) key to the holder's account is considered the owner of the Voucher or Vouchers in that account. Any holder of the Voucher has the right to redeem it as payment for the products of the Issuer.
     12. Utility: The Voucher should be considered a utility and not marketed or sold as an investment product. It confers no additional rights or benefits beyond the redemption for the Issuer's product.
-    13. Liability: The Voucher is a credit obligation with joint and several liability of the Issuers. This means that the Issuers are collectively and individually responsible for fulfilling the obligation of the Voucher.
+    13. Liability: The Voucher is a credit obligation with joint and several liability of the Issuers. This means that the Issuers are collectively and individually responsible for fulfilling the obligation of the Voucher. A Voucher issued by a group of Issuers is called a Community Asset Voucher.
     14. Finality: Once published and registered on the Ledger certain Immutable Information cannot change while Mutable Information can be changed by Voucher Contract Manager.
         1. Immutable Information includes:
             1. Name, Symbol
@@ -116,52 +99,55 @@ There are three Member **Classes** defined below, with the following rights and 
 
 1. **General Members**: 
     1. Right to utilize all Economic Commons-defined Instruments
-    2. Right to hold or delegate custodianship of Ledger Accounts and Instruments
-    3. Right to hold multiple Accounts and Instruments in the Ledger
-    4. Right to vote on the usage of their issued Instruments in a Community Fund
-    5. Right to view and inspect all Accounts and Instrument kept on the Ledger
-    6. Obligation to report Members that don't comply to this Agreement or local laws
-    7. Obligation to certify Platform Service Providers
-    8. Obligation to register any Instrument or Instrument usage on the Ledger
-    9. Obligation to contribute in money or in-kind the agreed upon development and operating costs of the Platform services as defined in Service Agreements under this Economic Commons Agreement.
-    10. Obligation to hold a means of secure identification in order to interact with a Ledger
-    10. Obligation to demonstrate technical and management capabilities and capacity to meet Instrument and other appropriate standards.
-2. **Platform Service Providers**: Provide essential service for the Economic Commons
-    1. Technical:    
+    1. Right to hold or delegate custodianship of Ledger Accounts and Instruments
+    1. Right to hold multiple Accounts and Instruments in the Ledger
+    1. Right to vote on the usage of their issued Instruments in a Community Fund
+    1. Right to view and inspect all Accounts and Instrument kept on the Ledger
+    1. Obligation to report Members that don't comply to this Agreement or local laws
+    1. Obligation to certify Core Service Providers
+    1. Obligation to register any Instrument or Instrument usage on the Ledger
+    1. Obligation to contribute in money or in-kind the agreed upon development and operating costs of the Core Services as defined in **Service Agreements** under this Economic Commons Agreement
+    1. Obligation to hold a means of secure identification in order to interact with a Ledger
+    1. Obligation to demonstrate technical and management capabilities and capacity to meet Instrument and other appropriate standards.
+2. **Core Service Providers**: Provide essential service for the Economic Commons. 
+    1. Technical:
+        1. Secure Member account and shared Instrument on registries (herein called the “Ledger”):
+        1. Track and report all usage of all Member account and Instruments, securely and immutably
+        1. Provide communications interfaces (herein called Wallets)
         1. Right to publish Instruments on the Ledger on behalf of Members
-	2. Right to receive agreed development and operating costs and an agreed production share in respect of Platform services 
-        3. Right to use and migrate custodial Member Accounts and Instruments to an appropriate Ledger
-        4. Obligation to maintain the Platform’s open source software code base
-        5. Obligation to operate the Platform’s servers and various micro-service
-        6. Obligation to hold and secure granted Member data and intellectual property jointly in common
-        7. Obligation to provide Members access to their Ledger accounts and shared Instruments
-        8. Obligation to provide a means of a secure identification to Members in order to interact with a Ledger
-	9. Obligation to all Member accounts, data and shared Instruments are recorded in unique time order in the Ledger
-	10. Obligation to utilize Ledgers that are secure and resistant to security breaches and loss of data 
+	1. Right to receive agreed development and operating costs and an agreed production share in respect of Core Services 
+        1. Right to use and migrate custodial Member Accounts and Instruments to an appropriate Ledger
+        1. Obligation to maintain an open source software code base under AGPL3.0 for any Core Services and Agreements
+        1. Obligation to operate the servers and various micro-service related to Core Services
+        1. Obligation to hold and secure granted Member data and intellectual property jointly in common
+        1. Obligation to provide Members access to their Ledger accounts and shared Instruments
+        1. Obligation to provide a means of a secure identification to Members in order to interact with a Ledger
+	1. Obligation to all Member accounts, data and shared Instruments are recorded in unique time order in the Ledger
+	1. Obligation to utilize Ledgers that are secure and resistant to security breaches and loss of data
     2. Social:
+        1. Support and sharing of knowledge regarding the Agreement's implementations, Instruments as well as Member rights and obligations
         1. Right to make available non-confidential Member and Instrument data to the general public
-        2. Right to make available non-confidential Member and Instrument data to the general public
-        3. Obligation to provide training and education
-	4. Obligation to administer Member service agreements
-	5. Obligation to ensure confidential data privacy and public information transparency
-	6. Obligation to oversee quality standards
+        1. Right to make available non-confidential Member and Instrument data to the general public
+        1. Obligation to provide training and education
+        1. Obligation to administer Member service agreements
+        1. Obligation to ensure confidential data privacy and public information transparency
+        1. Obligation to oversee quality standards
     3. Legal:
-        10. Right to assign an auditor to assess any Member Instruments 
-        11. Right to suspend services and remove Wallet access for Non-Performing Members
-        12. Right to assign arbitrators for the mediation of disputes
-        13. Obligation to arbitrate disputes in relation to usage of Instruments
+       1. Right to assign an auditor to assess any Member Instruments 
+       1. Right to suspend services and remove Wallet access for Non-Performing Members
+       1. Right to assign arbitrators for the mediation of disputes
+       1. Obligation to provide Due Diligence, audits and arbitration of disputes for Members in relation to usage of Instruments and this Aggreement.
+       1. Obligation to ensure that Instruments are binding on Members when registered in the Ledger and inline with this Agreement
 3. **Guardians**:
-    10. Right to design and implement an Economic Commons
-    11. Right to revoke Certificates for Vouchers, and Members that don't comply to this Agreement or local laws
-    12. Right of final veto on behalf of Members generally in respect of amendments to an Economic Commons agreement incompatible with the Aim and Principles
-    13. Obligation to verify that Members and Instruments are compatble with the Aim and Principles
-    14. Obligation to arbitrate disputes of Members in relation to Aim and Principles
-
+    1. Right to develop, design and implement an Economic Commons
+    1. Right of final veto on behalf of Members generally in respect of amendments to an Economic Commons agreement incompatible with the Aim and Principles
+    1. Obligation to verify that Members and Instruments are compatble with the Aim and Principles
+    1. Obligation to arbitrate disputes of Members in relation to Aim and Principles
 
 ### Class Agreements and Admissions
 
-1. Members may participate in more than one Member Class. E.g. A Platform Service Provider can also be a General Member and develop a Voucher redeemable for their services
-2. Any person or organizations holding an Ledger account or whom utilizes Instruments on the Platform is considered a General Member
+1. Members may participate in more than one Member Class. E.g. A Core Service Provider can also be a General Member and develop a Voucher redeemable for their services
+2. Any person or organizations holding an Ledger account or whom utilizes Instruments is considered a General Member
 3. Mutual agreements between Members define standards, rights and obligations
 4. **Non-Performance:** should a Member be unable or unwilling to uphold their obligations or honor stated commitments they will be designated as non-performing subject to the following: 
     1. any material shortfall in commitments or obligations by Members individually or collectively shall be made good following review and recommendations by the Service Provider and subject to the agreement of Members generally.
@@ -173,7 +159,6 @@ There are three Member **Classes** defined below, with the following rights and 
 1. Amendments to this Agreement require a majority in number of Members.
 2. Amendments in conflict with the Aim and Principles are subject to veto by a majority in number of Guardians.
 3. All Members enter into this agreement in good faith and hold harmless Members of the Economic Commons.
-
 
 ## **Entirety**
 
@@ -190,7 +175,7 @@ Any notice given by the Members shall be valid only if delivered via the contact
 **In WITNESS WHEREOF**, the duly authorized Guardians of the Economic Commons sign this agreement on the dates indicated below, and agree to abide by the terms of this Agreement.
 
 
-1. Member Class or Witness: (Guardian, General Member, Platform Service Provider)
+1. Member Class or Witness: (Guardian, General Member, Core Service Provider)
 2. Full Name:
 3. Contact Information or Service: (e.g. email or phone number)
 4. Proof of Identity: (e.g. Passport number and country or other proof)
