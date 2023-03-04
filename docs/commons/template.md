@@ -157,10 +157,10 @@ Provide essential service for the Economic Commons.
        
 #### Guardians
 
-    1. Right to develop, design and implement an Economic Commons
-    1. Right of final veto on behalf of Members generally in respect of amendments to an Economic Commons agreement incompatible with the Aim and Principles
-    1. Obligation to verify that Members and Instruments are compatible with the Aim and Principles
-    1. Obligation to arbitrate disputes of Members in relation to Aim and Principles
+   1. Right to develop, design and implement an Economic Commons
+   1. Right of final veto on behalf of Members generally in respect of amendments to an Economic Commons agreement incompatible with the Aim and Principles
+   1. Obligation to verify that Members and Instruments are compatible with the Aim and Principles
+   1. Obligation to arbitrate disputes of Members in relation to Aim and Principles
 
 ### Class Agreements and Admissions
 
