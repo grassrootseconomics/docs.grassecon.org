@@ -4,8 +4,7 @@
 
 This template defines an Economic Commons Agreement for general implementation as an open association of people and organizations, where mutually defined Instruments are utilized by General Members who jointly oversee essential Core Service Providers as active stewards, subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
 
-Agreements that follow this template must ratify following Aims, Principles, Jurisdiction, Definitions, Organization and Notices
-
+Agreements that follow this template must ratify following Aims, Principles, Jurisdiction, Definitions, Organization and Notices.
 
 ## Aim
 
@@ -16,7 +15,7 @@ Community creation and maitenence of Instruments for inclusive wellbeing.
 
 The core Principles of an Economic Commons include:
 
-1. Care for people - maximize amenity, well being, happiness and contentment
+1. Care for people - maximize amenity, wellbeing, happiness and contentment
 2. Care for the environment - supprot enviromental regeneration and minimize use of finite resources for economic activity
 3. Equity - affordable and secure access to Instruments, land, resources, knowledge & care
 4. Reciprocity – and mutual sharing of risk, cost and surplus
@@ -181,12 +180,12 @@ This agreement represents consent to the entirety of a mutual agreement between 
 ## **Notices**
 
 Any notice given by the Members shall be valid only if delivered via the contact information for the Guardians.
+Notices include any votes to change the content of this agreement. 
 
 
 ## **Official Signatories**
 
 **In WITNESS WHEREOF**, the duly authorized Guardians of the Economic Commons sign this agreement on the dates indicated below, and agree to abide by the terms of this Agreement.
-
 
 1. Member Class or Witness: (Guardian, General Member, Core Service Provider)
 2. Full Name:
