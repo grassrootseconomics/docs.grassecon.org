@@ -25,10 +25,7 @@ nav:
       - Equity: commons/equity.md
       - Data Policy: commons/data_policy.md
       - Child Protection Policy: commons/child_policy.md
-  - Software:
-      - CIC Stack: software/index.md
-      - Design Principles: software/principles.md
-      - Smoke Test: software/smoke-test.md
+  - Software: https://cic-stack.grassecon.org/
   - Education:
       - Intro: edu/index.md
       - Glossary: edu/glossary.md
