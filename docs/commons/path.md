@@ -35,32 +35,31 @@ The PATH License is inspired by previous licenses that aimed to achieve similar 
 
         The Corresponding Insight doesn't need to cover elements that recipients can easily derive or reproduce from other parts of the Corresponding Insight. For an offering in its Comprehensive Insight form, the Corresponding Insight is the offering itself.
 
-    *The Tomato Example*
+     >*The Tomato Example*
 
-        Imagine a unique variety of tomato being offered in a market. This tomato, let's call it the "SunBlush Tomato," is not just any ordinary tomato; it has been cultivated using specific techniques, resulting in a distinct flavor profile and nutritional benefits.
+     >    Imagine a unique variety of tomato being offered in a market. This tomato, let's call it the "SunBlush Tomato," is not just any ordinary tomato; it has been cultivated using specific techniques, resulting in a distinct flavor profile and nutritional benefits.
 
-        1. The Offering: The "SunBlush Tomato" itself, which consumers can buy, taste, and use in their dishes, represents the "Offering." It's the tangible product that recipients interact with.
+     >    1. The Offering: The "SunBlush Tomato" itself, which consumers can buy, taste, and use in their dishes, represents the "Offering." It's the tangible product that recipients interact with.
 
-        2. Corresponding Insight: To truly understand and replicate the SunBlush Tomato, one would need its:
-            1. The specific seed variety or genetic makeup of the SunBlush Tomato.
-            1. The soil composition and farming techniques that were used to cultivate it.
-            1. The unique harvesting and storage methods that ensure its distinct flavor and freshness.
-            1. Recipes or culinary techniques that best showcase its unique properties.
+     >   2. Corresponding Insight: To truly understand and replicate the SunBlush Tomato, one would need its:
+     >       1. The specific seed variety or genetic makeup of the SunBlush Tomato.
+     >       1. The soil composition and farming techniques that were used to cultivate it.
+     >       1. The unique harvesting and storage methods that ensure its distinct flavor and freshness.
+     >       1. Recipes or culinary techniques that best showcase its unique properties.
 
-        3. Standard Interface: In the context of our tomato, a "Standard Interface" might refer to common methods of tomato cultivation or standard culinary techniques used in preparing tomatoes.
+     >   3. Standard Interface: In the context of our tomato, a "Standard Interface" might refer to common methods of tomato cultivation or standard culinary techniques used in preparing tomatoes.
 
-        4. System Components: These could be the general farming tools used in the cultivation of many crops, not just the SunBlush Tomato. For instance, standard watering systems, generic fertilizers, or common storage bins that aren't unique to the SunBlush Tomato's cultivation process.
+     >   4. System Components: These could be the general farming tools used in the cultivation of many crops, not just the SunBlush Tomato. For instance, standard watering systems, generic fertilizers, or common storage bins that aren't unique to the SunBlush Tomato's cultivation process.
 
-        5. Primary Component: In this example, the "Primary Component" could be the specific greenhouse environment or the particular soil bed where the SunBlush Tomato is grown, which plays a crucial role in its unique characteristics.
+     >   5. Primary Component: In this example, the "Primary Component" could be the specific greenhouse environment or the particular soil bed where the SunBlush Tomato is grown, which plays a crucial role in its unique characteristics.
 
-        When someone buys the SunBlush Tomato, they get the "Offering." But if they wish to understand its uniqueness, cultivate it themselves, or explore its full potential in culinary applications, they would need the "Comprehensive Insight." Under the PATH License, if the SunBlush Tomato is offered with this license, the provider would be obligated to share this Comprehensive Insight, ensuring transparency and allowing recipients to fully understand and potentially replicate or adapt the offering.
+     >   When someone buys the SunBlush Tomato, they get the "Offering." But if they wish to understand its uniqueness, cultivate it themselves, or explore its full potential in culinary applications, they would need the "Comprehensive Insight." Under the PATH License, if the SunBlush Tomato is offered with this license, the provider would be obligated to share this Comprehensive Insight, ensuring transparency and allowing recipients to fully understand and potentially replicate or adapt the offering.
 
 2. **Basic Permissions**: All rights granted under this License persist for the term of any applicable rights on the Offering and are irrevocable as long as the stated conditions are met. This License explicitly affirms your unlimited permission to utilize the unmodified Offering. The outcome or product resulting from the use of a covered offering is governed by this License only if the outcome, considering its content, qualifies as a covered offering. This License recognizes your rights of fair use or other equivalents, as provided by applicable laws.
 
     You may create, utilize, and propagate covered offerings that you do not convey, without conditions, as long as your license remains valid. You may convey covered offerings to others solely for them to make modifications exclusively for you or to provide you with facilities for utilizing those offerings, ensuring that you adhere to the terms of this License when conveying any material for whic'h you don't hold the rights. Those who modify or utilize the covered offerings for you must act exclusively on your behalf, under your guidance, and on terms that prevent them from creating any unauthorized copies of your protected material outside their association with you.
 
     Conveying under any other circumstances is allowed only under the conditions stated in this License. Sublicensing is not permitted; the provisions of this License make it unnecessary.
-
 
 2. **Full Disclosure**: When distributing or granting access to an offering, providers shall present recipients with exhaustive information vital for a holistic comprehension of said offering. If the nature of the offering allows, mechanisms must be instituted to facilitate access and potential modifications. This obligation is unceasing.
 
