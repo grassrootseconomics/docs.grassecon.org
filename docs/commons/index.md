@@ -12,7 +12,7 @@ digraph D {
 
   subgraph cluster_e {
 
-    label = "Grassroots Economic Commons Framework (GECF)";
+    label = "Economic Commons Template";
      style="rounded"
 
 
@@ -40,8 +40,8 @@ digraph D {
 Through the development of an inclusive, legal Nondominium framework, an opt in, open community is created. Any individual or association can opt in. As long as the protocols are followed, member to member agreements can proliferate, decentralising the target commons whilst maintaining integrity of the initial vision.
 
 - An Economic Commons can be broken into various agreements:
-    * [Grassroots Economics Commons Template](/commons/template/): A general overarching template that defines an Economic Commons and various rights and responsibilities of its Members.
-    * [Grassroots Economics Commons Agreement](/commons/agreement/): The Grassroots Economics Commons Agreement is an example Economic Commons which incorporates the GECL v1 with Grassroots Economics Foundation's Sarafu Network as its Platform. Further Grassroots Economics as a Platform Service Provider declares the Sarafu Voucher redeemable as payment for various services such as training, clearing, mediation, and running various micro-services, like blockchain nodes, wallets and marketplaces.
+    * [Economic Commons Template (ECT)](/commons/template/): A general overarching template that defines an Economic Commons and various rights and responsibilities of its Members.
+    * [Grassroots Economics Commons Agreement](/commons/agreement/): The Grassroots Economics Commons Agreement is an example Economic Commons which incorporates the ECT with Grassroots Economics Foundation's Sarafu Network as its Platform. Further Grassroots Economics as a Platform Service Provider declares the Sarafu Voucher redeemable as payment for various services such as training, clearing, mediation, and running various micro-services, like blockchain nodes, wallets and marketplaces.
     * [Voucher Declaration](/commons/voucher/): An example of an individual or group that wants to create a Voucher within an Economic Commons
     * [Intermember Service Agreement](/commons/service/): Establishes agreements between Economic Commons Members. In this example a Voucher creating Member wishes to subscribe to the services of a Platform Service Provider.
     * [Data Policy](/commons/data_policy/): Here is an example of a data protection policy of Grassroots Economics as a Platform Service Provider.

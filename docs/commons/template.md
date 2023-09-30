@@ -1,80 +1,73 @@
-# **Grassroots Economic Commons Agreement Template (GECAT) v1.22 (en)**
+
+# Economic Commons Template (ECT) v1.3 (en)
+
+## Purpose of Economic Commons - Ways & Means  {#purpose-of-economic-commons-ways-&-means}
+
+The Purpose of an Economic Commons is to enable resource cooperation for well-being. This is achieved through mutually accepted and defined Instruments sharing surplus value, cost and risk equitably between real people and associations subscriber Members as follows:
 
 
-## **About**
 
-This template for general implementation defines a viable Economic Commons as an open association of people and organizations, where mutually defined Instruments are utilized by General Members who jointly oversee essential Core Service Providers as active stewards, subject to Guardians as passive custodians with protective governance rights of arbitration and final veto. All capitalized terms as well as Aims, Principles, Jurisdiction, Definitions, Organization and Notices are defined in this template.
-
-
-## **Aim**
-
-Community creation and maintenance of Instruments for inclusive well-being.
+1. Producers and Users - creators of economic value and Instrument from shared use of Commons.
+2. Steward - active providers of core Commons development and management services
+3. Guardians - communication obligations and passive veto rights over Commons use.
 
 
-## **Principles**
-
-The core Principles of an Economic Commons include the following Values:
+## Organising Principles {#organising-principles}
 
 
 
 1. **Care for People** – collaboration and vision driven care for oneself and others’ well-being and happiness 
 2. **Care for the Environment** - support environmental protection and regeneration,  minimize use of finite resources for economic activity, ecosystem management approach to farming and business development.
-3. **Equity** - affordable and secure access to Instruments, land, resources, knowledge & care for members from different backgrounds, age, gender and religion. 
+3. **Fairness** - fair and secure access to Instruments, land, resources, knowledge & care for members from different backgrounds, age, gender and religion.
 4. **Reciprocity** – mutual sharing of risk, cost and surplus
-5. **Non-Dominance** - no person or association to have dominant rights over any other person or association’s resources like data, finances, intellect, materials and freedom. 
-6. **Resilience** - ensure the continuation of community based systems /commons and prepare for economic, political, climate and other shocks
+5. **Non-Dominance** - no person or association to have dominant rights over another person or association’s resources eg. data, finances, intellect, materials and freedom. 
+6. **Resilience** - capacity to prepare for, address and adapt to economic, political, climate and other events in order to ensure sustainable community based systems/commons. 
 
-Note that each Association of Member’s signing such an Agreement should be specific with how these Values are incorporated into objective and measurable Principles and Good Practices.
-
-
-## **Jurisdiction**
+Note that principals should be specific with how these Values are incorporated into objective and measurable Principles and Good Practices.
 
 
-
-1. An Economic Commons, as an associative and participatory Agreement, transcends jurisdiction and is tax transparent
-2. Everything in this Agreement is consistent with national law.
-3. Any usage of Instruments are between willing Members who must satisfy themselves that usage is lawful in their jurisdiction
-4. Data may be shared internationally between Members in different jurisdictions
+## Institutions and Instruments {#institutions-and-instruments}
 
 
-## **Instruments**
+### 
+    Ledger  {#ledger}
 
-
-### **Ledger**
-
-A Ledger is an Instrument maintained by Core Service Providers that acts as a Instrument registry and execution system with the following properties:
+Ledgers are shared digital accounting databases which enumerate and qualify Instruments subject to mutual agreements or organizational rules.
 
 
 
-1. **Instruments** are agreements or contracts created and used by willing Members.
-2. **Publishing**: Any Instrument must be Published on a Ledger to be considered valid. To Publish an Instrument it must be encoded into a form that is readable and executable on the Ledger.
-3. **Management**: A Ledger is managed by Core Service Providers or agreements between Members and external Ledger service providers. 
-4. **Issuer: **The issuer of an Instrument is an individual Member or association of Members who agreed in writing to be joint and severally liable for an Instrument that is Published on a Ledger.
+1. **Instruments** -  bilateral mutual agreements or contracts between Members.
+2. **Registration** - publication of Instruments in machine-readable form executable on the Ledger.
+3. **Management** - Core Service Providers manage Ledgers subject to Clearing Agreements  
+4. **Issuer: **Members individually or in association mutually agree in writing to meet obligations of registered Instruments. 
+
+### 
+    Community Asset Voucher (CAV) {#community-asset-voucher-cav}
 
 
-### **Voucher**
+A Community Asset Voucher (CAV) is an instrument used within an Economic Commons to facilitate economic transactions and foster community development. CAV is designed to promote local trade, social cohesion, & sustainable practices. It can be considered both grassroots and circular in nature. As a grassroots instrument, CAV is often initiated and managed by local communities, enabling them to address their specific economic needs and priorities. It also embodies circular principles by incorporating mechanisms such as trade balance, expiration & re-issuance (demurrage), as well as drawing inspiration from indigenous practices of rotational mutual aid. CAVs encourage economic interactions that prioritize community well-being and the equitable distribution of resources while promoting sustainable and regenerative practices
 
-**Voucher (Bilateral Instrument)** – a promise denominated in an agreed upon Unit of Account issued and accepted in exchange for money or in-kind and representing an assignable credit obligation of the Issuer. The following are properties of Vouchers:
+**CAV **– a promise denominated in a Unit of Account issued to an acceptor (i.e as a gift, in exchange for money or in-kind) and representing an assignable credit obligation of the Issuer to the acceptor or assignee. CAVs have the following properties.:
 
 
 
-1. Redemption Policy: If the acceptor/final holder of the Voucher presents it in payment to the Issuer, for goods or services supplied, it _must_ be accepted in payment. Vouchers are only redeemable for payment of the Issuer's products and _cannot be redeemed for cash_.
-2. Digital Representation: The Voucher is digital and defined on a secure and immutable public Ledger, where members hold accounts. 
-3. Transparency: All Instruments definitions and their usage, as well as all Member accounts are transparent to the public and considered non-confidential.
-4. Divisibility: Vouchers can be divided to a specified precision, as determined by the Issuer at the time of Publishing on the Ledger. This means that the holder of one Voucher can send a portion of the Voucher to another member, with the precision specified as a number of digits of precision by the Issuer.
+1. Redemption: Vouchers presented in payment to the Issuer for goods and services supplied _must_ be accepted in payment and are therefore redeemable.
+2. Digital Representation: digital Vouchers are defined and registered securely and immutably by Members on a public Ledger.
+3. Transparency: Instrument specifications are open to the general public while registered transactions are open to Members subject to the Clearing Agreement.
+4. Divisibility: Vouchers may be divided by the Issuer to the degree of precision specified when published on the Ledger. So the holder of a single Voucher may assign a fraction to another Member as digitally specified by the Issuer.
 5. Name and Symbol and Contract Address: Each Voucher must have a name and symbol specified by the Issuer, and a unique Contract Address (public key).
-6. Contact Information: The Voucher must include contact information for the Holder to know how to redeem the Voucher as payment for the Issuer's products. The Issuer must keep this information accurate and up-to date.Unit of Account: Standard unit of measure for value in exchange. Each Voucher issued by a Member should specify a Unit of Account.
-    1. Example: 1000 SRF Vouchers can be said to be redeemable by the Issuing Member for 1000 Kenyan Shillings worth of the Issuer’s services.
-7. Expiration: Vouchers may have a specified expiration date or an expiration rate. 
+6. Contact Information: The Voucher must include contact information for the Holder to know how to redeem the Voucher as payment for the Issuer's products. The Issuer must keep this information accurate and up-to date.
+7. Unit of Account: Standard unit of measure for value in exchange. Each Voucher issued by a Member should specify a Unit of Account.
+    1. Example: 1000 Vouchers can be said to be redeemable by the Issuing Member for 1000 Kenyan Shillings worth of the Issuing Member’s products.
+8. Expiration: Vouchers may have a specified expiration date or an expiration rate. 
     2. Expiration Rate: For example, a Voucher with an expiration rate of 2% per month would result in a holder having 98 Vouchers at the end of the month, if the holder had 100 Vouchers at the beginning of the month.
     3. Expiration Date: For example a Voucher with an expiration date of one month would result in a holder having 0 usable Vouchers at the end of the month, if the holder had 100 Vouchers at the beginning of the month.
-8. Sink Account and Issuance Period: Expired Vouchers will accrue in a specified Ledger account determined by the Issuer after a specified Issuance period. This means that the balance of Vouchers in the Sink Account will increase by the sum of expired Vouchers, after the Issuance Period.
-9. Supply: The supply of Vouchers may be increased or destroyed by vote of the Issuers. The supply of Vouchers shall always be based on the Issuer's capacity to redeem them as payment for their products within the specified expiration.
-10. Fungibility: Each Voucher is fungible with the vouchers issued under that same contract, meaning that it is interchangeable and mixable with them. An account holding multiple identical Vouchers would display the sum of their quantity as their Voucher Balance minus any expired Vouchers.
-11. Bearer Instrument: The Voucher is a “digital bearer instrument”, meaning that anyone holding the access (private) key to the holder's Ledger account is considered the owner of the Voucher or Vouchers in that account. Note that Members may share keys.
-12. No Liability for loss or theft: The Issuing or Publishing members are not liable for lost or stolen Instruments or Accounts. 
+9. Sink Account and Issuance Period: Expired Vouchers will accrue in a specified Ledger account determined by the Issuer after a specified Issuance period. This means that the balance of Vouchers in the Sink Account will increase by the sum of expired Vouchers, after the Issuance Period.
+10. Supply: The supply of Vouchers may be increased or destroyed by vote of the Issuers. The supply of Vouchers shall always be based on the Issuer's capacity to redeem them as payment for their products within the specified expiration.
+11. Fungibility: Each Voucher is fungible with the vouchers issued under that same contract, meaning that it is interchangeable and mixable with them. An account holding multiple identical Vouchers would display the sum of their quantity as their Voucher Balance minus any expired Vouchers.
+12. Bearer Instrument: The Voucher is a “digital bearer instrument”, meaning that anyone holding the access (private) key to the holder's Ledger account is considered the owner of the Voucher or Vouchers in that account. Note that Members may share keys or create accounts that require specific signing rules (like any 2 of 3 to sign).
 13. Utility: The Voucher is not marketed or sold by Members as an investment product. It confers no additional rights or benefits beyond the redemption for the Issuer's products.
-14. Liability: The Voucher is a credit obligation with joint and several liability of the Issuer. This means that the Issuers are collectively and individually responsible for fulfilling the obligation of the Voucher. A Voucher issued by a group of Issuers is called a Community Asset Voucher.
+14. Liability: The Voucher is a credit obligation with joint and several liability of the Issuer. This means that the Issuers are collectively and individually responsible for fulfilling the obligation of the Voucher. 
 15. Finality: Once published and registered on the Ledger certain Immutable Information cannot change while Mutable Information can be changed by Voucher Contract Manager.
     4. Immutable Information includes:
         1. Name, Symbol
@@ -102,34 +95,51 @@ A Ledger is an Instrument maintained by Core Service Providers that acts as a In
         3. (*) Note that all the above information is data stored and registered on a Certificate which is published on the Ledger
 16. Voucher Contract Management: The Voucher Contract (Smart contract) registered and published on the Ledger has a Manager that can edit the Mutable Information in the Voucher Contract. The default Manager is the Member that published the contract and who may transfer Management to any Account on the Ledger and also remove themselves as an Manager. Management can be transferred to a Smart Contract that enables different forms of voting etc.
 
-
-### **Certificate**
-
-**Certificate (Unilateral Instrument)** – an attested to data object that may be accepted by another Member. A Certificate is similar to a University Diploma in which the University makes a claim (an attestation) that a Student has passed their coursework. The following are properties of Certificates:
+### 
+    CAV Pool {#cav-pool}
 
 
+**CAV Pool** – a treasury object that can hold digital assets and enables exchange between them. The following are properties of Pools:
 
-1. Attestation: Certificates represent collectible attestations to data such as Voucher usage or capacity to perform services. Vouchers as well as Members can be Certified by other Members, for various roles, services, accomplishments and so on. The certification is an attestation by a Member or Members for another Member or Instrument. Note that in the example of a Voucher Instrument some Immutable and Mutable data is stored or referenced to on a Certificate (denoted with a (*).
-2. No Obligation: There is no obligation on the Issuer of a Certificate to accept or redeem it.
-3. Finality: Once published and registered on the Ledger certain Immutable Information cannot change while Mutable Information can be changed by a Certificate Publisher.
+
+
+1. Qualification: Pools are collections of digital objects with various exchangeability to each other. I.e. CAVs can be made redeemable for the other CAVs within the pool. By adding CAVs to the pool one can automatically receive an equivalent amount of other CAVs available to the Pool contract. 
+2. Finality: Mutable Information published and registered on the Ledger may be amended by a Certificate Publisher but Immutable Information may not. 
     1. Specification: (TBD)
-4. Certificate Contract Management: The Certificate Contract (Smart contract) registered and Published on the Ledger has a Manager that can edit the Mutable Information in the Certificate Contract. The default Manager is the Member that published the contract and who may transfer Management to any Account on the Ledger and also remove themselves as an Manager.
-5. Revocation or Expiration: Attestation for a certificate can expire and or be revoked, and the history of attestation must be preserved on the Ledger.
-6. Acceptance or Denial: Whomever is holding the Private Key to the public address that is being attested about can choose to accept, deny and comment on the Attestation.
-7. Finality: Once published and registered on the Ledger, the Immutable Properties of the Certificate cannot be changed.
+        1. Acceptance: Which Vouchers are allowed in the pool
+        2. Caps: The maximum quantity of each voucher allowed in the pool
+        3. Price Index: Relative prices for the vouchers in the pool
+        4. Pool Fees:  A fee can be placed on exchanges and the Manager can assign where these fees go. 
+3. Pool Management: The Manager of the Pool has permission to edit Mutable Information in the Pool. The default Manager is the Publishing Member who may assign Management to another Member and also resign as a Manager. A Pool Manager can also be a group operating a multi-signature wallet.
+
+### 
+    Certificate {#certificate}
 
 
-## **Organization**
+**Certificate (Bilateral/Unilateral Instrument)** – a data object qualified as acceptable by another Member. A Certificate is similar to a University Diploma in which the University makes an attestation (qualification) that a Student has passed their coursework. The following are properties of Certificates:
 
 
-### **Membership**
+
+4. Qualification: Certificates qualify data such as Voucher usage or capacity to perform services. Vouchers as well as Members may be Certified by other Members, for various roles, services, accomplishments and so on. Certification qualifies Members or Instruments. Note in the Voucher Instrument example, Immutable and Mutable data are stored or referenced on a Certificate (denoted by (*))
+5. No Obligation: on Issuers to accept their Certificates in exchange for goods & services.
+6. Finality: Mutable Information published and registered on the Ledger may be amended by a Certificate Publisher but Immutable Information may not. 
+7. Certificate Management: the Manager of Certificate (Instrument) Publication and registration on the Ledger has permission to edit Mutable Information in the Certificate. The default Manager is the Publishing Member who may assign Management to another Member and also resign as a Manager.
+8. Revocation or Expiration: a Certificate can expire and/or be revoked but the chain of attestation will be preserved on the Ledger.
+9. Acceptance or Denial: the Member holding the Private Key to the public address of the Certificate can accept, deny and comment on the validity of the Certificate 
+10. Finality: Immutable Properties of the Certificate cannot be amended once published and registered on the Ledger, 
+
+
+## Governance {#governance}
+
+
+### 
+    Membership {#membership}
 
 A Member of an Economic Commons is an individual person, organization or an association of Members with a common purpose, who ratify and Implement an Economic Commons it or use implemented Economic Commons Instruments as per their local needs
 
 There are three Member **Classes** defined below, with the following rights and obligations:
 
-
-#### **General Members**
+**General Members**
 
 
 
@@ -145,8 +155,7 @@ There are three Member **Classes** defined below, with the following rights and 
 10. Obligation to hold a means of secure identification (such as a private key) in order to interact with a Ledger
 11. Obligation to demonstrate technical and management capabilities and capacity to meet Instrument and other appropriate standards.
 
-
-#### **Core Service Providers**
+**Core Service Providers**
 
 Provide essential service for the Economic Commons.
 
@@ -167,8 +176,7 @@ Provide essential service for the Economic Commons.
     11. Obligation to provide a means of a secure identification to Members in order to interact with a Ledger
     12. Obligation to all Member accounts, data and shared Instruments are recorded in unique time order in the Ledger
     13. Obligation to utilize Ledgers that are secure and resistant to security breaches and loss of data
-2. Social: \
-
+2. Social:
     14. Support and sharing of knowledge regarding the Agreement's implementations, Instruments as well as Member rights and obligations
     15. Right to make available non-confidential Member and Instrument data to the general public
     16. Right to make available non-confidential Member and Instrument data to the general public
@@ -184,8 +192,7 @@ Provide essential service for the Economic Commons.
     24. Obligation to provide Due Diligence, audits and arbitration of disputes for Members in relation to usage of Instruments and this Agreement.
     25. Obligation to ensure that Instruments are binding on Members when registered in the Ledger and inline with this Agreement
 
-
-#### **Guardians**
+**Guardians**
 
 
 
@@ -195,10 +202,8 @@ Provide essential service for the Economic Commons.
 4. Obligation to arbitrate disputes of Members in relation to Aim and Principles
 5. Obligations to call annual membership meetings, keep records, call meeting to make decisions that serve the aims and principles of the Economic Commons
 
-
-### **Class Agreements and Admissions**
-
-
+### 
+    Membership Agreements and Admissions {#membership-agreements-and-admissions}
 
 1. Members may participate in more than one Member Class. E.g. A Core Service Provider can also be a General Member and develop a Voucher redeemable for their services
 2. Any person or organizations holding a Ledger-account or whom utilizes Instruments is considered a General Member
@@ -208,27 +213,30 @@ Provide essential service for the Economic Commons.
 5. **Termination of Membership:** Member’s may terminate Membership at any time upon 60 days advance written notice of termination and shall comply with the obligations in effect at the time of termination.
     2. A Non-Performing Member wishing to terminate membership must demonstrate their complete inability to perform obligations to an auditor assigned by the Service Provider.
 
+## 
+    Jurisdiction {#jurisdiction}
 
-## **Amendments**
+1. An Economic Commons subject to this Agreement transcends jurisdiction and all national and religious law including tax law
+2. Data may be mutually shared globally between Members independently of jurisdiction.
+3. Members must satisfy themselves that economic activity undertaken pursuant to this agreement is lawful in their jurisdiction
 
-
+## 
+    Amendments {#amendments}
 
 1. Amendments to this Agreement require a majority in number of Members.
 2. Amendments in conflict with the Aim and Principles are subject to veto by a majority in number of Guardians.
 3. All Members enter into this agreement in good faith and hold harmless Members of the Economic Commons.
 
+## 
+    Entirety & Notices {#entirety-&-notices}
 
-## **Entirety**
 
 This agreement represents consent to the entirety of a mutual agreement between Members to the expressed common purpose and no other.
-
-
-## **Notices**
 
 Any notice given by the Members shall be valid only if delivered via the contact information for the Guardians. Notices include any votes to change the content of this agreement.
 
 
-## **Official Signatories**
+## Official Signatories {#official-signatories}
 
 **In WITNESS WHEREOF**, the duly authorized Guardians of the Economic Commons sign this agreement on the dates indicated below, and agree to abide by the terms of this Agreement.
 
