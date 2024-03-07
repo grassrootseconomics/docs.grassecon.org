@@ -2,6 +2,11 @@ site_name: Grassroots Economics Documentation
 site_url: https://docs.grassecon.org
 nav:
   - Karibu: index.md
+  - Staking:
+      - Intro: staking/index.md
+      - Staking Guide:
+          - Guide: staking/guide.md
+          - Othello Wallet: staking/othello.md
   - Community:
       - Intro: community/index.md
       - Charter: community/charter.md
@@ -35,8 +40,6 @@ nav:
       - Case Study: edu/case_study.md
       - MOOC: https://www.grassrootseconomics.org/pages/mooc.html
 
-
-
 repo_url: https://gitlab.com/grassrootseconomics/grassrootseconomics.gitlab.io
 repo_name: grassrootseconomics/docs
 edit_uri: -/tree/main/docs
@@ -62,9 +65,13 @@ theme:
 #readthedocs
 site_dir: public
 markdown_extensions:
+  - attr_list
   - mkdocs_graphviz
   - toc:
       permalink: true
+
+extra_css:
+  - assets/style.css
 
 extra:
   generator: false
