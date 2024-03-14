@@ -4,6 +4,7 @@ Grassroots Economics is a non-profit foundation that seeks to empower marginaliz
 
 It is tremendously important to us that people take, use, build on and share what we've found to be useful. Join us in demonstrating, disseminating, designing & curating the best practices to empower communities to create and manage their own financial instruments. This collaborative documentation site is a work in progress and an evolving collection of the various learnings and tools and broken into:
 
+* [Staking](/community/): Stake on our Celo validator and make a difference.
 * [Community](/community/): Take part in and build this community and our roadmap.
 * [Operations](/ops/): Learn how to implement, support, build on and maintain a Community Inclusion Currency
 * [Commons](/commons/): Learn how legal frameworks and instruments define and are formed around communities
