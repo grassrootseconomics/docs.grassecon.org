@@ -14,9 +14,9 @@
   <tr>
    <td><strong>1.1 Implementer is well prepared</strong>
    </td>
-   <td><strong>Implementing organization and partners fully understands and are prepared to implement a CIC program</strong>
+   <td><strong>Implementing organization and partners fully understands and are prepared to implement a CAV program</strong>
    </td>
-   <td>Implementing organization fully understands CIC. Visit previous CIC project areas, agree on roles of partners and general activities - Feasibility Study
+   <td>Implementing organization fully understands CAV. Visit previous CAV project areas, agree on roles of partners and general activities - Feasibility Study
    </td>
    <td>Checklists and report provided
    </td>
@@ -56,7 +56,7 @@
    </td>
    <td>
    </td>
-   <td>The CIC ledger is securely distributed and can be accessed by many CSPs (ideally a server (node) can be run by the Implementing Organization)
+   <td>The CAV ledger is securely distributed and can be accessed by many CSPs (ideally a server (node) can be run by the Implementing Organization)
    </td>
    <td>List of Ledger Nodes locations and operators
    </td>
@@ -88,7 +88,7 @@
    </td>
    <td>Customer Service Center in place
    </td>
-   <td>CIC users can call the center for more information
+   <td>CAV users can call the center for more information
    </td>
   </tr>
   <tr>
@@ -146,7 +146,7 @@
    </td>
    <td>
    </td>
-   <td>Develop a selection criteria for CIC implementing communities (Screening survey)
+   <td>Develop a selection criteria for CAV implementing communities (Screening survey)
    </td>
    <td>Screening Survey Developed
    </td>
@@ -156,7 +156,7 @@
    </td>
    <td><strong>Screening and baseline are conducted</strong>
    </td>
-   <td>Perform Screening survey for valid CIC implementing communities / groups
+   <td>Perform Screening survey for valid CAV implementing communities / groups
    </td>
    <td>Screening Survey Deployed
    </td>
@@ -176,7 +176,7 @@
    </td>
    <td>
    </td>
-   <td>Spending Journals are distributed inorder to monitor national currency and CIC spending
+   <td>Spending Journals are distributed inorder to monitor national currency and voucher spending
    </td>
    <td>Report showing distribution
    </td>
@@ -194,7 +194,7 @@
   <tr>
    <td><strong>2.4 All materials and tech are appropriate for target communities</strong>
    </td>
-   <td><strong>Localization of Materials and CIC/Voucher systems</strong>
+   <td><strong>Localization of Materials and Voucher systems</strong>
    </td>
    <td>Changes suggested for training materials or software of the Core Service Providers
    </td>
@@ -236,7 +236,7 @@
    </td>
    <td>
    </td>
-   <td>Sensitizing of community groups that will create their own CIC. Registration of community members into the CIC of the Core Service Provider as part of training
+   <td>Sensitizing of community groups that will create their own Community Asset Voucher. Registration of community members into the CAV of the Core Service Provider as part of training
    </td>
    <td>Reports from community meetings. Number of active users in the solution, segregated by male, female, boys and girls (under 15)
    </td>
@@ -246,7 +246,7 @@
    </td>
    <td>
    </td>
-   <td>CIC Groups design their CIC and sign CIC creation agreement with local elders and Core Service Providers
+   <td>CAV Groups design their Voucher and sign Voucher creation agreement with local elders and Core Service Providers
    </td>
    <td>Economic Commons Membership and Service Agreements signed
    </td>
@@ -256,13 +256,13 @@
    </td>
    <td>
    </td>
-   <td>Unique CIC vouchers are created and distributed to Group's members as per the agreements
+   <td>Unique Community Asset Vouchers are created and distributed to Group's members as per the agreements
    </td>
    <td>Proof of delivery on ledger system - report from CSP
    </td>
   </tr>
   <tr>
-   <td><strong>3.2a The greater community around the CIC Issuing group understand and accept the CIC</strong>
+   <td><strong>3.2a The greater community around the CAV Issuing group understand and accept the CAV</strong>
    </td>
    <td><strong>Community Mobilization (can be concurrent with 3.2b) given adequate capacity</strong>
    </td>
@@ -286,7 +286,7 @@
    </td>
    <td>
    </td>
-   <td>CIC Issuing Group members enroll 5+ community members each
+   <td>CAV Issuing Group members enroll 5+ community members each
    </td>
    <td>Number of active users in the solution, segregated by male, female, boys and girls
    </td>
@@ -306,7 +306,7 @@
    </td>
    <td>
    </td>
-   <td>Educational Materials, Posters and SMS. Providing communities with information about CICs and the program.
+   <td>Educational Materials, Posters and SMS. Providing communities with information about CAVs and the program.
    </td>
    <td>Dissemination reports, photos and SMS logs
    </td>
@@ -317,7 +317,7 @@
    </td>
    <td><strong>Capacity Development & Cash and Voucher Assistance is implemented</strong>
    </td>
-   <td>Identify/review ways to support the CIC Issuing Groups to increase their capacity to redeem and issue vouchers (CICs) through Income Generating Activities (IGAs)
+   <td>Identify/review ways to support the CAV Issuing Groups to increase their capacity to redeem and issue vouchers (CAVs) through Income Generating Activities (IGAs)
    </td>
    <td>Proposal Created
    </td>
@@ -347,7 +347,7 @@
    </td>
    <td>
    </td>
-   <td>Support CIC Issuing Group to decide on how much to increase their Voucher supply based on new capacities
+   <td>Support CAV Issuing Group to decide on how much to increase their Voucher supply based on new capacities
    </td>
    <td>New Economic Commons Agreements
    </td>
@@ -357,7 +357,7 @@
    </td>
    <td>
    </td>
-   <td>Additional CIC vouchers are created and distributed to members or to greater community
+   <td>Additional CAV vouchers are created and distributed to members or to greater community
    </td>
    <td>Proof of delivery on ledger system - report from CSP
    </td>
@@ -377,7 +377,7 @@
    </td>
    <td>
    </td>
-   <td>Given adequate capacity - purchase of CICs from Issuing Community for distribution to vulnerable people in the area
+   <td>Given adequate capacity - purchase of CAVs from Issuing Community for distribution to vulnerable people in the area
    </td>
    <td>Proof of delivery on ledger system - report from CSP
    </td>

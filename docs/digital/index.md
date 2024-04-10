@@ -1,3 +1,7 @@
+# Cyper-Social Infrastructures
+
+If you are a programmer please check out our [software](https://cic-stack.grassecon.org/): Join a community of developers working to build the technical stack and become a platform service provider to help communities develop their own financial instruments.
+
 #  Staking
 
 Grassroots Economics Foundation is thrilled to announce this initiative to drive change and foster economic empowerment. As an elected validator on the **Celo network**, we're inviting you to stake your CELO with us and join a transformative journey towards global sustainability and financial inclusion.

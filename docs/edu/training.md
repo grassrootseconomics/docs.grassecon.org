@@ -1,49 +1,49 @@
-# Community Inclusion Currencies (CICs) Group Training Guide - Kenya
+# Community Asset Voucher (CAV) and Commitment Pooling Field Guide
 
 ## **How to Use This Guide**
 
-This guide is designed to give communities a feel for how Community Inclusion Currencies (CICs) work. You will find out more information about what a CIC is and what kind of community support is needed. This guide gives enough background for you to know if you need to go back to one of those steps, but it does not cover them in full. It also does not cover next steps or the technical requirements for implementing a CIC.  
+This guide is designed to give communities a feel for how Community Asset Vouchers (CAVs) work. You will find out more information about what a CAV is and what kind of community support is needed. This guide gives enough background for you to know if you need to go back to one of those steps, but it does not cover them in full. It also does not cover next steps or the technical requirements for implementing a CAV.  
 
-If your community has already begun using a CIC such as those created on Sarafu-Network in Kenya, you may want to do these exercises before creating a local CIC.
+If your community has already begun using a CAV such as those created on Sarafu-Network in Kenya, you may want to do these exercises before creating a local CAV.
 
 
 ### Audience
 
-This guide is designed for project managers, community organizers and trainers who are familiar with the environment and communities they work with. Participants are members of a community who are interested in having a CIC in their community. The ideal group size for this training is (5-10ppl). We recommend that the first CIC training be given to participants who are respected in the community and who can encourage others to participate in the CIC as it is released.
+This guide is designed for project managers, community organizers and trainers who are familiar with the environment and communities they work with. Participants are members of a community who are interested in having a CAV in their community. The ideal group size for this training is (5-10ppl). We recommend that the first CAV training be given to participants who are respected in the community and who can encourage others to participate in the CAV as it is released.
 
-The course can be given to community leaders, businesses, group members, CIC designers, design challenge participants, students, humanitarian aid workers and volunteers.  Participants who have an understanding of the local context and markets in which a CIC will be implemented will be best prepared to develop their own CICs. Generally, the course is targeted at chamas or other savings and mutual aid groups. The trainer does not have to belong to the group that is being trained.
+The course can be given to community leaders, businesses, group members, CAV designers, design challenge participants, students, humanitarian aid workers and volunteers.  Participants who have an understanding of the local context and markets in which a CAV will be implemented will be best prepared to develop their own CAVs. Generally, the course is targeted at chamas or other savings and mutual aid groups. The trainer does not have to belong to the group that is being trained.
 
-The exercises in this guide are useful for communities where CICs have been airdropped or granted, either before the community tries the CIC or at the end of the experiment with the initial CIC. Using an initial token like SRF in the Sarafu-Network will allow communities to better understand the specific challenges and advantages for their communities, and set up the proper checks and balances to make sure their own CIC is more successful if they do choose to launch a local CIC.
+The exercises in this guide are useful for communities where CAVs have been airdropped or granted, either before the community tries the CAV or at the end of the experiment with the initial CAV. Using an initial token like SRF in the Sarafu-Network will allow communities to better understand the specific challenges and advantages for their communities, and set up the proper checks and balances to make sure their own CAV is more successful if they do choose to launch a local CAV.
 
-Upon completion of the training, all of the participants should understand the training lessons and be prepared to make a decision about whether to move forward in additional education or in the implementation of a CIC in their community.
+Upon completion of the training, all of the participants should understand the training lessons and be prepared to make a decision about whether to move forward in additional education or in the implementation of a CAV in their community.
 
-After participating in this training, some of the participants will be capable of using and developing a CIC and training other community members. The trajectory of the training and the CICs in general is to empower communities to take on the responsibility for their own financial well-being and economic growth.
+After participating in this training, some of the participants will be capable of using and developing a CAV and training other community members. The trajectory of the training and the CAVs in general is to empower communities to take on the responsibility for their own financial well-being and economic growth.
 
 
 ## Purpose of the Training
 
-Groups using or creating Community Inclusion Currencies (CICs) need to understand benefits, obligations and risks - as do supporting organizations and training groups. The process of creating a medium of exchange is about each member of a community knowing they have common needs - and most importantly, that they have something to offer their community, regardless of their personal circumstances.
+Groups using or creating Community Asset Vouchers (CAVs) need to understand benefits, obligations and risks - as do supporting organizations and training groups. The process of creating a medium of exchange is about each member of a community knowing they have common needs - and most importantly, that they have something to offer their community, regardless of their personal circumstances.
 
-Experience is key in understanding how to use a CIC, therefore the course is structured around exercises and experiential learning. The facilitator should have a thorough understanding of the material, and be able to address questions that arise during the exercise. More in depth material can be found at [CIC Frequently Asked Questions (FAQ)](https://docs.google.com/document/d/1qtlOEL4pqW1vOL893BaXH9OqRSAO3k0q2eWbVIkxEvU/edit?usp=sharing).
+Experience is key in understanding how to use a CAV, therefore the course is structured around exercises and experiential learning. The facilitator should have a thorough understanding of the material, and be able to address questions that arise during the exercise. More in depth material can be found at [CAV Frequently Asked Questions (FAQ)](https://docs.google.com/document/d/1qtlOEL4pqW1vOL893BaXH9OqRSAO3k0q2eWbVIkxEvU/edit?usp=sharing).
 
 
 ## Before You Start
 
-Community Inclusion Currency is a specific type of community currency. There are thousands of community currency projects worldwide with different purposes. Community currencies supplement government-issued money to help increase the economy of the community.
+Community Asset Vouchers is a specific type of community currency. There are thousands of community currency projects worldwide with different purposes. Community currencies supplement government-issued money to help increase the economy of the community.
 
 
-### Why CICs?
+### Why CAVs?
 
-Community Inclusion Currencies (CICs) are a means to launch community projects, jump-start or bolster local economies, boost financial inclusion and to foster independence and sustainability of underserved communities.
+Community Asset Vouchers (CAVs) are a means to launch community projects, jump-start or bolster local economies, boost financial inclusion and to foster independence and sustainability of underserved communities.
 
-Unlike other community currency mechanisms, CIC is designed to fund community projects and support contributors. Using a CIC is a great way for funders to double or quadruple the amount of assistance they can provide and to encourage local economic resilience while integrating with other local, national and international economies.
+Unlike other community currency mechanisms, CAV is designed to fund community projects and support contributors. Using a CAV is a great way for funders to double or quadruple the amount of assistance they can provide and to encourage local economic resilience while integrating with other local, national and international economies.
 
-You can think of a CIC as an interest-free  funding mechanism that can jump-start resilient economies. CIC’s enable money that is used for projects to continue to circulate in the economy, rather than being used up as the project completes. The community itself can create mechanisms to renew the monetary supply, forgive debt and fund additional projects in the community.  
+You can think of a CAV as an interest-free  funding mechanism that can jump-start resilient economies. CAV’s enable money that is used for projects to continue to circulate in the economy, rather than being used up as the project completes. The community itself can create mechanisms to renew the monetary supply, forgive debt and fund additional projects in the community.  
 
 
-### What a CIC Can (and Can’t) Do
+### What a CAV Can (and Can’t) Do
 
-A CIC can:
+A CAV can:
 
 
 
@@ -59,56 +59,56 @@ A CIC can:
 * Reduce inequality
 * Reward non-economic behaviors (as defined today, such as planting a forest) **only **if the community provides ongoing backing for the project.
 
-A CIC cannot:
+A CAV cannot:
 
 
 
-* Run independently: the community (or an agency) must have administrators who care for and manage the CIC system
-* Operate without commitments from the issuing community to redeem the CIC for goods and services.
+* Run independently: the community (or an agency) must have administrators who care for and manage the CAV system
+* Operate without commitments from the issuing community to redeem the CAV for goods and services.
 
 
 ### Sarafu Network
 
-The Grassroots Economics Foundation works to empower local economies through community inclusion currencies. When users register on the network they are automatically given some SRF to use as an introduction to the CIC concept and technology. SRF is a CIC that is created by Grassroots Economics and used for training and CIC related services.
+The Grassroots Economics Foundation works to empower local economies through CAVs. When users register on the network they are automatically given some SRF to use as an introduction to the CAV concept and technology. SRF is a CAV that is created by Grassroots Economics and used for training and CAV related services.
 
-Grassroots Economics is partnering with organizations such as the Red Cross to provide support for CIC programs. SRF is granted to communities throughout Kenya. These grants, sometimes called Airdrops, will serve as a trial for communities to experiment with the CIC before determining whether they would like to launch their own CIC. SRF used to teach people the basic CIC concepts.
+Grassroots Economics is partnering with organizations such as the Red Cross to provide support for CAV programs. SRF is granted to communities throughout Kenya. These grants, sometimes called Airdrops, will serve as a trial for communities to experiment with the CAV before determining whether they would like to launch their own CAV. SRF used to teach people the basic CAV concepts.
 
 The SRF injection offers the following benefits to communities receiving the grants:
 
 
 
-* Actual experience with a CIC before creating their own.
+* Actual experience with a CAV before creating their own.
 * Injection of credit (SRF) that can be used by local people to pay for their expenses.
 * Encouragement of local economic activity.
 * Infusion of funds that goes where the people want it to go, encouraging independence rather than dependence.
-* Statistics on the usage of the SRF. When it becomes time to implement their own CIC, these communities will have actual data on how SRF was used and they can determine the correct local policies based on real data.
+* Statistics on the usage of the SRF. When it becomes time to implement their own CAV, these communities will have actual data on how SRF was used and they can determine the correct local policies based on real data.
 
-However, the injection of SRF or any CIC also poses some risks to the communities, so it is important that there be some education about CICs. Potential risks:
+However, the injection of SRF or any CAV also poses some risks to the communities, so it is important that there be some education about CAVs. Potential risks:
 
 
 
-* If people misuse the CIC, some individuals may lose money, goods or services.
+* If people misuse the CAV, some individuals may lose money, goods or services.
 * People could become disillusioned with the use of alternative currencies rather than learning lessons for improvement.
-* Communities may come to expect that charities will purchase CICs with no strings attached, encouraging dependence on aid agencies.
+* Communities may come to expect that charities will purchase CAVs with no strings attached, encouraging dependence on aid agencies.
 
-This manual provides educational resources that can be used by any community to mitigate these risks.  If CICs are used properly, they become long-term structures for the economic health of communities.
+This manual provides educational resources that can be used by any community to mitigate these risks.  If CAVs are used properly, they become long-term structures for the economic health of communities.
 
 
-### Creating CICs
+### Creating CAVs
 
-CICs are vouchers which are backed by commitment of goods and services. This manual guides a community through determining how to use, create and allocate CIC to people and projects.
+CAVs are vouchers which are backed by commitment of goods and services. This manual guides a community through determining how to use, create and allocate CAV to people and projects.
 
-CICs must be backed 100% by local goods and services of the issuers like vouchers. This means that credit, in the form of CICs, is infused into the community based on the commitments from the issuers.
+CAVs must be backed 100% by local goods and services of the issuers like vouchers. This means that credit, in the form of CAVs, is infused into the community based on the commitments from the issuers.
 
 
 ### Gathering the Participants
 
-To have a CIC function in your community, you will need stakeholder businesses to redeem the CIC for goods and services. Therefore, it is important that a CIC is created by a group of initial participants that includes important community members such as leaders, business owners, pastors, farmers, and producers. The more influential the participants are, the faster the CIC will spread in the community.
+To have a CAV function in your community, you will need stakeholder businesses to redeem the CAV for goods and services. Therefore, it is important that a CAV is created by a group of initial participants that includes important community members such as leaders, business owners, pastors, farmers, and producers. The more influential the participants are, the faster the CAV will spread in the community.
 
 
 ### Being Willing to Play
 
-Participants in this training on CICs will get an experience of how a CIC would work in their community. The exercises in this guide are designed prior to implementation so that enough community members can understand what they are getting into and make an intelligent decision as a community about next steps. They may or may not be ready to implement the CIC at the end of the training.
+Participants in this training on CAVs will get an experience of how a CAV would work in their community. The exercises in this guide are designed prior to implementation so that enough community members can understand what they are getting into and make an intelligent decision as a community about next steps. They may or may not be ready to implement the CAV at the end of the training.
 
 
 ## **Course Implementation**
@@ -116,7 +116,7 @@ Participants in this training on CICs will get an experience of how a CIC would 
 
 ### Focus
 
-This CIC course keeps in mind the context of Kenya and seeks to make it as broad as possible for application in similar areas. The creators of CICs in this course are primarily community groups, community based organizations, self help groups, SILCs, Chamas, Churches, or Village Savings and Loan Association. Group members should consist of people with local business and jobs that can trade amongst each other and can commit to reciprocity by backing a CIC as a legal voucher for their own goods and services.
+This CAV course keeps in mind the context of Kenya and seeks to make it as broad as possible for application in similar areas. The creators of CAVs in this course are primarily community groups, community based organizations, self help groups, SILCs, Chamas, Churches, or Village Savings and Loan Association. Group members should consist of people with local business and jobs that can trade amongst each other and can commit to reciprocity by backing a CAV as a legal voucher for their own goods and services.
 
 
 ### Goals
@@ -126,23 +126,23 @@ Key goals include:
 
 
 1. The group trained should have the understanding, capacity and ability to:
-    1. create a clear statement of commitment, with **intent to issue and redeem** a CIC as a voucher for stated goods and services.
-    2. plan and navigate the steps toward CIC implementation
+    1. create a clear statement of commitment, with **intent to issue and redeem** a CAV as a voucher for stated goods and services.
+    2. plan and navigate the steps toward CAV implementation
     3. Work with stakeholders to support the process
 2. The group will further explore
-    4. the commitments, risks and obligations associated with issuing a CIC
-    5. how to bring on more community and external support and acceptance of their CIC
-    6. reciprocity, trade balance, what backs a CIC locally
-    7. their relationship to the local economy and other community members and their role as a stakeholder in the creation of CICs and an optimal community economy.
+    4. the commitments, risks and obligations associated with issuing a CAV
+    5. how to bring on more community and external support and acceptance of their CAV
+    6. reciprocity, trade balance, what backs a CAV locally
+    7. their relationship to the local economy and other community members and their role as a stakeholder in the creation of CAVs and an optimal community economy.
 
 
 ### Logistics
 
 
 
-1. **Scripted** in various languages for facilitators to follow along. This document guides a facilitator through the process of teaching several exercises: Additional material can be found at [CIC Frequently Asked Questions (FAQ)](https://docs.google.com/document/d/1qtlOEL4pqW1vOL893BaXH9OqRSAO3k0q2eWbVIkxEvU/edit?usp=sharing).
-2. **Duration:** Roughly 6 hours is enough time to go through the topics, exercises and discussions. A follow-up session once a training group has developed their CIC agreement is also necessary.
-3. **Facilitation:** Minimum 1 facilitator with experience training other groups and being part of a CIC. Having assistance or co-facilitators can help to hold different roles during exercises. Any mediators should also be trained and it is highly recommended to include local leaders and administration such as chief and sub-chiefs as they will be asked to validate community agreements.
+1. **Scripted** in various languages for facilitators to follow along. This document guides a facilitator through the process of teaching several exercises: Additional material can be found at [CAV Frequently Asked Questions (FAQ)](https://docs.google.com/document/d/1qtlOEL4pqW1vOL893BaXH9OqRSAO3k0q2eWbVIkxEvU/edit?usp=sharing).
+2. **Duration:** Roughly 6 hours is enough time to go through the topics, exercises and discussions. A follow-up session once a training group has developed their CAV agreement is also necessary.
+3. **Facilitation:** Minimum 1 facilitator with experience training other groups and being part of a CAV. Having assistance or co-facilitators can help to hold different roles during exercises. Any mediators should also be trained and it is highly recommended to include local leaders and administration such as chief and sub-chiefs as they will be asked to validate community agreements.
 4. **Materials:**
 1. Facilitators should have:
         1. A visible writing surface (white/black board, flipchart, manila or large paper and the ability to fix those papers on the wall).
@@ -150,13 +150,13 @@ Key goals include:
         3. A calculator or a smart phone with internet access.
         4. Game Materials:
             1. White paper (cut into business card sized pieces)
-            2. Beans to use as CIC (or another colored paper denominated with 10 CIC, reaching a total of 100 CIC).
+            2. Beans to use as CAV (or another colored paper denominated with 10 CAV, reaching a total of 100 CAV).
             3. Coins to use as Kenyan Shillings (a 10 bob coin for each participant will do - or a different color of paper slips)
             4. Pencils or pens
             5. Parallel rows of holes (2x5) in the ground with rows marked 2,3,4,5,6. A mancala board or bao board will do or holes in the dirt. (see [https://youtu.be/tSTzOXu4f6k](https://youtu.be/tSTzOXu4f6k) )
     1. Students should have
         5. a notebook and pencil.
-        6. *(optional but recommended if a CIC system is available to demo with) Mobile phone
+        6. *(optional but recommended if a CAV system is available to demo with) Mobile phone
 
 
 ### Course Summary
@@ -166,8 +166,8 @@ This course will take you through several modules:
 
 
 1. Local economies - the communities we live in and our relationship to money
-2. Community Inclusion Currency Creation - Social, political, and technical aspects of starting a CIC. Defining local commitments for redemption
-3. Introducing CICs to the rest of community and world - Community engagement - Growing, using and maintaining a CIC
+2. Community Asset Voucher Creation - Social, political, and technical aspects of starting a CAV. Defining local commitments for redemption
+3. Introducing CAVs to the rest of community and world - Community engagement - Growing, using and maintaining a CAV
 4. Review and implement practical next steps
 
 
@@ -176,14 +176,14 @@ This course will take you through several modules:
 
 ### Introduction
 
-A Community Inclusion Currency (CIC) is a tool that allows a community to develop their own credit system backed by local production. When used well it can enable trade and support local markets when national currency is scarce. When well maintained, a CIC can enable communities to reach a common vision.
+A Community Asset Voucher (CAV) is a tool that allows a community to develop their own credit system backed by local production. When used well it can enable trade and support local markets when national currency is scarce. When well maintained, a CAV can enable communities to reach a common vision.
 
-Like any tool, when not used responsibly, CIC has the potential to cause harm. The goal of the guide is to model how problems can occur, how to avoid harm, and how to design toward optimal usage.
+Like any tool, when not used responsibly, CAV has the potential to cause harm. The goal of the guide is to model how problems can occur, how to avoid harm, and how to design toward optimal usage.
 
 
 ### History
 
-Community groups of different types have been making currencies since before humans had written history. In fact, [the first writing was an accounting record of wages of workers in Mesopotamia](https://www.bl.uk/history-of-writing/articles/where-did-writing-begin). CICs come from a long history of grassroots economies and alternative monetary systems. There are many types of alternative financial systems throughout history in every area of the world.
+Community groups of different types have been making currencies since before humans had written history. In fact, [the first writing was an accounting record of wages of workers in Mesopotamia](https://www.bl.uk/history-of-writing/articles/where-did-writing-begin). CAVs come from a long history of grassroots economies and alternative monetary systems. There are many types of alternative financial systems throughout history in every area of the world.
 
 We recommend you see the following videos and if possible, have participants see some of these videos before coming to the session.
 
@@ -191,7 +191,7 @@ Videos of other Community Currencies (CC):
 
 
 
-1. CIC Animation: [https://www.youtube.com/watch?v=bHM1DRHSUPw](https://www.youtube.com/watch?v=bHM1DRHSUPw)
+1. CAV Animation: [https://www.youtube.com/watch?v=bHM1DRHSUPw](https://www.youtube.com/watch?v=bHM1DRHSUPw)
 2. Videos from around the world:
     1. Bancos Palmas: (Portuguese with English Subtitles) [https://www.youtube.com/watch?v=h8YLFKr7lZs](https://www.youtube.com/watch?v=h8YLFKr7lZs)
     2. Berkshares: (English) [https://www.youtube.com/watch?v=bzzkDRIjW30](https://www.youtube.com/watch?v=bzzkDRIjW30)
@@ -201,16 +201,16 @@ Videos of other Community Currencies (CC):
     6. [https://www.youtube.com/watch?time_continue=2&v=stup1F8R0gg&feature=emb_logo](https://www.youtube.com/watch?time_continue=2&v=stup1F8R0gg&feature=emb_logo)
 
 
-### Basic CIC Usage
+### Basic CAV Usage
 
-A core principle of CICs is that community members have more goods and services to offer each other than they have national currency to buy them; that there is the potential for an abundance of both supply and demand that the community can fulfill for itself, **if** they had an adequate medium of exchange.
+A core principle of CAVs is that community members have more goods and services to offer each other than they have national currency to buy them; that there is the potential for an abundance of both supply and demand that the community can fulfill for itself, **if** they had an adequate medium of exchange.
 
-Humanitarian organizations may purchase, create and distribute a CIC in order to support local trade during a crisis response. While community groups may create their own CIC in order to establish a local credit to stabilize and grow their economy and to facilitate local projects.
+Humanitarian organizations may purchase, create and distribute a CAV in order to support local trade during a crisis response. While community groups may create their own CAV in order to establish a local credit to stabilize and grow their economy and to facilitate local projects.
 
 
 ### Resource Mapping
 
-A CIC that is issued based on the sole backing of chapati and spent only on flour then re-spent on chapati alone may not help you prepare for a wedding or plan a community garden. Looking at the full (and potential) list of goods and services on offer and demand in a community and planning how a CIC will flow through those resources is very important. Understanding which of those resources are available locally and which are imported - as well as which are sold locally and which are exported will ultimately provide a roadmap toward a sustainable market.
+A CAV that is issued based on the sole backing of chapati and spent only on flour then re-spent on chapati alone may not help you prepare for a wedding or plan a community garden. Looking at the full (and potential) list of goods and services on offer and demand in a community and planning how a CAV will flow through those resources is very important. Understanding which of those resources are available locally and which are imported - as well as which are sold locally and which are exported will ultimately provide a roadmap toward a sustainable market.
 
 What defines local or community? What would happen if everyone in your community had a job? Is there enough work on farms, roads, houses and so on to give everyone security and full employment? If a community can come together with both their needs and abilities and resources this is possible.
 
@@ -226,10 +226,10 @@ Say the following:
 
 
 * _The money (Shillings) we normally use is government-issued money. Money is an invention of a group of people who are willing to accept a certain type of token as a means of exchange. Throughout human history, people have used different media of exchange: shells, paper money, special rocks and gold coins. Money is just an agreement among people that something can represent a trade value. Hopefully you have seen some videos about community currencies.  If not, I will share some links and we can see some during the breaks or after today._
-* _A community currency is a voucher that can be used to trade in addition to the government issued money. Usually, communities use the measure of the government currency as a reference unit, for example, 1 CIC is redeemable for 1 Shilling worth of goods or services in Kenya. This makes it easy for communities to use an alternative without having to calculate exchange rates. _
-* _Today, we are going to look at one form of community currency, called Community Inclusion Currencies or CICs. One quality is that a CIC can be used to fund community projects. Another quality is that they expire gradually over time in the form of a group fee._
+* _A community currency is a voucher that can be used to trade in addition to the government issued money. Usually, communities use the measure of the government currency as a reference unit, for example, 1 CAV is redeemable for 1 Shilling worth of goods or services in Kenya. This makes it easy for communities to use an alternative without having to calculate exchange rates. _
+* _Today, we are going to look at one form of community currency, called a CAVs. One quality is that a CAV can be used to fund community projects. Another quality is that they expire gradually over time in the form of a group fee._
 * _In all Community Currencies, it is the responsibility of the issuing community to care for and maintain the value of the currency, just as it is the government’s responsibility to care for the value of the shilling. We all know it is dangerous when the government does not do a good job of preserving the value of the national currency._
-* _The exercises we do today are designed so you get to experience the way that a CIC works. You will get an understanding of how to use the currency and what problems you need to avoid if you want to continue to have a currency that is stable and serves the community._
+* _The exercises we do today are designed so you get to experience the way that a CAV works. You will get an understanding of how to use the currency and what problems you need to avoid if you want to continue to have a currency that is stable and serves the community._
 
 The following questions are designed to make sure the participants understand the basic ideas you have presented, and that they all start to participate in the discussion.
 
@@ -271,7 +271,7 @@ Give each player the following materials:
 * Pen / Pencil
 * 1 A4 sized white paper
 * 6 medium sized white slips of paper (or numbers of your choosing)
-* Beans = at least enough for 10 for each participant. These will have a value of 10 CICs
+* Beans = at least enough for 10 for each participant. These will have a value of 10 CAVs
 
 
 #### Introduction
@@ -280,8 +280,8 @@ Say the following:
 
 
 
-* _Having a shared goal and shared projects are important success factors for CICs. In this exercise we are going to understand our community better. The purpose of the exercise is to understand what we could use the CIC to do in our community. _
-* _Sometimes community currencies are printed like paper money, but today most community currencies are digital—because most people now know how to use mobile money on their phones. CIC will generally be mobile or digital money but we will use paper and beans to signify our CIC today. This allows us to see where the entire supply of CIC is at all times, so we can understand how the money flow works._
+* _Having a shared goal and shared projects are important success factors for CAVs. In this exercise we are going to understand our community better. The purpose of the exercise is to understand what we could use the CAV to do in our community. _
+* _Sometimes community currencies are printed like paper money, but today most community currencies are digital—because most people now know how to use mobile money on their phones. CAV will generally be mobile or digital money but we will use paper and beans to signify our CAV today. This allows us to see where the entire supply of CAV is at all times, so we can understand how the money flow works._
 * _In this exercise, we are going to map our resources and needs. Then we will simulate trading with the paper and beans. At the end we will take account and discuss what happened._
 
 
@@ -336,20 +336,20 @@ Say:
 
 #### Step 3. Barter Credit
 
-In this exercise the group is going to trade in the beans, representing the CIC, for the goods they are trading, represented by slips of paper.
+In this exercise the group is going to trade in the beans, representing the CAV, for the goods they are trading, represented by slips of paper.
 
 Say:
 
 
 
 * _Remember, money is just an agreement between people. If we agree that beans are money, we can use them for trade. Imagine a trusted group of people in the community did the same: created a voucher, redeemable for their goods which we could use for a currency._
-* _We are now going to pretend that these beans are a kind of money. Each bean is worth 10 CICs, and we are saying the CIC is equivalent to the shilling of goods or services. I will now give everyone 10 beans, to represent 100 CICs. Make sure to count your beans so we all start out with the same number!_
+* _We are now going to pretend that these beans are a kind of money. Each bean is worth 10 CAVs, and we are saying the CAV is equivalent to the shilling of goods or services. I will now give everyone 10 beans, to represent 100 CAVs. Make sure to count your beans so we all start out with the same number!_
 
 Give each participant 10 beans (You can choose the number and adjust the text above). Have them count to make sure they got the same as everyone else.
 
 
 
-* _Now, look at your white slips of paper - you should have 4 slips. On the back, write down a price for that item. It needs to be multiples of 10 shillings, because we only have the beans for now. Keep the prices / units as small as possible to accommodate for the value of beans that were given. 10 beans represents 100 CIC so ideally your stock of goods or services is around there._
+* _Now, look at your white slips of paper - you should have 4 slips. On the back, write down a price for that item. It needs to be multiples of 10 shillings, because we only have the beans for now. Keep the prices / units as small as possible to accommodate for the value of beans that were given. 10 beans represents 100 CAV so ideally your stock of goods or services is around there._
 
 Give them time to write on the back of each slip. Also do some slips for yourself, including one for a Boda ride. On the back, write down 50 etc.
 
@@ -387,7 +387,7 @@ Discuss in the group:
 
 
 * _What is interesting about the amounts? _
-* _The person at the top (name the name with the most beans) has a trade balance surplus of ____ CIC. (This is their bean balance minus the 10 they started with) That means that she didn’t spend so much CIC in the community and sold a lot of her products or services. What could the community do to make sure she has more to buy? _
+* _The person at the top (name the name with the most beans) has a trade balance surplus of ____ CAV. (This is their bean balance minus the 10 they started with) That means that she didn’t spend so much CAV in the community and sold a lot of her products or services. What could the community do to make sure she has more to buy? _
 * _ The people at the bottom (name the names with the least beans) have trade debits of ____ (their starting amount minus their balance). This means they did not offer goods or services that were in demand enough in the community. What could we do about that?_
 
 Listen for ideas like bringing in additional people into the circle, training people for new professions, reducing consumption of things that are not produced locally, etc.
@@ -476,25 +476,25 @@ Discuss and write down a list of challenges, such as:
 * Trust
 * Distance between users
 * People not knowing where to spend
-* Holding too much CIC
-* People changing CIC pricing
+* Holding too much CAV
+* People changing CAV pricing
 * Seasonal products
-* The supply of CIC in this game was limited to only 100 CIC per person: What are the advantages and disadvantages of this small amount?
+* The supply of CAV in this game was limited to only 100 CAV per person: What are the advantages and disadvantages of this small amount?
 
 
-## Part 2. Community Inclusion Currency Creation
+## Part 2. Community Asset Voucher Creation
 
-In the previous exercise many questions may have come up, such as what happens if you end up with too many CICs. The types of question people may ask include:
+In the previous exercise many questions may have come up, such as what happens if you end up with too many CAVs. The types of question people may ask include:
 
 
 
 * “How will I restock my shop with items that can only be bought in Kenyan Shillings?”
     * _Possible answers: Accept as much as you can spend on a daily or weekly basis. _
     * _Accept as much as you would hold the debts of others._
-* “What if people spend CIC, then refuse to accept back CICs?”
+* “What if people spend CAV, then refuse to accept back CAVs?”
     * Issuers must redeem their vouchers if they don’t seek dispute mediation
 
-In this section, we do exercises that show the trust and mutual stewardship that are required for having a successful CIC. Introducing a CIC is not a one-time event. Some communities refresh the CIC on an annual or bi-annual basis, deciding how to handle imbalances. Successful projects and community cohesion make your community a good candidate for further development. A community that knows how to care for its community currency can fulfill the long-term goals of the community.
+In this section, we do exercises that show the trust and mutual stewardship that are required for having a successful CAV. Introducing a CAV is not a one-time event. Some communities refresh the CAV on an annual or bi-annual basis, deciding how to handle imbalances. Successful projects and community cohesion make your community a good candidate for further development. A community that knows how to care for its community currency can fulfill the long-term goals of the community.
 
 
 ### Community Currencies: Lecture and Discussion 30 Minutes
@@ -503,22 +503,22 @@ Make sure everyone has a pen and paper to take notes.
 
 
 
-* _In the last exercise we have seen that a CIC needs to be managed properly such that the trade is balanced to some degree. Each person was issued with 100 CIC because they were backing it with 100 Ksh of their goods and services._
-* _If someone spent 100 CIC on tomatoes, while promising to redeem them later for shoe repair - they are pre-selling their shoe repair for tomatoes._
+* _In the last exercise we have seen that a CAV needs to be managed properly such that the trade is balanced to some degree. Each person was issued with 100 CAV because they were backing it with 100 Ksh of their goods and services._
+* _If someone spent 100 CAV on tomatoes, while promising to redeem them later for shoe repair - they are pre-selling their shoe repair for tomatoes._
 * _There are important elements I will discuss now and you can ask questions, then we will do some exercise to understand how this works. _
-* **_Community backing: without it, the CIC cannot work. Business people and community members make a promise of how much CIC they will accept, and for what goods and at what Kenyan Shillings value. For example, the shopkeeper might be willing to accept 2,000 CIC for 2,000 ksh worth of locally-grown vegetables. She might not be willing to accept any CIC or only a small percentage of the price in CIC for the packaged goods that are imported. We will do an exercise where all of us make promises of how much CIC we are willing to accept._**
-* _Committed community backing means that the CIC issuing community group is committed to redeeming any tokens they spend and maintaining a **zero trade balance (spending = redemption)** over time. In other words, the shopkeeper is committing to spending **and** accepting the CICs with other community members, not just spending **or** accepting them. _
-* _Commitments of goods and services serve several purposes. They limit how many CICs can be created while also allowing CICs to be exchanged for those goods and services. _
-* _You can imagine the reserve of commitments as a seed bank, at which, after a deposit of seeds you get a share slip (CIC) that allows you to pull seeds back out in the future. When there are very few seeds in the bank then there are very few CICs in circulation._
-* _Of course, nothing will compensate for people who spend CIC but don’t accept it back. So there are some important ways that you as community members will need to take care of your currency and we will also have a discussion about what would work for your group after we do that exercise._
-* **_Important caution: If you continue to care for the CIC properly, you will have a long-term economic impact to create an independent community. If you treat a CIC as “free money” and are careless, the CIC circulation will slow and eventually stop flowing and also create resentment against the people who took advantage of the situation at other people’s expense. _**
+* **_Community backing: without it, the CAV cannot work. Business people and community members make a promise of how much CAV they will accept, and for what goods and at what Kenyan Shillings value. For example, the shopkeeper might be willing to accept 2,000 CAV for 2,000 ksh worth of locally-grown vegetables. She might not be willing to accept any CAV or only a small percentage of the price in CAV for the packaged goods that are imported. We will do an exercise where all of us make promises of how much CAV we are willing to accept._**
+* _Committed community backing means that the CAV issuing community group is committed to redeeming any tokens they spend and maintaining a **zero trade balance (spending = redemption)** over time. In other words, the shopkeeper is committing to spending **and** accepting the CAVs with other community members, not just spending **or** accepting them. _
+* _Commitments of goods and services serve several purposes. They limit how many CAVs can be created while also allowing CAVs to be exchanged for those goods and services. _
+* _You can imagine the reserve of commitments as a seed bank, at which, after a deposit of seeds you get a share slip (CAV) that allows you to pull seeds back out in the future. When there are very few seeds in the bank then there are very few CAVs in circulation._
+* _Of course, nothing will compensate for people who spend CAV but don’t accept it back. So there are some important ways that you as community members will need to take care of your currency and we will also have a discussion about what would work for your group after we do that exercise._
+* **_Important caution: If you continue to care for the CAV properly, you will have a long-term economic impact to create an independent community. If you treat a CAV as “free money” and are careless, the CAV circulation will slow and eventually stop flowing and also create resentment against the people who took advantage of the situation at other people’s expense. _**
 
 
 ### Exercise: Community Commitment
 
-In this exercise, the community will explore the levels of commitment of the participants in the community currency. You will be asking people to really think about what they can commit and accept if the community were to adopt a CIC, so these commitments should be “real” in that the participants will be able to actually accept and spend CIC if the project goes forward. The participants should see themselves as the CIC issuing group who own the program and will be starting the circulation of their CIC in the community.
+In this exercise, the community will explore the levels of commitment of the participants in the community currency. You will be asking people to really think about what they can commit and accept if the community were to adopt a CAV, so these commitments should be “real” in that the participants will be able to actually accept and spend CAV if the project goes forward. The participants should see themselves as the CAV issuing group who own the program and will be starting the circulation of their CAV in the community.
 
-At this point, people may be experiencing some level of skepticism about whether this will work, and whether they may end up losing money or products while accepting the CIC. This is normal. Allow them to express those concerns and then try the exercises. After the exercises, have an open discussion to have them discuss their concerns and see how they can support one another to address the issues that might come up.
+At this point, people may be experiencing some level of skepticism about whether this will work, and whether they may end up losing money or products while accepting the CAV. This is normal. Allow them to express those concerns and then try the exercises. After the exercises, have an open discussion to have them discuss their concerns and see how they can support one another to address the issues that might come up.
 
 
 #### Materials
@@ -530,7 +530,7 @@ At this point, people may be experiencing some level of skepticism about whether
 * Easel-sized / Flipchart Paper (a few sheets for the room)
 * Writing implements for everyone
 * While slips of paper. At least a 4 for each participant. These will represent commitments of goods and services with a Kenyan Shilling value.
-* Beans, at least 25 for each participant, (these could be replaced with pieces of colored paper with a 100 CIC written on it) These beans will be redeemable for 2,500 KSH of goods and services
+* Beans, at least 25 for each participant, (these could be replaced with pieces of colored paper with a 100 CAV written on it) These beans will be redeemable for 2,500 KSH of goods and services
 * A timepiece for tracking rounds.
 
 
@@ -551,21 +551,21 @@ In this and the following exercises, the group will need people to play certain 
 
 * Chama Representative:
     * Inspect the slips of paper to verify that the person actually has those goods and services to trade and that the amount should not exceed 1 months sales capacity or 10% of their annual sales capacity (once completed); this includes community projects.
-    * distribute each member some CIC based on their audit
+    * distribute each member some CAV based on their audit
     * Mediate disputes
-    * Collect a holding tax - each month collect 2% of everyone’s CICs
+    * Collect a holding tax - each month collect 2% of everyone’s CAVs
 
 
 #### Introduction
 
-The exercises above allowed the community to experiment with exchanging in a system with a CIC and holding taxes. To have a currency in a real community, there is a minimum amount of worth of committed goods and services as well as needed endorsements. In the next exercise, we will take a look at the minimum requirements of the community and start to speculate whether they could have a CIC.
+The exercises above allowed the community to experiment with exchanging in a system with a CAV and holding taxes. To have a currency in a real community, there is a minimum amount of worth of committed goods and services as well as needed endorsements. In the next exercise, we will take a look at the minimum requirements of the community and start to speculate whether they could have a CAV.
 
 Keep the groups for this part and say:
 
 
 
-* _Now we need a name and abbreviation for the CIC. Kenyan Shillings are called Shillings and the abbreviation is KES. You could make any name for your currency. For each long name, we also want a short name we can use. The short name should be less than 6 letters. _
-* _The name we chose now is just for this workshop today. If you like it, you can keep it for your CIC in the future, but you do not have to, so just have fun thinking of names we can use today._
+* _Now we need a name and abbreviation for the CAV. Kenyan Shillings are called Shillings and the abbreviation is KES. You could make any name for your currency. For each long name, we also want a short name we can use. The short name should be less than 6 letters. _
+* _The name we chose now is just for this workshop today. If you like it, you can keep it for your CAV in the future, but you do not have to, so just have fun thinking of names we can use today._
 * _In your groups, I will give 5 minutes to create a name and an abbreviation. For example, you could have a token called Wanoma and the abbreviation could be NOMA. Please take 5 minutes now in your groups._
 
 After 5 minutes, stop the action. Have each group say the name and abbreviation and write it on the board. Have the group vote for a name.
@@ -573,28 +573,28 @@ After 5 minutes, stop the action. Have each group say the name and abbreviation 
 
 ### How many vouchers to create?
 
-The amount of CIC a group can created depends on two things:
+The amount of CAV a group can created depends on two things:
 
 
 
-1. Community commitment: The amount of commitments of goods and services that members of a group have pledged to redeem for CIC.
-2. An audit of the community's ability to fulfill their commitments. No more than 10% of the annual sale capacity of the group or month’s sale capacity will be accepted in order to ensure there is more than enough baking for a CIC.
+1. Community commitment: The amount of commitments of goods and services that members of a group have pledged to redeem for CAV.
+2. An audit of the community's ability to fulfill their commitments. No more than 10% of the annual sale capacity of the group or month’s sale capacity will be accepted in order to ensure there is more than enough baking for a CAV.
 3. Endorsement from local Village Elders.
 
-The maximum number of CICs that can be created is limited based on a reserve requirement of 100% of community commitments. So with 50,000 Ksh worth of audited commitments a community can create 50,000 of their own CIC tokens. This is a good starting point for a community. Note that yearly this commitment process can be redone to reassess the needed CIC supply.
+The maximum number of CAVs that can be created is limited based on a reserve requirement of 100% of community commitments. So with 50,000 Ksh worth of audited commitments a community can create 50,000 of their own CAV tokens. This is a good starting point for a community. Note that yearly this commitment process can be redone to reassess the needed CAV supply.
 
-While the number of CIC to create is important, the speed of circulation is even more crucial to maintaining a local market. There should be enough CICs in circulation, such that the community can maintain the amount of trade it desires.
-
-
-### Who should create a CIC?
-
-CICs are not short term projects - as they seek to provide sustainable public financial infrastructure. CICs seek to be an alternative when national currencies are scarce and hence provide a safety net for communities in crisis. Creating a Community Inclusion Currency is like having a baby - it is a responsibility that one should not walk away from. It is of utmost importance that the community backing be as solid as possible with the full support of the community, mediators, elders and chief. Trustful communities can build wealth much easier than trustless communities. It's not only about how hard you work, but how much of your work is lost through cheating, theft, corruption, and providing security against those things. Trust and trustworthiness are themselves forms of wealth.
-
-Explain the CIC creation rules. Say:
+While the number of CAV to create is important, the speed of circulation is even more crucial to maintaining a local market. There should be enough CAVs in circulation, such that the community can maintain the amount of trade it desires.
 
 
+### Who should create a CAV?
 
-* _In real life to launch a community currency, these groups must be at least 1 year old, at least 10 members who are active, there must be a minimum of 50,000 ksh in commitments with an audit to show capacity, this training course, a signed application. If you can meet the requirements, the Grassroots Economics Foundation can support in creating the CIC._
+CAVs are not short term projects - as they seek to provide sustainable public financial infrastructure. CAVs seek to be an alternative when national currencies are scarce and hence provide a safety net for communities in crisis. Creating a Community Asset Voucher is like having a baby - it is a responsibility that one should not walk away from. It is of utmost importance that the community backing be as solid as possible with the full support of the community, mediators, elders and chief. Trustful communities can build wealth much easier than trustless communities. It's not only about how hard you work, but how much of your work is lost through cheating, theft, corruption, and providing security against those things. Trust and trustworthiness are themselves forms of wealth.
+
+Explain the CAV creation rules. Say:
+
+
+
+* _In real life to launch a community currency, these groups must be at least 1 year old, at least 10 members who are active, there must be a minimum of 50,000 ksh in commitments with an audit to show capacity, this training course, a signed application. If you can meet the requirements, the Grassroots Economics Foundation can support in creating the CAV._
 * _Did we reach the 50,000 KSH total or 2,500 KSH each in commitments? _
 * _How balanced are the commitments? _
 * _If we didn’t have enough, how could your community reach 50,000 KSH in commitments? Who else would you want to join?_
@@ -611,18 +611,18 @@ Say:
 
 
 
-* _Think back to when we played through making a CIC. During that exercise I gave some of you sheets or paper that had goods and services on them. You used those goods as your commitment to make a CIC. Now I want you to think about **your** real community. What goods or services does your community have to back a CIC with? For example, vegetables, land, a water source, a taxi service._
-* _Right now, it is a good idea to think about things you really could commit to backing your CIC. If you have a retail business, you might be willing to sell 20% of your items for CIC and use those for other things in the community. _
-* _For the exercise ensure that the total value of all our inventory doesn’t exceed 2,500 Kenyan shillings of goods and services. These will be how many CICs you are allocated. In reality the amount you are willing to back a CIC with should **not** exceed a month of your sales capacity or 10% of your annual sales capacity. _
+* _Think back to when we played through making a CAV. During that exercise I gave some of you sheets or paper that had goods and services on them. You used those goods as your commitment to make a CAV. Now I want you to think about **your** real community. What goods or services does your community have to back a CAV with? For example, vegetables, land, a water source, a taxi service._
+* _Right now, it is a good idea to think about things you really could commit to backing your CAV. If you have a retail business, you might be willing to sell 20% of your items for CAV and use those for other things in the community. _
+* _For the exercise ensure that the total value of all our inventory doesn’t exceed 2,500 Kenyan shillings of goods and services. These will be how many CAVs you are allocated. In reality the amount you are willing to back a CAV with should **not** exceed a month of your sales capacity or 10% of your annual sales capacity. _
 
 
 #### Step 1. Commitments
 
 
 
-* _When we played through using a CIC before. Remember that when you committed goods to back the CIC, you then had to sell those for CIC during the trading exercise. This is what it means to commit to selling an item or service for CIC. Now that we think about what we might do for our community, it requires a commitment. This commitment comes from you and other business people in the community. _
-* _In order to be able to spend the CIC - What would you be willing to commit to selling in return for the CIC? For the exercise, we will be committing 2,500 shillings worth of goods or services each, but if we were doing a real-life commitment, the community would need to reach at least 50,000 KES of commitments and not exceed 10% of your annual or one month of your sales capacity. _
-* _Everyone should contribute 2500 shillings worth of commitments. That means, you have 2500 shillings worth of goods or services to sell and accept the CIC._
+* _When we played through using a CAV before. Remember that when you committed goods to back the CAV, you then had to sell those for CAV during the trading exercise. This is what it means to commit to selling an item or service for CAV. Now that we think about what we might do for our community, it requires a commitment. This commitment comes from you and other business people in the community. _
+* _In order to be able to spend the CAV - What would you be willing to commit to selling in return for the CAV? For the exercise, we will be committing 2,500 shillings worth of goods or services each, but if we were doing a real-life commitment, the community would need to reach at least 50,000 KES of commitments and not exceed 10% of your annual or one month of your sales capacity. _
+* _Everyone should contribute 2500 shillings worth of commitments. That means, you have 2500 shillings worth of goods or services to sell and accept the CAV._
 * _Now write down some goods and services on each piece of paper. You can use the ones we had before or other goods. _
 
 Give everyone 25 slips of paper and have them write down the items they sell. For instance a woman selling chapati only can write chapati on each 25 slips of paper and the amount of 100 /= on each one. Meaning she has a total inventory worth 2500/=
@@ -645,7 +645,7 @@ Commitment Table
    </td>
    <td>Commitment in product value (KSH)
    </td>
-   <td>CIC received
+   <td>CAV received
    </td>
   </tr>
   <tr>
@@ -763,12 +763,12 @@ Commitment Table
 
 
 
-* _This table is called the Commitment Table. When you make a commitment to a real CIC, this is how it will work. You say what you will commit; For example, (Sally) will provide 2,500 KSH worth of (chapatis worth 10ksh each) in return for 2,500 CICs. Once the commitment is signed and verified Sally will be issued 2,500 CICs she can spend with others. _
+* _This table is called the Commitment Table. When you make a commitment to a real CAV, this is how it will work. You say what you will commit; For example, (Sally) will provide 2,500 KSH worth of (chapatis worth 10ksh each) in return for 2,500 CAVs. Once the commitment is signed and verified Sally will be issued 2,500 CAVs she can spend with others. _
 * _Are there questions about this? We will be playing a game to show how it works.  _
 * _We would like one person to be responsible for the reserve and the contract. Who will do that?_
 
 
-#### Step 3. Issue CIC
+#### Step 3. Issue CAV
 
 Have the Chama Rep. inspect the Commitment Table and validate that each persons inventory amount then hand that person 1 bean for every 100 KSH worth of inventory.
 
@@ -776,7 +776,7 @@ Now calculate how many total commitments there will be. The commitments should b
 
 
 
-* _We will be issuing [xxx total commitments] CICs. _
+* _We will be issuing [xxx total commitments] CAVs. _
 
 
 #### Step 4. Trade
@@ -794,7 +794,7 @@ Have them do 5 rounds of trade. Then, as in the beginning, do a chart to see whe
   <tr>
    <td><strong>Player</strong>
    </td>
-   <td><strong>Wanoma (CIC name)</strong>
+   <td><strong>Wanoma (CAV name)</strong>
    </td>
   </tr>
   <tr>
@@ -868,14 +868,14 @@ Have them do 5 rounds of trade. Then, as in the beginning, do a chart to see whe
 
 
 
-* _What happened as a result of the CICs? Was there a change in the amount of economic activity?_
-* _Does the amount of CICs created initially (as in the previous exercise) make sense?_
+* _What happened as a result of the CAVs? Was there a change in the amount of economic activity?_
+* _Does the amount of CAVs created initially (as in the previous exercise) make sense?_
 * _What is the importance of the social backing and commitment of the issuers here?_
 
 
 #### Step 5. Expiration Rates
 
-At this point, the group should have the general idea of how the trades work. Now, it’s useful to understand how taxation works. Let everyone keep the CICs as they had them in the last exercise.
+At this point, the group should have the general idea of how the trades work. Now, it’s useful to understand how taxation works. Let everyone keep the CAVs as they had them in the last exercise.
 
 Following are scenarios to try. You can also have the group come up with scenarios to try.
 
@@ -883,9 +883,9 @@ Say:
 
 
 
-* _Because we want to ensure that no one will hold CICs too long and want the Chama to continue to support projects and the circulation of CIC, we want to appreciate their efforts. We can do this through a holding tax - similar to a group fee. _
+* _Because we want to ensure that no one will hold CAVs too long and want the Chama to continue to support projects and the circulation of CAV, we want to appreciate their efforts. We can do this through a holding tax - similar to a group fee. _
 * _Everyone holding beans at the end of the month must give some beans to the Chama Treasurer. _
-* _Note that in reality this would not exceed 2% a month. For this exercise for every 100 CIC (10 beans) (roughly every 6 months) you hold give one to the Chama Treasurer_
+* _Note that in reality this would not exceed 2% a month. For this exercise for every 100 CAV (10 beans) (roughly every 6 months) you hold give one to the Chama Treasurer_
 
 Let the Chama Treasurer go around and collect a bean from each player for each 10 beans they are holding (round down). Then show the results, as in the tables before.
 
@@ -894,7 +894,7 @@ Let the Chama Treasurer go around and collect a bean from each player for each 1
   <tr>
    <td><strong>Player</strong>
    </td>
-   <td><strong>CIC holdings</strong>
+   <td><strong>CAV holdings</strong>
    </td>
    <td><strong>Holding Tax<em> (after 6 months)</em></strong>
    </td>
@@ -995,48 +995,48 @@ Ask the following questions and give time for discussion.
 
 
 * _What happened here? _
-* _What would the Chama Rep. do with the 400 CIC it collected?_
-    * _Could some be given to the village elders? What would the village elders do with the CIC?_
+* _What would the Chama Rep. do with the 400 CAV it collected?_
+    * _Could some be given to the village elders? What would the village elders do with the CAV?_
     * _Could some be used to support the chama board or community projects?_
 * _Does this tax help ensure people don’t spend and that the system is supported by the Chamas and Village Elders?_
-* _If the group creates 50,000 CIC and this holding tax were taken continuously and resulted in 2% (1000) going back to the chama monthly, would that be too much or too little?_
+* _If the group creates 50,000 CAV and this holding tax were taken continuously and resulted in 2% (1000) going back to the chama monthly, would that be too much or too little?_
 
 You can run additional experiments with different roles, depending on the amount of time that you have and the concerns of the groups. Examples of roles that people could take:
 
 
 
-* Someone with nothing to trade who is being given CIC from the project (elderly, for example).
+* Someone with nothing to trade who is being given CAV from the project (elderly, for example).
 * Someone who is taking advantage of the system and cashing out as much as possible.
-* Someone who does not honor their commitment to receive CIC.
+* Someone who does not honor their commitment to receive CAV.
 
 After each round, you can discuss what happened. You don’t always need to make a board of the totals when it is obvious what happened as a result of the game.
 
 
-## Part 3. Introducing CICs to the rest of community and world
+## Part 3. Introducing CAVs to the rest of community and world
 
-In this section, there will be discussions and exercises to explore how well the participants understand CICs and to present some potential worst-case scenarios. At the end of the section, they should be prepared to go back to their communities, train others, and develop community agreements.
+In this section, there will be discussions and exercises to explore how well the participants understand CAVs and to present some potential worst-case scenarios. At the end of the section, they should be prepared to go back to their communities, train others, and develop community agreements.
 
 
 ### Understanding the Risks
 
 
 
-* _A CIC is not meant to be a store of value, it is a tool for facilitating local trade. Holding onto a CIC is like holding onto a piece of the economy: It has more value if it is traded and accepted. If someone sells all their imported inventory for CICs and can’t buy any more stock their business could collapse._
+* _A CAV is not meant to be a store of value, it is a tool for facilitating local trade. Holding onto a CAV is like holding onto a piece of the economy: It has more value if it is traded and accepted. If someone sells all their imported inventory for CAVs and can’t buy any more stock their business could collapse._
 
 
 ### Obligations
 
 
 
-* _It is up to all of the participants to monitor themselves and the other members, and make sure that people are keeping their commitments to accept CICs. If people are not accepting CICs for goods in the communities, nobody will want to hold them, and people will stop accepting them. _
-* _How do you feel about your community’s ability to keep their word and accept the CICs that they have created? Are there people who you think are more or less likely to keep the agreement? What would you do to make sure that everyone who commits actually keeps the commitment?_
+* _It is up to all of the participants to monitor themselves and the other members, and make sure that people are keeping their commitments to accept CAVs. If people are not accepting CAVs for goods in the communities, nobody will want to hold them, and people will stop accepting them. _
+* _How do you feel about your community’s ability to keep their word and accept the CAVs that they have created? Are there people who you think are more or less likely to keep the agreement? What would you do to make sure that everyone who commits actually keeps the commitment?_
 
 
 #### Dispute Mitigation
 
 
 
-* _Should you create and spend CICs you are obligated to accept them back. The CIC Commitment Agreement should state the repercussions and they should be enforceable by the group and local authorities. There are many possible cases where disputes will arise such as CICs being stolen or someone refusing to accept more after spending. All of these cases need to be thought through before they happen. We will now discuss some worst case scenarios, so you can be prepared and think about how to put in place agreements to prevent these problems or to mitigate the risks if something goes wrong. _
+* _Should you create and spend CAVs you are obligated to accept them back. The CAV Commitment Agreement should state the repercussions and they should be enforceable by the group and local authorities. There are many possible cases where disputes will arise such as CAVs being stolen or someone refusing to accept more after spending. All of these cases need to be thought through before they happen. We will now discuss some worst case scenarios, so you can be prepared and think about how to put in place agreements to prevent these problems or to mitigate the risks if something goes wrong. _
 
 
 #### Worst Case Scenarios
@@ -1045,25 +1045,25 @@ Mention each scenario and then give people time to discuss.
 
 
 
-* _Someone convinces Mama Sammy to accept CIC for all her stock of sugar and she can no longer buy her stock as she needs national currency._
-* _It is taking too long for someone to redeem their CIC in goats after spending them._
-* _Someone collects CIC in a devious way and then spends it all on an unsuspecting shop owner and never accepts it back._
-* _One of the committed backers spends all their CIC in another community._
+* _Someone convinces Mama Sammy to accept CAV for all her stock of sugar and she can no longer buy her stock as she needs national currency._
+* _It is taking too long for someone to redeem their CAV in goats after spending them._
+* _Someone collects CAV in a devious way and then spends it all on an unsuspecting shop owner and never accepts it back._
+* _One of the committed backers spends all their CAV in another community._
 * _The community project funds are not fairly distributed to people for work. The project managers play favorites or fund people who aren’t really doing the work._
 
 
 ### Balancing Inventory
 
-Anyone using a CIC, especially those who aren’t issuers, will have the same question, “If I accept CIC where will I spend it and how will I restock or buy things that need Kenyan Shillings”.
+Anyone using a CAV, especially those who aren’t issuers, will have the same question, “If I accept CAV where will I spend it and how will I restock or buy things that need Kenyan Shillings”.
 
-For a CIC issuer starting with a lump sum of CIC the answer is simple, accept back at least as much as you have spent - then spend more and repeat.
+For a CAV issuer starting with a lump sum of CAV the answer is simple, accept back at least as much as you have spent - then spend more and repeat.
 
 But for a business accepting it for the first time the following are suggested answers
 
 
 
 * _If you as an issuer are trying to convince someone to accept it - you have to point them to where they can spend it - ideally back at your businesses or others in the issuer group, or at other users that have begun to accept it. If that is not an option for them and they need things that simply can’t be found in the network and they have yet to enroll their suppliers, they have some options:_
-    * _They can be careful and accept only as much CIC as they know they can spend on other expenses. Often this means only accepting as much as your profit margins on items you must restock in national currency._
+    * _They can be careful and accept only as much CAV as they know they can spend on other expenses. Often this means only accepting as much as your profit margins on items you must restock in national currency._
     * _Only accepting as much as you might accept informal debts from others. There should be a limit on how much you will sell goods or services on credit._
 * _As a group, it is up to you to make sure there are active members and if there are particular services or items in demand, you can find people who sell those things and invite them to join._
 
@@ -1072,34 +1072,34 @@ But for a business accepting it for the first time the following are suggested a
 
 
 
-* _To manage businesses wisely, participants in the CIC need to do inventory balancing. If you are selling something that can’t be purchased with CIC and accepting CICs for it you must make up that loss in some other way--such as saving national currency on the purchase of daily food for your family._
-* _For example, if you accept 400 CIC for an imported product you are selling you must spend 400 CIC on something that will save you having to spend 400 in National currency - so that you can still purchase your stock. We will now do an exercise to show how that works._
+* _To manage businesses wisely, participants in the CAV need to do inventory balancing. If you are selling something that can’t be purchased with CAV and accepting CAVs for it you must make up that loss in some other way--such as saving national currency on the purchase of daily food for your family._
+* _For example, if you accept 400 CAV for an imported product you are selling you must spend 400 CAV on something that will save you having to spend 400 in National currency - so that you can still purchase your stock. We will now do an exercise to show how that works._
 
-Have someone role play as a shop that sells something that can’t be purchased for CIC (yet). Determine how often you buy stock and how much you buy it for and sell it for: (For example, Coca Cola. Once a month you buy for 20 shillings a bottle and you sell it for 40 shillings a bottle. )
+Have someone role play as a shop that sells something that can’t be purchased for CAV (yet). Determine how often you buy stock and how much you buy it for and sell it for: (For example, Coca Cola. Once a month you buy for 20 shillings a bottle and you sell it for 40 shillings a bottle. )
 
 
 
-* _How much CIC can you use daily in the community?_
-* _How much CIC can you accept per bottle?_
-* _Would you set a different price in shillings than you would in CIC?_
-* _What would happen to the demand for local drinks as opposed to Coca-Cola as the CIC becomes more popular? Is that good for the community?_
+* _How much CAV can you use daily in the community?_
+* _How much CAV can you accept per bottle?_
+* _Would you set a different price in shillings than you would in CAV?_
+* _What would happen to the demand for local drinks as opposed to Coca-Cola as the CAV becomes more popular? Is that good for the community?_
 * _How important are imported products?_
-* _What types of businesses can accept the most CICs?_
+* _What types of businesses can accept the most CAVs?_
 
-**Takeaway: **The individuals can see for themselves how to calculate the amount of CIC they can accept for different products and services (local and imported).
+**Takeaway: **The individuals can see for themselves how to calculate the amount of CAV they can accept for different products and services (local and imported).
 
 
-### External Support for a CIC
+### External Support for a CAV
 
-CICs are vouchers redeemable for goods and services, and like any voucher they can also be bought and sold. Someone might want to buy your CIC in order to give it to someone as a gift. Humanitarian Organizations might do this as well; buy an amount of CIC from the issuers and donate them to needy people in the community.
+CAVs are vouchers redeemable for goods and services, and like any voucher they can also be bought and sold. Someone might want to buy your CAV in order to give it to someone as a gift. Humanitarian Organizations might do this as well; buy an amount of CAV from the issuers and donate them to needy people in the community.
 
-A purchaser of a CIC is paying in advance for goods or services that the CIC is redeemable for. A CIC issuer should treat the purchase of a CIC as a pre-sale - since the CIC will eventually come back to them for redemption in goods and services.
+A purchaser of a CAV is paying in advance for goods or services that the CAV is redeemable for. A CAV issuer should treat the purchase of a CAV as a pre-sale - since the CAV will eventually come back to them for redemption in goods and services.
 
-By donating purchased CICs to the community rather than money directly - this is a way to ensure that the funds at least double their effectiveness in the community - by buying local goods or services and ensuring that those goods or services are consumed locally by those in need.
+By donating purchased CAVs to the community rather than money directly - this is a way to ensure that the funds at least double their effectiveness in the community - by buying local goods or services and ensuring that those goods or services are consumed locally by those in need.
 
-Because all the transactions of a CIC are transparent a donor can tell if the CIC has been redeemed. If the CIC continues to circulate in the community, being redeemed and reissued or purchased then the impact of the support becomes multiplied. This is what we call the multiplier effect of CICs; rather than typical aid that ends up in the hands of people living outside the community.
+Because all the transactions of a CAV are transparent a donor can tell if the CAV has been redeemed. If the CAV continues to circulate in the community, being redeemed and reissued or purchased then the impact of the support becomes multiplied. This is what we call the multiplier effect of CAVs; rather than typical aid that ends up in the hands of people living outside the community.
 
-When thinking about who could buy or accept your CIC, think about who might want or need your goods or services and be willing to preorder it.
+When thinking about who could buy or accept your CAV, think about who might want or need your goods or services and be willing to preorder it.
 
 
 
@@ -1110,36 +1110,36 @@ When thinking about who could buy or accept your CIC, think about who might want
 
 ## Reflections after the course
 
-Ask the participants to talk about what questions CICs and the exercises bring about. This sheet is based on Elinor Östrom’s **Commons Governance Rules**.
+Ask the participants to talk about what questions CAVs and the exercises bring about. This sheet is based on Elinor Östrom’s **Commons Governance Rules**.
 
 
 
-1. Who is part of a CIC and who is not? What are the rules for joining? (_Define clear group boundaries_.)
-2. Are the rules governing CIC creation and usage locally appropriate? (_Match rules governing groups and the use of community resources to local needs and conditions_.)
+1. Who is part of a CAV and who is not? What are the rules for joining? (_Define clear group boundaries_.)
+2. Are the rules governing CAV creation and usage locally appropriate? (_Match rules governing groups and the use of community resources to local needs and conditions_.)
 3. Who can participate in modifying those rules? (_Ensure that those affected by the rules can participate in modifying the rules.)_
-4. How are CIC rules legitimate outside the community or group creating them? (_Make sure the rule-making rights of the community members are respected by outside authorities_.)
-5. How are CIC member behaviours and rule compliance monitored? (_Develop a system, carried out by the community to monitor member’s behaviour such as trade balance._)
-6. How are CIC related disputes resolved in the community? (_Provide accessible low-cost means for dispute resolution.)_
-7. What kind of governance layers are there for maintaining CICs? (_Build responsibility for governing the common resource in nested tiers from the base level to the entire ecosystem._)
+4. How are CAV rules legitimate outside the community or group creating them? (_Make sure the rule-making rights of the community members are respected by outside authorities_.)
+5. How are CAV member behaviours and rule compliance monitored? (_Develop a system, carried out by the community to monitor member’s behaviour such as trade balance._)
+6. How are CAV related disputes resolved in the community? (_Provide accessible low-cost means for dispute resolution.)_
+7. What kind of governance layers are there for maintaining CAVs? (_Build responsibility for governing the common resource in nested tiers from the base level to the entire ecosystem._)
 
 
 ## Next Steps
 
 
 
-1. Read the [Frequently Asked Questions (FAQ)](https://docs.google.com/document/d/1qtlOEL4pqW1vOL893BaXH9OqRSAO3k0q2eWbVIkxEvU/edit?usp=sharing) and test your knowledge with the CIC Quiz.
+1. Read the [Frequently Asked Questions (FAQ)](https://docs.google.com/document/d/1qtlOEL4pqW1vOL893BaXH9OqRSAO3k0q2eWbVIkxEvU/edit?usp=sharing) and test your knowledge with the CAV Quiz.
 2. Ensure your chama meets all the criteria and understands this material.
-3. Develop a CIC Commitment Agreement and have it audited by Grassroots Economics and the local administration.
+3. Develop a CAV Commitment Agreement and have it audited by Grassroots Economics and the local administration.
     1. Contact [info@grassecon.org](mailto:info@grassecon.org) or dial +254757628885
-    2. If approved your CICs will be distributed as per the agreement.
+    2. If approved your CAVs will be distributed as per the agreement.
 4. Start trading and building your community and economy!
 
 
-## Appendix A: CIC Commitment Agreement Template  
+## Appendix A: CAV Commitment Agreement Template  
 
-_Note: Community acceptance, usage and the value of a CIC starts with the issuer backing and vision. This backing is audited and a document as described below must be approved by mediators, the local chief and elders. CIC issuers that spend their CIC in the community must accept it back and are considered in debt until they do so. The following is an example of a statement of commitment and intention to develop a CIC. _
+_Note: Community acceptance, usage and the value of a CAV starts with the issuer backing and vision. This backing is audited and a document as described below must be approved by mediators, the local chief and elders. CAV issuers that spend their CAV in the community must accept it back and are considered in debt until they do so. The following is an example of a statement of commitment and intention to develop a CAV. _
 
-In order to certify and support a community to create a CIC, Grassroots Economics’ CIC Creation criteria requires groups creating a CIC to have a:
+In order to certify and support a community to create a CAV, Grassroots Economics’ CAV Creation criteria requires groups creating a CAV to have a:
 
 
 1. Initial registration as a group at least 1 year ago
@@ -1151,9 +1151,9 @@ In order to certify and support a community to create a CIC, Grassroots Economic
 7. A completed [Voucher application form](/commons/) - Please inquire for specific forms.
 
 
-## Appendix B: CIC Technology
+## Appendix B: CAV Technology
 
-Community Inclusion Currencies CICs are digital tokens residing on a public ledger. CICs accounts can be accessed on feature phones without the internet. In Kenya you can dial *384*96# on Safaricom or *483*46# on Airtel to register your account and set a password. Note that any personal information you share, such as your products and PIN are considered private and confidential. Should you lose your pin you can dial 0757628885 to reach Sarafu Network support. You will be asked several questions to verify your identity and a PIN reset will be sent to your phone.
+Community Asset Vouchers CAVs are digital tokens residing on a public ledger. CAVs accounts can be accessed on feature phones without the internet. In Kenya you can dial *384*96# on Safaricom or *483*46# on Airtel to register your account and set a password. Note that any personal information you share, such as your products and PIN are considered private and confidential. Should you lose your pin you can dial 0757628885 to reach Sarafu Network support. You will be asked several questions to verify your identity and a PIN reset will be sent to your phone.
 
 
 
@@ -1185,14 +1185,14 @@ Under your Account you will see your profile information as well as your account
 ![alt_text](images/image5.png "image_tooltip")
 
 
-Note that there are many CICs. While you start with SRF eventually you should create your own CIC with your community. In addition other organizations and humanitarian organizations might send you a CIC. By selecting My Sarafu you will see a list of the tokens (Sarafu) you have and can choose one to be your active token at any time. Your active Sarafu’s balance will be the one now listed on the main menu and will be the one used for sending.
+Note that there are many CAVs. While you start with SRF eventually you should create your own CAV with your community. In addition other organizations and humanitarian organizations might send you a CAV. By selecting My Sarafu you will see a list of the tokens (Sarafu) you have and can choose one to be your active token at any time. Your active Sarafu’s balance will be the one now listed on the main menu and will be the one used for sending.
 
 
 ## Appendix C: Income Generating Activities (IGAs)
 
-Quite often IGAs are developed by an CIC issuing group as one of the primary backers of a CIC. It is important to fully understand how to set up an IGA for use with a CIC. This is similar to running a business while using vouchers or coupons.
+Quite often IGAs are developed by an CAV issuing group as one of the primary backers of a CAV. It is important to fully understand how to set up an IGA for use with a CAV. This is similar to running a business while using vouchers or coupons.
 
-Upon creating a CIC a group will have clear commitments to redeeming them for goods and services. A community project or IGA can be a major source of commitments to backing a CIC.
+Upon creating a CAV a group will have clear commitments to redeeming them for goods and services. A community project or IGA can be a major source of commitments to backing a CAV.
 
 Below are some things to consider:
 
@@ -1209,7 +1209,7 @@ Below are some things to consider:
 2. **Finances**
     8. What is the product price?
     9. What does your competitor charge? What is the Market Rate?
-    10. How do customers pay in CIC and national currency (minimum or maximum CIC)
+    10. How do customers pay in CAV and national currency (minimum or maximum CAV)
     11. What is your revenue? e.g total sales (daily monthly yearly?)
     12. What are your costs? e.g rent, electricity, transport. (daily, monthly, yearly?)
     13. What is the profit margin?
@@ -1255,18 +1255,18 @@ Below example shows an estimation plan of a water vending business.
         12.
     9. What does your competitor charge? What is the Market Rate?
         13. ksh 20 for 1 jerry can (20ltr jerry can) Market price
-    10. How do customers pay in CIC and national currency (minimum or maximum CIC)
+    10. How do customers pay in CAV and national currency (minimum or maximum CAV)
         14. The  profit per jerrycan will be buying price minus selling price which is Ksh 20 - 12 = Ksh 8
-        15. This is how much is expected when selling  1 jerry can for ksh15 and 5CIC
+        15. This is how much is expected when selling  1 jerry can for ksh15 and 5CAV
     11. What is your revenue? e.g total sales (daily monthly yearly?)
         16. Revenue per tank
             1. Ksh 15 * 250 = 3750
-            2. CIC 5 * 250 = 1250
+            2. CAV 5 * 250 = 1250
     12. What are your costs? e.g rent, electricity, transport. (daily monthly yearly?)
     13. What is the profit margin?
         17. Profit margin
         18. Ksh 3750 - Ksh 3000 = Ksh750
-        19. CIC 1250
+        19. CAV 1250
         20. Ksh. 3000 will be used to refill water in the water tank.
 3. **Management**
     14. Who is doing the quality control? In a community project, committee members, group officials can take roles in quality control. Ensuring expected standards are met.
@@ -1276,17 +1276,17 @@ Below example shows an estimation plan of a water vending business.
         22. Bob and Sally
     17. Who manages the project / funds And what that person does with funds?
     18. Wage Percentage.
-        23. For this case, wages will be paid after let's say  first round refill. Employee on duty will get a percentage in both CIC and Ksh.
+        23. For this case, wages will be paid after let's say  first round refill. Employee on duty will get a percentage in both CAV and Ksh.
         24. Quality check officer E.g Sally 20%-
         25. 20% of ksh 750 = Ksh 150
-        26. 20% of 1250 =  CIC 250
+        26. 20% of 1250 =  CAV 250
         27. Labour Mbui 30%
         28. 30% of ksh. 750 = Ksh 225
         29. 30% of ksh
-        30.      CIC 375
+        30.      CAV 375
         31. Chama - 50%
         32. 50% of ksh 750 = Ksh 375
-        33. 50% of ksh 1250 = CIC 675
+        33. 50% of ksh 1250 = CAV 675
         34.
         35. 6.Chama Fund
         36. Chama’s percentage can be used in the following ways.
@@ -1300,12 +1300,12 @@ Below example shows an estimation plan of a water vending business.
     21. What are your strategies on how to deal with emerging issues e.g cheating
     22. Are you in compliance with local law?
     23. Are there any conflicts of interest? (e.g. your ONLY supplier is running the IGA)
-* _The community projects are where the CIC helps you improve your community much more than just putting money in circulation. The best thing about these community projects is that the CIC gives you the opportunity to decide for yourselves what projects are most important, and to pay your local townspeople for doing those projects. It might be planting trees, building a health center, educating the children—whatever you think is most important.  You do not rely on someone outside to tell you what projects to do. Instead you yourselves make decisions about what is best for your community. _
+* _The community projects are where the CAV helps you improve your community much more than just putting money in circulation. The best thing about these community projects is that the CAV gives you the opportunity to decide for yourselves what projects are most important, and to pay your local townspeople for doing those projects. It might be planting trees, building a health center, educating the children—whatever you think is most important.  You do not rely on someone outside to tell you what projects to do. Instead you yourselves make decisions about what is best for your community. _
 
 
-## Appendix D: Projects and Purpose of the CIC
+## Appendix D: Projects and Purpose of the CAV
 
-Note that instead of simply backing a CIC with the audited goods and services of the issuing group. The group could decide to back the CIC with the outputs from a community project. This is more risky as the auditing process is much harder - as a village elder must assess the ability of the group to fulfill the redemption requirement on the vouchers.
+Note that instead of simply backing a CAV with the audited goods and services of the issuing group. The group could decide to back the CAV with the outputs from a community project. This is more risky as the auditing process is much harder - as a village elder must assess the ability of the group to fulfill the redemption requirement on the vouchers.
 
 In this exercise, the group will discuss the needs of the community and consider projects or income generating activities that they could do together. You can do this in small groups of 4 or 5, or in the classroom together. You can have them form groups themselves or count off to create more random groups.
 
@@ -1313,7 +1313,7 @@ Say:
 
 
 
-* _We are now going to explore what it would be like for you to create and use a CIC for your community. As I mentioned before, when we create the CIC, we create a currency we can use for trade—but also we can create surplus credit that can go towards projects._
+* _We are now going to explore what it would be like for you to create and use a CAV for your community. As I mentioned before, when we create the CAV, we create a currency we can use for trade—but also we can create surplus credit that can go towards projects._
 * _In your small groups, discuss what you think the community needs and the goals for the community. Examples might be delivering a local service, providing basic needs, education scholarships, growing the economy, helping the needy—it is up to you what your goals could be.  Have one person write your ideas. I will give you 5 minutes._
 
 After 5 minutes have them stop and say:
@@ -1324,7 +1324,7 @@ After 5 minutes have them stop and say:
 
 After 5 minutes, have them stop. Have a group discussion with the purpose of determining the top ideas and projects that the group would initially want to fund.
 
-First, write down the ideas of the purpose of the CIC on the board, or have all the lists posted on the board. Have the group discuss the ideas and reach a consensus about the purpose.
+First, write down the ideas of the purpose of the CAV on the board, or have all the lists posted on the board. Have the group discuss the ideas and reach a consensus about the purpose.
 
 ## Addendum
 

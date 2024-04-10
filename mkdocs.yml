@@ -2,11 +2,6 @@ site_name: Grassroots Economics Documentation
 site_url: https://docs.grassecon.org
 nav:
   - Karibu: index.md
-  - Staking:
-      - Intro: staking/index.md
-      - Staking Guide:
-          - Guide: staking/guide.md
-          - Othello Wallet: staking/othello.md
   - Community:
       - Intro: community/index.md
       - Charter: community/charter.md
@@ -30,7 +25,11 @@ nav:
       - PATH License: commons/path.md
       - Data Policy: commons/data_policy.md
       - Child Protection Policy: commons/child_policy.md
-  - Software: https://cic-stack.grassecon.org/
+  - Digital:
+      - Intro: digital/index.md
+      - Software: https://cic-stack.grassecon.org/
+      - Staking Guide: digital/guide.md
+      - Othello Wallet: digital/othello.md
   - Education:
       - Intro: edu/index.md
       - Glossary: edu/glossary.md

@@ -1,9 +1,8 @@
 
-
 # Stakeholder Engagement Guide 
 
 
-*for the Implementation of CICs in new communities*
+*for the Implementation of CAVs in new communities*
 
 
 ## Introduction 
@@ -12,7 +11,7 @@ Humanitarian organizations and foundations that have grasped the importance of a
 
 This document serves as a best practice guide for implementing agencies on how to effectively engage stakeholders in the community. The guide aims to provide the reader with the good practice “essentials” for managing stakeholder relationships in a dynamic context, where unexpected events can and do occur, and facts on the ground change.
 
-Stakeholder engagement is a continuous process between the Implementing agency and those potentially benefiting from the Implementation of Community Inclusion Currencies (CICs).
+Stakeholder engagement is a continuous process between the Implementing agency and those potentially benefiting from the Implementation of Community Asset Vouchers (CAVs).
 
 This process will span through the entire timeline of the project.
 
@@ -30,7 +29,7 @@ This guide is meant as a handbook for best practices. It is essential that imple
 
 ### Build Rapport 
 
-Relationship building takes time and so does gaining trust in a community. Following friendly visits to relevant stakeholders,with official introductions can help the Implementing agency build relationships based on trust and mutual respect and understanding. The initial field visits should mainly be for information gathering purposes. The visiting agents can assess culture, business activities, climatic conditions etc. This is usually best done with the help of a community leader or CIC champion. By building strong rapport with them in the beginning and engaging them in the project design, they will feel ownership of the project and that their views are important.
+Relationship building takes time and so does gaining trust in a community. Following friendly visits to relevant stakeholders,with official introductions can help the Implementing agency build relationships based on trust and mutual respect and understanding. The initial field visits should mainly be for information gathering purposes. The visiting agents can assess culture, business activities, climatic conditions etc. This is usually best done with the help of a community leader or CAV champion. By building strong rapport with them in the beginning and engaging them in the project design, they will feel ownership of the project and that their views are important.
 
 **Engagement needs to happen at the preparedness phase**
 
@@ -41,7 +40,7 @@ Taking a proactive approach means fighting the instinct to delay consultation be
 
 Establishing and maintaining good relationships requires a long time-horizon. Implementing agencies who take this view tend to make different types of decisions. They invest in hiring and training community liaison staff and see the value of consistently following through on their commitments to stakeholders. They invest in translating information about their project into local languages and dialects and formats that make sense to the local population and do so on an ongoing basis. They make the effort to personalize relationships through informal and social interactions, and work through their employees to build links to local communities. They take grievances seriously and deal with them in a reliable and timely manner. They listen more and learn from the community. Their senior managers stay involved with stakeholder activities and integrate this function into their Implementation  plans. Importantly, Implementing agencies that focus on lasting relationships think in terms of the bigger picture and do not allow short-term interests (such as negotiating the lowest possible compensation rates) to jeopardize their broader social license to operate in the area.
 
-At every stage of the implementation process, the end must be in our periphery. The aim of the CICs is to have little to no external interference. Our goal is to ensure that the communities in the end do not need us at all. Having a clear exit strategy mapped out in the beginning will ensure that capacity building is taking place to enable and empower the community to thrive independently. 
+At every stage of the implementation process, the end must be in our periphery. The aim of the CAVs is to have little to no external interference. Our goal is to ensure that the communities in the end do not need us at all. Having a clear exit strategy mapped out in the beginning will ensure that capacity building is taking place to enable and empower the community to thrive independently. 
 
 
 ### Community Owned Programming
@@ -192,7 +191,7 @@ Engagement with external stakeholders should be considered an integral component
 
 ## Example Stakeholder List
 
-Before research in the community can be carried out, there is an essential need to engage the local government and essential stakeholders in the discussion about CICs. 
+Before research in the community can be carried out, there is an essential need to engage the local government and essential stakeholders in the discussion about CAVs. 
 
 In the example of Kenya, a village chief and DCC must always be alerted during the initial phase of Implementation.This is to be done before any community engagement can take place. This is to protect the community from fraudsters and ensure due diligence is done to protect the beneficiaries. Note that having a local Trainer of Trainers on board that knows the relevant authorities, customs and languages is wonderful to work with and assist in any meetings.
 
@@ -238,17 +237,17 @@ DD-MM-YYYY
 
 Dear Sir/ Madam,
 
-**<span style="text-decoration:underline;">Re: Community Inclusion Currencies</span>**
+**<span style="text-decoration:underline;">Re: Community Asset Vouchers</span>**
 
 This Implementing Agency, with the assistance of county governments and other local stakeholders such as, Mosques, Churches, community chamas, schools, and individuals alike are working to create healthy and sustainable communities in the face of hard economic conditions. 
 
-Community Inclusion Currencies (CICs) can be described as vouchers created by local groups and organizations that can be used to **support vulnerable households** in communities. During times of crisis it helps communities support each other and maintain continued trade regardless of whether or not an individual can access local currency. 
+Community Asset Vouchers (CAVs) can be described as vouchers created by local groups and organizations that can be used to **support vulnerable households** in communities. During times of crisis it helps communities support each other and maintain continued trade regardless of whether or not an individual can access local currency. 
 
-In general, the CIC program aims to empower communities to take on the responsibility for their own financial well-being and economic growth. The purpose of the training is to help communities understand the benefits and obligations of being part of the network. For instance, Community Inclusion Currencies (CICs) are a means to launch community projects, jump-start or bolster local economies, boost financial inclusion and to foster independence and sustainability of vulnerable communities. 
+In general, the CAV program aims to empower communities to take on the responsibility for their own financial well-being and economic growth. The purpose of the training is to help communities understand the benefits and obligations of being part of the network. For instance, Community Asset Vouchers (CAVs) are a means to launch community projects, jump-start or bolster local economies, boost financial inclusion and to foster independence and sustainability of vulnerable communities. 
 
-CICs are easy to use and open to everyone as a means of offering their support to the local community by providing their goods and services for barter trade. To enroll you simply dial *384*96# on your phone line. 
+CAVs are easy to use and open to everyone as a means of offering their support to the local community by providing their goods and services for barter trade. To enroll you simply dial *384*96# on your phone line. [Or other instructions] 
 
-It is in this regard that we write to your esteemed office requesting for a time to meet and ultimately authorization to continue with the implementation of community inclusion currency within District and its environs. 
+It is in this regard that we write to your esteemed office requesting for a time to meet and ultimately authorization to continue with the implementation of Community Asset Vouchers within District and its environs. 
 
 Thank you and we look forward to your support.
 

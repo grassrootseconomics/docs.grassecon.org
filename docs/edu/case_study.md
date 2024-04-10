@@ -1,4 +1,4 @@
-# Case Study - Binguni & Mbele in Kenya
+# CAV Case Study - Binguni & Mbele in Kenya
 
 ## Trapped abundance
 
@@ -16,23 +16,23 @@ Simply put, there is land that can be tilled, and people that can farm - there i
 
 Within the community there is a group that saves money together, they have a structured chama/tontine/VSLA whereby they provide financial support to the internal members through a collective savings pool. They call themselves ‘Binguni’, and they want a better life for themselves, and their families. 
 
-## Creating a CIC
+## Creating a CAV
 
-Members of the Binguni group have heard of Community Inclusion Currencies (called Sarafu in Kenya) that help empower marginalized communities to take charge of their own livelihoods and economic future. They connect with a core service provider (CSP) who are prepared to help them through the process. The CSP begins to engage with the community, local government, community elders and leaders to ascertain whether the community has sufficient latent capacity and resources, paired with a demand for the realization of the potential of both. 
+Members of the Binguni group have heard of Community Asset Vouchers (CAVs) that help empower marginalized communities to take charge of their own livelihoods and economic future. They connect with a core service provider (CSP) who are prepared to help them through the process. The CSP begins to engage with the community, local government, community elders and leaders to ascertain whether the community has sufficient latent capacity and resources, paired with a demand for the realization of the potential of both. 
 
 > The community group engages with a Core Service Provider to learn
 
 **A Core Service Provider(CSP) works with Binguni to map the resources and capacity of the community, to gauge latent/potential abundance amongst them and the area. Once mapped, the CSP brings awareness to the community of the available resources and capacity. 
 
-The community group is now aware of their potential, but with the local deficit of national currency to create market liquidity. They lack the instrument with which to trade with each other in order to develop an economy around their available resources and capacity. An CSP trains the community group on the value of Community Inclusion Currencies. 
+The community group is now aware of their potential, but with the local deficit of national currency to create market liquidity. They lack the instrument with which to trade with each other in order to develop an economy around their available resources and capacity. An CSP trains the community group on the value of Community Asset Vouchers. 
 
-The community group decides to issue their own Community Inclusion Currency - a tradable Voucher, redeemable for the collective goods and services within the group. The group gathers, and each member presents the quantity of goods or services they have to offer within a month (either as a month’s value, or 12% of a year’s value) and are willing to provide in exchange for the vouchers (CICs) that they will create. They denominate their offerings in national currency, and there is a collective verification of that value by elders, chiefs, and others. 
+The community group decides to issue their own Community Inclusion Currency - a tradable Voucher, redeemable for the collective goods and services within the group. The group gathers, and each member presents the quantity of goods or services they have to offer within a month (either as a month’s value, or 12% of a year’s value) and are willing to provide in exchange for the vouchers (CAVs) that they will create. They denominate their offerings in national currency, and there is a collective verification of that value by elders, chiefs, and others. 
 
 ## Joining a Economic Commons
 
 > The community group becomes part of an Economic Commons
 
-In order to issue their own CIC, the group needs to enter into three agreements, in this order:
+In order to issue their own CAV, the group needs to enter into three agreements, in this order:
 
 1. An Economic Commons Agreement: this is an agreement every member has to sign individually, and is effectively a terms and conditions of the full ecosystem. 
 2. A Membership Agreement: this agreement exists between the members of the group (Binguni), and ensures that: 
@@ -58,7 +58,7 @@ All 20 Internal Members offer 2500 shillings worth of their monthly goods and se
 
 Each Member of Binguni is issued 2500 BIGIs, and each elect to put 200 of that back into the communal pot. Each member now has 2300 BIGIs, and the communal pot has 4000. This pot could be used as a group savings or loan account, but the group agrees to use the savings for the project of the future farm - a group business that they will all benefit from in the long run. They could have elected to issue vouchers directly to the project, based on the estimated future value of the farm - in which case 2500 would have gone to the project as if it were a member, but the group decided to save communally, rather than risk minting vouchers with an uncertain future production value. Doing it this way has meant that all of the vouchers are more reliably redeemable for goods and services, as they were backed by auditable production of the members prior to issuance. 
 
-## Using their CIC
+## Using their CAV
 
 Each member now has 2300 BIGIs, and they can begin to trade. 
 
@@ -78,17 +78,17 @@ Pamela now has 2370 BIGIs in her digital wallet, and can add the 250 shillings s
 
 The BINGUNI group gathers to decide on what they need to do to start farming. Within the group they have labour, skills, seeds and access to water, but they lack a few resources. The main thing they lack is a womanpower. A group of local farmers in Mbele, have spare time to do land preparation - but the Binguni group are short of shillings to be able to pay them. BINGUNI members approach the Mbele group, and ask whether he would be willing to receive partial payment in BIGIs. Mbele women agree to accept BIGIs as partial payment, and can now redeem the vouchers for resources they needs, that members within BINGUNI have, namely seeds and water. They also come to the Binguni community meeting, where they taste Pamela’s fried potatoes and loved them, so they plans on using some of their BIGIs to buy from her at the next meeting as well. 
 
-## More CICs form
+## More CAVs form
 
 Seeing the success of the Binguni community, the Mbele group decides to issue their own Vouchers. In the same environment region, with slightly different skills and resources, they have different goods and services to offer in exchange for their vouchers. The Mbele group has members that are skilled in water management, which would be of value to the broader community if that capacity were shared. The Mbele voucher is called an MBELE. 
 
-A CSP also trains the Binguni and Mbele groups on the methods of syntropic agroforestry, to upskill them and develop more sustainable farming practices within the community. The training is intended to bring a more sustainable income generating activity to the community, using the CICs as a financial instrument bridge between excess capacity and a thriving local economy. Both groups have a communal savings pot that they have dedicated toward a group business. The groups are trained, and start to use their communal vouchers to pay for labour within their group. Because Mbele and Binguni have different, but complementary goods and services, the groups decide to accept each others’ vouchers. 
+A CSP also trains the Binguni and Mbele groups on the methods of syntropic agroforestry, to upskill them and develop more sustainable farming practices within the community. The training is intended to bring a more sustainable income generating activity to the community, using the CAVs as a financial instrument bridge between excess capacity and a thriving local economy. Both groups have a communal savings pot that they have dedicated toward a group business. The groups are trained, and start to use their communal vouchers to pay for labour within their group. Because Mbele and Binguni have different, but complementary goods and services, the groups decide to accept each others’ vouchers. 
 
 A Binguni member is paid in MBELEs for his time spent tilling the land on the communal property of the Mbele group. A Mbele member is paid in BIGIs for her time teaching the Binguni group how to manage erosion on their land. Many more trades happen between the communities in service of developing their farms and farming practices.  
 
 John, the local farmer with the plough, is now valuable to both groups and decides to accept partial payments in BIGIs and MBELEs. He is now able to redeem those vouchers for goods and services from the two groups (seeds, water management labour, rich soil), and hopes to be able to redeem them in the future for the fresh produce that the new farms will provide. 
 
-The vouchers have provided a link between the latent capacity and a circular local trade of goods and services, for the benefit of the community. Through their circulation these vouchers form a Community Inclusion Currency (CIC).
+The vouchers have provided a link between the latent capacity and a circular local trade of goods and services, for the benefit of the community. Through their circulation these vouchers form a Community Inclusion Currency (CAV).
 
 The group members have started to save their Kenyan shillings and are able to use that money for investments into education, infrastructure, housing and resources that are available to them. 
 
@@ -96,10 +96,10 @@ The group members have started to save their Kenyan shillings and are able to us
 
 A humanitarian organization, wants to support the broader community in this area of Kenya. They have two options to do so:
 
-1. They can invest in developing more income generating activities within the community. For example, they could buy a maize mill, or provide business training to the group members in order to improve their ability to generate income with their latent capacity. This can increase the amount of CICs that the community can redeem and hence issue.
-2. They can buy the BIGIs and MBELEs from the groups, either from the communal pots or from the members themselves, and redistribute those vouchers out to the broader community. They are effectively pre-buying the goods and services of the members within the group, and allowing for the broader community to have access to goods and services that they didn’t have money for before. Rather than providing cash, which would quickly leave the community, the vouchers ensure a local circulation of currency, and a boost to local trade.
+1. They can invest in developing more income generating activities within the community. For example, they could buy a maize mill, or provide business training to the group members in order to improve their ability to generate income with their latent capacity. This can increase the amount of CAVs that the community can redeem and hence issue.
+2. They can buy the BIGIs and MBELEs from the groups, either from the communal pots or from the members themselves, and redistribute those vouchers out to the broader community. They are effectively pre-buying the goods and services of the members within the group, and allowing for the broader community to have access to goods and services that they didn’t have money for before. Rather than providing cash, which would quickly leave the community, the vouchers ensure a local circulation of goods and services, and a boost to local trade.
 
 This is similar to a Cash and Voucher Assistance program but with the vouchers coming from the local community. Providing aid in this way, to the communities, has allowed for higher volumes and more sustainable circulation of goods and services through the community, a huge step from basic cash assistance. 
 
-Through the implementation of capacity building like syntropic agroforestry, and more importantly, the linkage of Community Inclusion Currencies, the communities have bypassed stagnate markets and moved toward a conscious decision and ability to coordinate.
+Through the implementation of capacity building like syntropic agroforestry, and more importantly, the linkage of Community Asset Vouchers, the communities have bypassed stagnate markets and moved toward a conscious decision and ability to coordinate.
 
