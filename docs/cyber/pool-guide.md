@@ -17,7 +17,7 @@ Once inside Sarafu.Network clicks Connect Wallet then choose Valora - then Conne
 ![staking](img/Sarafu-Pool-Valora3.webp){: .center}
 
 Finally click to Sign the message and you should see your account on Sarafu.Network. 
-If you have not signed up for a Social Account please do so - this gives you free Celo gas top ups which you will need later. Being approved for a Social Account may take up to a week.
+If you have not signed up for a Social Account please do so - this gives you an alias (so you can send from ussd *384*96# to your valora account) as well as free Celo gas top ups which you will need later. Being approved for a Social Account may take up to a week.
 
 ![staking](img/Sarafu-Pool-Valora4.webp){: .center}
 
