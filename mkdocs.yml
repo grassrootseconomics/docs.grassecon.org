@@ -25,11 +25,11 @@ nav:
       - PATH License: commons/path.md
       - Data Policy: commons/data_policy.md
       - Child Protection Policy: commons/child_policy.md
-  - Digital:
-      - Intro: digital/index.md
+  - Cyber:
+      - Intro: cyber/index.md
       - Software: https://cic-stack.grassecon.org/
-      - Staking Guide: digital/guide.md
-      - Othello Wallet: digital/othello.md
+      - Pooling Guide: cyber/pool-guide.md
+      - Staking Guide: cyber/staking-guide.md
   - Education:
       - Intro: edu/index.md
       - Glossary: edu/glossary.md

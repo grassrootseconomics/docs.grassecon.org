@@ -29,14 +29,14 @@ Experience is key in understanding how to use a CAV, therefore the course is str
 
 ## Before You Start
 
-Community Asset Vouchers is a specific type of community currency. There are thousands of community currency projects worldwide with different purposes. Community currencies supplement government-issued money to help increase the economy of the community.
+Community Asset Vouchers is a specific type of formalized commitment. There are thousands of similar projects worldwide with different purposes. Community Asset Vouchers supplement government-issued money to help increase the economy of the community.
 
 
 ### Why CAVs?
 
 Community Asset Vouchers (CAVs) are a means to launch community projects, jump-start or bolster local economies, boost financial inclusion and to foster independence and sustainability of underserved communities.
 
-Unlike other community currency mechanisms, CAV is designed to fund community projects and support contributors. Using a CAV is a great way for funders to double or quadruple the amount of assistance they can provide and to encourage local economic resilience while integrating with other local, national and international economies.
+CAVs are designed to fund community projects and support contributors. Using a CAV is a great way for funders to double or quadruple the amount of assistance they can provide and to encourage local economic resilience while integrating with other local, national and international economies.
 
 You can think of a CAV as an interest-free  funding mechanism that can jump-start resilient economies. CAV’s enable money that is used for projects to continue to circulate in the economy, rather than being used up as the project completes. The community itself can create mechanisms to renew the monetary supply, forgive debt and fund additional projects in the community.  
 
@@ -187,20 +187,6 @@ Community groups of different types have been making currencies since before hum
 
 We recommend you see the following videos and if possible, have participants see some of these videos before coming to the session.
 
-Videos of other Community Currencies (CC):
-
-
-
-1. CAV Animation: [https://www.youtube.com/watch?v=bHM1DRHSUPw](https://www.youtube.com/watch?v=bHM1DRHSUPw)
-2. Videos from around the world:
-    1. Bancos Palmas: (Portuguese with English Subtitles) [https://www.youtube.com/watch?v=h8YLFKr7lZs](https://www.youtube.com/watch?v=h8YLFKr7lZs)
-    2. Berkshares: (English) [https://www.youtube.com/watch?v=bzzkDRIjW30](https://www.youtube.com/watch?v=bzzkDRIjW30)
-    3. [https://www.tandfonline.com/doi/abs/10.1179/004049680793691185?journalCode=ytex20](https://www.tandfonline.com/doi/abs/10.1179/004049680793691185?journalCode=ytex20)
-    4. [https://www.jstor.org/stable/3601537?](https://www.jstor.org/stable/3601537?seq=1)
-    5. [https://www.youtube.com/watch?time_continue=177&v=xGmKcS5PbDE&feature=emb_logo](https://www.youtube.com/watch?time_continue=177&v=xGmKcS5PbDE&feature=emb_logo)
-    6. [https://www.youtube.com/watch?time_continue=2&v=stup1F8R0gg&feature=emb_logo](https://www.youtube.com/watch?time_continue=2&v=stup1F8R0gg&feature=emb_logo)
-
-
 ### Basic CAV Usage
 
 A core principle of CAVs is that community members have more goods and services to offer each other than they have national currency to buy them; that there is the potential for an abundance of both supply and demand that the community can fulfill for itself, **if** they had an adequate medium of exchange.
@@ -217,7 +203,7 @@ What defines local or community? What would happen if everyone in your community
 
 
 
-### Community Currencies: Lecture and Discussion 30 Minutes
+### Community Asset Vouchers: Lecture and Discussion 30 Minutes
 
 Make sure everyone has a pen and paper to take notes.
 
