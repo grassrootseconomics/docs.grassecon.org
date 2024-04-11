@@ -17,7 +17,7 @@ Once inside Sarafu.Network clicks Connect Wallet then choose Valora - then Conne
 ![staking](img/Sarafu-Pool-Valora3.webp){: .center}
 
 Finally click to Sign the message and you should see your account on Sarafu.Network. 
-If you have not signed up for a Social Account please do so - this gives you free Celo gas top ups which you will need later
+If you have not signed up for a Social Account please do so - this gives you free Celo gas top ups which you will need later. Being approved for a Social Account may take up to a week.
 
 ![staking](img/Sarafu-Pool-Valora4.webp){: .center}
 
@@ -25,6 +25,7 @@ Now click on the top left menu and find Pools. Click on the pool you want to use
 ![staking](img/Sarafu-Pool-Valora5.webp){: .center}
 
 Scroll down to exchange and select the asset and amount that you want to swap as well as the asset you want to swap it for.
+Note that you can only excahnge vouchers or other digital assets you have for what is in the pool.
 
 ![staking](img/Sarafu-Pool-Valora6.webp){: .center}
 
