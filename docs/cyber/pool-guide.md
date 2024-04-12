@@ -26,11 +26,9 @@ sw: Ukiwa ndani ya Sarafu.Network bofya Unganisha Wallet kisha uchague Valora - 
 
 ![staking](img/Sarafu-Pool-Valora3.webp){: .center}
 
-en: Finally click to Sign the message and you should see your account on Sarafu.Network. 
-If you have not signed up for a Social Account please do so - this gives you an alias (so you can send from ussd *384*96# to your valora account) as well as free Celo gas top ups which you will need later. Being approved for a Social Account may take up to a week.
+en: en: Finally click to Sign the message and you should see your account on Sarafu.Network. If you have not signed up for a Social Account please do so - this gives you an alias (so you can send from ussd ***384***96# to your valora account) as well as free Celo gas top ups which you will need later. Being approved for a Social Account may take up to a week
 
-sw: Hatimaye bofya ili kutia sahihi ujumbe na unapaswa kuona akaunti yako kwenye Sarafu.Network.
-Ikiwa hujajiandikisha kwa Akaunti ya Kijamii tafadhali fanya hivyo - hii inakupa jina lak (ili uweze kutuma kutoka ussd *384*96# hadi kwenye akaunti yako ya valora) pamoja na nyongeza za bure za Celo ambazo utahitaji baadaye. Kuidhinishwa kwa Akaunti ya Kijamii kunaweza kuchukua hadi wiki.
+sw: Hatimaye bofya ili kutia sahihi ujumbe na unapaswa kuona akaunti yako kwenye Sarafu.Network. Ikiwa hujajiandikisha kwa Akaunti ya Kijamii tafadhali fanya hivyo - hii inakupa jina lako (ili uweze kutuma kutoka ussd ***384***96# hadi kwenye akaunti yako ya valora) pamoja na nyongeza za bure za Celo ambazo utahitaji baadaye. Kuidhinishwa kwa Akaunti ya Kijamii kunaweza kuchukua hadi wiki.
 
 ![staking](img/Sarafu-Pool-Valora4.webp){: .center}
 
