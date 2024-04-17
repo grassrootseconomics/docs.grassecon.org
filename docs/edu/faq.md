@@ -109,7 +109,7 @@ This FAQ accompanies the [Training Guide](/training/) and the [Glossary](/glossa
     * CAVs accounts can be accessed through USSD on feature phones - and soon an app and web interface.
     * The Sarafu Network was built using Python and Typescript and Solidity
 * Is the technology open source?
-    * Yes all docs and code can be found [here](https://gitlab.com/grassrootseconomics)
+    * Yes all docs and code can be found [here](https://github.com/grassrootseconomics)
 * How do you prevent a run on the reserves of a CAV?
     * There is no automated reserve on-chain.
     * CAV should be created against goods and services.

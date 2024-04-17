@@ -1,6 +1,6 @@
 # Cyper-Social Infrastructures
 
-If you are a programmer please check out our [software](https://cic-stack.grassecon.org/): Join a community of developers working to build the technical stack and become a platform service provider to help communities develop their own financial instruments.
+If you are a programmer please check out our [software](https://software.grassecon.org/): Join a community of developers working to build the technical stack and become a platform service provider to help communities develop their own financial instruments.
 
 #  Commitment Pooling
 

@@ -27,7 +27,7 @@ nav:
       - Child Protection Policy: commons/child_policy.md
   - Cyber:
       - Intro: cyber/index.md
-      - Software: https://cic-stack.grassecon.org/
+      - Software: https://software.grassecon.org/
       - Pooling Guide: cyber/pool-guide.md
       - Staking Guide: cyber/staking-guide.md
   - Education:
@@ -39,7 +39,7 @@ nav:
       - Case Study: edu/case_study.md
       - MOOC: https://www.grassrootseconomics.org/pages/mooc.html
 
-repo_url: https://gitlab.com/grassrootseconomics/grassrootseconomics.gitlab.io
+repo_url: https://github.com/grassrootseconomics/docs.grassecon.org
 repo_name: grassrootseconomics/docs
 edit_uri: -/tree/main/docs
 theme:
