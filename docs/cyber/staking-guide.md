@@ -16,9 +16,14 @@ Join us in making a difference. Stake your CELO with Grassroots Economics and be
 5. Anyone can exchange cUSD or Celo for CAVs to support communities and can also exchange the CAVs to receive products.
 
 
+# Current Stake
+
+To check the total current stake on the GrassrootsEconomics validator (group) check the number of **Votes** [here](https://celoscan.io/address/0xd8457a4b949c1b7Bc26538F54743Aa61EEcA38B6#info).
+
 # Staking Guide
 
 Follow this step-by-step guide to stake with the **Grassroots Economics** validator on Celo.
+
 
 ## Disclaimer
 
