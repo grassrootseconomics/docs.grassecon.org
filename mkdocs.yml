@@ -41,7 +41,7 @@ nav:
 
 repo_url: https://github.com/grassrootseconomics/docs.grassecon.org
 repo_name: grassrootseconomics/docs
-edit_uri: -/tree/main/docs
+edit_uri: edit/main/docs
 theme:
   name: material
   custom_dir: overrides
