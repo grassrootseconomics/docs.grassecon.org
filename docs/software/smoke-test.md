@@ -9,49 +9,37 @@
     *assumes you are using a unix environment*
     ```bash```
     
-    ```git clone https://gitlab.com/grassrootseconomics/cic-internal-integration.git```
-    
-    ```cd apps/cic-ussd```
-    
-    ```python3 -m venv .venv```
-    
-    ```source .venv/bin/activate```
-    
-    ```pip install -r requirements.txt --extra-index-url=https://pip.grassrootseconomics.net```
+    ```https://github.com/nndi-oss/dialoguss/releases/tag/v0.6.0```
+    ```Download dialoguss_0.6.0_Linux_x86_64.tar.gz and extract ```
 
     2. Use the CLI
 
-    *assumes you are in the cic-stack/apps/cic-ussd folder*
+    *Then create a file called ge_test_ussd.yaml with the contents*
     
-    ```bash```
+    ```url: https://ussd-staging.sarafu.africa/ussd/xxxxx
+    dial: "*384*96#"
+    phoneNumber: +254711777734
     
-    ```USSD_SERVICE_CODE=*483*061# python cic_ussd/runnable/client.py --host ussd.grassecon.net --port 443 -c $(pwd)/config 254700123456```
-
     *alternatively, the `cic-ussd-client` package is also available in [ge-dev](https://gitlab.com/grassrootseconomics/ge-dev)*
 
 1. via Phone
     1. Dial ```*483*061#``` This is the testing code in Kenya 
 
-1. via Telegram
-    1. Goto @sarafutest_bot and type ```/start```
-
 ### Setup account
-Once you have been able to do one of the options above for setup. You will get a message telling you your account has ben setup and to start again.
+Once you have been able to do one of the options above for setup. You will get a message telling you your account has been setup and to start again.
 
 1. Choose language
     1. Ensure that you can goto end of Language list and back
-1. Ensure you got 5 SRF tokens
+1. Ensure you have 0 vouchers
 1. Check menu looks like:
 
-    ```Balance 5 SRF```
-    
-    ```1. Send```
-    
-    ```2. My Sarafu```
-    
-    ```3. My Account```
-    
-    ```4. Help```
+    ```Jim12a Balance: 130 RIBA```
+ 	```1: Send```
+    ```2: Swap```
+    ```3: My Vouchers```
+    ```4: My Account```
+    ```5: Help```
+
 
 ### Send
 
@@ -67,7 +55,7 @@ Once you have been able to do one of the options above for setup. You will get a
     1. Verify that the person sent to gets an upselling message
 
 
-### Change Token
+### Change Voucher
 1. Receive a different token than SRF (e.g. FOO)
 1. goto My Sarafu Menu and ensure it looks like:
 
@@ -104,7 +92,7 @@ Once you have been able to do one of the options above for setup. You will get a
     
     ```4. Check statement```
     
-    ```5. PIN options```
+    ```5. My shortcode```
     
     ```0. Back```
 
@@ -149,45 +137,4 @@ Once you have been able to do one of the options above for setup. You will get a
 
 ### Help
 1. Correct helpline 0757628885
-
-
-## Extra Tests
-
-### Analysis dashboard
-
-#### Dependencies
-- [cic-data-golang](https://gitlab.com/grassrootseconomics/cic-data-golang)
-
-1. Goto graphana website .....<>?
-1. Adjust filters to be able to see new tokens added.
-1. Validate some transactions you just made are shown there.
-1. Download a CSV of the most recent transactions and users
-
-### User info
-
-#### Dependencies
-
-- [clicada](https://git.grassecon.net/grassrootseconomics/cic-staff-installer)
-
-1. Use CLICADA to verify the transaction history for a user is correct - compare to mini statments on USSD
-1. Choose Another 2 users and verify their balance on the old Sempo system and new system
-
-### Token creation
-
-#### Dependencies
-
-- [cic-cli](https://gitlab.com/cicnet/cic-cli)
-- [cic-internal-integration](https://gitlab.com/grassrootseconomics/cic-internal-integration)
-- [eth-erc20](https://gitlab.com/cicnet/eth-erc20) | [erc20-demurrage-token](https://gitlab.com/cicnet/erc20-demurrage-token)
-
-1. Command Line: Create a new token with demurrage, name, location, description (try a demurage of 2% per minute and a suply of one million to see the effect on the sink account). Ensure the Sink account is accessible from USSD.
-1. Send thse tokens to a user and verify they can use them on USSD
-
-### Batch transfer 
-
-#### Dependencies
-- [sendscript](https://gitlab.com/chaintool/chaind-eth/-/tree/lash/sendscript)
-
-1. Create a CSV list of users and send them each some tokens in batch
-1. Ensure the users get the correct amount of tokens
 
