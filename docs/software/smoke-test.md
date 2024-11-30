@@ -18,10 +18,15 @@ and another telling you your account has been setup and to start again by dialin
 1. Check menu looks like:
 
     ```Jim12a Balance: 130 RIBA```
+   
  	```1: Send```
+
     ```2: Swap```
+   
     ```3: My Vouchers```
+   
     ```4: My Account```
+   
     ```5: Help```
 
 ### Send
@@ -99,11 +104,7 @@ and another telling you your account has been setup and to start again by dialin
     ```Pin options```
     
     ```1. Change my PIN```
-    
-    ```2. Reset other PIN```
-    
-    ```3. Guard my PIN```
-    
+ 
     ```0. Back```
     
 1. Change your pin
@@ -119,5 +120,6 @@ and another telling you your account has been setup and to start again by dialin
     1. Ensure they can make a transaction
 
 ### Help
-1. Correct helpline 0757628885
+1.Try all options on Help
+2. Correct helpline 0757628885
 
