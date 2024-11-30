@@ -2,34 +2,18 @@
 
 ## Setup
 
-1. via Command Line USSD Menu (CLI, Bypass AfricasTalking)
-
-    Setup `cic-stack/cic-ussd`:
-
-    *assumes you are using a unix environment*
-    ```bash```
-    
-    ```https://github.com/nndi-oss/dialoguss/releases/tag/v0.6.0```
-    ```Download dialoguss_0.6.0_Linux_x86_64.tar.gz and extract ```
-
-    2. Use the CLI
-
-    *Then create a file called ge_test_ussd.yaml with the contents*
-    
-    ```url: https://ussd-staging.sarafu.africa/ussd/xxxxx
-    dial: "*384*96#"
-    phoneNumber: +254711777734
-    
-    *alternatively, the `cic-ussd-client` package is also available in [ge-dev](https://gitlab.com/grassrootseconomics/ge-dev)*
-
 1. via Phone
     1. Dial ```*483*061#``` This is the testing code in Kenya 
 
 ### Setup account
-Once you have been able to do one of the options above for setup. You will get a message telling you your account has been setup and to start again.
+
 
 1. Choose language
     1. Ensure that you can goto end of Language list and back
+
+You will get a message asking if you agree to the terms and condition
+and another telling you your account has been setup and to start again by dialing the code.
+
 1. Ensure you have 0 vouchers
 1. Check menu looks like:
 
@@ -39,7 +23,6 @@ Once you have been able to do one of the options above for setup. You will get a
     ```3: My Vouchers```
     ```4: My Account```
     ```5: Help```
-
 
 ### Send
 
