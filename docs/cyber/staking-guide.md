@@ -22,7 +22,7 @@ To check the total current stake on the GrassrootsEconomics validator (group) ch
 
 # Staking Guide
 
-Follow this step-by-step guide to stake with the **Grassroots Economics** validator on Celo.
+Follow this step-by-step guide to stake with the **Grassroots Economics** validator on Celo or directly visit our [Celo Mondo](https://mondo.celo.org/staking/0xd8457a4b949c1b7Bc26538F54743Aa61EEcA38B6) page and stake with your favourite wallet.
 
 
 ## Disclaimer
