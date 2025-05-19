@@ -7,6 +7,6 @@ It is tremendously important to us that people take, use, build on and share wha
 * [Community](/community/): Take part in and build this community and our roadmap.
 * [Operations](/ops/): Learn how to implement, support, build on and maintain a Economic Commons
 * [Commons](/commons/): Learn how legal frameworks and instruments define and are formed around communities
-* [Cyber](/cyber/): Learn about cyber-social digital infrastructures and tools for Economics Commons. 
+* [Software](/cyber/): Learn about cyber-social digital infrastructures and tools for Economics Commons. 
 * [Education](/edu/): Learn more about Economic Commons and other related materials.
 * [Glossary](/edu/glossary/) of terms.

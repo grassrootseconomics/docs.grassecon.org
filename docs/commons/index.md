@@ -1,6 +1,6 @@
 # Introduction to Legal
 
-The following documentation is meant to give you templates on designing legal frameworks surrounding community driven financial instruments like Community Inclusion Currencies.
+The following documentation is meant to give you templates on designing legal frameworks surrounding community driven financial instruments like COmmunity Asset Vouchers and Commitment Pools.
 
 This legal design for a Economic Commons utilizes the [Nondominium](https://wiki.p2pfoundation.net/Nondominium) recursive framework, where mutually defined Instruments are utilized by (General Members) who jointly oversee active stewards (Service Providers) subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
 
@@ -45,5 +45,8 @@ Through the development of an inclusive, legal Nondominium framework, an opt in,
     * [Voucher Declaration](/commons/voucher/): An example of an individual or group that wants to create a Voucher within an Economic Commons
     * [Intermember Service Agreement](/commons/service/): Establishes agreements between Economic Commons Members. In this example a Voucher creating Member wishes to subscribe to the services of a Platform Service Provider.
     * [Data Policy](/commons/data_policy/): Here is an example of a data protection policy of Grassroots Economics as a Platform Service Provider.
+    * [PATH License](/commons/path/): Here is the license for a Community Asset Voucher.
+    * [SPROUT Policy](/commons/sprout/): Here is an license for a Commitment Pool.
+    
 
 
