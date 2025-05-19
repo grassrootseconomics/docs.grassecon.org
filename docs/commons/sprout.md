@@ -13,7 +13,7 @@ This license affirms that commitment pools are living commons — not markets. T
 
 ## License Affirmations
 
-By adopting SPROUT, you affirm:
+By adopting this SPROUT license, you affirm:
 
 - The pool is **not a business**.
 - **Participation is voluntary** and peer-curated.
