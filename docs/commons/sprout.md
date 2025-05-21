@@ -54,7 +54,7 @@ The Pool operates as a commons-based system of mutual aid and community trust. I
 
 ## 3.0 Core Principles of the SPROUT License
 
-The following principles shall be binding for all Pools operating under this License. These principles define the legal and ethical boundaries of pool design, issuance of commitments, and inter-pool cooperation.
+The following principles shall be binding for all Pools operating under this License. These principles define the legal and ethical boundaries of pool design, acceptance of commitments, and inter-pool cooperation.
 
 ### 3.1 Principle of Care over Commerce
 
@@ -78,9 +78,9 @@ All token swaps and redemptions shall be recorded on a verifiable ledger with a 
 
 Pools may not simulate payroll structures, distribute tokens in fixed intervals for time-based work, or replace wage labor under another guise. Any behavior approximating salaried or freelance contracting may be grounds for license revocation.
 
-### 3.5 Peer-Curated Issuance
+### 3.5 Peer-Curated Acceptance
 
-Only known, verified, and trusted members of the Pool may issue vouchers. The Pool must maintain documented governance procedures for who may issue, and under what limits.
+Only known, verified, and trusted members of the Pool may have their vouchers accepted in the Pool. The Pool must maintain documented governance procedures for who may issue, and under what limits.
 
 ### 3.6 Symbolic, Non-Enforceable Commitments
 
@@ -108,7 +108,7 @@ All individuals or entities creating or operating a Pool under this License (“
 - Document all swaps and redemptions on a permanent, auditable ledger.
 - Clearly define and display all roles, voucher issuers, and operating logic.
 - Provide provenance documentation for any seeded assets or external inputs.
-- Prohibit anonymous or uncurated token issuance and participation.
+- Prohibit anonymous or uncurated token acceptance or participation.
 - Utilize digital or analog systems (e.g., Sarafu.Network) that support transparent and permissioned pooling.
 
 ---
