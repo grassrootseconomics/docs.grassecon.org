@@ -3,7 +3,7 @@
 This section includes materials for different audiences.
 
 * [Glossary](glossary/) of terms
-* [Book]([glossary/](https://willruddick.substack.com/p/grassroots-economics-the-book-is))
+* [Book](https://willruddick.substack.com/p/grassroots-economics-the-book-is)
 * [Frequently asked questions](faq/)
 * [Community Training Guide](training/)
 * [Voucher Creation Summary](voucher/)
