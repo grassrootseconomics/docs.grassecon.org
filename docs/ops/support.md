@@ -1,94 +1,92 @@
 # Humanitarian Support
 
-Supporters that wish to help empower communities and build strong resilient and regenerative local economies toward other goals like sustainable envirmental or educational programs, have a lot of options when working with Community Asset Vouchers CAVs.
+Supporters seeking to empower communities and cultivate resilient, regenerative economies—whether for environmental goals, education, health, or mutual aid—have a variety of ways to engage through **Commitment Pooling**.
 
-1. **Stakeholder Gatherings and Training**: These are similar to the steps mentioned in [Voucher creation](/ops/voucher/), but will often involve a wider range of stakeholders including local government.
-1. **Capacity Building**: When identifying resources that people have to share – gaps in those resources compared to local needs often arise. Filling these gaps through [training](/operations/training/) and communal asset development can help the community have a solid framework for sustainable voucher redemption.
-1. **Evidence based support**
-    1. **Impact Indexing**: Data from CAV circulation and endorsements from validators is indexed based on Sustainable Development Goals and a rank and reward can be calculated for support
-    1. **Donor Support**: Donors can recieve impact data in the form of a digital certificate they can also followup on future impacts.
-    1. **Treasuries**: Based on results from Indexing a Humanitarian organization can choose to purchase vouchers with donor funds (held in *Treasuries*).
-    1. **Redistribution**: Based on results from Indexing CAVs held in *Treasuries* can be redistributed directly to those people in need.
+Commitment Pooling shifts support from charity to reciprocity—honoring local contributions and routing support through trusted commitments.
 
-```graphviz dot hum_dev.svg
+## Ways to Support
+
+1. **Stakeholder Gatherings and Training**  
+   Similar to the process described in [Voucher Creation](/ops/voucher/), initial gatherings should include local leaders, community groups, and government. These sessions introduce the Commitment Pooling model and help coordinate trust flows.
+
+2. **Capacity Building**  
+   Through resource mapping and exchange simulations, gaps between community needs and existing capacities are identified. Supporters can fill these gaps through training, toolkits, and shared assets that enhance the community’s ability to fulfill its pooled commitments.
+
+3. **Evidence-Based Support**  
+   Commitment Pooling produces traceable, anonymized data on trust, exchange, and fulfillment.
+
+   - **Impact Indexing**  
+     All voucher circulation, redemptions, and endorsements are indexed to SDGs and local goals.
+   
+   - **Donor Support**  
+     Donors receive digital certificates of impact and may follow future flows of support.
+   
+   - **Treasuries**  
+     Donor contributions can be converted into pool-compatible vouchers and held in community treasuries.
+   
+   - **Redistribution**  
+     Vouchers in treasuries may be routed to vulnerable members or used to fund local commons efforts (like clean water or education initiatives).
+
+```graphviz
 digraph D {
   rankdir=TB;
+
   subgraph cluster_v_1 {
+    label = "Commitment Pool";
+    style="rounded"
 
-    label = "CAV";
-     style="rounded"
-
-
-	chama [label= "Community Groups"]
-        nd_1a   [label = "General\nMember", href="https://docs.grassecon.org/commons/"];
-        nd_2a   [label = "General\nMember"];
-        nd_3a   [label = "General\nMember"];
-        nd_4a   [label = "General\nMember"];
-        chama -> nd_1a -> nd_2a -> nd_3a -> nd_4a -> chama
-	nd_3a -> nd_1a
-
+    chama [label= "Community Pool"]
+    nd_1a   [label = "Member A", href="https://docs.grassecon.org/commons/"];
+    nd_2a   [label = "Member B"];
+    nd_3a   [label = "Member C"];
+    nd_4a   [label = "Member D"];
+    chama -> nd_1a -> nd_2a -> nd_3a -> nd_4a -> chama
+    nd_3a -> nd_1a
   }
 
   subgraph cluster_data_2 {
-
     label = "Impact Evidence";
-     style="rounded"
-
-
-	endo [label= "Endorsements"]
-	datam [label= "Anonymous CAV trade \n& meta data" , shape = cylinder]
-
-
+    style="rounded"
+    endo [label= "Endorsements"]
+    datam [label= "Anonymized Swap & Fulfillment Data", shape = cylinder]
   }
 
   subgraph cluster_market_5 {
-     rank=tb;
-     label = "Impact Markets";
-     style="rounded"
-	cucm [label= "CAV Markets / Commitment Pools", shape = box]
-	nftm [label= "Impact Data Markets", shape = box]
-
+    label = "Impact Markets";
+    style="rounded"
+    cucm [label= "Commitment Pools / Swap Ledgers", shape = box]
+    nftm [label= "Impact Data Marketplaces", shape = box]
   }
 
-
   subgraph cluster_index_3 {
-
-    label = "Humanitarian Supporters";
-     style="rounded"
-
-
-	training [label= "Training \n& Capacity Building"]
-	indexer [label= "Indexing", shape = cylinder]
-	treasuries [label= "Treasuries", shape = cylinder]
-	donors [label= "Donors"]
-	impacti [label= "Impact Investors"]
-
+    label = "Support Ecosystem";
+    style="rounded"
+    training [label= "Training & Capacity Building"]
+    indexer [label= "Indexing Engine", shape = cylinder]
+    treasuries [label= "Community Treasuries", shape = cylinder]
+    donors [label= "Donors"]
+    impacti [label= "Impact Investors"]
   }
 
   chama -> treasuries
-  treasuries->chama [style = dotted];
-  treasuries->training [style = dotted];
-  donors -> treasuries [style = dotted];
-  impacti -> treasuries [style = dotted, constraint=false];
-  impacti -> nftm [style = dashed, constraint=false];
+  treasuries -> chama [style = dotted]
+  treasuries -> training [style = dotted]
+  donors -> treasuries [style = dotted]
+  impacti -> treasuries [style = dotted, constraint=false]
+  impacti -> nftm [style = dashed, constraint=false]
   impacti -> cucm
-    treasuries -> donors [style = dashed];
-  treasuries -> impacti [style = dashed];
+  treasuries -> donors [style = dashed]
   treasuries -> impacti
-
-  chama -> datam [ style = dashed    ];
-
-  endo -> datam [ style = dashed    ];
-  datam -> indexer [ style = dashed    ];
-  indexer -> treasuries [ style = dashed    ];
-
-  chama -> training;
+  chama -> datam [ style = dashed ]
+  endo -> datam [ style = dashed ]
+  datam -> indexer [ style = dashed ]
+  indexer -> treasuries [ style = dashed ]
+  chama -> training
   training -> treasuries
-  treasuries  -> nd_1a
-  treasuries  -> nd_3a
+  treasuries -> nd_1a
+  treasuries -> nd_3a
 
-
-subgraph cluster_Legend_5 {
+  subgraph cluster_Legend_5 {
     rank = sink;
     peripheries=0;
     label = "Legend";
@@ -98,19 +96,18 @@ subgraph cluster_Legend_5 {
       <tr><td align="right" port="i1"> </td></tr>
       <tr><td align="right" port="i2"> </td></tr>
       <tr><td align="right" port="i3"> </td></tr>
-      </table>> ]
+    </table>> ]
     key2 [ label=<<table border="0" cellpadding="1" cellspacing="0" cellborder="0">
-      <tr><td align="left" port="i1"> </td><td>CAVs</td></tr>
-      <tr><td align="left" port="i2"> </td><td>Impact Evidence/Data</td></tr>
-      <tr><td align="left" port="i3"> </td><td>Fiat / other vouchers</td></tr>
-      </table>>]
+      <tr><td align="left" port="i1"> </td><td>Commitment Pools / Vouchers</td></tr>
+      <tr><td align="left" port="i2"> </td><td>Impact Evidence / Data</td></tr>
+      <tr><td align="left" port="i3"> </td><td>Fiat or External Funds</td></tr>
+    </table>>]
     key:i1 -> key2:i1
     key:i2 -> key2:i2 [ style=dashed ]
     key:i3 -> key2:i3 [ style=dotted ]
-   }
+  }
 
-   edge[ style = invis ];
-   {nd_3a nftm} -> key:i1;
-
+  edge[ style = invis ];
+  {nd_3a nftm} -> key:i1;
 }
 ```
