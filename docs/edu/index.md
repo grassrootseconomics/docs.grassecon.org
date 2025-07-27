@@ -7,4 +7,3 @@ This section includes materials for different audiences.
 * [Frequently asked questions](faq/)
 * [Community Training Guide](training/)
 * [Case Study](case_study/)
-* [MOOC](https://www.grassrootseconomics.org/pages/mooc.html)
