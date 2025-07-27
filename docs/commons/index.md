@@ -1,6 +1,6 @@
 # Introduction to Legal
 
-The following documentation is meant to give you templates on designing legal frameworks surrounding community driven financial instruments like COmmunity Asset Vouchers and Commitment Pools.
+The following documentation is meant to give you templates on designing legal frameworks surrounding community driven financial instruments like Community Asset Vouchers and Commitment Pools.
 
 This legal design for a Economic Commons utilizes the [Nondominium](https://wiki.p2pfoundation.net/Nondominium) recursive framework, where mutually defined Instruments are utilized by (General Members) who jointly oversee active stewards (Service Providers) subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
 
