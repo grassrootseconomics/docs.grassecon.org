@@ -6,6 +6,5 @@ This section includes materials for different audiences.
 * [Book](https://willruddick.substack.com/p/grassroots-economics-the-book-is)
 * [Frequently asked questions](faq/)
 * [Community Training Guide](training/)
-* [Voucher Creation Summary](voucher/)
 * [Case Study](case_study/)
 * [MOOC](https://www.grassrootseconomics.org/pages/mooc.html)
