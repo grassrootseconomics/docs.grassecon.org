@@ -74,53 +74,58 @@ We offer tools and documentation to enable communities to:
 
 ## Principles for Spreading Commitment Pooling
 
-1. **Honor the Existing Systems, Even as You Outgrow Them**  
-   Acknowledge the real problems centralized systems tried to solve. We’re not here to attack; we’re here to invite.
+Here are 16 guiding principles for spreading commitment pooling globally, drawn from lessons in movement strategy, influence theory, and regenerative protocol design. Each principle honors the path forward while remaining mindful of the systems we seek to evolve beyond. 
 
-2. **Seed a Strategy with Deep Time in Mind**  
-   Think in cycles of 7, 70, or 700 years. Build protocols meant to last longer than empires.
 
-3. **Engage the Heart, Head, and Hands**  
-   Speak to belonging, love, and care. Rituals and stories are essential infrastructure.
+1. Honor the Existing Systems, Even as You Outgrow Them 
+The legacy financial system persists not because it’s perfect, but because it solved real coordination problems -for some, for a while. Acknowledge the ingenuity and pain that shaped it. We’re not here to attack; we’re here to invite. Respect builds the bridge to change.
 
-4. **This Is Ancient, Not New**  
-   Pools are old as roots. Frame the work as restoration, not disruption.
+2. Seed a Strategy with Deep Time in Mind 
+This is a generational shift. Think in cycles of 7, 70, or 700 years. Anchor your work in long-term planetary wellbeing. Build protocols that will last longer than empires.
 
-5. **Start Where the Soil Is Ready**  
-   Work with communities already reaching for each other. Trust-rich ground is fertile ground.
+3. Engage the Heart, Not Just the Head Engage Heart, Head and Hands
+Money is emotional. It touches survival, status, shame, and dreams. Commitment pooling must speak to love, community, and the ancestral desire to belong. Rituals, stories, and symbols are essential infrastructure. 
 
-6. **Make Every Action Matter**  
-   If it doesn’t grow trust or fulfill a promise, don’t do it.
+4. This Is Ancient, Not New 
+We are not inventing. We are remembering. Mycorrhizal fungi coordinate nutrients. Villages shared calabashes of stored grain. Pools are old as roots. Frame the work as restoration, not disruption. 
 
-7. **Use Simple, Resonant Frames**  
-   “Your promise is your credit.” “Money is a memory of care.” Let clarity be louder than critique.
+5. Start Where the Soil Is Ready 
+Not everyone is ready to embrace a trust-based economy, and that’s okay. Build with those who are already reaching for each other and active on the ground
 
-8. **Understand the Wounds of the Old System**  
-   Translate commitment into safety and dignity.
+6. Make Every Action Matter 
+Every event, workshop, or message should serve a real function: growing trust, coordinating labor, fulfilling a promise. If it doesn’t move the ecosystem toward coherence, it’s not needed. Waste no one’s time.
 
-9. **Offer a Vision That Feels Like Home**  
-   Water catchments, shared kitchens, neighborhood pools. Show futures people can walk into.
+7. Use Simple, Resonant Frames 
+We don’t need enemies—we need clarity. Use core concepts that gently contrast paradigms: “Your promise is your credit.” “Money is a memory of care.” “Abundance is coordinated, not scarce.” Let ideas speak for themselves. No need to attack the old; just let the new grow louder. 
 
-10. **Speak in Many Media**  
-    Radio, ritual, memes, murals. Redundancy is strength.
+8. Understand the Wounds of the Old System 
+Credit scores, inflation fear, and debt shame run deep. Study them—not to manipulate, but to empathize. Translate pooling into the language of dignity, safety, and community care.
 
-11. **Move Faster Than Extraction Can Respond**  
-    Don’t wait for permission. Spread like mycelium—quiet, adaptive, strong.
+9. Offer a Vision That Feels Like Home 
+People will join your cause not to resist, but to belong. Show what life looks like with fulfilled commitments, shared surplus, and collective care. Make it tangible: water catchments, shared kitchens, neighborhood pools. Let people walk into the future.
 
-12. **Celebrate Those Who Come Home**  
-    Let those who leave exploitative systems return with dignity. Make it safe to rejoin the commons.
+10. Speak in Many Media
+Some will hear the message through blockchain; others through elders, dance, or land restoration. Repeat the message through multiple channels—radio, ritual, memes, murals, classrooms. Redundancy is strength.
 
-13. **Look at Crisis Without Falling into Collapse**  
-    Build the pool now. Let it be ready when other systems falter.
+11. Move Faster Than Extraction Can Respond
+The old system defends itself by trying to absorb the new. Don’t wait for permission. Keep growing pools in refugee camps, markets, temples, chat groups, forests. Like mycelium, spread quietly and fast.
 
-14. **Give People Something to Do**  
-    Define, seed, host, redeem, map, steward. When people act together, the future becomes real.
+12. Celebrate Those Who Come Home 
+Some will leave exploitative systems and return to the commons. Welcome them. Let their testimony illuminate what didn’t work—and why this does. Make it safe to defect with dignity. 
 
-15. **Track What Matters**  
-    Track fulfilled promises. Track mouths fed through trust. Let memory be your metric.
+13. Looking at Crisis Without Falling into Collapse
+Don’t wait for current systems to fail. Build the alternative now. When the market stutters, the pool should already be flowing - alive with memory, fairness, and trust. 
 
-16. **Adapt Without Losing the Pattern**  
-    Change tactics, not principles. Keep care, coordination, and coherence intact.
+14. Give People Something to Do 
+Abstract hope is not enough. People need roles. Can they define a commitment? Seed a voucher? Host a circle? Redeem a promise? Map a local resource? Steward a pool? When people act together, the future becomes real.
+
+15. Track What Matters 
+Most Don’t obsess over media impressions or vanity metrics. Track fulfilled promises. Track restored relationships. Track how many mouths are fed through trust. Let collective memory hold these measures of health. 
+
+16. Adapt Without Losing the Pattern 
+Strategy is not static. If something isn’t resonating—change it. But keep the core intact: care, coordination, coherence. Let the pools evolve like rivers—always flowing, always grounded.
+
+
 
 ---
 
