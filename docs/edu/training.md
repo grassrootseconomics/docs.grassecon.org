@@ -1,1333 +1,1118 @@
-# Community Asset Voucher (CAV) and Commitment Pooling Field Guide
+# Commitment Pooling & Community Vouchers: A Field Guide
 
 ## **How to Use This Guide**
 
-This guide is designed to give communities a feel for how Community Asset Vouchers (CAVs) work. You will find out more information about what a CAV is and what kind of community support is needed. This guide gives enough background for you to know if you need to go back to one of those steps, but it does not cover them in full. It also does not cover next steps or the technical requirements for implementing a CAV.  
+This guide is designed to give communities a feel for how **Community Asset Vouchers (CAVs)** function within a **Commitment Pooling** ecosystem. It introduces key concepts of trust-based coordination and shows how communities can begin organizing local economies through promises, mutual care, and shared memory—not dependency on outside capital or centralized institutions.
 
-If your community has already begun using a CAV such as those created on Sarafu-Network in Kenya, you may want to do these exercises before creating a local CAV.
+You’ll gain a foundational understanding of:
+- What a CAV is as a promise of future contribution
+- How communities can seed and exchange these promises through a shared pool
+- What kind of community readiness and relational trust supports success
 
+This guide does not cover technical implementation or long-term governance, but gives enough background to know whether your community is ready to take the next steps toward creating a local commitment pool.
 
-### Audience
+If your community has already experimented with community vouchers, this guide can help reframe your experience into a metabolic system of commitments—supporting deeper adoption and mutual accountability.
 
-This guide is designed for project managers, community organizers and trainers who are familiar with the environment and communities they work with. Participants are members of a community who are interested in having a CAV in their community. The ideal group size for this training is (5-10ppl). We recommend that the first CAV training be given to participants who are respected in the community and who can encourage others to participate in the CAV as it is released.
+---
 
-The course can be given to community leaders, businesses, group members, CAV designers, design challenge participants, students, humanitarian aid workers and volunteers.  Participants who have an understanding of the local context and markets in which a CAV will be implemented will be best prepared to develop their own CAVs. Generally, the course is targeted at chamas or other savings and mutual aid groups. The trainer does not have to belong to the group that is being trained.
+## Audience
 
-The exercises in this guide are useful for communities where CAVs have been airdropped or granted, either before the community tries the CAV or at the end of the experiment with the initial CAV. Using an initial token like SRF in the Sarafu-Network will allow communities to better understand the specific challenges and advantages for their communities, and set up the proper checks and balances to make sure their own CAV is more successful if they do choose to launch a local CAV.
+This guide is intended for:
+- Community organizers, project managers, trainers, and trust stewards
+- Chamas, mutual aid circles, community councils, savings groups
+- Humanitarian field workers, facilitators, and peer educators
+- Local businesses, students, farmers, youth and women's groups
 
-Upon completion of the training, all of the participants should understand the training lessons and be prepared to make a decision about whether to move forward in additional education or in the implementation of a CAV in their community.
+Participants should have some relationship with the local community and an interest in exploring how local value can be coordinated without relying solely on national currency. The ideal group size is 5–10 people to allow space for personal reflection and group learning.
 
-After participating in this training, some of the participants will be capable of using and developing a CAV and training other community members. The trajectory of the training and the CAVs in general is to empower communities to take on the responsibility for their own financial well-being and economic growth.
+This guide is particularly useful for communities where vouchers have been granted or where people have received airdropped credits and want to build toward a more regenerative system based on ongoing reciprocal contribution.
 
+After completing this training, participants will:
+- Understand how promises and care can be tracked as credit
+- Be able to seed their own vouchers into a pool
+- Begin designing a local commitment system anchored in trust
+
+Some participants may go on to facilitate new pools or train others in their community, forming the basis for a distributed network of economic stewardship.
+
+---
 
 ## Purpose of the Training
 
-Groups using or creating Community Asset Vouchers (CAVs) need to understand benefits, obligations and risks - as do supporting organizations and training groups. The process of creating a medium of exchange is about each member of a community knowing they have common needs - and most importantly, that they have something to offer their community, regardless of their personal circumstances.
+Communities using or creating local vouchers need to understand the **benefits, obligations, and responsibilities** of participating in a **Commitment Pool**. The process is not about issuing money—it is about **organizing care**, and recognizing that every member of a community has something to offer, regardless of their income or access to cash.
 
-Experience is key in understanding how to use a CAV, therefore the course is structured around exercises and experiential learning. The facilitator should have a thorough understanding of the material, and be able to address questions that arise during the exercise. More in depth material can be found at [CAV Frequently Asked Questions (FAQ)](https://docs.google.com/document/d/1qtlOEL4pqW1vOL893BaXH9OqRSAO3k0q2eWbVIkxEvU/edit?usp=sharing).
+A Community Asset Voucher is a formalized promise—a unit of future contribution that can be shared, held, or fulfilled. When pooled together, these vouchers form a commons of commitment: a living ledger of mutual support.
 
+This training focuses on **experiential learning**. Each session is rooted in real exchange, storytelling, and reflection. Participants will practice:
+- Making and recording promises
+- Swapping commitments in a shared pool
+- Redeeming vouchers through community service
+
+Facilitators should understand the protocol and be prepared to explain how promises are tracked, how pools grow, and how communities self-regulate.
+
+More in-depth material is available in the [Commitment Pool FAQ](https://docs.google.com/document/d/1qtlOEL4pqW1vOL893BaXH9OqRSAO3k0q2eWbVIkxEvU/edit?usp=sharing).
+
+---
 
 ## Before You Start
 
-Community Asset Vouchers is a specific type of formalized commitment. There are thousands of similar projects worldwide with different purposes. Community Asset Vouchers supplement government-issued money to help increase the economy of the community.
+**Community Asset Vouchers** are not just tools—they are expressions of **community trust**. Each CAV is a promise backed by a real good or service, and every pool is a memory system for those promises.
+
+Before starting, ask:
+- Do we have unmet needs and underused skills or resources?
+- Are members willing to **promise** what they can offer—and **fulfill** what they owe?
+- Can we commit to tracking care and coordinating fairly?
+
+Commitment pooling is not a top-down solution. It is a bottom-up invitation to remember: we already know how to care for one another.
+
+This guide helps communities recover that memory, organize their promises, and begin weaving regenerative economies—one commitment at a time.
 
 
-### Why CAVs?
+### Why Commitment Pools and Community Vouchers?
 
-Community Asset Vouchers (CAVs) are a means to launch community projects, jump-start or bolster local economies, boost financial inclusion and to foster independence and sustainability of underserved communities.
+Community Asset Vouchers (CAVs) within a Commitment Pool are a way for communities to organize trust, launch regenerative projects, activate dormant resources, and grow resilience without relying on external institutions.
 
-CAVs are designed to fund community projects and support contributors. Using a CAV is a great way for funders to double or quadruple the amount of assistance they can provide and to encourage local economic resilience while integrating with other local, national and international economies.
+Unlike national currency, which must be earned before it can be spent, CAVs are issued as **formalized promises**—commitments to contribute goods or services in the future. When these promises are pooled, they create a living system of mutual credit, enabling communities to coordinate care, labor, and value in the absence of cash.
 
-You can think of a CAV as an interest-free  funding mechanism that can jump-start resilient economies. CAV’s enable money that is used for projects to continue to circulate in the economy, rather than being used up as the project completes. The community itself can create mechanisms to renew the monetary supply, forgive debt and fund additional projects in the community.  
+Commitment Pools allow these vouchers to circulate in a way that mimics healthy ecological exchange: regenerative, reciprocal, and grounded in relationship. They create space for **local initiative**, while also opening possibilities for interaction with other economies through swap protocols and shared standards.
 
+A Commitment Pool is not just a tool—it’s a commons of memory and care. It allows each promise to ripple outward, nourishing projects, livelihoods, and mutual trust.
 
-### What a CAV Can (and Can’t) Do
+---
 
-A CAV can:
+### What Commitment Pooling Can (and Can’t) Do
 
+A Commitment Pool **can**:
 
+- Support local projects and mutual aid through pooled commitments
+- Expand community access to credit—without interest, banks, or collateral
+- Jump-start stalled economies where national currency is scarce
+- Encourage participation from the whole community—elders, youth, caretakers, farmers
+- Recognize and reward labor that traditional economies ignore (e.g. caregiving, reforestation)
+- Strengthen relationships between community members through ongoing mutual obligations
+- Allow swapping of one type of commitment for another
+- Reduce dependence on extractive financial systems
+- Redistribute credit fairly through redeemable social agreements
+- Anchor accountability and care through traceable fulfillment
 
-* Fund projects within a community
-* Expand the credit available to people in a community
-* Improve local economies and even jump-start economies that are cash-poor
-* Create local interest-free credit using proven financial fundamental calculations
-* Strengthen the agency of people to be proactive and take initiative
-* Strengthen the bonds of people within a community
-* Leverage a community’s strengths and talents
-* Allow exchange with other tokens
-* Reduce dependence on interest-bearing loans
-* Reduce inequality
-* Reward non-economic behaviors (as defined today, such as planting a forest) **only **if the community provides ongoing backing for the project.
+A Commitment Pool **cannot**:
 
-A CAV cannot:
+- Operate without trust. Vouchers only work if people believe in—and fulfill—their promises.
+- Function without curation. Communities must take responsibility for who seeds the pool and under what conditions.
+- Work as a “free money” system. Commitment Pooling requires reciprocal contribution, not passive receipt.
+- Be maintained without memory. Each action must be recorded so that care is honored and the commons is preserved.
 
+---
 
+### Starting a Pool
 
-* Run independently: the community (or an agency) must have administrators who care for and manage the CAV system
-* Operate without commitments from the issuing community to redeem the CAV for goods and services.
+Rather than offering a pre-designed currency, Commitment Pools start by helping people make promises and see those promises fulfilled.
 
+Instead of a token airdrop or external injection of funds, pools begin with **a local circle of contributors** willing to seed their own vouchers—representing time, food, care, repairs, or any redeemable good or service. These vouchers can then be swapped or withdrawn from the pool by others, creating circulation grounded in relationship.
 
-### Sarafu Network
+This method ensures that all value in the system is rooted in **actual capacity**, not speculation.
 
-The Grassroots Economics Foundation works to empower local economies through CAVs. When users register on the network they are automatically given some SRF to use as an introduction to the CAV concept and technology. SRF is a CAV that is created by Grassroots Economics and used for training and CAV related services.
+Participants receive real experience: issuing, seeding, redeeming, and tracking commitments before formal launch. This helps the community develop strong governance and accountability practices before scaling.
 
-Grassroots Economics is partnering with organizations such as the Red Cross to provide support for CAV programs. SRF is granted to communities throughout Kenya. These grants, sometimes called Airdrops, will serve as a trial for communities to experiment with the CAV before determining whether they would like to launch their own CAV. SRF used to teach people the basic CAV concepts.
+---
 
-The SRF injection offers the following benefits to communities receiving the grants:
+### Creating Community Vouchers (CAVs)
 
+A Community Asset Voucher is not currency—it’s a **promise of future value**. CAVs are created by individuals or groups who agree to offer something of worth to others in the network. Each voucher must be **backed 100% by the issuer’s real ability** to provide the good or service it represents.
 
+Through the Commitment Pooling protocol, these vouchers become part of a shared registry. They may be:
 
-* Actual experience with a CAV before creating their own.
-* Injection of credit (SRF) that can be used by local people to pay for their expenses.
-* Encouragement of local economic activity.
-* Infusion of funds that goes where the people want it to go, encouraging independence rather than dependence.
-* Statistics on the usage of the SRF. When it becomes time to implement their own CAV, these communities will have actual data on how SRF was used and they can determine the correct local policies based on real data.
+- Seeded into a pool to build credit and trust
+- Swapped for other vouchers (e.g. labor exchanged for food)
+- Held by others and later redeemed by returning to the issuer
 
-However, the injection of SRF or any CAV also poses some risks to the communities, so it is important that there be some education about CAVs. Potential risks:
+The circulation of vouchers maps the metabolism of the community: who is offering care, who is receiving it, and how trust flows over time.
 
-
-
-* If people misuse the CAV, some individuals may lose money, goods or services.
-* People could become disillusioned with the use of alternative currencies rather than learning lessons for improvement.
-* Communities may come to expect that charities will purchase CAVs with no strings attached, encouraging dependence on aid agencies.
-
-This manual provides educational resources that can be used by any community to mitigate these risks.  If CAVs are used properly, they become long-term structures for the economic health of communities.
-
-
-### Creating CAVs
-
-CAVs are vouchers which are backed by commitment of goods and services. This manual guides a community through determining how to use, create and allocate CAV to people and projects.
-
-CAVs must be backed 100% by local goods and services of the issuers like vouchers. This means that credit, in the form of CAVs, is infused into the community based on the commitments from the issuers.
-
+---
 
 ### Gathering the Participants
 
-To have a CAV function in your community, you will need stakeholder businesses to redeem the CAV for goods and services. Therefore, it is important that a CAV is created by a group of initial participants that includes important community members such as leaders, business owners, pastors, farmers, and producers. The more influential the participants are, the faster the CAV will spread in the community.
+Every pool begins with a group of initial stewards: elders, producers, business owners, youth leaders, mutual aid groups. These are the people who will **seed the first commitments**, test the system, and encourage others to join through their example.
 
+The wider the participation, the stronger the pool. Diversity of contribution builds redundancy and resilience.
+
+Before launching, communities should ensure that:
+- Enough trusted members are ready to issue redeemable vouchers
+- There is clarity around how commitments are made and fulfilled
+- Someone is accountable for tracking and maintaining the memory of the pool
+
+---
 
 ### Being Willing to Play
 
-Participants in this training on CAVs will get an experience of how a CAV would work in their community. The exercises in this guide are designed prior to implementation so that enough community members can understand what they are getting into and make an intelligent decision as a community about next steps. They may or may not be ready to implement the CAV at the end of the training.
+This training is not theoretical. It is an invitation to **experience** the trust systems we are growing.
+
+Participants will practice:
+- Defining their commitments
+- Seeding vouchers into a shared pool
+- Swapping and redeeming based on collective need
+
+The exercises are designed to simulate a real commitment economy. Even if your community decides not to move forward, the act of mapping resources, offering promises, and fulfilling care is inherently valuable.
+
+At the end of the process, your group will have enough experience to make an informed decision: Are we ready to grow a trust-based economy?
+
+The answer begins with one promise.
+
+Let the pools begin.
 
 
-## **Course Implementation**
-
+## **Course Implementation: Commitment Pooling for Community Economies**
 
 ### Focus
 
-This CAV course keeps in mind the context of Kenya and seeks to make it as broad as possible for application in similar areas. The creators of CAVs in this course are primarily community groups, community based organizations, self help groups, SILCs, Chamas, Churches, or Village Savings and Loan Association. Group members should consist of people with local business and jobs that can trade amongst each other and can commit to reciprocity by backing a CAV as a legal voucher for their own goods and services.
+This course is rooted in the context of communities like those in Kenya, but it is adaptable to any place where people face economic exclusion and have unrecognized value to offer.
 
+Participants are members of **mutual aid groups, chamas, churches, SILCs, cooperatives, local businesses, or informal networks** who are ready to make and fulfill promises to one another. These groups are well-positioned to become **Commitment Pool originators**—curating and seeding a shared registry of redeemable commitments, backed by real goods, services, or care work.
+
+The focus is not on creating a “currency” but rather on enabling local groups to **grow a relational trust economy**, using Community Vouchers to coordinate value that already exists.
+
+---
 
 ### Goals
 
-Key goals include:
+By the end of this training, groups will:
 
+1. Be able to articulate clear commitments to the community—stating what they will offer and under what conditions.
+2. Understand the process of seeding a voucher into a Commitment Pool and navigating the trust-based flows that follow.
+3. Map out who their stakeholders are and how to invite wider participation while maintaining accountability.
+4. Explore critical themes:
+    - The ethics of promise-making and fulfillment
+    - Trust as the foundation of value
+    - The function of trade balance and debt in pooled systems
+    - Reciprocity and care as economic infrastructure
+    - The group’s role in cultivating a regenerative local economy
 
-
-1. The group trained should have the understanding, capacity and ability to:
-    1. create a clear statement of commitment, with **intent to issue and redeem** a CAV as a voucher for stated goods and services.
-    2. plan and navigate the steps toward CAV implementation
-    3. Work with stakeholders to support the process
-2. The group will further explore
-    4. the commitments, risks and obligations associated with issuing a CAV
-    5. how to bring on more community and external support and acceptance of their CAV
-    6. reciprocity, trade balance, what backs a CAV locally
-    7. their relationship to the local economy and other community members and their role as a stakeholder in the creation of CAVs and an optimal community economy.
-
+---
 
 ### Logistics
 
+1. **Scripted + Flexible**: This training is available in multiple languages and designed to be facilitated by experienced organizers who understand Commitment Pooling principles. The guide includes structured exercises to simulate real trust economies. 
+   
+2. **Duration**: Approximately 6 hours of facilitated sessions, including interactive simulations, reflection, and storytelling. Follow-up sessions are encouraged once participants begin designing or testing their own pools.
 
+3. **Facilitation**:
+    - Minimum 1 facilitator with practical experience in pooled voucher systems.
+    - Local mediators or trusted elders are encouraged to participate in order to **validate commitments** and support fulfillment processes.
+    - Co-facilitators can help play specific roles during simulations: voucher issuers, pool stewards, redeemers, or swap partners.
 
-1. **Scripted** in various languages for facilitators to follow along. This document guides a facilitator through the process of teaching several exercises: Additional material can be found at [CAV Frequently Asked Questions (FAQ)](https://docs.google.com/document/d/1qtlOEL4pqW1vOL893BaXH9OqRSAO3k0q2eWbVIkxEvU/edit?usp=sharing).
-2. **Duration:** Roughly 6 hours is enough time to go through the topics, exercises and discussions. A follow-up session once a training group has developed their CAV agreement is also necessary.
-3. **Facilitation:** Minimum 1 facilitator with experience training other groups and being part of a CAV. Having assistance or co-facilitators can help to hold different roles during exercises. Any mediators should also be trained and it is highly recommended to include local leaders and administration such as chief and sub-chiefs as they will be asked to validate community agreements.
-4. **Materials:**
-1. Facilitators should have:
-        1. A visible writing surface (white/black board, flipchart, manila or large paper and the ability to fix those papers on the wall).
-        2. (*optional) Ability to show a video. (eg [https://www.youtube.com/watch?v=__yvrxmpDh4](https://www.youtube.com/watch?v=__yvrxmpDh4) )
-        3. A calculator or a smart phone with internet access.
-        4. Game Materials:
-            1. White paper (cut into business card sized pieces)
-            2. Beans to use as CAV (or another colored paper denominated with 10 CAV, reaching a total of 100 CAV).
-            3. Coins to use as Kenyan Shillings (a 10 bob coin for each participant will do - or a different color of paper slips)
-            4. Pencils or pens
-            5. Parallel rows of holes (2x5) in the ground with rows marked 2,3,4,5,6. A mancala board or bao board will do or holes in the dirt. (see [https://youtu.be/tSTzOXu4f6k](https://youtu.be/tSTzOXu4f6k) )
-    1. Students should have
-        5. a notebook and pencil.
-        6. *(optional but recommended if a CAV system is available to demo with) Mobile phone
+4. **Materials**:
+    - Large writing surface (e.g., flipchart, blackboard)
+    - (Optional) Video examples or animations of Commitment Pooling in action
+    - Basic calculator or smartphone
+    - Game & Simulation Supplies:
+        - Paper slips to simulate vouchers (labelled with issuer and type)
+        - Tokens or beans as symbolic commitments (e.g. “10 Eggs,” “1 Hour of Repair”)
+        - Coins or different color papers for national currency exchange reference
+        - Mancala-style board or ground-based hole setup for visualizing trust flows ([see example](https://youtu.be/tSTzOXu4f6k))
+    - For Participants:
+        - Notebook and pencil
+        - (Optional) Access to a demo version of the Sarafu.Network or a sample Commitment Pool interface via mobile or web
 
+---
 
 ### Course Summary
 
-This course will take you through several modules:
+This course includes the following modules:
 
+1. **Local Economies as Living Systems**  
+   Mapping our unmet needs and underused capacities. Understanding where national currency fails—and where promises can fill the gap.
 
+2. **Community Voucher Creation & Pool Seeding**  
+   Designing a commitment: defining what you can promise, how much, and how to fulfill. Learning how to seed, swap, and redeem within a Commitment Pool.
 
-1. Local economies - the communities we live in and our relationship to money
-2. Community Asset Voucher Creation - Social, political, and technical aspects of starting a CAV. Defining local commitments for redemption
-3. Introducing CAVs to the rest of community and world - Community engagement - Growing, using and maintaining a CAV
-4. Review and implement practical next steps
+3. **Engagement & Memory**  
+   How to introduce the idea of pooled trust to others. Creating visibility, building accountability, and recording the memory of exchange.
 
+4. **Implementation Roadmap**  
+   Reflecting on readiness. Planning for first seedings, setting credit limits, and identifying support roles for governance and redemption.
+
+---
+
+At its heart, this course is about **reclaiming economic authorship**. It reminds participants:  
+> You don’t need permission to care for one another.  
+> You don’t need capital to build an economy of trust.  
+> You only need your word—and someone who believes in it.
+
+Let the pools begin.
 
 ## Part 1. Local Economies
 
-
 ### Introduction
 
-A Community Asset Voucher (CAV) is a tool that allows a community to develop their own credit system backed by local production. When used well it can enable trade and support local markets when national currency is scarce. When well maintained, a CAV can enable communities to reach a common vision.
+A Community Voucher is not simply a new form of money—it is a **promise**, backed by the real capacity of the issuer. When pooled together, these promises form the foundation of a **Commitment Pool**, a shared registry of redeemable commitments that enables trade even when national currency is scarce.
 
-Like any tool, when not used responsibly, CAV has the potential to cause harm. The goal of the guide is to model how problems can occur, how to avoid harm, and how to design toward optimal usage.
+Commitment Pooling is a protocol for **community credit**—a way to circulate trust, route care, and organize abundance. Used well, it supports livelihoods, anchors collective projects, and builds economic resilience.
 
+Like any system of care, it requires maintenance. If promises go unfulfilled or memory breaks down, harm can occur. This guide models how such breakdowns happen—and how communities can prevent them by tending their pool with care.
+
+---
 
 ### History
 
-Community groups of different types have been making currencies since before humans had written history. In fact, [the first writing was an accounting record of wages of workers in Mesopotamia](https://www.bl.uk/history-of-writing/articles/where-did-writing-begin). CAVs come from a long history of grassroots economies and alternative monetary systems. There are many types of alternative financial systems throughout history in every area of the world.
+Before coins, before states, before banks—there was trust.
 
-We recommend you see the following videos and if possible, have participants see some of these videos before coming to the session.
+The earliest writing in human history was a list of labor promises: payments due for grain and care. Communities have always invented means of remembering who promised what to whom. From Mesopotamian tokens to mutual aid networks in Latin America, to rotating savings clubs (ROSCAs) in Kenya—**economic coordination has always emerged from relationship**.
 
-### Basic CAV Usage
+Community Vouchers and Commitment Pools are not new. They are a re-membering of forgotten methods—made visible again for today's challenges.
 
-A core principle of CAVs is that community members have more goods and services to offer each other than they have national currency to buy them; that there is the potential for an abundance of both supply and demand that the community can fulfill for itself, **if** they had an adequate medium of exchange.
+---
 
-Humanitarian organizations may purchase, create and distribute a CAV in order to support local trade during a crisis response. While community groups may create their own CAV in order to establish a local credit to stabilize and grow their economy and to facilitate local projects.
+### Why Pools?
 
+The central insight of Commitment Pooling is this:  
+> **Communities often have more capacity than cash.**
 
-### Resource Mapping
+People can grow food, fix roofs, teach skills, or care for elders—but they cannot always *exchange* that value because the national currency is missing.
 
-A CAV that is issued based on the sole backing of chapati and spent only on flour then re-spent on chapati alone may not help you prepare for a wedding or plan a community garden. Looking at the full (and potential) list of goods and services on offer and demand in a community and planning how a CAV will flow through those resources is very important. Understanding which of those resources are available locally and which are imported - as well as which are sold locally and which are exported will ultimately provide a roadmap toward a sustainable market.
+By issuing vouchers for real goods and services—and pooling those commitments—communities unlock that trapped potential. A voucher like “10 eggs” or “1 hour of childcare” can circulate *before* national currency arrives. The result: trade happens, needs are met, and value remains rooted locally.
 
-What defines local or community? What would happen if everyone in your community had a job? Is there enough work on farms, roads, houses and so on to give everyone security and full employment? If a community can come together with both their needs and abilities and resources this is possible.
+---
 
+### Resource Mapping and Ecosystem Design
 
+Let’s imagine a voucher system where someone seeds a promise for 100 chapatis—but only ever spends that credit on flour, which cycles back to chapatis. This creates a **closed loop**, which may be functional but limited.
 
+Instead, we want to map a **diverse metabolic network**:  
+- What kinds of value can circulate?  
+- What goods and services are abundant?  
+- What leaks out (imports)?  
+- What can be redirected or reimagined?
 
-### Community Asset Vouchers: Lecture and Discussion 30 Minutes
+This mapping helps communities shape **trust routes** and prepare for full-cycle redemption. It also reveals whether they can become **self-reliant**—not in isolation, but in interdependence.
 
-Make sure everyone has a pen and paper to take notes.
+Ask:
+- What does “local” mean in your context?
+- If everyone had work, what would they be doing?
+- What resources are wasted, overlooked, or underused?
 
-Say the following:
+---
 
+### Commitment Vouchers: Lecture & Dialogue (30 min)
 
+**Invite participants to reflect together:**
 
-* _The money (Shillings) we normally use is government-issued money. Money is an invention of a group of people who are willing to accept a certain type of token as a means of exchange. Throughout human history, people have used different media of exchange: shells, paper money, special rocks and gold coins. Money is just an agreement among people that something can represent a trade value. Hopefully you have seen some videos about community currencies.  If not, I will share some links and we can see some during the breaks or after today._
-* _A community currency is a voucher that can be used to trade in addition to the government issued money. Usually, communities use the measure of the government currency as a reference unit, for example, 1 CAV is redeemable for 1 Shilling worth of goods or services in Kenya. This makes it easy for communities to use an alternative without having to calculate exchange rates. _
-* _Today, we are going to look at one form of community currency, called a CAVs. One quality is that a CAV can be used to fund community projects. Another quality is that they expire gradually over time in the form of a group fee._
-* _In all Community Currencies, it is the responsibility of the issuing community to care for and maintain the value of the currency, just as it is the government’s responsibility to care for the value of the shilling. We all know it is dangerous when the government does not do a good job of preserving the value of the national currency._
-* _The exercises we do today are designed so you get to experience the way that a CAV works. You will get an understanding of how to use the currency and what problems you need to avoid if you want to continue to have a currency that is stable and serves the community._
+> _“Shillings are issued by the state—but what if we created a trust ledger of our own? One where our word was enough to begin trade?”_
 
-The following questions are designed to make sure the participants understand the basic ideas you have presented, and that they all start to participate in the discussion.
-
-Ask the following questions in order and allow several answers to each question before moving to the next:
-
-
-
-* _Have you ever thought about where money comes from? _
-* _How do you feel about creating a currency for your own community?_
-* _Do businesses in the community experience cash flow problems?_
-* _How is a voucher different from national currency?_
-* _How do people in the community borrow money today?_
-    * (Note: Probe for **formal borrowing** such as banks, Micro-Finance Institutions, Savings and Credit Cooperatives, and for **informal borrowing**—such as borrowing from relatives or moneylenders, taking goods on credit.)
-    * _How easy and how fast is it to borrow from these sources? _
-    * _What are the conditions for borrowing from these sources? _
-
-
-### Exercise: Knowing Our Community
-
-
-#### Materials
-
-
-
-* White Board / Chalkboard / Flipchart
-* Chalk / Markers
-* Small White slips of paper
-* Small Blue slips of paper (could be any color)
-* Pen / Pencil for each participant
-* Masking Tape (Or any tape to put something on the wall)
-
-
-#### Setup
-
-Give each player the following materials:
-
-
-
-* Pen / Pencil
-* 1 A4 sized white paper
-* 6 medium sized white slips of paper (or numbers of your choosing)
-* Beans = at least enough for 10 for each participant. These will have a value of 10 CAVs
-
-
-#### Introduction
-
-Say the following:
-
-
-
-* _Having a shared goal and shared projects are important success factors for CAVs. In this exercise we are going to understand our community better. The purpose of the exercise is to understand what we could use the CAV to do in our community. _
-* _Sometimes community currencies are printed like paper money, but today most community currencies are digital—because most people now know how to use mobile money on their phones. CAV will generally be mobile or digital money but we will use paper and beans to signify our CAV today. This allows us to see where the entire supply of CAV is at all times, so we can understand how the money flow works._
-* _In this exercise, we are going to map our resources and needs. Then we will simulate trading with the paper and beans. At the end we will take account and discuss what happened._
-
-
-#### Step 1: Resource Mapping
-
-**Needs:** Identify all the needs people have in the community and trace their sources. What does the community import? (for example, money, flour) What about needs like emotional support, tree planting?
+- A voucher is a promise: “I will provide X when you redeem this.”
+- It is not backed by money—but by **commitment**.
+- Pools allow these promises to be circulated and swapped.
+- Their strength comes from redemption and memory—not profit or enforcement.
 
 Say:
 
+> _“Today, we will experience a system where care is tracked, promises are fulfilled, and value is remembered. This is not charity. It is not aid. It is coordination.”_
 
+Then ask these questions to prompt discussion:
 
-* _Think about the needs of the community, including physical needs like petrol and flour. Also think of services like a boda boda ride or childcare, and care needs such as tending to someone ill. _
-* _Write down on a piece of paper 2 or 3 of the needs and I will write them on the board here._
+- Have you ever thought about where money comes from?
+- What would it mean to create a credit system based on care?
+- Do businesses in the community experience cash flow problems?
+- How is a voucher different from national currency?
+- How do people currently borrow value—and at what cost?
+  - Formal (banks, SACCOs, MFIs)?
+  - Informal (friends, shop credit, shylocks)?
+  - How long does it take to access credit?
+  - What are the conditions or consequences?
 
-Then collect the papers and write them on the board. Add a star each time the resource is repeated. Your board will look similar to this:
+---
 
+### Exercise: Mapping Our Promise Ecosystem
 
+#### Materials
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+- White Board or Flipchart
+- Markers
+- Slips of paper (white for needs, blue for offerings)
+- Beans or tokens to represent Community Vouchers (e.g. 10 CAV per bean)
+- Pens or pencils
+- Tape or wall for posting
 
+#### Setup
 
-![alt_text](images/image1.png "image_tooltip")
+Give each participant:
 
+- 1 A4 sheet of paper
+- 6 white slips (to write community needs)
+- 10 beans (representing vouchers they may issue or receive)
+- A pencil or pen
+
+#### Introduction
+
+Say:
+
+> _“To make a healthy Commitment Pool, we need to understand what value flows through our community. Who can offer what? Who needs what? This is not just about business—it includes care, joy, labor, and repair.”_
+
+> _“Most Community Vouchers today are digital—but for this session, we will simulate using beans and paper. This makes the entire trust system visible and traceable.”_
+
+---
+
+#### Step 1: Mapping Needs
 
 Ask:
 
+> _“What are the unmet needs in your community? Think of goods like food and fuel, services like transport or repair, and care like grief support or elder care.”_
+
+Write 2–3 needs per person. Collect and post them on the board.
+
+Mark repeated entries with stars. Ask:
+
+- Which of these needs require imports?
+- Which could be fulfilled locally?
+- Which are currently unpaid or underpaid?
+- Are there any circular flows—needs that could be met through internal trade?
+
+---
+
+Use metaphors to illustrate impact:
+
+- _“What happens to a leaking bucket?”_
+- _“If we import more than we create, our wealth flows out. But if we promise, fulfill, and cycle trust internally—our bucket stays full.”_
+
+---
+
+This first part prepares the ground for the next: issuing promises and simulating swaps. When you're ready, I’ll help rewrite **Part 2** with swap exercises and Commitment Pool flow.
 
 
-* _Which of these must be imported?_
-
-Mark the ones that are imported rather than locally produced
-
-Ask the following questions and allow for discussion:
-
-
-
-* _What are the most common resources we identified?_
-* _Are there any ‘circular’ trades or cycles where the money would stay within the community?_
-* _What happens to the national economy when there are more imports than exports _
-    * _Leaking bucket idea: What happens when there is more water flowing out of a bucket than flowing in? _
-
-
-#### Step 2. What can I offer?
-
-Say:
-
-
-
-* _Now we will look at what we can offer. Take a look at this list or think of other things that you provide the community. What services or items can you provide to help others fulfill their needs? If you don’t have something right now, what could you provide in the future?_
-* _Please take the slips of white paper. Each paper will represent something you can sell to the community. On each piece of paper, write down something you are selling. Try to choose something that you can actually sell in the community. If you don’t have something right now, you can just choose from the list so we can play the game. _
-
-
-#### Step 3. Barter Credit
-
-In this exercise the group is going to trade in the beans, representing the CAV, for the goods they are trading, represented by slips of paper.
+#### Step 2. What Can I Promise?
 
 Say:
 
+> _Now that we’ve explored what our community needs, let’s reflect on what each of us can offer. Not necessarily what you sell for money, but what you are willing to promise—your labor, your goods, your time, your care._
 
+> _A commitment does not have to be something you currently have in your pocket. It can be something you’re able to produce, do, or give in the future. That’s the nature of a promise._
 
-* _Remember, money is just an agreement between people. If we agree that beans are money, we can use them for trade. Imagine a trusted group of people in the community did the same: created a voucher, redeemable for their goods which we could use for a currency._
-* _We are now going to pretend that these beans are a kind of money. Each bean is worth 10 CAVs, and we are saying the CAV is equivalent to the shilling of goods or services. I will now give everyone 10 beans, to represent 100 CAVs. Make sure to count your beans so we all start out with the same number!_
+> _Each slip of paper represents a **voucher**—a formal promise you are making to your community. Write down one commitment per paper. Try to be realistic. What would you feel good about fulfilling if someone brought that paper back to you?_
 
-Give each participant 10 beans (You can choose the number and adjust the text above). Have them count to make sure they got the same as everyone else.
+Instructions:
 
+- Give each person **4 slips of paper**.
+- Have them write one offer per slip (e.g. “1 plate of food”, “1 hour tutoring”, “10 eggs”, “repair bike”, etc.).
+- These are their personal **issued vouchers**—which will later be part of their **Own Held** commitments.
 
+Optional framing:
 
-* _Now, look at your white slips of paper - you should have 4 slips. On the back, write down a price for that item. It needs to be multiples of 10 shillings, because we only have the beans for now. Keep the prices / units as small as possible to accommodate for the value of beans that were given. 10 beans represents 100 CAV so ideally your stock of goods or services is around there._
+> _These slips are like IOUs—but shared in a system that remembers. When we pool them together, we create a shared memory of what care exists and who has promised it._
 
-Give them time to write on the back of each slip. Also do some slips for yourself, including one for a Boda ride. On the back, write down 50 etc.
+---
 
+#### Step 3. Seeding and Swapping Commitments
 
-
-* _Now we are ready to trade. For example, I have a Boda ride _(hold up the paper) _and on the back I wrote 50 (flip and show the back). If you want the ride, you give me 5 beans. I give you the slip with the Boda ride. If I still have more slips of paper (stock), I can give someone else a ride. _
-* _This is simulating a market - try to sell your entire stock and spend your beans._
-* _Now go around to one another and buy things you would normally buy. Everyone should make at least 5 trades. After you have made 5 trades, sit down, count your beans, and we will know we are done when everyone is back in their seat. _
-
-Play for 5-10 minutes and finish 5 trades.
-
-
-#### Step 4. Community Trade Audit
-
-Set up a chart on the board with everyone’s name.
+In this activity, we will simulate how a **Commitment Pool** works. Participants will seed their promises into a shared pool and then use those pooled commitments to meet their needs.
 
 Say:
 
+> _In a real commitment pool, people seed their promises into a shared trust registry. This allows others to draw on those promises—not based on money, but on reciprocal care._
 
+> _For today’s exercise, we’ll use beans to represent commitments that have been **seeded into the pool**. Each bean equals a promise worth **10 CAVs**—a voucher denomination of your choosing. We are not “earning money”—we are **routing trust**._
 
-* _Let’s find out what happened. Everyone please count your beans. If you think you have the most, say out loud what you have. We will have the person with the most go and write their name and how much they have, and then so on with the next person who has the most._
-
-Have people call out their bean totals, and write their names with the number of beans they had, in order of the most beans to the least beans, on the board.
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
-Discuss in the group:
-
+Setup:
 
-
-* _What is interesting about the amounts? _
-* _The person at the top (name the name with the most beans) has a trade balance surplus of ____ CAV. (This is their bean balance minus the 10 they started with) That means that she didn’t spend so much CAV in the community and sold a lot of her products or services. What could the community do to make sure she has more to buy? _
-* _ The people at the bottom (name the names with the least beans) have trade debits of ____ (their starting amount minus their balance). This means they did not offer goods or services that were in demand enough in the community. What could we do about that?_
+- Give each participant **10 beans**.
+- These represent 100 CAV worth of pooled credit.
+- Remind them: they are receiving this **not as a gift**, but as temporary **access to the pool**, based on mutual trust.
 
-Listen for ideas like bringing in additional people into the circle, training people for new professions, reducing consumption of things that are not produced locally, etc.
+Pricing:
 
-Now, count what was purchased. You could do that by collecting slips or a raise of hands for what people bought.
+> _Now look at the vouchers you wrote earlier. On the back, write a price for each promise—in 10-CAV units (e.g. 10, 20, 30, etc.). Keep it small so your peers can afford multiple swaps._
 
+> _When someone trades a bean for your voucher, they now hold your promise and may return it to you later for redemption._
 
-<table>
-  <tr>
-   <td>Item
-   </td>
-   <td>Amount Traded
-   </td>
-   <td>Number
-   </td>
-   <td>Non-local?
-   </td>
-  </tr>
-  <tr>
-   <td>Boda (Bike ride)
-   </td>
-   <td>200
-   </td>
-   <td>2
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Water
-   </td>
-   <td>200
-   </td>
-   <td>2
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Chapati (food)
-   </td>
-   <td>400
-   </td>
-   <td>4
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Tomatoes
-   </td>
-   <td>0
-   </td>
-   <td>0
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Petrol
-   </td>
-   <td>200
-   </td>
-   <td>2
-   </td>
-   <td>*
-   </td>
-  </tr>
-</table>
+Demonstration:
 
+- Hold up one of your own offers (e.g. “1 Boda ride”) and say:
+> _“This is my promise. It costs 50 CAVs, or 5 beans. If someone gives me 5 beans, they receive this voucher—and can later return it to me to claim the ride.”_
 
-Discussion questions:
+Instructions:
 
+> _Now, you may walk around and make trades. Give someone beans to receive a voucher. Or offer your vouchers in exchange for beans._
 
+> _You must make at least **five trades**. Try to meet your real needs based on what others are offering. This is not about profit—it’s about circulation and trust._
 
-* _What do these papers tell us about the trade in the community?_
-* _What is interesting about the trades?_
-* _With the columns in mind, reflect on the daily needs. Are some, most, or all daily needs being met by what was traded? Is there anything missing? _
-* _How would someone restock inventory that came from outside needing Kenyan Shillings?_
+> _Once you've completed your trades, sit down and count your beans and vouchers. We’ll do a memory check together._
 
-Discuss and write down a list of challenges, such as:
+---
 
+Debrief (after everyone finishes):
 
+Gather participants and ask:
 
-* Restocking
-* Trust
-* Distance between users
-* People not knowing where to spend
-* Holding too much CAV
-* People changing CAV pricing
-* Seasonal products
-* The supply of CAV in this game was limited to only 100 CAV per person: What are the advantages and disadvantages of this small amount?
+- How many beans do you have left?
+- How many vouchers from others do you now hold?
+- How many of your own vouchers did others receive?
+- Who are you now **in trust with**?
+- How would you feel if someone brought your voucher back tomorrow to redeem?
 
+Close with:
 
-## Part 2. Community Asset Voucher Creation
+> _This is how a pool begins: promises are seeded, exchanged, and remembered. If you fulfill what you’ve promised, the cycle is sustained. If memory or redemption breaks down, so does trust. This is a metabolic economy—not a market._
+#### Step 4. Community Trust Audit
 
-In the previous exercise many questions may have come up, such as what happens if you end up with too many CAVs. The types of question people may ask include:
-
-
-
-* “How will I restock my shop with items that can only be bought in Kenyan Shillings?”
-    * _Possible answers: Accept as much as you can spend on a daily or weekly basis. _
-    * _Accept as much as you would hold the debts of others._
-* “What if people spend CAV, then refuse to accept back CAVs?”
-    * Issuers must redeem their vouchers if they don’t seek dispute mediation
-
-In this section, we do exercises that show the trust and mutual stewardship that are required for having a successful CAV. Introducing a CAV is not a one-time event. Some communities refresh the CAV on an annual or bi-annual basis, deciding how to handle imbalances. Successful projects and community cohesion make your community a good candidate for further development. A community that knows how to care for its community currency can fulfill the long-term goals of the community.
-
-
-### Community Currencies: Lecture and Discussion 30 Minutes
-
-Make sure everyone has a pen and paper to take notes.
-
-
-
-* _In the last exercise we have seen that a CAV needs to be managed properly such that the trade is balanced to some degree. Each person was issued with 100 CAV because they were backing it with 100 Ksh of their goods and services._
-* _If someone spent 100 CAV on tomatoes, while promising to redeem them later for shoe repair - they are pre-selling their shoe repair for tomatoes._
-* _There are important elements I will discuss now and you can ask questions, then we will do some exercise to understand how this works. _
-* **_Community backing: without it, the CAV cannot work. Business people and community members make a promise of how much CAV they will accept, and for what goods and at what Kenyan Shillings value. For example, the shopkeeper might be willing to accept 2,000 CAV for 2,000 ksh worth of locally-grown vegetables. She might not be willing to accept any CAV or only a small percentage of the price in CAV for the packaged goods that are imported. We will do an exercise where all of us make promises of how much CAV we are willing to accept._**
-* _Committed community backing means that the CAV issuing community group is committed to redeeming any tokens they spend and maintaining a **zero trade balance (spending = redemption)** over time. In other words, the shopkeeper is committing to spending **and** accepting the CAVs with other community members, not just spending **or** accepting them. _
-* _Commitments of goods and services serve several purposes. They limit how many CAVs can be created while also allowing CAVs to be exchanged for those goods and services. _
-* _You can imagine the reserve of commitments as a seed bank, at which, after a deposit of seeds you get a share slip (CAV) that allows you to pull seeds back out in the future. When there are very few seeds in the bank then there are very few CAVs in circulation._
-* _Of course, nothing will compensate for people who spend CAV but don’t accept it back. So there are some important ways that you as community members will need to take care of your currency and we will also have a discussion about what would work for your group after we do that exercise._
-* **_Important caution: If you continue to care for the CAV properly, you will have a long-term economic impact to create an independent community. If you treat a CAV as “free money” and are careless, the CAV circulation will slow and eventually stop flowing and also create resentment against the people who took advantage of the situation at other people’s expense. _**
-
-
-### Exercise: Community Commitment
-
-In this exercise, the community will explore the levels of commitment of the participants in the community currency. You will be asking people to really think about what they can commit and accept if the community were to adopt a CAV, so these commitments should be “real” in that the participants will be able to actually accept and spend CAV if the project goes forward. The participants should see themselves as the CAV issuing group who own the program and will be starting the circulation of their CAV in the community.
-
-At this point, people may be experiencing some level of skepticism about whether this will work, and whether they may end up losing money or products while accepting the CAV. This is normal. Allow them to express those concerns and then try the exercises. After the exercises, have an open discussion to have them discuss their concerns and see how they can support one another to address the issues that might come up.
-
-
-#### Materials
-
-
-
-* Small paper (half an A4 or a large index card) 1 per player
-* Large Paper (full sheet of A4) 1 per 2 player
-* Easel-sized / Flipchart Paper (a few sheets for the room)
-* Writing implements for everyone
-* While slips of paper. At least a 4 for each participant. These will represent commitments of goods and services with a Kenyan Shilling value.
-* Beans, at least 25 for each participant, (these could be replaced with pieces of colored paper with a 100 CAV written on it) These beans will be redeemable for 2,500 KSH of goods and services
-* A timepiece for tracking rounds.
-
-
-#### Setup
-
-
-
-* Keep participants in the same groups from the previous step.
-* Hand out 4 small, blank slips of white paper to each participant
-* Provide fresh sheets of A4 paper if needed.
-
-
-#### Roles for the Exercise
-
-In this and the following exercises, the group will need people to play certain roles. People can try different roles in different exercises. Following are the roles that are needed:
-
-
-
-* Chama Representative:
-    * Inspect the slips of paper to verify that the person actually has those goods and services to trade and that the amount should not exceed 1 months sales capacity or 10% of their annual sales capacity (once completed); this includes community projects.
-    * distribute each member some CAV based on their audit
-    * Mediate disputes
-    * Collect a holding tax - each month collect 2% of everyone’s CAVs
-
-
-#### Introduction
-
-The exercises above allowed the community to experiment with exchanging in a system with a CAV and holding taxes. To have a currency in a real community, there is a minimum amount of worth of committed goods and services as well as needed endorsements. In the next exercise, we will take a look at the minimum requirements of the community and start to speculate whether they could have a CAV.
-
-Keep the groups for this part and say:
-
-
-
-* _Now we need a name and abbreviation for the CAV. Kenyan Shillings are called Shillings and the abbreviation is KES. You could make any name for your currency. For each long name, we also want a short name we can use. The short name should be less than 6 letters. _
-* _The name we chose now is just for this workshop today. If you like it, you can keep it for your CAV in the future, but you do not have to, so just have fun thinking of names we can use today._
-* _In your groups, I will give 5 minutes to create a name and an abbreviation. For example, you could have a token called Wanoma and the abbreviation could be NOMA. Please take 5 minutes now in your groups._
-
-After 5 minutes, stop the action. Have each group say the name and abbreviation and write it on the board. Have the group vote for a name.
-
-
-### How many vouchers to create?
-
-The amount of CAV a group can created depends on two things:
-
-
-
-1. Community commitment: The amount of commitments of goods and services that members of a group have pledged to redeem for CAV.
-2. An audit of the community's ability to fulfill their commitments. No more than 10% of the annual sale capacity of the group or month’s sale capacity will be accepted in order to ensure there is more than enough baking for a CAV.
-3. Endorsement from local Village Elders.
-
-The maximum number of CAVs that can be created is limited based on a reserve requirement of 100% of community commitments. So with 50,000 Ksh worth of audited commitments a community can create 50,000 of their own CAV tokens. This is a good starting point for a community. Note that yearly this commitment process can be redone to reassess the needed CAV supply.
-
-While the number of CAV to create is important, the speed of circulation is even more crucial to maintaining a local market. There should be enough CAVs in circulation, such that the community can maintain the amount of trade it desires.
-
-
-### Who should create a CAV?
-
-CAVs are not short term projects - as they seek to provide sustainable public financial infrastructure. CAVs seek to be an alternative when national currencies are scarce and hence provide a safety net for communities in crisis. Creating a Community Asset Voucher is like having a baby - it is a responsibility that one should not walk away from. It is of utmost importance that the community backing be as solid as possible with the full support of the community, mediators, elders and chief. Trustful communities can build wealth much easier than trustless communities. It's not only about how hard you work, but how much of your work is lost through cheating, theft, corruption, and providing security against those things. Trust and trustworthiness are themselves forms of wealth.
-
-Explain the CAV creation rules. Say:
-
-
-
-* _In real life to launch a community currency, these groups must be at least 1 year old, at least 10 members who are active, there must be a minimum of 50,000 ksh in commitments with an audit to show capacity, this training course, a signed application. If you can meet the requirements, the Grassroots Economics Foundation can support in creating the CAV._
-* _Did we reach the 50,000 KSH total or 2,500 KSH each in commitments? _
-* _How balanced are the commitments? _
-* _If we didn’t have enough, how could your community reach 50,000 KSH in commitments? Who else would you want to join?_
-* _Does the committed group have any potential for circular trade with each other?_
-* _Are you satisfied with what you decided to put in the community backing?_
-* _If others had written higher or lower numbers, would it have influenced you to give more or less?_
-* _Do you have a different way or better way to come to a decision like this?_
-* _Is this a fair and equitable way of making this decision?_
-* _What, if anything, could have made this process better?_
-* _Who needs to be in the initial commitment agreement? _
-* _How should the group and greater community enforce this agreement? Who will arbitrate challenges and should also sign the agreement?_
+Set up a chart on the board with everyone’s name. This is our **trust memory** for the session.
 
 Say:
 
+> _Let’s trace what happened in our trust flow. Each bean represented a pooled promise. Now we’ll see who has given more than they received, and who has received more than they gave._
+
+> _Please count how many beans (pooled promises) you have. If you think you have the most, say the amount out loud. One by one, we’ll write the names and totals on the board, from most to least._
+
+Write each participant’s **final bean total** next to their name on a large board or flipchart.
+
+---
+
+##### Group Reflection
+
+Ask:
+
+- _What do you notice about the distribution?_
+- _Who ended up with more pooled credit than they started with?_
+- _Who ended up with less?_
+
+Explain:
+
+> _In this simulation, each person started with 10 beans, or 100 CAV worth of shared promise access. Someone who ends up with 15 beans now holds more pooled trust—they’ve contributed more than they’ve drawn._
+
+> _Someone with 5 beans has drawn more from the pool than they’ve offered in return—this is not a failure, but a signal. It may reflect need, timing, or trust routing._
+
+Ask:
+
+- _What could the group do to support the people whose offers weren’t picked up?_
+- _What happens if someone consistently gives but doesn’t spend?_
+- _What if someone receives many promises but doesn’t fulfill their own?_
+
+Listen for responses like:
+
+- Broadening who’s invited into the pool
+- Changing what’s seeded into the pool
+- Supporting fulfillment capacity
+- Encouraging new trust ties
+
+---
+
+#### Trade Pattern Review
+
+Next, tally what types of offers were fulfilled. This will help the group see the **metabolic patterns** of the ecosystem.
+
+Ask participants to raise hands for what they **received**, or collect the redeemed vouchers.
+
+Create a table like this on the board:
+
+| Offer Type         | Total Traded (CAV) | # of Trades | External Input? |
+|--------------------|--------------------|-------------|------------------|
+| Boda Ride          | 200                | 2           |                  |
+| Water              | 200                | 2           |                  |
+| Chapati (Food)     | 400                | 4           |                  |
+| Tomatoes           | 0                  | 0           |                  |
+| Petrol             | 200                | 2           | *Yes*            |
+
+Use a star (*) to mark anything that requires external resupply (like petrol).
+
+---
+
+##### Guided Questions:
+
+- _What patterns do we see in what was traded?_
+- _What offers were never redeemed? Why might that be?_
+- _Which offers depend on external goods (Kenyan Shillings)?_
+- _Can this ecosystem sustain itself? What would help?_
+
+Then ask:
+
+- _Were daily needs met through the pool?_
+- _What needs are missing from this exchange?_
+- _What challenges showed up during this exercise?_
+
+Facilitator notes:
+
+Write down issues the group mentions—these often include:
+
+- Supply bottlenecks (especially for external goods)
+- Trust gaps or misunderstandings
+- Too few people in the pool
+- Changing prices without agreement
+- Over-concentration of CAV with a few participants
+- Limited redemption points or poor circulation
+- Seasonal gaps (e.g. harvest-dependent goods)
+
+Final Prompt:
+
+> _Remember: Commitment Pooling is a collective memory. It’s not just about how much we each gave or received, but whether our **shared metabolism** is thriving. If people are hoarding promises, losing track, or unable to fulfill—then we adjust the pool._
+
+> _Trust doesn’t disappear—it just needs to be rerouted._
 
 
-* _Think back to when we played through making a CAV. During that exercise I gave some of you sheets or paper that had goods and services on them. You used those goods as your commitment to make a CAV. Now I want you to think about **your** real community. What goods or services does your community have to back a CAV with? For example, vegetables, land, a water source, a taxi service._
-* _Right now, it is a good idea to think about things you really could commit to backing your CAV. If you have a retail business, you might be willing to sell 20% of your items for CAV and use those for other things in the community. _
-* _For the exercise ensure that the total value of all our inventory doesn’t exceed 2,500 Kenyan shillings of goods and services. These will be how many CAVs you are allocated. In reality the amount you are willing to back a CAV with should **not** exceed a month of your sales capacity or 10% of your annual sales capacity. _
+## Part 2. Creating a Community Asset Voucher through Commitment Pooling
 
+In the previous simulation, you may have wondered: _What happens if I end up holding too many CAVs?_ These are important questions. Here are some you might hear:
 
-#### Step 1. Commitments
+- “How will I restock my shop with goods that can only be bought with Kenyan Shillings?”
+    - 👉 Accept CAV in proportion to what you can **redeem** for in the pool.
+    - 👉 Accept as much as you’re comfortable holding as **trust** in your community.
 
+- “What if people spend CAV, then refuse to accept them back?”
+    - 👉 Those who issue vouchers **must** fulfill them. If not, mediation is required.
 
+This section helps us practice the **core principle of Commitment Pooling**: _No CAV exists without a real commitment behind it._ Every voucher is backed by a specific person or group, promising goods or services.
 
-* _When we played through using a CAV before. Remember that when you committed goods to back the CAV, you then had to sell those for CAV during the trading exercise. This is what it means to commit to selling an item or service for CAV. Now that we think about what we might do for our community, it requires a commitment. This commitment comes from you and other business people in the community. _
-* _In order to be able to spend the CAV - What would you be willing to commit to selling in return for the CAV? For the exercise, we will be committing 2,500 shillings worth of goods or services each, but if we were doing a real-life commitment, the community would need to reach at least 50,000 KES of commitments and not exceed 10% of your annual or one month of your sales capacity. _
-* _Everyone should contribute 2500 shillings worth of commitments. That means, you have 2500 shillings worth of goods or services to sell and accept the CAV._
-* _Now write down some goods and services on each piece of paper. You can use the ones we had before or other goods. _
+Introducing a CAV isn’t just technical—it’s relational. Pooling our commitments is an act of trust and care. That trust must be continually refreshed and fulfilled.
 
-Give everyone 25 slips of paper and have them write down the items they sell. For instance a woman selling chapati only can write chapati on each 25 slips of paper and the amount of 100 /= on each one. Meaning she has a total inventory worth 2500/=
+---
 
-Give everyone a few minutes to write down the goods on their small slips of paper.
+### Commitment Pooling: Lecture & Discussion (30 mins)
 
-
-#### Step 2. Filling Commitment Table
-
-Use the following Commitment Table to put everyone’s commitments on the board.
-
-Commitment Table
-
-
-<table>
-  <tr>
-   <td>Name
-   </td>
-   <td>Product sold
-   </td>
-   <td>Commitment in product value (KSH)
-   </td>
-   <td>CAV received
-   </td>
-  </tr>
-  <tr>
-   <td>Joyce
-   </td>
-   <td>Water
-   </td>
-   <td>400
-   </td>
-   <td>400
-   </td>
-  </tr>
-  <tr>
-   <td>Janet
-   </td>
-   <td>Sugar
-   </td>
-   <td>400
-   </td>
-   <td>400
-   </td>
-  </tr>
-  <tr>
-   <td>Jacob
-   </td>
-   <td>Maize flour
-   </td>
-   <td>400
-   </td>
-   <td>400
-   </td>
-  </tr>
-  <tr>
-   <td>Mwanaidi
-   </td>
-   <td>Rice
-   </td>
-   <td>400
-   </td>
-   <td>400
-   </td>
-  </tr>
-  <tr>
-   <td>Phred
-   </td>
-   <td>Phone
-   </td>
-   <td>400
-   </td>
-   <td>400
-   </td>
-  </tr>
-  <tr>
-   <td>Amina
-   </td>
-   <td>Kuni
-   </td>
-   <td>400
-   </td>
-   <td>400
-   </td>
-  </tr>
-  <tr>
-   <td>Mbui
-   </td>
-   <td>Maji
-   </td>
-   <td>400
-   </td>
-   <td>400
-   </td>
-  </tr>
-  <tr>
-   <td>Vivian
-   </td>
-   <td>Boda
-   </td>
-   <td>400
-   </td>
-   <td>400
-   </td>
-  </tr>
-  <tr>
-   <td>Njambi
-   </td>
-   <td>Mboga
-   </td>
-   <td>400
-   </td>
-   <td>400
-   </td>
-  </tr>
-  <tr>
-   <td>Nadzua
-   </td>
-   <td>Maji Project
-   </td>
-   <td>400
-   </td>
-   <td>400
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Total
-   </td>
-   <td>4,000
-   </td>
-   <td>4,000
-   </td>
-  </tr>
-</table>
-
-
-
-
-* _This table is called the Commitment Table. When you make a commitment to a real CAV, this is how it will work. You say what you will commit; For example, (Sally) will provide 2,500 KSH worth of (chapatis worth 10ksh each) in return for 2,500 CAVs. Once the commitment is signed and verified Sally will be issued 2,500 CAVs she can spend with others. _
-* _Are there questions about this? We will be playing a game to show how it works.  _
-* _We would like one person to be responsible for the reserve and the contract. Who will do that?_
-
-
-#### Step 3. Issue CAV
-
-Have the Chama Rep. inspect the Commitment Table and validate that each persons inventory amount then hand that person 1 bean for every 100 KSH worth of inventory.
-
-Now calculate how many total commitments there will be. The commitments should be the number of people playing times 2,500 if each person committed to 2,500.
-
-
-
-* _We will be issuing [xxx total commitments] CAVs. _
-
-
-#### Step 4. Trade
-
-
-
-* _Now, we will do another few rounds of trading like we did in the beginning_
-* _Let’s do 5 rounds of trade together._
-* _The Chama Rep. will not be trading during this round. _
-
-Have them do 5 rounds of trade. Then, as in the beginning, do a chart to see where the money went.  
-
-
-<table>
-  <tr>
-   <td><strong>Player</strong>
-   </td>
-   <td><strong>Wanoma (CAV name)</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Mwanaidi
-   </td>
-   <td>1000
-   </td>
-  </tr>
-  <tr>
-   <td>Amina
-   </td>
-   <td>800
-   </td>
-  </tr>
-  <tr>
-   <td>Njambi
-   </td>
-   <td>600
-   </td>
-  </tr>
-  <tr>
-   <td>Jacob
-   </td>
-   <td>600
-   </td>
-  </tr>
-  <tr>
-   <td>Mbui
-   </td>
-   <td>400
-   </td>
-  </tr>
-  <tr>
-   <td>Janet
-   </td>
-   <td>200
-   </td>
-  </tr>
-  <tr>
-   <td>Nadzua
-   </td>
-   <td>200
-   </td>
-  </tr>
-  <tr>
-   <td>Phred
-   </td>
-   <td>100
-   </td>
-  </tr>
-  <tr>
-   <td>Joy
-   </td>
-   <td>100
-   </td>
-  </tr>
-  <tr>
-   <td>Viv
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Totals</strong>
-   </td>
-   <td><strong>4000</strong>
-   </td>
-  </tr>
-</table>
-
-
-
-
-* _What happened as a result of the CAVs? Was there a change in the amount of economic activity?_
-* _Does the amount of CAVs created initially (as in the previous exercise) make sense?_
-* _What is the importance of the social backing and commitment of the issuers here?_
-
-
-#### Step 5. Expiration Rates
-
-At this point, the group should have the general idea of how the trades work. Now, it’s useful to understand how taxation works. Let everyone keep the CAVs as they had them in the last exercise.
-
-Following are scenarios to try. You can also have the group come up with scenarios to try.
+Facilitator notes: Provide pens and paper for notes.
 
 Say:
 
+> _Every CAV begins as a **voucher of trust**—a promise to offer something of real value to your neighbors. That promise is what we call a **commitment**._
 
+> _In the simulation, each person was issued 100 CAV because they were **backing** it with 100 Ksh of actual value—vegetables, transport, tailoring, childcare._
 
-* _Because we want to ensure that no one will hold CAVs too long and want the Chama to continue to support projects and the circulation of CAV, we want to appreciate their efforts. We can do this through a holding tax - similar to a group fee. _
-* _Everyone holding beans at the end of the month must give some beans to the Chama Treasurer. _
-* _Note that in reality this would not exceed 2% a month. For this exercise for every 100 CAV (10 beans) (roughly every 6 months) you hold give one to the Chama Treasurer_
-
-Let the Chama Treasurer go around and collect a bean from each player for each 10 beans they are holding (round down). Then show the results, as in the tables before.
-
-
-<table>
-  <tr>
-   <td><strong>Player</strong>
-   </td>
-   <td><strong>CAV holdings</strong>
-   </td>
-   <td><strong>Holding Tax<em> (after 6 months)</em></strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Mwanaidi
-   </td>
-   <td>1000
-   </td>
-   <td>100
-   </td>
-  </tr>
-  <tr>
-   <td>Amina
-   </td>
-   <td>800
-   </td>
-   <td>80
-   </td>
-  </tr>
-  <tr>
-   <td>Njambi
-   </td>
-   <td>600
-   </td>
-   <td>60
-   </td>
-  </tr>
-  <tr>
-   <td>Jacob
-   </td>
-   <td>600
-   </td>
-   <td>60
-   </td>
-  </tr>
-  <tr>
-   <td>Mbui
-   </td>
-   <td>400
-   </td>
-   <td>40
-   </td>
-  </tr>
-  <tr>
-   <td>Janet
-   </td>
-   <td>200
-   </td>
-   <td>20
-   </td>
-  </tr>
-  <tr>
-   <td>Nadzua
-   </td>
-   <td>200
-   </td>
-   <td>20
-   </td>
-  </tr>
-  <tr>
-   <td>Phred
-   </td>
-   <td>100
-   </td>
-   <td>10
-   </td>
-  </tr>
-  <tr>
-   <td>Joy
-   </td>
-   <td>100
-   </td>
-   <td>10
-   </td>
-  </tr>
-  <tr>
-   <td>Viv
-   </td>
-   <td>0
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Totals</strong>
-   </td>
-   <td><strong>4000</strong>
-   </td>
-   <td><strong>400</strong>
-   </td>
-  </tr>
-</table>
+> _If someone spent 100 CAV on tomatoes while promising shoe repair—they’re pre-selling their service for tomatoes. This is how reciprocal value flows._
 
+#### Core Principles to Emphasize
 
-Ask the following questions and give time for discussion.
+- **Community Backing**: 
+    > _Every voucher must be redeemable. If you issue 2,000 CAV, you must be ready to redeem it with 2,000 Ksh worth of real goods or services._
 
+- **Zero Trade Balance Target**: 
+    > _Over time, communities aim for each member’s CAV issued (debt) to match the CAV redeemed (fulfilled)._
 
+- **Reserve of Commitments**:
+    > _Think of commitments like seeds in a seed bank. You deposit a promise, receive a voucher (like a share slip), and later, someone else redeems it._
 
-* _What happened here? _
-* _What would the Chama Rep. do with the 400 CAV it collected?_
-    * _Could some be given to the village elders? What would the village elders do with the CAV?_
-    * _Could some be used to support the chama board or community projects?_
-* _Does this tax help ensure people don’t spend and that the system is supported by the Chamas and Village Elders?_
-* _If the group creates 50,000 CAV and this holding tax were taken continuously and resulted in 2% (1000) going back to the chama monthly, would that be too much or too little?_
+- **Ongoing Care**: 
+    > _A CAV is not free money. It is a living memory of trust that must be nourished. If people issue but refuse to fulfill, the circulation stops. Resentment grows. The system fails._
 
-You can run additional experiments with different roles, depending on the amount of time that you have and the concerns of the groups. Examples of roles that people could take:
+---
 
+### 🌱 Exercise: Community Commitment Pledging
 
+This activity will help you map what your community can **actually commit**—in real time and value.
 
-* Someone with nothing to trade who is being given CAV from the project (elderly, for example).
-* Someone who is taking advantage of the system and cashing out as much as possible.
-* Someone who does not honor their commitment to receive CAV.
+Participants will declare:
+- What they can offer
+- How much they are willing to redeem
+- What they expect to spend
+- What limits they want to set
 
-After each round, you can discuss what happened. You don’t always need to make a board of the totals when it is obvious what happened as a result of the game.
+#### 🧰 Materials
+- 4 white slips of paper per participant (to write voucher types)
+- Beans or slips to represent CAV (at least 25 per participant, = 2,500 Ksh of backing)
+- Pens or pencils
+- A4 paper for commitment summaries
+- Flipchart paper for public commitment board
 
+---
 
-## Part 3. Introducing CAVs to the rest of community and world
+### 🌀 Setup
 
-In this section, there will be discussions and exercises to explore how well the participants understand CAVs and to present some potential worst-case scenarios. At the end of the section, they should be prepared to go back to their communities, train others, and develop community agreements.
+- Stay in the same groups from the previous round.
+- Distribute materials.
+- Choose roles:
 
+#### 👥 Roles
 
-### Understanding the Risks
+- **Chama Representative / Pool Steward**:
+  - Audit the commitments: Are they realistic? Do they reflect real capacity?
+  - Allocate vouchers (CAV) based on the commitments.
+  - Mediate disputes.
+  - Enforce a 2% monthly holding fee (if used).
 
+---
 
-
-* _A CAV is not meant to be a store of value, it is a tool for facilitating local trade. Holding onto a CAV is like holding onto a piece of the economy: It has more value if it is traded and accepted. If someone sells all their imported inventory for CAVs and can’t buy any more stock their business could collapse._
-
-
-### Obligations
-
-
-
-* _It is up to all of the participants to monitor themselves and the other members, and make sure that people are keeping their commitments to accept CAVs. If people are not accepting CAVs for goods in the communities, nobody will want to hold them, and people will stop accepting them. _
-* _How do you feel about your community’s ability to keep their word and accept the CAVs that they have created? Are there people who you think are more or less likely to keep the agreement? What would you do to make sure that everyone who commits actually keeps the commitment?_
-
-
-#### Dispute Mitigation
-
-
-
-* _Should you create and spend CAVs you are obligated to accept them back. The CAV Commitment Agreement should state the repercussions and they should be enforceable by the group and local authorities. There are many possible cases where disputes will arise such as CAVs being stolen or someone refusing to accept more after spending. All of these cases need to be thought through before they happen. We will now discuss some worst case scenarios, so you can be prepared and think about how to put in place agreements to prevent these problems or to mitigate the risks if something goes wrong. _
-
-
-#### Worst Case Scenarios
-
-Mention each scenario and then give people time to discuss.
-
-
-
-* _Someone convinces Mama Sammy to accept CAV for all her stock of sugar and she can no longer buy her stock as she needs national currency._
-* _It is taking too long for someone to redeem their CAV in goats after spending them._
-* _Someone collects CAV in a devious way and then spends it all on an unsuspecting shop owner and never accepts it back._
-* _One of the committed backers spends all their CAV in another community._
-* _The community project funds are not fairly distributed to people for work. The project managers play favorites or fund people who aren’t really doing the work._
-
-
-### Balancing Inventory
-
-Anyone using a CAV, especially those who aren’t issuers, will have the same question, “If I accept CAV where will I spend it and how will I restock or buy things that need Kenyan Shillings”.
-
-For a CAV issuer starting with a lump sum of CAV the answer is simple, accept back at least as much as you have spent - then spend more and repeat.
-
-But for a business accepting it for the first time the following are suggested answers
-
-
-
-* _If you as an issuer are trying to convince someone to accept it - you have to point them to where they can spend it - ideally back at your businesses or others in the issuer group, or at other users that have begun to accept it. If that is not an option for them and they need things that simply can’t be found in the network and they have yet to enroll their suppliers, they have some options:_
-    * _They can be careful and accept only as much CAV as they know they can spend on other expenses. Often this means only accepting as much as your profit margins on items you must restock in national currency._
-    * _Only accepting as much as you might accept informal debts from others. There should be a limit on how much you will sell goods or services on credit._
-* _As a group, it is up to you to make sure there are active members and if there are particular services or items in demand, you can find people who sell those things and invite them to join._
-
-
-#### Exercise: Balancing Inventory
-
-
-
-* _To manage businesses wisely, participants in the CAV need to do inventory balancing. If you are selling something that can’t be purchased with CAV and accepting CAVs for it you must make up that loss in some other way--such as saving national currency on the purchase of daily food for your family._
-* _For example, if you accept 400 CAV for an imported product you are selling you must spend 400 CAV on something that will save you having to spend 400 in National currency - so that you can still purchase your stock. We will now do an exercise to show how that works._
-
-Have someone role play as a shop that sells something that can’t be purchased for CAV (yet). Determine how often you buy stock and how much you buy it for and sell it for: (For example, Coca Cola. Once a month you buy for 20 shillings a bottle and you sell it for 40 shillings a bottle. )
-
-
-
-* _How much CAV can you use daily in the community?_
-* _How much CAV can you accept per bottle?_
-* _Would you set a different price in shillings than you would in CAV?_
-* _What would happen to the demand for local drinks as opposed to Coca-Cola as the CAV becomes more popular? Is that good for the community?_
-* _How important are imported products?_
-* _What types of businesses can accept the most CAVs?_
-
-**Takeaway: **The individuals can see for themselves how to calculate the amount of CAV they can accept for different products and services (local and imported).
-
-
-### External Support for a CAV
-
-CAVs are vouchers redeemable for goods and services, and like any voucher they can also be bought and sold. Someone might want to buy your CAV in order to give it to someone as a gift. Humanitarian Organizations might do this as well; buy an amount of CAV from the issuers and donate them to needy people in the community.
-
-A purchaser of a CAV is paying in advance for goods or services that the CAV is redeemable for. A CAV issuer should treat the purchase of a CAV as a pre-sale - since the CAV will eventually come back to them for redemption in goods and services.
-
-By donating purchased CAVs to the community rather than money directly - this is a way to ensure that the funds at least double their effectiveness in the community - by buying local goods or services and ensuring that those goods or services are consumed locally by those in need.
-
-Because all the transactions of a CAV are transparent a donor can tell if the CAV has been redeemed. If the CAV continues to circulate in the community, being redeemed and reissued or purchased then the impact of the support becomes multiplied. This is what we call the multiplier effect of CAVs; rather than typical aid that ends up in the hands of people living outside the community.
-
-When thinking about who could buy or accept your CAV, think about who might want or need your goods or services and be willing to preorder it.
-
-
-
-* Which agencies, government or other, exist in the region?
-* What programs exist in the region that can align with the group mandate?
-* Which industries exist in the region where members can add value to their supply line?
-
-
-## Reflections after the course
-
-Ask the participants to talk about what questions CAVs and the exercises bring about. This sheet is based on Elinor Östrom’s **Commons Governance Rules**.
-
-
-
-1. Who is part of a CAV and who is not? What are the rules for joining? (_Define clear group boundaries_.)
-2. Are the rules governing CAV creation and usage locally appropriate? (_Match rules governing groups and the use of community resources to local needs and conditions_.)
-3. Who can participate in modifying those rules? (_Ensure that those affected by the rules can participate in modifying the rules.)_
-4. How are CAV rules legitimate outside the community or group creating them? (_Make sure the rule-making rights of the community members are respected by outside authorities_.)
-5. How are CAV member behaviours and rule compliance monitored? (_Develop a system, carried out by the community to monitor member’s behaviour such as trade balance._)
-6. How are CAV related disputes resolved in the community? (_Provide accessible low-cost means for dispute resolution.)_
-7. What kind of governance layers are there for maintaining CAVs? (_Build responsibility for governing the common resource in nested tiers from the base level to the entire ecosystem._)
-
-
-## Next Steps
-
-
-
-1. Read the [Frequently Asked Questions (FAQ)](https://docs.google.com/document/d/1qtlOEL4pqW1vOL893BaXH9OqRSAO3k0q2eWbVIkxEvU/edit?usp=sharing) and test your knowledge with the CAV Quiz.
-2. Ensure your chama meets all the criteria and understands this material.
-3. Develop a CAV Commitment Agreement and have it audited by Grassroots Economics and the local administration.
-    1. Contact [info@grassecon.org](mailto:info@grassecon.org) or dial +254757628885
-    2. If approved your CAVs will be distributed as per the agreement.
-4. Start trading and building your community and economy!
-
-
-## Appendix A: CAV Commitment Agreement Template  
-
-_Note: Community acceptance, usage and the value of a CAV starts with the issuer backing and vision. This backing is audited and a document as described below must be approved by mediators, the local chief and elders. CAV issuers that spend their CAV in the community must accept it back and are considered in debt until they do so. The following is an example of a statement of commitment and intention to develop a CAV. _
-
-In order to certify and support a community to create a CAV, Grassroots Economics’ CAV Creation criteria requires groups creating a CAV to have a:
-
-
-1. Initial registration as a group at least 1 year ago
-2. Minimum 10 members with active membership
-3. Have a minimum commitments of 50,000 Ksh of goods and services
-4. Demonstrable backing capacity for tokens created. (Business audit)
-5. Have the endorsement of a community official or village elder.
-6. Have a leading member that has gone through this training.
-7. A completed [Voucher application form](/commons/) - Please inquire for specific forms.
-
-
-## Appendix B: CAV Technology
-
-Community Asset Vouchers CAVs are digital tokens residing on a public ledger. CAVs accounts can be accessed on feature phones without the internet. In Kenya you can dial *384*96# on Safaricom or *483*46# on Airtel to register your account and set a password. Note that any personal information you share, such as your products and PIN are considered private and confidential. Should you lose your pin you can dial 0757628885 to reach Sarafu Network support. You will be asked several questions to verify your identity and a PIN reset will be sent to your phone.
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
-When you first dial the USSD code you will be prompted to select a language and then to enter a PIN. This is your secret code and should not be shared with others that you don’t trust to have access to your account. If you loose this PIN you will not be able to use your account.
-
-After registering you will dial the USSD code again and access the Sarafu Network Menu. You will see your balance of 50 SRF. These are tokens that can be used for training and to receive services from Grassroots Economics as a service provider
-
-In order to send SRF tokens to other users you will select 1 to send, then enter the phone number of whom you are sending to, the amount you wish to send and finally enter your pin to confirm.
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-Under your Account you will see your profile information as well as your account statement. You can enter your name, location, age, gender and the products or services you are offering in the network.
-
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
-
-Note that there are many CAVs. While you start with SRF eventually you should create your own CAV with your community. In addition other organizations and humanitarian organizations might send you a CAV. By selecting My Sarafu you will see a list of the tokens (Sarafu) you have and can choose one to be your active token at any time. Your active Sarafu’s balance will be the one now listed on the main menu and will be the one used for sending.
-
-
-## Appendix C: Income Generating Activities (IGAs)
-
-Quite often IGAs are developed by an CAV issuing group as one of the primary backers of a CAV. It is important to fully understand how to set up an IGA for use with a CAV. This is similar to running a business while using vouchers or coupons.
-
-Upon creating a CAV a group will have clear commitments to redeeming them for goods and services. A community project or IGA can be a major source of commitments to backing a CAV.
-
-Below are some things to consider:
-
-
-
-1. **Business**
-    1. What are your products/services?
-    2. Who are your clients?
-    3. Who are your distributors?
-    4. Who are your suppliers? (Name three)
-    5. What are the supplier’s qualifications?
-    6. What are their costs for products and delivery?
-    7. Where are they located?
-2. **Finances**
-    8. What is the product price?
-    9. What does your competitor charge? What is the Market Rate?
-    10. How do customers pay in CAV and national currency (minimum or maximum CAV)
-    11. What is your revenue? e.g total sales (daily monthly yearly?)
-    12. What are your costs? e.g rent, electricity, transport. (daily, monthly, yearly?)
-    13. What is the profit margin?
-3. **Management**
-    14. Who is doing the quality control? In a community project, committee members, group officials can take roles in quality control. Ensuring expected standards are met.
-    15. Who is ensuring duties and responsibilities are met by employees?
-    16. Who is going to be selling the product?
-    17. Who manages the project / funds And what that person does with funds?
-    18. How is additional investment or maintenance managed? E.g. buying a water tank or pump for a borehole project?
-    19. Who are your stakeholders?
-    20. What are your strategies on how to deal with emerging issues e.g cheating
-    21. Are you in compliance with local law?
-    22. Are there any conflicts of interest? (e.g. your ONLY supplier is running the IGA)
-
-
-### Water project example
-
-Below example shows an estimation plan of a water vending business.
-
-
-
-1. **Business**
-    1. What are your products/services?
-        1. Selling water
-    2. Who are your clients?
-        2. Everyone who buys water
-    3. Who are your distributors?
-        3. Mkokoteni - Bob, Jim, Sally
-    4. Who are your suppliers? (Name three)
-        4. Kimwaso water, city water, George, Rain water harvesting
-    5. What are the supplier’s qualifications?
-        5. Kimwaso is the best water we all agree
-    6. What are their costs for products and delivery?
-        6. KSh 3000 is the cost for refilling a 5000 litre tank.
-    7. Where are they located?
-        7. All over the area
-2. **Finances**
-    8. What is the product price?
-        8. 1 jerrican =20 litres
-        9. 5000/20 = 250 jerrican (Total number of jerrican)
-        10. 3000/250 to know the cost of 1 jerry can
-        11. 1 jerry can = ksh12 (cost)
-        12.
-    9. What does your competitor charge? What is the Market Rate?
-        13. ksh 20 for 1 jerry can (20ltr jerry can) Market price
-    10. How do customers pay in CAV and national currency (minimum or maximum CAV)
-        14. The  profit per jerrycan will be buying price minus selling price which is Ksh 20 - 12 = Ksh 8
-        15. This is how much is expected when selling  1 jerry can for ksh15 and 5CAV
-    11. What is your revenue? e.g total sales (daily monthly yearly?)
-        16. Revenue per tank
-            1. Ksh 15 * 250 = 3750
-            2. CAV 5 * 250 = 1250
-    12. What are your costs? e.g rent, electricity, transport. (daily monthly yearly?)
-    13. What is the profit margin?
-        17. Profit margin
-        18. Ksh 3750 - Ksh 3000 = Ksh750
-        19. CAV 1250
-        20. Ksh. 3000 will be used to refill water in the water tank.
-3. **Management**
-    14. Who is doing the quality control? In a community project, committee members, group officials can take roles in quality control. Ensuring expected standards are met.
-        21. Chairperson Jim
-    15. Who is ensuring duties and responsibilities are met by employees?
-    16. Who is going to be selling the product and what are their wages?
-        22. Bob and Sally
-    17. Who manages the project / funds And what that person does with funds?
-    18. Wage Percentage.
-        23. For this case, wages will be paid after let's say  first round refill. Employee on duty will get a percentage in both CAV and Ksh.
-        24. Quality check officer E.g Sally 20%-
-        25. 20% of ksh 750 = Ksh 150
-        26. 20% of 1250 =  CAV 250
-        27. Labour Mbui 30%
-        28. 30% of ksh. 750 = Ksh 225
-        29. 30% of ksh
-        30.      CAV 375
-        31. Chama - 50%
-        32. 50% of ksh 750 = Ksh 375
-        33. 50% of ksh 1250 = CAV 675
-        34.
-        35. 6.Chama Fund
-        36. Chama’s percentage can be used in the following ways.
-        37. Maintenance  30%
-        38. Loans  40%
-        39. Dividends 10%
-        40. Social fund  20%
-        41.
-    19. How is additional investment or maintenance managed? E.g. buying a water tank or pump for a borehole project?
-    20. Who are your stakeholders?
-    21. What are your strategies on how to deal with emerging issues e.g cheating
-    22. Are you in compliance with local law?
-    23. Are there any conflicts of interest? (e.g. your ONLY supplier is running the IGA)
-* _The community projects are where the CAV helps you improve your community much more than just putting money in circulation. The best thing about these community projects is that the CAV gives you the opportunity to decide for yourselves what projects are most important, and to pay your local townspeople for doing those projects. It might be planting trees, building a health center, educating the children—whatever you think is most important.  You do not rely on someone outside to tell you what projects to do. Instead you yourselves make decisions about what is best for your community. _
-
-
-## Appendix D: Projects and Purpose of the CAV
-
-Note that instead of simply backing a CAV with the audited goods and services of the issuing group. The group could decide to back the CAV with the outputs from a community project. This is more risky as the auditing process is much harder - as a village elder must assess the ability of the group to fulfill the redemption requirement on the vouchers.
-
-In this exercise, the group will discuss the needs of the community and consider projects or income generating activities that they could do together. You can do this in small groups of 4 or 5, or in the classroom together. You can have them form groups themselves or count off to create more random groups.
+### Naming Your CAV
 
 Say:
 
+> _Let’s choose a name and abbreviation for your community’s voucher. It can be playful, aspirational, or local. For example: “Wanoma” → “NOMA”._
+
+- Give each group 5 minutes to choose a name and abbreviation.
+- Share and vote for a favorite.
+- Write it prominently on the board. This becomes the **unit of promise** in your pool.
+
+---
+
+### How Many CAVs to Create?
+
+Each CAV must be **backed 100%** by actual, auditable commitments. This means:
+
+1. Each participant writes up to 2,500 Ksh of **realistic goods and services** they are willing to redeem.
+2. The pool steward checks: Does this reflect real monthly or seasonal capacity?
+3. Sum all commitments. That’s the **pool reserve**.
+4. Total CAV that can be issued = Pool Reserve.
+
+Facilitator: Emphasize that no CAV is created from thin air. Only commitments generate CAV.
+
+---
+
+### Community Creation Criteria
+
+To form a live Commitment Pool:
+
+- Group must be at least 1 year old
+- Minimum 10 active members
+- At least 50,000 Ksh worth of verifiable backing
+- Participation in this training
+- Signed agreement, validated by elders and leaders
+
+Say:
+
+> _This is serious. A CAV is not a project. It’s a promise system. Like a child, it needs care and guidance. Communities that treat their promises with care can build long-term economic trust._
+
+---
+
+### Discussion Prompts
+
+Ask the group:
+
+- _Did we reach the 50,000 Ksh mark?_
+- _Were the commitments balanced?_
+- _If not, who else might join to strengthen the pool?_
+- _Do you see potential for circular trade—where promises can fulfill each other locally?_
+- _What commitments felt easy to make? What felt risky?_
+- _Would seeing others’ numbers influence what you offered?_
+- _What would make this process more fair or effective?_
+- _How should this commitment agreement be enforced?_
+- _Who will mediate disputes or trust breakdowns?_
+
+---
+
+### 🔍 Reflective Prompt
+
+Say:
+
+> _Think back to the earlier simulation. You held vouchers, you traded, you tracked value. Now ask yourself: What could **you** commit in the real world? Vegetables? Plumbing? A week of childcare?_
+
+> _Now, make those real. Write down up to 2,500 Ksh of actual services or goods you’d offer if your community launched this voucher tomorrow._
+
+Remind them:
+
+> _Your total CAV allocation = your total commitment. Don’t offer more than you’re willing to redeem._
+
+Facilitator: Gather these cards and post the total pool capacity publicly.
+
+---
+
+By the end of this section, your group will have:
+
+✅ A proposed CAV name  
+✅ A list of committed goods and services  
+✅ A total backing amount  
+✅ Roles assigned  
+✅ An understanding of what it means to **seed**, **hold**, and **fulfill** a commitment
+
+This is the metabolic seed of your community economy.
+### 🧷 Step 1: Naming Your Commitments
+
+Facilitator: Remind the group of the previous CAV simulation.
+
+Say:
+
+> _Earlier, you committed goods or services in order to receive CAV. This is exactly how a voucher becomes valid—it must be backed by a real promise to fulfill something useful. Now, we’ll do this with actual commitments from each of you._
+
+> _We’re going to simulate a real Commitment Pool: Each person will back 2,500 KSH worth of goods or services and receive 2,500 CAV. In a real launch, the group must reach at least 50,000 KSH in **audited** commitments, and no single person should commit more than 10% of their annual (or one month’s) business capacity._
+
+> _So: What can you honestly promise to provide to your community—redeemable by anyone holding your voucher?_
+
+Give each participant 25 small slips of paper. Say:
+
+> _Write one item or service per slip. If you’re offering chapati, write that on each slip. Write the value—e.g., “Chapati - 100 KSH” on each one. These slips represent your actual, redeemable commitments._
+
+✅ Goal: Each participant ends with 2,500 KSH worth of committed goods or services, documented as 25 slips at 100 KSH each.
+
+---
+
+### 📊 Step 2: Fill in the Commitment Table
+
+Facilitator: As participants complete their slips, transcribe each commitment into a **Commitment Table** on a flipchart or board.
+
+**Commitment Table Format:**
+
+| Name      | Product Committed | Commitment Value (KSH) | CAV Issued |
+|-----------|-------------------|-------------------------|------------|
+| Joyce     | Water             | 400                     | 400        |
+| Janet     | Sugar             | 400                     | 400        |
+| Jacob     | Maize flour       | 400                     | 400        |
+| Mwanaidi  | Rice              | 400                     | 400        |
+| Phred     | Phone airtime     | 400                     | 400        |
+| Amina     | Firewood (Kuni)   | 400                     | 400        |
+| Mbui      | Maji              | 400                     | 400        |
+| Vivian    | Boda rides        | 400                     | 400        |
+| Njambi    | Greens (Mboga)    | 400                     | 400        |
+| Nadzua    | Water project     | 400                     | 400        |
+|           | **Total**         | **4,000**               | **4,000**  |
+
+Say:
+
+> _This is our **Commitment Table**. It shows who promised what—and how much CAV they will receive in return. Every voucher is a receipt of a promise, and this table is our collective memory._
+
+> _For example, if Sally commits 2,500 KSH of chapatis, she will receive 2,500 CAV. Later, when someone redeems those vouchers, she will fulfill that promise._
+
+Facilitator Tip: Emphasize that **promises are traceable**. No one can issue CAV anonymously.
+
+Ask:
+
+- _Any questions on this process?_
+- _Would someone like to act as the Pool Steward or Chama Rep—responsible for validating and maintaining this registry?_
+
+---
+
+### 🎟️ Step 3: Issue Vouchers (CAVs)
+
+Appoint the Pool Steward to audit and distribute.
+
+Say:
+
+> _Let’s issue vouchers into our shared trust pool. The Pool Steward will inspect each person’s commitments to ensure they are realistic. Once verified, that person will be issued 1 bean (or paper slip) per 100 KSH of value._
+
+Example: A participant committing 2,500 KSH will receive **25 beans**, each worth 100 CAV.
+
+Calculate the group total:
+
+- _With [N] participants × 2,500 KSH each, our total seeded commitment is: **[N × 2,500] KSH**._
+- _We will issue **[N × 2,500] CAV** into circulation._
+
+Facilitator:
+
+> _We now have a functioning seed pool of commitments. Every voucher issued is matched by a promise that lives here, in this room._
+
+✅ Next, we will simulate how those commitments flow, are swapped, and ultimately redeemed.
+
+---
+
+Up next: **Step 4 – Redemption and Trust Maintenance**, or let me know if you'd like to go deeper on enforcement and mediation!
+
+## 🔁 Step 4: Trust Flow Simulation — Trading Rounds
+
+Facilitator:
+
+> _Now we’ll simulate a trust-flow environment. You’ve each seeded your commitments and received CAV vouchers. You’re now participants in a metabolically active pool—each transaction is a routing of trust._
+
+**Instructions:**
+
+- Perform 5 rounds of mutual swaps using your vouchers.
+- The Pool Steward (Chama Rep) **does not trade** in this round—they observe and later collect the holding tax.
+
+After trading, collect final voucher balances and build a summary table:
+
+### 🧾 Voucher Balances After 5 Trades
+
+| **Agent**   | **Wanoma (CAV Held)** |
+|-------------|------------------------|
+| Mwanaidi     | 1000                  |
+| Amina        | 800                   |
+| Njambi       | 600                   |
+| Jacob        | 600                   |
+| Mbui         | 400                   |
+| Janet        | 200                   |
+| Nadzua       | 200                   |
+| Phred        | 100                   |
+| Joy          | 100                   |
+| Viv          | 0                     |
+| **Total**    | **4000**              |
+
+**Discuss with the group:**
+
+- _What does this pattern tell us about how trust was routed in the community?_
+- _Which agents have surplus trust flows (high voucher holdings)?_
+- _Which agents are in trade deficit?_
+- _What might happen if these balances remained static over time?_
+
+✅ This is the metabolic pulse of the local economy: voucher surpluses reflect unreciprocated commitments; deficits reflect high fulfillment.
+
+---
+
+## 💸 Step 5: Holding Tax Simulation (Expiration Rate)
+
+Facilitator:
+
+> _To keep promises circulating and discourage hoarding, we apply a small holding tax—this prevents stagnation in the pool and funds community stewardship._
+
+**Instructions:**
+
+- The Pool Steward collects 1 bean (100 CAV) for every 10 beans held.
+- This represents a 10% holding tax for the simulation (equal to ~2% per month over 6 months).
+- Round down when necessary.
+
+### 🧾 Post-Tax Balances
+
+| **Agent** | **CAV Held** | **Holding Tax (6 months)** |
+|-----------|--------------|-----------------------------|
+| Mwanaidi  | 1000         | 100                         |
+| Amina     | 800          | 80                          |
+| Njambi    | 600          | 60                          |
+| Jacob     | 600          | 60                          |
+| Mbui      | 400          | 40                          |
+| Janet     | 200          | 20                          |
+| Nadzua    | 200          | 20                          |
+| Phred     | 100          | 10                          |
+| Joy       | 100          | 10                          |
+| Viv       | 0            | 0                           |
+| **Total** | **4000**     | **400**                     |
+
+### 🧠 Group Reflection:
+
+- _What does this tax mechanism do to trust flow?_
+- _How could the Pool Steward use the 400 CAV collected?_
+  - _Support village elders?_
+  - _Fund community projects?_
+  - _Maintain pool software or steward facilitation?_
+- _Does it feel fair?_
+- _What if the pool was 50,000 CAV and collected 1,000 per month in tax? Would that be sustainable?_
+
+---
+
+## 🛠️ Optional Role-Based Simulations
+
+If time allows, try adding roles for more complex simulation:
+
+- An elder with no ability to trade, but still given CAV.
+- A rogue actor trying to exit the pool with more than they offer.
+- An issuer who refuses redemption.
+- A project manager who misroutes resources.
+
+After each round, reflect on:
+
+- _What happened to trust in the pool?_
+- _Was it traceable?_
+- _How did the group respond?_
 
 
-* _We are now going to explore what it would be like for you to create and use a CAV for your community. As I mentioned before, when we create the CAV, we create a currency we can use for trade—but also we can create surplus credit that can go towards projects._
-* _In your small groups, discuss what you think the community needs and the goals for the community. Examples might be delivering a local service, providing basic needs, education scholarships, growing the economy, helping the needy—it is up to you what your goals could be.  Have one person write your ideas. I will give you 5 minutes._
+---
 
-After 5 minutes have them stop and say:
+## 🌍 Part 3: Introducing CAVs to the Community and Beyond
 
+### ⚠️ Understanding the Risks
 
+> _A CAV is not a store of value—it’s a living promise. If hoarded, it dies. If circulated, it feeds the system._
 
-* _ That was the first part. Now, thinking about the goals that you wrote down, consider in your group some projects you would want to **fund** to reach those goals. Projects could be one-time projects, such as building a health center or planting trees, or every-day projects such as collecting garbage or education. Have one person write the ideas. Again, I will give you 5 minutes._
+**Example Risk:**
+- _A shopkeeper sells all her imported stock for CAV and can’t restock—why? No one backed those goods._
+- _Solution: Limit CAV acceptance to what you can redeem locally._
 
-After 5 minutes, have them stop. Have a group discussion with the purpose of determining the top ideas and projects that the group would initially want to fund.
+---
 
-First, write down the ideas of the purpose of the CAV on the board, or have all the lists posted on the board. Have the group discuss the ideas and reach a consensus about the purpose.
+### 📜 Commitments Are Obligations
 
-## Addendum
+> _Each voucher must be matched by trust and care. If people issue and then refuse redemption, the pool collapses._
 
+Ask:
+- _Who in your group do you deeply trust to fulfill?_
+- _Who might need community accountability?_
+- _How will the pool maintain memory of fulfillment or breach?_
 
-#### Best Practice
+---
 
-While this agreement establishes the relationship with the applicant, and the Service provider - It is recommended that the Applicant Kibuyu have clear internal agreements and documentation on the following:
+### ⚖️ Dispute Resolution (Redemption Enforcement)
 
+> _Refusing redemption = breaking a promise. Your CAV Commitment Agreement must outline consequences._
 
+Questions to guide discussion:
 
-1. **Kibuyu cohesion: **Ensure your Kibuyu membership has a clear vision, aims & objectives and community statement.
-2. **Needs assessment:** Identify and prioritise the pressing needs of the community.
-3. **Partners:** Identify local stakeholders, partners and programs in alignment with the Kibuyu aims and objectives.
-4. **Distribution**: Establish how the proceeds of Sarafu issuance will be used, including any fees or levies, distribution or loaning to members or group projects.
-5. **Loans and Repayment:** If Sarafu are subject to redemption at a specified date or rate, there should be a clear productive purpose for the resulting debt, a repayment period and a clear mechanism including levies for non-performance.
-6. **Trade Balance: **Members should be required to accept as many Sarafu as they spend in a timely manner and be subject to levies.
-7. **Projects: **Any Kibuyu funded projects should be well planned and a designated manager put in charge. (E.g. Issuing Sarafu to fund community support for vulnerable households and community gardens.)
-8. **Cycles:** There should be a clearing cycle wherein all Sarafu are returned to the Applicant group account, credit obligations settled and a new Sarafu issuance made. If the Kibuyu is a chama this can match their loan funding cycles.
-9. **Market/Meeting Days:** Regular meeting and/or market days (e.g. weekly) should be mandatory - where members meet to trade, discuss and compare Sarafu balances openly and attempt to reduce high balances and increase low balances.
-10. **Balance limits:** Members should have clear limits to how many Sarafu they hold for business purposes and should not accumulate excessive Sarafu reserves.
+- _Who resolves disputes?_
+- _Are elders, stewards, or a mediation circle involved?_
+- _How will breach records be tracked?_
+
+---
+
+### 🧯 Worst-Case Scenarios
+
+Explore and discuss:
+
+1. _A vendor sells all stock for CAV but cannot restock (needed shillings)._
+2. _A CAV is spent but not redeemed for months._
+3. _Someone manipulates the system to dump excess CAV on others._
+4. _A community backer spends their CAV in a different region._
+5. _Project funds are unfairly distributed by corrupt management._
+
+Prompt the group:
+- _What protection or fallback could we design?_  
+- _Would pooling or arbitration help?_  
+- _What commitments are needed to guard the commons of trust?_
+
+---
+
+## 🧮 Balancing Inventory in a Commitment Pool
+
+In a Commitment Pool system, every voucher represents a **live promise** to accept and fulfill. For businesses—especially those not issuing their own vouchers—the key question is:
+
+> _“If I accept this voucher (CAV), where will I route it? Can I use it to restock, meet needs, or reduce my own expenses?”_
+
+### For Issuers
+
+- You start with a bundle of promises (vouchers).
+- Your **duty** is to fulfill those promises when others return them to you.
+- Your **freedom** is that you can spend as long as you honor redemption.
+
+> _Spend → Be Redeemed → Repeat_
+
+### For Non-Issuers
+
+- Your trust is limited by what you know you can **spend back into the network**.
+- Accept only as much as you can **route forward** or **offset in local expenses**.
+
+### Guidelines for Inventory Balancing
+
+1. **Routeable Redemption**  
+   If you're asked to accept vouchers, ask:
+   > _Can I use this voucher to meet my needs?_
+
+   If not, the issuer should show you where or how it can be spent—especially within the issuer’s own network.
+
+2. **Margin-Limited Acceptance**  
+   Accept vouchers in proportion to:
+   - Your **profit margin** on goods requiring national currency to restock.
+   - What you'd otherwise offer as **informal store credit**.
+
+3. **Network Enrichment**  
+   > _Invite your suppliers, landlords, or employees into the pool._  
+   That expands where your received vouchers can flow.
+
+---
+
+## 🧪 Exercise: Metabolic Inventory Simulation
+
+Roleplay a trader with goods that **cannot be restocked in CAV** (e.g., Coca-Cola):
+
+- **Buy Price:** KSh 20
+- **Sell Price:** KSh 40
+- **Stock Frequency:** Monthly
+- **CAV Target:** Save enough CAV to offset other purchases (like food)
+
+### Ask:
+
+- _How many CAV can you use daily in the community?_
+- _How much CAV can you safely accept per bottle sold?_
+- _Would you price differently in vouchers vs. shillings?_  
+- _What happens to local alternatives when voucher circulation grows?_  
+- _Does this shift reduce dependency on imports?_
+
+### Key Takeaway:
+
+> 💡 _Balancing means ensuring that every voucher accepted can offset a real expense or be rerouted to another trusted redemption point._
+
+---
+
+## 🌍 External Support in a Commitment Pool
+
+In a Commitment Pool, vouchers (CAVs) can be **pre-purchased** and distributed—this is not a donation, but a **prepayment of trust**.
+
+### How Support Works:
+
+- **Humanitarian actors** or individuals can purchase CAVs from issuers.
+- These vouchers are then gifted to community members in need.
+- Because vouchers must be redeemable, the act strengthens local business instead of displacing it.
+
+### Why It’s Better:
+
+- Ensures **local fulfillment**: Only those promising services get pre-funding.
+- Creates a **voucher multiplier**: The same voucher can circulate many times before final redemption.
+
+> _A pre-purchased voucher funds trust—not dependency._
+
+### Consider:
+
+- Which NGOs, government bodies, or programs align with your pool’s goals?
+- What external actors might **prepay** for local services as part of their mandate?
+
+---
+
+## 🪞 Reflections: Governance & Community Trust
+
+Inspired by **Elinor Ostrom’s Commons Principles**, use these to discuss with your group:
+
+1. **Who is in the Pool?**  
+   _Are the membership boundaries clear and inclusive?_
+
+2. **Are Rules Local?**  
+   _Do usage and issuance rules reflect your community’s reality?_
+
+3. **Who Sets the Rules?**  
+   _Can members participate in shaping policies?_
+
+4. **Is the Pool Respected Externally?**  
+   _Can authorities recognize your governance?_
+
+5. **How is Trust Tracked?**  
+   _Do you track fulfillment, redemption, and imbalances over time?_
+
+6. **What Happens in Conflict?**  
+   _Is there a shared process for resolving voucher disputes?_
+
+7. **What’s the Governance Structure?**  
+   _Do you have nested layers—from small groups to the broader ecosystem?_
+
+---
+
+## ✅ Next Steps
+
+1. Review the [CAV FAQ & Quiz](https://docs.google.com/document/d/1qtlOEL4pqW1vOL893BaXH9OqRSAO3k0q2eWbVIkxEvU/edit?usp=sharing).
+2. Ensure your Chama meets Commitment Pool criteria.
+3. Finalize your CAV Commitment Agreement.
+   - Email: [info@grassecon.org](mailto:info@grassecon.org)
+   - Phone: +254 757 628885
+4. Once approved, begin seeding, swapping, redeeming—and tracking your pool’s metabolic flow.
+
+---
+
+## 📝 Appendix: Best Practices for Pool Design
+
+### Internal Trust Structures
+
+1. **Vision & Purpose**: Does your group agree on why you exist?
+2. **Needs Mapping**: What goods/services are most vital in your network?
+3. **Stakeholder Relations**: Who are your suppliers, clients, and allies?
+4. **Issuance Logic**: How is CAV distributed or loaned, and to whom?
+5. **Redemption Ethics**: How are obligations enforced or tracked?
+6. **Cycle Management**: Is there a reset or reconciliation period (monthly, quarterly)?
+7. **Market Days**: When and where do trust flows get rebalanced communally?
+8. **Balance Caps**: Are holding limits or swap eligibility tied to seeding history?
+
+---
+
+## 💧 Example: Water Project
+
+**Input**: 5000 liters of water → Cost: KSh 3,000  
+**Output**: 250 jerricans → Sell for KSh 15 + 5 CAV
+
+- Revenue: KSh 3,750 + 1250 CAV  
+- Cost: KSh 3,000  
+- Net: 750 KSh profit + 1250 CAV to be rerouted or redeemed.
+
+**Wage Distribution Example**:
+
+| Role         | % Share | KSh | CAV |
+|--------------|---------|-----|-----|
+| Quality Check (Sally) | 20% | 150 | 250 |
+| Worker (Mbui)         | 30% | 225 | 375 |
+| Chama Fund            | 50% | 375 | 625 |
+
+---
+
+## 🧱 Project-Backed Pools
+
+Instead of individual commitments, a pool may be backed by a **community project**—e.g., a food kitchen, borehole, or public transport route.
+
+⚠️ This requires more rigorous audit and long-term redemption planning.
+
+> _Trust must be equally distributed between the issuing project and the people holding its promises._
+
+---
+
+## 🎯 Design Prompt for Group Work
+
+In small groups, ask:
+
+1. What are your community’s top unmet needs?
+2. What projects could meet those needs?
+3. How could these projects be trusted to fulfill CAV redemptions?
+
+Conclude by surfacing the **shared purpose** of the pool and key projects to fund through issuance.
+
+---
+
+> 💬 _“When we create a CAV, we aren’t just issuing currency—we are seeding trust.”_
