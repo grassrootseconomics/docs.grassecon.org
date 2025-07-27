@@ -105,39 +105,39 @@ Every event, workshop, or message should serve a real function: growing trust, c
    
 We don’t need enemies—we need clarity. Use core concepts that gently contrast paradigms: “Your promise is your credit.” “Money is a memory of care.” “Abundance is coordinated, not scarce.” Let ideas speak for themselves. No need to attack the old; just let the new grow louder. 
 
-9. Understand the Wounds of the Old System
+8. Understand the Wounds of the Old System
    
 Credit scores, inflation fear, and debt shame run deep. Study them—not to manipulate, but to empathize. Translate pooling into the language of dignity, safety, and community care.
 
-10. Offer a Vision That Feels Like Home
+9. Offer a Vision That Feels Like Home
     
 People will join your cause not to resist, but to belong. Show what life looks like with fulfilled commitments, shared surplus, and collective care. Make it tangible: water catchments, shared kitchens, neighborhood pools. Let people walk into the future.
 
-11. Speak in Many Media
+10. Speak in Many Media
     
 Some will hear the message through blockchain; others through elders, dance, or land restoration. Repeat the message through multiple channels—radio, ritual, memes, murals, classrooms. Redundancy is strength.
 
-12. Move Faster Than Extraction Can Respond
+11. Move Faster Than Extraction Can Respond
 
 The old system defends itself by trying to absorb the new. Don’t wait for permission. Keep growing pools in refugee camps, markets, temples, chat groups, forests. Like mycelium, spread quietly and fast.
 
-13. Celebrate Those Who Come Home
+12. Celebrate Those Who Come Home
      
 Some will leave exploitative systems and return to the commons. Welcome them. Let their testimony illuminate what didn’t work—and why this does. Make it safe to defect with dignity. 
 
-14. Looking at Crisis Without Falling into Collapse
+13. Looking at Crisis Without Falling into Collapse
     
 Don’t wait for current systems to fail. Build the alternative now. When the market stutters, the pool should already be flowing - alive with memory, fairness, and trust. 
 
-16. Give People Something to Do
+14. Give People Something to Do
     
 Abstract hope is not enough. People need roles. Can they define a commitment? Seed a voucher? Host a circle? Redeem a promise? Map a local resource? Steward a pool? When people act together, the future becomes real.
 
-18. Track What Matters
+15. Track What Matters
     
 Most Don’t obsess over media impressions or vanity metrics. Track fulfilled promises. Track restored relationships. Track how many mouths are fed through trust. Let collective memory hold these measures of health. 
 
-20. Adapt Without Losing the Pattern
+16. Adapt Without Losing the Pattern
     
 Strategy is not static. If something isn’t resonating—change it. But keep the core intact: care, coordination, coherence. Let the pools evolve like rivers—always flowing, always grounded.
 
