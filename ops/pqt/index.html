@@ -1,0 +1,2728 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://docs.grassecon.org/ops/pqt/">
+      
+      <link rel="icon" href="../../assets/favicon.svg">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-8.1.0">
+    
+    
+      
+        <title>Program Toolkit - Grassroots Economics Documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.82f3c0b9.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.9204c3b2.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#4cae4f">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/style.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+<script async src="https://analytics.grassecon.net/kilifi" data-website-id="a130799a-f214-440b-91db-3654c0eadabb"></script>
+
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="green" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#programme-quality-toolkit" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Grassroots Economics Documentation" class="md-header__button md-logo" aria-label="Grassroots Economics Documentation" data-md-component="logo">
+      
+  <img src="../../assets/logo.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Grassroots Economics Documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Program Toolkit
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/grassrootseconomics/docs.grassecon.org/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    grassrootseconomics/docs
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../.." class="md-tabs__link">
+      Karibu
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../community/" class="md-tabs__link">
+        Community
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../" class="md-tabs__link md-tabs__link--active">
+        Operations
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../commons/" class="md-tabs__link">
+        Commons
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../cyber/" class="md-tabs__link">
+        Software
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../edu/" class="md-tabs__link">
+        Education
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Grassroots Economics Documentation" class="md-nav__button md-logo" aria-label="Grassroots Economics Documentation" data-md-component="logo">
+      
+  <img src="../../assets/logo.svg" alt="logo">
+
+    </a>
+    Grassroots Economics Documentation
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/grassrootseconomics/docs.grassecon.org/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    grassrootseconomics/docs
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Karibu
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../community/">Community</a>
+          
+            <label for="__nav_2">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Community" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Community
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../community/charter/" class="md-nav__link">
+        Charter
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../community/contrib/" class="md-nav__link">
+        Contribution Guidelines
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../community/conduct/" class="md-nav__link">
+        Code of Conduct
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../community/roadmap/" class="md-nav__link">
+        Roadmap
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
+      
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../">Operations</a>
+          
+            <label for="__nav_3">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Operations" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Operations
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../log_frame/" class="md-nav__link">
+        Logical Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Program Toolkit
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Program Toolkit
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#list-of-abbreviations-acronyms" class="md-nav__link">
+    LIST OF ABBREVIATIONS &amp; ACRONYMS
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#definition-of-terms" class="md-nav__link">
+    DEFINITION OF TERMS
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    INTRODUCTION
+  </a>
+  
+    <nav class="md-nav" aria-label="INTRODUCTION">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#about-the-programme-quality-toolkit" class="md-nav__link">
+    About the Programme Quality Toolkit
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-to-use-the-pqt" class="md-nav__link">
+    How to Use the PQT
+  </a>
+  
+    <nav class="md-nav" aria-label="How to Use the PQT">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-the-toolkit-is" class="md-nav__link">
+    What the Toolkit Is
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-the-toolkit-is-not" class="md-nav__link">
+    What the Toolkit Is Not
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#toolkit-uses" class="md-nav__link">
+    Toolkit Uses
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#target-audience" class="md-nav__link">
+    Target Audience
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#toolkit-origins-and-development" class="md-nav__link">
+    Toolkit Origins and Development
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#toolkit-structure-overview" class="md-nav__link">
+    Toolkit Structure Overview
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#introduction-to-commitment-pooling" class="md-nav__link">
+    INTRODUCTION TO COMMITMENT POOLING
+  </a>
+  
+    <nav class="md-nav" aria-label="INTRODUCTION TO COMMITMENT POOLING">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#about-commitment-pooling" class="md-nav__link">
+    About Commitment Pooling
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#case-study-binguni-mbele-in-kenya" class="md-nav__link">
+    Case Study – Binguni &amp; Mbele in Kenya
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#preparedness" class="md-nav__link">
+    PREPAREDNESS
+  </a>
+  
+    <nav class="md-nav" aria-label="PREPAREDNESS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#organisational-preparedness" class="md-nav__link">
+    Organisational Preparedness
+  </a>
+  
+    <nav class="md-nav" aria-label="Organisational Preparedness">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#self-assessment-commitment-pool-implementation-readiness" class="md-nav__link">
+    Self-Assessment: Commitment Pool Implementation Readiness
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#organisational-self-assessment-process" class="md-nav__link">
+    Organisational Self-Assessment Process
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#programmatic-preparedness" class="md-nav__link">
+    Programmatic Preparedness
+  </a>
+  
+    <nav class="md-nav" aria-label="Programmatic Preparedness">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#legal-framework" class="md-nav__link">
+    Legal Framework
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#feasibility-study-for-a-commitment-pool" class="md-nav__link">
+    Feasibility Study for a Commitment Pool
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#commitment-pool-implementation-checklist" class="md-nav__link">
+    Commitment Pool Implementation Checklist
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conducting-benefit-and-risk-analysis-for-commitment-pools" class="md-nav__link">
+    CONDUCTING BENEFIT AND RISK ANALYSIS FOR COMMITMENT POOLS
+  </a>
+  
+    <nav class="md-nav" aria-label="CONDUCTING BENEFIT AND RISK ANALYSIS FOR COMMITMENT POOLS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#risk-identification-and-ranking" class="md-nav__link">
+    Risk Identification and Ranking
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#risk-categories-sample-questions" class="md-nav__link">
+    Risk Categories &amp; Sample Questions
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mitigation-strategies" class="md-nav__link">
+    Mitigation Strategies
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mapping-existing-assistance-programs" class="md-nav__link">
+    MAPPING EXISTING ASSISTANCE PROGRAMS
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#stakeholder-mapping-and-engagement" class="md-nav__link">
+    STAKEHOLDER MAPPING AND ENGAGEMENT
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#partnership-preparedness" class="md-nav__link">
+    PARTNERSHIP PREPAREDNESS
+  </a>
+  
+    <nav class="md-nav" aria-label="PARTNERSHIP PREPAREDNESS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#capacity-assessment-for-core-service-providers" class="md-nav__link">
+    Capacity Assessment for Core Service Providers
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technological-preparedness" class="md-nav__link">
+    TECHNOLOGICAL PREPAREDNESS
+  </a>
+  
+    <nav class="md-nav" aria-label="TECHNOLOGICAL PREPAREDNESS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#recommended-setup-for-commitment-pool-infrastructure" class="md-nav__link">
+    Recommended Setup for Commitment Pool Infrastructure
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#csp-technological-assessment-checklist" class="md-nav__link">
+    CSP Technological Assessment Checklist
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#final-note" class="md-nav__link">
+    Final Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#situation-analysis-stakeholder-engagement-in-commitment-pooling" class="md-nav__link">
+    🔍 SITUATION ANALYSIS &amp; STAKEHOLDER ENGAGEMENT IN COMMITMENT POOLING
+  </a>
+  
+    <nav class="md-nav" aria-label="🔍 SITUATION ANALYSIS &amp; STAKEHOLDER ENGAGEMENT IN COMMITMENT POOLING">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#needs-assessment" class="md-nav__link">
+    🌾 Needs Assessment
+  </a>
+  
+    <nav class="md-nav" aria-label="🌾 Needs Assessment">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#objectives-of-needs-assessment" class="md-nav__link">
+    Objectives of Needs Assessment
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#assessment-process" class="md-nav__link">
+    🔧 Assessment Process
+  </a>
+  
+    <nav class="md-nav" aria-label="🔧 Assessment Process">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-design-planning" class="md-nav__link">
+    1. Design &amp; Planning
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-data-collection" class="md-nav__link">
+    2. Data Collection
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#minimum-trust-basket-mtb" class="md-nav__link">
+    🧺 Minimum Trust Basket (MTB)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resource-trust-mapping" class="md-nav__link">
+    🗺️ Resource &amp; Trust Mapping
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#assessment-checklist-for-voucher-issuing-groups" class="md-nav__link">
+    ✅ Assessment Checklist for Voucher-Issuing Groups
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#targeting-for-pool-inclusion" class="md-nav__link">
+    🎯 Targeting for Pool Inclusion
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#example-poor-targeting-risks" class="md-nav__link">
+    🧪 Example: Poor Targeting Risks
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#geographical-targeting" class="md-nav__link">
+    🧭 Geographical Targeting
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#beneficiary-targeting" class="md-nav__link">
+    👥 Beneficiary Targeting
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#targeting-criteria" class="md-nav__link">
+    🪞 Targeting Criteria
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#transparency-stakeholder-engagement" class="md-nav__link">
+    🤝 Transparency &amp; Stakeholder Engagement
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#harmonizing-with-other-programs" class="md-nav__link">
+    🧩 Harmonizing with Other Programs
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#implementation-of-commitment-pools" class="md-nav__link">
+    🌱 IMPLEMENTATION OF COMMITMENT POOLS
+  </a>
+  
+    <nav class="md-nav" aria-label="🌱 IMPLEMENTATION OF COMMITMENT POOLS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#local-sensitization" class="md-nav__link">
+    🧭 Local Sensitization
+  </a>
+  
+    <nav class="md-nav" aria-label="🧭 Local Sensitization">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#trainers-of-trainers-tots" class="md-nav__link">
+    Trainers of Trainers (ToTs)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sensitize-local-stakeholders" class="md-nav__link">
+    🫂 Sensitize Local Stakeholders
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#voucher-generation-seeding-promises" class="md-nav__link">
+    🧾 Voucher Generation (Seeding Promises)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#conflict-resolution" class="md-nav__link">
+    🤝 Conflict Resolution
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#community-mobilization" class="md-nav__link">
+    📣 Community Mobilization
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#using-vouchers-circulation-demurrage" class="md-nav__link">
+    🔁 Using Vouchers: Circulation &amp; Demurrage
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#capacity-development-integrated-support" class="md-nav__link">
+    🏗️ Capacity Development &amp; Integrated Support
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#participant-registration" class="md-nav__link">
+    🧍 Participant Registration
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#verification-databases" class="md-nav__link">
+    🧾 Verification &amp; Databases
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#exit-strategy" class="md-nav__link">
+    🚪 Exit Strategy
+  </a>
+  
+    <nav class="md-nav" aria-label="🚪 Exit Strategy">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ongoing-education" class="md-nav__link">
+    🎓 Ongoing Education
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#infrastructure-sustainability" class="md-nav__link">
+    🛠️ Infrastructure Sustainability
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stakeholder-weaving" class="md-nav__link">
+    🔗 Stakeholder Weaving
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#monitoring-evaluation-of-commitment-pools" class="md-nav__link">
+    📊 MONITORING &amp; EVALUATION OF COMMITMENT POOLS
+  </a>
+  
+    <nav class="md-nav" aria-label="📊 MONITORING &amp; EVALUATION OF COMMITMENT POOLS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#process-output-and-outcome-monitoring" class="md-nav__link">
+    🔍 Process, Output, and Outcome Monitoring
+  </a>
+  
+    <nav class="md-nav" aria-label="🔍 Process, Output, and Outcome Monitoring">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#trust-flow-monitoring-voucher-use" class="md-nav__link">
+    💱 Trust Flow Monitoring (Voucher Use)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#market-monitoring" class="md-nav__link">
+    🛒 Market Monitoring
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spending-journals" class="md-nav__link">
+    📓 Spending Journals
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#baseline-inline-and-endline-reflections" class="md-nav__link">
+    📞 Baseline, Inline, and Endline Reflections
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#evaluation" class="md-nav__link">
+    🧠 Evaluation
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sharing-me-learnings" class="md-nav__link">
+    🔄 Sharing M&amp;E Learnings
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#appendices-resources" class="md-nav__link">
+    📚 APPENDICES &amp; RESOURCES
+  </a>
+  
+    <nav class="md-nav" aria-label="📚 APPENDICES &amp; RESOURCES">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#educational" class="md-nav__link">
+    🌱 Educational
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#operations" class="md-nav__link">
+    ⚙️ Operations
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#legal" class="md-nav__link">
+    ⚖️ Legal
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#software" class="md-nav__link">
+    🖥️ Software
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#external-tools" class="md-nav__link">
+    📦 External Tools
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../voucher/" class="md-nav__link">
+        Voucher Creation
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../team_guide/" class="md-nav__link">
+        Team Guide
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../local_stakeholders/" class="md-nav__link">
+        Stakeholder Guide
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../support/" class="md-nav__link">
+        Humanitarian Support
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../commons/">Commons</a>
+          
+            <label for="__nav_4">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Commons" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Commons
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../commons/template/" class="md-nav__link">
+        Commons Template
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../commons/agreement/" class="md-nav__link">
+        Commons Agreement
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../commons/voucher/" class="md-nav__link">
+        Voucher Agreement
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../commons/service/" class="md-nav__link">
+        Service Agreement
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../commons/path/" class="md-nav__link">
+        PATH License
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../commons/sprout/" class="md-nav__link">
+        SPROUT License
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../commons/data_policy/" class="md-nav__link">
+        Data Policy
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../commons/child_policy/" class="md-nav__link">
+        Child Protection Policy
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../cyber/">Software</a>
+          
+            <label for="__nav_5">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Software" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Software
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://software.grassecon.org/" class="md-nav__link">
+        Software
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cyber/pool-guide/" class="md-nav__link">
+        Pooling Guide
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cyber/staking-guide/" class="md-nav__link">
+        Staking Guide
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../edu/">Education</a>
+          
+            <label for="__nav_6">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Education" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Education
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../edu/glossary/" class="md-nav__link">
+        Glossary
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../edu/faq/" class="md-nav__link">
+        FAQ
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://willruddick.substack.com/p/grassroots-economics-the-book-is" class="md-nav__link">
+        Book
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../edu/training/" class="md-nav__link">
+        Training Guide
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../edu/case_study/" class="md-nav__link">
+        Case Study
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+<a href="https://github.com/grassrootseconomics/docs.grassecon.org/edit/main/docs/ops/pqt.md" title="Edit this page" class="md-content__button md-icon">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+</a>
+
+
+<h1 id="programme-quality-toolkit">Programme Quality Toolkit<a class="headerlink" href="#programme-quality-toolkit" title="Permanent link">&para;</a></h1>
+<p><em>For implementing Commitment Pool Protocols</em></p>
+<p><strong>Disclaimer</strong><br />
+This PQT is made possible by the generous support of Danish Red Cross, Norwegian Red Cross, and Kenya Red Cross Society. The contents are the responsibility of Grassroots Economics and reflect the views of Danish Red Cross, Kenya Red Cross Society and Grassroots Economics Foundation, through their feedback in the development of the Toolkit.</p>
+<p><strong>Prepared in close collaboration with:</strong><br />
+Grassroots Economics Foundation, Kenya Red Cross, Danish Red Cross, and Reinit Research.<br />
+Much of the material here is openly available at <a href="http://docs.grassecon.org">http://docs.grassecon.org</a> and is fully open source.</p>
+<hr />
+<h2 id="list-of-abbreviations-acronyms">LIST OF ABBREVIATIONS &amp; ACRONYMS<a class="headerlink" href="#list-of-abbreviations-acronyms" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CEA</td>
+<td>Community Engagement and Accountability</td>
+</tr>
+<tr>
+<td>CP</td>
+<td>Commitment Pool</td>
+</tr>
+<tr>
+<td>CVA</td>
+<td>Cash and Voucher Assistance</td>
+</tr>
+<tr>
+<td>DRC</td>
+<td>Danish Red Cross</td>
+</tr>
+<tr>
+<td>GEF</td>
+<td>Grassroots Economics Foundation</td>
+</tr>
+<tr>
+<td>KRCS</td>
+<td>Kenya Red Cross Society</td>
+</tr>
+<tr>
+<td>MEB</td>
+<td>Minimum Expenditure Basket</td>
+</tr>
+<tr>
+<td>NRC</td>
+<td>Norwegian Red Cross</td>
+</tr>
+<tr>
+<td>POA</td>
+<td>Plan of Action</td>
+</tr>
+<tr>
+<td>PQT</td>
+<td>Programme Quality Toolkit</td>
+</tr>
+<tr>
+<td>CSP</td>
+<td>Core Service Provider</td>
+</tr>
+<tr>
+<td>CU</td>
+<td>Clearing Union</td>
+</tr>
+<tr>
+<td>TOT</td>
+<td>Training of Trainers</td>
+</tr>
+<tr>
+<td>IGA</td>
+<td>Income Generating Activities</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="definition-of-terms">DEFINITION OF TERMS<a class="headerlink" href="#definition-of-terms" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Operational Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cash and Voucher Assistance (CVA)</td>
+<td>Programs where cash or vouchers for goods/services are directly provided to affected individuals.</td>
+</tr>
+<tr>
+<td>Commitment Pool (CP)</td>
+<td>A curated, type-keyed registry of tracked, issued promises — enabling community members to offer and exchange future contributions in trust.</td>
+</tr>
+<tr>
+<td>Minimum Expenditure Basket (MEB)</td>
+<td>Basic goods/services a household requires to meet essential needs, typically calculated for cash transfer programming.</td>
+</tr>
+<tr>
+<td>Clearing Union (CU)</td>
+<td>A cooperative association of participants for issuing, assigning, and redeeming commitments in a federated ecosystem.</td>
+</tr>
+<tr>
+<td>Core Service Providers (CSPs)</td>
+<td>Members of a CU that maintain ledgers, train participants, and facilitate arbitration.</td>
+</tr>
+<tr>
+<td>Relational Memory</td>
+<td>Collective tracking and interpretation of fulfilled and outstanding commitments within a CP network.</td>
+</tr>
+<tr>
+<td>Voucher</td>
+<td>A tracked promise issued by a person/group representing a future contribution (e.g., labor, food, local currency).</td>
+</tr>
+<tr>
+<td>Redemption</td>
+<td>The fulfillment of a voucher by the original issuer, returning it to their own ledger.</td>
+</tr>
+<tr>
+<td>Swap</td>
+<td>A rebalancing between types of commitments — transferring trust and future claims between participants.</td>
+</tr>
+<tr>
+<td>Seed / Seeding</td>
+<td>The act of depositing one’s own promise into a shared commitment pool, increasing the pool’s trust basis.</td>
+</tr>
+<tr>
+<td>Debt (CP)</td>
+<td>The quantity of one’s own active commitments currently circulating in the pool.</td>
+</tr>
+<tr>
+<td>Credit (CP)</td>
+<td>Remaining capacity to issue commitments, calculated as Pool Limit minus current Debt.</td>
+</tr>
+<tr>
+<td>Braiding</td>
+<td>Facilitated interlinking of commitments across a social or geographic mesh (e.g., inter-village or inter-IGA trade linkages).</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="introduction">INTRODUCTION<a class="headerlink" href="#introduction" title="Permanent link">&para;</a></h2>
+<h3 id="about-the-programme-quality-toolkit">About the Programme Quality Toolkit<a class="headerlink" href="#about-the-programme-quality-toolkit" title="Permanent link">&para;</a></h3>
+<p>The <strong>Commitment Pool Protocol (CP)</strong> is a regenerative alternative to conventional market coordination. It helps communities record, exchange, and fulfill promises of future contributions — such as food, care, labor, or service — in a way that builds trust and resilience. Unlike extractive economic systems, Commitment Pooling centers on <strong>relational accountability</strong> and a memory of care.</p>
+<p>This toolkit offers practical guidance to implement a CP project, covering all stages of the project cycle:</p>
+<ol>
+<li>Preparedness  </li>
+<li>Assessment  </li>
+<li>Response Analysis  </li>
+<li>Setup and Implementation  </li>
+<li>Monitoring and Evaluation  </li>
+</ol>
+<p>It supports communities, facilitators, and humanitarian teams to co-create their own pools of commitments — increasing local economic activity, reducing unmet needs, and routing trust where it is most needed.</p>
+<h3 id="how-to-use-the-pqt">How to Use the PQT<a class="headerlink" href="#how-to-use-the-pqt" title="Permanent link">&para;</a></h3>
+<p>This toolkit is relevant across different phases of response:</p>
+<ul>
+<li><strong>Preparedness</strong>: Identifying dormant skills and goods that could be made exchangeable via commitments.</li>
+<li><strong>Emergency</strong>: Coordinating rapid mutual aid while reducing cash dependency.</li>
+<li><strong>Early Recovery</strong>: Weaving promise networks after disruption, before currency or logistics return.</li>
+<li><strong>Development</strong>: Supporting self-reliant economies with long-term trust structures.</li>
+</ul>
+<h4 id="what-the-toolkit-is">What the Toolkit Is<a class="headerlink" href="#what-the-toolkit-is" title="Permanent link">&para;</a></h4>
+<ul>
+<li>A practical guide to organizing <strong>Commitment Pools</strong>, rooted in protocols piloted across Kenya.</li>
+<li>A supplement to CVA and humanitarian cash tools, particularly where liquidity is scarce or systems of trust are needed.</li>
+<li>An adaptable framework — grounded in regenerative economics — rather than a fixed template.</li>
+</ul>
+<h4 id="what-the-toolkit-is-not">What the Toolkit Is Not<a class="headerlink" href="#what-the-toolkit-is-not" title="Permanent link">&para;</a></h4>
+<ul>
+<li>It is <strong>not a digital currency</strong> guide or fiat-replacement system.</li>
+<li>It does not assume a universal implementation strategy — contexts vary.</li>
+<li>It does not require high technology — paper-based, verbal, or simple apps can support CP logic.</li>
+</ul>
+<h4 id="toolkit-uses">Toolkit Uses<a class="headerlink" href="#toolkit-uses" title="Permanent link">&para;</a></h4>
+<ol>
+<li>Guide the full lifecycle of a CP project.</li>
+<li>Dive directly into specific modules as needed.</li>
+<li>Use tools/templates in day-to-day facilitation.</li>
+<li>Draw on the appendices for further resources.</li>
+</ol>
+<hr />
+<h3 id="target-audience">Target Audience<a class="headerlink" href="#target-audience" title="Permanent link">&para;</a></h3>
+<p><strong>Primary Audience:</strong>
+- Humanitarian implementers supporting regenerative coordination.
+- Innovation teams piloting CVA+CP hybrid models.</p>
+<p><strong>Broader Audience:</strong>
+- Social enterprises
+- Community-based organizations
+- Village savings &amp; loan associations (VSLA)
+- Local governments &amp; municipal actors
+- Ethical tech providers
+- Researchers in care economies</p>
+<hr />
+<h3 id="toolkit-origins-and-development">Toolkit Origins and Development<a class="headerlink" href="#toolkit-origins-and-development" title="Permanent link">&para;</a></h3>
+<p>This PQT draws from real-world implementation in Mukuru and Kisauni (Kenya) with KRCS and Grassroots Economics Foundation. These pilots tested CPs in contexts of post-COVID economic strain, livelihood rebuilding, and social cohesion work.</p>
+<p>This document was co-developed with field actors, researchers, and community leaders — evolving with their input, observations, and lived experiences.</p>
+<p>It remains a <strong>living document</strong>: feedback, adaptation, and new use cases are welcomed and encouraged.</p>
+<hr />
+<h3 id="toolkit-structure-overview">Toolkit Structure Overview<a class="headerlink" href="#toolkit-structure-overview" title="Permanent link">&para;</a></h3>
+<p>The toolkit is structured around <strong>five core modules</strong>, each aligned to the phases of a regenerative economic project:</p>
+<ol>
+<li><strong>Orientation to Commitment Pooling</strong></li>
+<li>What is a commitment? What is a pool?</li>
+<li>
+<p>Why pools route trust more effectively than fiat injections.</p>
+</li>
+<li>
+<p><strong>Preparedness</strong></p>
+</li>
+<li>Mapping community capacities.</li>
+<li>Establishing pool boundaries and seeding preconditions.</li>
+<li>
+<p>Preparing for valuation and curation of commitments.</p>
+</li>
+<li>
+<p><strong>Assessment &amp; Stakeholder Alignment</strong></p>
+</li>
+<li>Identifying underutilized skills or goods.</li>
+<li>Building local trust in shared memory systems.</li>
+<li>
+<p>Conducting baseline evaluations and consent processes.</p>
+</li>
+<li>
+<p><strong>Implementation</strong></p>
+</li>
+<li>Seeding, swapping, and fulfilling commitments.</li>
+<li>Organizing local gatherings to deepen engagement.</li>
+<li>
+<p>Coordinating cross-pool swaps or federations.</p>
+</li>
+<li>
+<p><strong>Monitoring &amp; Relational Evaluation</strong></p>
+</li>
+<li>Are trust relationships growing?</li>
+<li>What commitments remain unfulfilled?</li>
+<li>Are redemption and participation equitable?</li>
+</ol>
+<h2 id="introduction-to-commitment-pooling">INTRODUCTION TO COMMITMENT POOLING<a class="headerlink" href="#introduction-to-commitment-pooling" title="Permanent link">&para;</a></h2>
+<h3 id="about-commitment-pooling">About Commitment Pooling<a class="headerlink" href="#about-commitment-pooling" title="Permanent link">&para;</a></h3>
+<p>This module introduces the core concept of <strong>Commitment Pooling</strong>: a regenerative economic practice in which community members make, track, and fulfill promises to one another — not as products, but as commitments. These promises are represented by <strong>vouchers</strong>, which circulate in a <strong>shared pool</strong>, enabling communities to coordinate trust, reciprocity, and future contributions.</p>
+<p>The module outlines core concepts, legal frameworks (like Nondominium agreements), and essential support systems such as <strong>Core Service Providers</strong> (CSPs), who maintain the tools, training, and records of these trust-based economies.</p>
+<hr />
+<h3 id="case-study-binguni-mbele-in-kenya">Case Study – Binguni &amp; Mbele in Kenya<a class="headerlink" href="#case-study-binguni-mbele-in-kenya" title="Permanent link">&para;</a></h3>
+<p>Real-world examples from Kenya illustrate how communities reoriented economic exchange around trust, future service, and communal value rather than currency.<br />
+📖 <a href="/edu/case_study/">Read the case study</a></p>
+<hr />
+<h2 id="preparedness">PREPAREDNESS<a class="headerlink" href="#preparedness" title="Permanent link">&para;</a></h2>
+<h3 id="organisational-preparedness">Organisational Preparedness<a class="headerlink" href="#organisational-preparedness" title="Permanent link">&para;</a></h3>
+<p>Implementing a Commitment Pool begins with <strong>assessing readiness</strong>. This includes understanding the local ecosystem of trust, labor, unmet needs, and existing economic activity.</p>
+<p>Conduct a <strong>landscape review</strong> of:
+- History of shocks and recovery efforts
+- Legal frameworks (data, arbitration, fiscal governance)
+- Infrastructure and digital readiness
+- Social cohesion and governance structures
+- Existing support services (financial literacy, IGAs)</p>
+<p>Gather both <strong>secondary</strong> and <strong>primary</strong> data, including:
+- National/local government publications
+- Humanitarian and development sector reports
+- Beneficiary surveys and economic capacity assessments
+- Training on Data Protection &amp; PSEA (See Appendix)</p>
+<hr />
+<h4 id="self-assessment-commitment-pool-implementation-readiness">Self-Assessment: Commitment Pool Implementation Readiness<a class="headerlink" href="#self-assessment-commitment-pool-implementation-readiness" title="Permanent link">&para;</a></h4>
+<p>Implementing organisations should hold a facilitated internal workshop to assess and align on four key areas of readiness:</p>
+<table>
+<thead>
+<tr>
+<th>Thematic Area</th>
+<th>Focus Questions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Enabling Systems</strong></td>
+<td>Do we have agreements in place to join a Clearing Union or act as a CSP? Are our technical tools (wallets, ledgers) ready to handle pooled commitments?</td>
+</tr>
+<tr>
+<td><strong>2. Programme Tools</strong></td>
+<td>Do we understand how to seed, swap, redeem, and track fulfillment? Are our teams trained in the Commitment Pool protocol?</td>
+</tr>
+<tr>
+<td><strong>3. Resources &amp; Capacity</strong></td>
+<td>Do we have facilitators, mediators, and trainers for trust-based exchange? Can we support Issuing Groups to grow capacity?</td>
+</tr>
+<tr>
+<td><strong>4. Communication &amp; Coordination</strong></td>
+<td>Are local stakeholders (faith leaders, CBOs, women’s groups) engaged? Are communities ready to issue and hold vouchers based on their contributions?</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h4 id="organisational-self-assessment-process">Organisational Self-Assessment Process<a class="headerlink" href="#organisational-self-assessment-process" title="Permanent link">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>Activities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Assemble Key Stakeholders</td>
+<td>Bring together staff across technical, management, and community-facing roles</td>
+</tr>
+<tr>
+<td>2. Plan Workshop</td>
+<td>Schedule a 1–2 day workshop with a facilitator familiar with Commitment Pooling</td>
+</tr>
+<tr>
+<td>3. Conduct Workshop</td>
+<td>Score preparedness, discuss gaps, visualize results, co-design solutions</td>
+</tr>
+<tr>
+<td>4. Draft Plan of Action (PoA)</td>
+<td>Prioritize actions, secure leadership approval, and integrate into program plans</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="programmatic-preparedness">Programmatic Preparedness<a class="headerlink" href="#programmatic-preparedness" title="Permanent link">&para;</a></h3>
+<h4 id="legal-framework">Legal Framework<a class="headerlink" href="#legal-framework" title="Permanent link">&para;</a></h4>
+<p>A Commitment Pool operates as part of a <strong>Fiscal Commons</strong>, often governed by a <strong>Nondominium agreement</strong> — a legal innovation enabling shared custodianship of a resource without private ownership.</p>
+<p>Key components include:
+- <strong>Clearing Union (CU)</strong>: Open commons agreement for voucher-based exchange
+- <strong>Core Service Provider (CSP)</strong>: Manages technical tools, offers training, and provides arbitration
+- <strong>General Members (GMs)</strong>: Community groups and individuals who seed and redeem commitments
+- <strong>Service Agreements</strong>: Outline how GMs and CSPs interact (e.g., fees, governance, redemptions)</p>
+<p>🔗 <a href="https://wiki.p2pfoundation.net/Nondominium">More on Nondominium</a></p>
+<hr />
+<h4 id="feasibility-study-for-a-commitment-pool">Feasibility Study for a Commitment Pool<a class="headerlink" href="#feasibility-study-for-a-commitment-pool" title="Permanent link">&para;</a></h4>
+<p>Before launching, conduct a feasibility study to evaluate:
+- General CVA context in the region (if running hybrid models)
+- Community readiness to make and track commitments
+- Local acceptance and understanding of trust-based systems
+- Market capacity to absorb and redeem vouchers
+- Political openness and legal environment</p>
+<p><strong>Data collection methods</strong>:
+- Key informant interviews (local authorities, market leaders)
+- Focus group discussions (potential issuers and holders)
+- Field visits (to assess tradable goods/services)
+- Stakeholder mapping (to identify pool entry-points)</p>
+<hr />
+<h3 id="commitment-pool-implementation-checklist">Commitment Pool Implementation Checklist<a class="headerlink" href="#commitment-pool-implementation-checklist" title="Permanent link">&para;</a></h3>
+<ul>
+<li>[ ] Do we have trained facilitators for workshops and onboarding?</li>
+<li>[ ] Are we legally able to hold and support voucher systems (e.g. cUSD, hours, goods)?</li>
+<li>[ ] Have we secured a service agreement with a trusted Core Service Provider?</li>
+<li>[ ] Are our targeted Issuing Groups ready to seed promises into the pool?</li>
+<li>[ ] Have we assessed whether their commitments are reliable and redeemable?</li>
+<li>[ ] Can we support local production (e.g., IGAs, gardens, labor pools) to match voucher flow?</li>
+<li>[ ] Is our digital or paper-based ledger system secure, accessible, and trusted?</li>
+</ul>
+<hr />
+<p>This preparedness phase ensures that both the <strong>relational infrastructure</strong> (trust, memory, agreements) and the <strong>technical infrastructure</strong> (ledgers, training, pooling tools) are in place before launch.</p>
+<p>The process helps root <strong>Commitment Pooling</strong> in lived community practice — not as an intervention from above, but as a regenerative grammar of mutual aid and interdependence.</p>
+<h2 id="conducting-benefit-and-risk-analysis-for-commitment-pools">CONDUCTING BENEFIT AND RISK ANALYSIS FOR COMMITMENT POOLS<a class="headerlink" href="#conducting-benefit-and-risk-analysis-for-commitment-pools" title="Permanent link">&para;</a></h2>
+<p>This section outlines how to identify and address risks related to the implementation of <strong>Commitment Pooling</strong> networks. These include relational, technical, regulatory, and operational risks related to both voucher-based trust systems and the institutions supporting them. </p>
+<hr />
+<h3 id="risk-identification-and-ranking">Risk Identification and Ranking<a class="headerlink" href="#risk-identification-and-ranking" title="Permanent link">&para;</a></h3>
+<p>Each risk should be mapped across categories, identifying:
+- <strong>Cause</strong> (source of uncertainty)
+- <strong>Effect</strong> (potential disruption)
+- <strong>Mitigation</strong> (reliable fallback or design fix)</p>
+<blockquote>
+<p>Where Commitment Pools are layered with other humanitarian programs (e.g. CVA), integration risks should be analyzed distinctly from Pooling-specific risks.</p>
+</blockquote>
+<hr />
+<h3 id="risk-categories-sample-questions">Risk Categories &amp; Sample Questions<a class="headerlink" href="#risk-categories-sample-questions" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Risk Type</th>
+<th>Key Considerations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Social Risk</strong></td>
+<td>Will the pool remain viable if large debts accumulate? Can seeding and redemption continue without centralized liquidity?</td>
+</tr>
+<tr>
+<td><strong>Technical Risk</strong></td>
+<td>If a Core Service Provider (CSP) goes offline, can participants still view balances and redeem commitments? Are ledgers distributed or hosted centrally?</td>
+</tr>
+<tr>
+<td><strong>Regulatory Risk</strong></td>
+<td>Could voucher-based systems be affected by new digital asset regulations? Are pool structures compliant with non-bank obligations?</td>
+</tr>
+<tr>
+<td><strong>Political Risk</strong></td>
+<td>Do local/national governments recognize trust-based community exchange systems? Are pools viewed as solidarity infrastructure or informal finance?</td>
+</tr>
+<tr>
+<td><strong>Exit Risk</strong></td>
+<td>If CSP support ends, can the voucher system operate peer-to-peer? Can agreements persist in paper or offline forms? Is knowledge embedded locally?</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Risks should be scored using a likelihood × impact matrix (see Appendix).</p>
+</blockquote>
+<hr />
+<h3 id="mitigation-strategies">Mitigation Strategies<a class="headerlink" href="#mitigation-strategies" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Use <strong>distributed ledgers</strong> and paper vouchers to increase resilience</li>
+<li>Build <strong>redundant local CSP networks</strong> to prevent central points of failure</li>
+<li>Use <strong>service agreements</strong> (CUA, CUMA) to guarantee exit pathways and long-term accountability</li>
+<li>Promote <strong>multi-stakeholder governance</strong> via Guardians and community assemblies</li>
+<li>Regularly rotate and <strong>train local validators</strong> to hold memory and operational capacity</li>
+</ul>
+<hr />
+<h2 id="mapping-existing-assistance-programs">MAPPING EXISTING ASSISTANCE PROGRAMS<a class="headerlink" href="#mapping-existing-assistance-programs" title="Permanent link">&para;</a></h2>
+<p>To strengthen alignment and sustainability, map all <strong>existing programs</strong> that could integrate with or benefit from a Commitment Pool:</p>
+<ul>
+<li><strong>Income Generation Projects</strong> → link to seeding capacity</li>
+<li><strong>Livelihood Support</strong> → redeemable promises in goods/labor</li>
+<li><strong>Training Programs</strong> → capacity-building for issuers</li>
+<li><strong>Cash Transfers</strong> → could be converted into stable vouchers for internal trade</li>
+</ul>
+<p>Pooling may <strong>absorb and metabolize</strong> these external supports more effectively if they are <strong>routed through shared community agreements</strong> and ledger tracking.</p>
+<hr />
+<h2 id="stakeholder-mapping-and-engagement">STAKEHOLDER MAPPING AND ENGAGEMENT<a class="headerlink" href="#stakeholder-mapping-and-engagement" title="Permanent link">&para;</a></h2>
+<p>Stakeholders include:
+- Local governments
+- Religious and cultural leaders
+- Community groups and cooperatives
+- NGOs running adjacent CVA, livelihood, or food programs
+- Tech providers or civil society alliances</p>
+<p>Use the <strong>Stakeholder Engagement Guide</strong> (see Appendix) to:
+- Identify roles and spheres of influence
+- Choose engagement methods and frequency
+- Develop trust-building strategies based on co-design and iteration</p>
+<hr />
+<h2 id="partnership-preparedness">PARTNERSHIP PREPAREDNESS<a class="headerlink" href="#partnership-preparedness" title="Permanent link">&para;</a></h2>
+<p>In Commitment Pooling, <strong>institutional partnerships</strong> are vital — particularly between:
+- <strong>Humanitarian actors</strong> supporting communities
+- <strong>Core Service Providers (CSPs)</strong> maintaining technical/social infrastructure
+- <strong>Clearing Unions (CUs)</strong> offering legal and economic scaffolding</p>
+<p>All partnerships should be framed with signed <strong>service agreements</strong>, specifying:
+- Roles and responsibilities
+- Technical handover strategies
+- Financial obligations and fee ceilings
+- Dispute resolution mechanisms
+- Long-term sustainability and exit protocols</p>
+<hr />
+<h3 id="capacity-assessment-for-core-service-providers">Capacity Assessment for Core Service Providers<a class="headerlink" href="#capacity-assessment-for-core-service-providers" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Focus Area</th>
+<th>Key Criteria</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Services</strong></td>
+<td>Can the CSP support digital accounts, identity recovery, dispute mediation, ledger integrity, and redemption tracking?</td>
+</tr>
+<tr>
+<td><strong>Scalability</strong></td>
+<td>Can the infrastructure scale to thousands of participants? Are microservices modular and reliable?</td>
+</tr>
+<tr>
+<td><strong>Legal &amp; Open Source</strong></td>
+<td>Is the software governed by CopyLeft licenses (e.g. AGPL 3.0)? Are legal documents (CUA, CUMA) published and accessible?</td>
+</tr>
+<tr>
+<td><strong>Inclusivity</strong></td>
+<td>Is the system accessible to offline users, low-literacy participants, or those using basic feature phones?</td>
+</tr>
+<tr>
+<td><strong>Fees &amp; Equity</strong></td>
+<td>Are services zero-rated or capped for vulnerable users? Is the CSP a nonprofit?</td>
+</tr>
+<tr>
+<td><strong>Data &amp; Security</strong></td>
+<td>Is personal data encrypted and compliant with local/international laws? Are backups offline or community-hosted?</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="technological-preparedness">TECHNOLOGICAL PREPAREDNESS<a class="headerlink" href="#technological-preparedness" title="Permanent link">&para;</a></h2>
+<h3 id="recommended-setup-for-commitment-pool-infrastructure">Recommended Setup for Commitment Pool Infrastructure<a class="headerlink" href="#recommended-setup-for-commitment-pool-infrastructure" title="Permanent link">&para;</a></h3>
+<ol>
+<li>
+<p><strong>Open Source Software</strong><br />
+   Ensure that the platform (wallets, ledgers, validation logic) is fully open-source and governed under non-restrictive licenses such as AGPL 3.0.</p>
+</li>
+<li>
+<p><strong>Distributed Ledger Architecture</strong><br />
+   Use systems that allow any trusted community member (or CSP) to run a node. Ledgers should be locally readable, auditable, and conservable without centralized servers.</p>
+</li>
+<li>
+<p><strong>Interfaces / Wallet Access</strong><br />
+   Wallets should allow users to assign <strong>guardians</strong> for password resets and support both digital and paper formats.</p>
+</li>
+<li>
+<p><strong>Data Sharing Protocols</strong><br />
+   Communities must consent to data collection. All shared data must be anonymous and used only for impact evidence and indexing.</p>
+</li>
+</ol>
+<hr />
+<h3 id="csp-technological-assessment-checklist">CSP Technological Assessment Checklist<a class="headerlink" href="#csp-technological-assessment-checklist" title="Permanent link">&para;</a></h3>
+<ul>
+<li>[ ] Digital accounts and ledger access provided via multiple interfaces (web, mobile, USSD, paper)</li>
+<li>[ ] Guardian mechanisms in place for lost access or dispute resolution</li>
+<li>[ ] Full support for seeding, swapping, redeeming, and tracking commitments</li>
+<li>[ ] Service scalability for new users across regions</li>
+<li>[ ] Open source licensing for all relevant software</li>
+<li>[ ] Offline and low-bandwidth access possible</li>
+<li>[ ] Secure backups of data and ledger states (local and distributed)</li>
+<li>[ ] Legal documents (CUA, CSP Agreement) signed and enforceable</li>
+<li>[ ] Documentation published in public repositories (e.g. GitHub)</li>
+<li>[ ] Long-term service sustainability plan in place (e.g. nonprofit-hosted CSP)</li>
+</ul>
+<hr />
+<h3 id="final-note">Final Note<a class="headerlink" href="#final-note" title="Permanent link">&para;</a></h3>
+<p>Benefit and risk analysis for <strong>Commitment Pools</strong> is not only technical — it is relational. The greatest risk is loss of <strong>trust and memory</strong>. Therefore, social protocols, shared governance, and layered fallback systems must accompany technical deployments.</p>
+<p>The goal is not just resilience — it’s <strong>regeneration</strong>.</p>
+<h2 id="situation-analysis-stakeholder-engagement-in-commitment-pooling">🔍 SITUATION ANALYSIS &amp; STAKEHOLDER ENGAGEMENT IN COMMITMENT POOLING<a class="headerlink" href="#situation-analysis-stakeholder-engagement-in-commitment-pooling" title="Permanent link">&para;</a></h2>
+<hr />
+<h3 id="needs-assessment">🌾 Needs Assessment<a class="headerlink" href="#needs-assessment" title="Permanent link">&para;</a></h3>
+<p>A <strong>needs assessment</strong> helps the Commitment Pool implementation team understand the ecological, relational, and material flows within a target community. It identifies:</p>
+<ul>
+<li>What goods, services, and care activities are most needed</li>
+<li>Who holds the capacity to fulfill these needs</li>
+<li>What gaps or barriers exist in access or trust</li>
+<li>How pooled commitments might bridge those gaps through coordinated fulfillment</li>
+</ul>
+<p>This lays the foundation for generating and routing <strong>vouchers</strong> (promises), and informs their volume, value, and stewardship structure.</p>
+<h4 id="objectives-of-needs-assessment">Objectives of Needs Assessment<a class="headerlink" href="#objectives-of-needs-assessment" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Understand basic material and social needs</li>
+<li>Identify key geographies and groups</li>
+<li>Define voucher flows based on community dynamics</li>
+<li>Inform valuation and redemption planning</li>
+</ul>
+<hr />
+<h3 id="assessment-process">🔧 Assessment Process<a class="headerlink" href="#assessment-process" title="Permanent link">&para;</a></h3>
+<h4 id="1-design-planning">1. Design &amp; Planning<a class="headerlink" href="#1-design-planning" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Define goals and outcomes of the assessment</li>
+<li>Identify stakeholders and community groups to engage</li>
+<li>Allocate time, facilitation, and trust-building resources</li>
+</ul>
+<h4 id="2-data-collection">2. Data Collection<a class="headerlink" href="#2-data-collection" title="Permanent link">&para;</a></h4>
+<p><strong>Secondary Data</strong><br />
+Used to map historical vulnerabilities, past shocks, existing services, and economic activities. It also helps identify:
+- Recovery capacity
+- Program overlaps
+- Trust infrastructure (e.g. cooperatives, table banking, care circles)</p>
+<p><strong>Primary Data</strong><br />
+Collected through:
+- Group dialogues
+- Household interviews
+- Trust mapping sessions
+- Focus groups on access barriers</p>
+<p>Topics include:
+- Goods/services most needed
+- Access constraints (cost, distance, trust, availability)
+- Trusted local suppliers
+- Preferred forms of contribution (labor, food, hours, repair)</p>
+<hr />
+<h3 id="minimum-trust-basket-mtb">🧺 Minimum Trust Basket (MTB)<a class="headerlink" href="#minimum-trust-basket-mtb" title="Permanent link">&para;</a></h3>
+<p>Instead of a monetary "expenditure basket," <strong>Commitment Pools</strong> begin with a <strong>Minimum Trust Basket</strong>—a list of recurring goods and services valued by the community that might be exchanged through pooled commitments.</p>
+<p>Examples:
+- 1 bag of maize
+- 3 hours child care
+- 5 labor-hours of construction</p>
+<p>This basket helps define <strong>what vouchers to issue</strong>, <strong>by whom</strong>, and <strong>at what scale</strong>.</p>
+<hr />
+<h3 id="resource-trust-mapping">🗺️ Resource &amp; Trust Mapping<a class="headerlink" href="#resource-trust-mapping" title="Permanent link">&para;</a></h3>
+<p>Identify:
+- Local producers and services that can seed promises
+- Gaps in local fulfillment capacity
+- Supply chains or external supports needed
+- Redundancies or areas of uncoordinated care</p>
+<p>This mapping distinguishes between:
+- <strong>Supply-side issues</strong>: trust or production gaps
+- <strong>Demand-side issues</strong>: lack of redeemable commitments or accessible care</p>
+<p>Key considerations:
+- Can the local economy meet essential needs through pooled promises?
+- Are there already trusted informal networks in place?
+- Are redemption delays likely without capacity building?</p>
+<hr />
+<h3 id="assessment-checklist-for-voucher-issuing-groups">✅ Assessment Checklist for Voucher-Issuing Groups<a class="headerlink" href="#assessment-checklist-for-voucher-issuing-groups" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Why it matters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Do they already trade among themselves in-kind or via trust?</td>
+<td>Shows readiness for non-monetary exchange</td>
+</tr>
+<tr>
+<td>Are they practicing group accounting (e.g. table banking)?</td>
+<td>Ensures memory and transparency</td>
+</tr>
+<tr>
+<td>Do they meet regularly and resolve disputes?</td>
+<td>Core to voucher redemption reliability</td>
+</tr>
+<tr>
+<td>Are their goods/services valuable to others?</td>
+<td>Ensures redemption feasibility</td>
+</tr>
+<tr>
+<td>Is there a redemption commitment agreement signed?</td>
+<td>Creates accountability</td>
+</tr>
+<tr>
+<td>Have they defined issuance limits (e.g. 10% of annual output)?</td>
+<td>Prevents overextension</td>
+</tr>
+<tr>
+<td>Does their pool levy (e.g. 2%) serve a community purpose?</td>
+<td>Reinforces feedback loops</td>
+</tr>
+<tr>
+<td>Have they signed membership in a Clearing Union?</td>
+<td>Legally anchors commitments</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="targeting-for-pool-inclusion">🎯 Targeting for Pool Inclusion<a class="headerlink" href="#targeting-for-pool-inclusion" title="Permanent link">&para;</a></h3>
+<p>Because pools route promises rather than currency, targeting must focus on:
+- Groups with proven fulfillment capacity
+- Individuals with high-trust, low-liquidity needs
+- Geographic areas with sufficient production or care infrastructure</p>
+<hr />
+<h3 id="example-poor-targeting-risks">🧪 Example: Poor Targeting Risks<a class="headerlink" href="#example-poor-targeting-risks" title="Permanent link">&para;</a></h3>
+<p>If a group issues vouchers but lacks services or goods to redeem them, trust collapses. "Promise washing"—where people circulate vouchers without fulfilling—can destabilize the pool and reduce faith in the ecosystem.</p>
+<p><strong>Prevention Strategy:</strong>
+- Use participatory diagnostics
+- Start small with redeemable commitments
+- Build capacity before enabling swaps or external trades</p>
+<hr />
+<h3 id="geographical-targeting">🧭 Geographical Targeting<a class="headerlink" href="#geographical-targeting" title="Permanent link">&para;</a></h3>
+<p>Pools thrive where:
+- Markets or mutual aid networks exist
+- Goods/services can be accessed locally
+- Communities already practice reciprocity or table banking</p>
+<p>Mapping should account for:
+- Urban fluidity and cross-border activity
+- Shared marketplaces
+- Digital and physical access points (e.g. shops, water points)</p>
+<hr />
+<h3 id="beneficiary-targeting">👥 Beneficiary Targeting<a class="headerlink" href="#beneficiary-targeting" title="Permanent link">&para;</a></h3>
+<p>Ideal participants:
+- Are embedded in active community networks
+- Offer labor, care, or produce redeemable goods
+- Already operate with informal credit or trust practices</p>
+<p><strong>Individual participants</strong> may also be invited if their offering (e.g. soap, eggs, tools, tutoring) aligns with the community's Minimum Trust Basket.</p>
+<hr />
+<h3 id="targeting-criteria">🪞 Targeting Criteria<a class="headerlink" href="#targeting-criteria" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Criteria</th>
+<th>Consideration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Member of a community savings group</td>
+<td>Embedded in mutual trust</td>
+</tr>
+<tr>
+<td>Offers essential goods/services</td>
+<td>Redeemable promise flow</td>
+</tr>
+<tr>
+<td>Regularly participates in group meetings</td>
+<td>Accountability infrastructure</td>
+</tr>
+<tr>
+<td>Able to issue and redeem meaningfully</td>
+<td>Prevents empty circulation</td>
+</tr>
+<tr>
+<td>Participates in shared accounting</td>
+<td>Enables memory</td>
+</tr>
+<tr>
+<td>Signed agreements with Pool governance</td>
+<td>Anchors legal and social norms</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="transparency-stakeholder-engagement">🤝 Transparency &amp; Stakeholder Engagement<a class="headerlink" href="#transparency-stakeholder-engagement" title="Permanent link">&para;</a></h3>
+<p>Involve:
+- Local authorities
+- Peer humanitarian programs
+- Traders, elders, caregivers
+- Community stewards and youth</p>
+<p>Commitment Pooling is not extractive. It works best when participants <strong>feel seen, heard, and capable</strong> of fulfilling—and when systems remain accountable to shared governance.</p>
+<hr />
+<h3 id="harmonizing-with-other-programs">🧩 Harmonizing with Other Programs<a class="headerlink" href="#harmonizing-with-other-programs" title="Permanent link">&para;</a></h3>
+<p>Commitment Pooling can:
+- Complement CVA programs (e.g. layering care-based promises on top of cash support)
+- Reveal unmet needs through transaction patterns
+- Extend impact with minimal new funding</p>
+<p>In recovery settings, pooling enables community-defined priorities. In emergencies, vouchers may be fast-issued with temporary redemption anchors, and transitioned later into mutual pools.</p>
+<hr />
+<h2 id="implementation-of-commitment-pools">🌱 IMPLEMENTATION OF COMMITMENT POOLS<a class="headerlink" href="#implementation-of-commitment-pools" title="Permanent link">&para;</a></h2>
+<hr />
+<h3 id="local-sensitization">🧭 Local Sensitization<a class="headerlink" href="#local-sensitization" title="Permanent link">&para;</a></h3>
+<h4 id="trainers-of-trainers-tots">Trainers of Trainers (ToTs)<a class="headerlink" href="#trainers-of-trainers-tots" title="Permanent link">&para;</a></h4>
+<p>Before engaging commitment-issuing groups or initiating community pooling, it's essential to train local <strong>ToTs</strong>—individuals rooted in the community who understand local customs, networks, and languages. These ToTs help mediate trust, interpret value systems, and facilitate engagement with pool governance and promise logic.</p>
+<hr />
+<h4 id="sensitize-local-stakeholders">🫂 Sensitize Local Stakeholders<a class="headerlink" href="#sensitize-local-stakeholders" title="Permanent link">&para;</a></h4>
+<p>Local leaders, cooperatives, faith groups, and small businesses should be sensitized to the core logic of <strong>Commitment Pooling</strong>: routing promises instead of money, fulfilling mutual obligations, and anchoring communal resilience.</p>
+<p>Use existing gatherings to introduce the idea that:</p>
+<blockquote>
+<p>"This is not a new invention, but a remembered grammar of trust. We are reviving how communities have always pooled commitments to one another."</p>
+</blockquote>
+<p>Sensitization happens in two stages:
+1. <strong>Community gatekeepers</strong> (chiefs, elders, traders) are engaged in closed sessions.
+2. A wider <strong>community assembly</strong> is held to discuss pooling logic, trust flows, and participation conditions.</p>
+<p>Coordinate sensitization with existing stakeholders to avoid duplication and ensure optimal attendance. Align with local authorities to ensure legitimacy and smooth facilitation.</p>
+<hr />
+<h3 id="voucher-generation-seeding-promises">🧾 Voucher Generation (Seeding Promises)<a class="headerlink" href="#voucher-generation-seeding-promises" title="Permanent link">&para;</a></h3>
+<p>Once commitment groups are identified and deemed pool-ready, each group undergoes a structured training on:</p>
+<ul>
+<li>Defining redeemable commitments</li>
+<li>Valuing promises (e.g., eggs, labor, tutoring hours)</li>
+<li>Tracking redemptions</li>
+<li>Setting issuance limits (max 12% of annual output)</li>
+<li>Ensuring every voucher seeded is backed by real capacity</li>
+</ul>
+<p>Voucher creation = <strong>seeding</strong> promises into a shared <strong>Commitment Pool</strong>.</p>
+<blockquote>
+<p>“Seed only what you can fulfill. Pooling is metabolic: overpromising chokes the system.”</p>
+</blockquote>
+<p>Each voucher issued represents a share of future production or service. These vouchers:
+- May be swapped within the pool
+- Are redeemable directly from the issuer
+- Can be routed toward social support (e.g. elderly care)</p>
+<p>📎 See: <a href="/edu/voucher/">voucher creation steps</a></p>
+<hr />
+<h3 id="conflict-resolution">🤝 Conflict Resolution<a class="headerlink" href="#conflict-resolution" title="Permanent link">&para;</a></h3>
+<p>Establish community-rooted mediation structures to resolve:
+- Disputes around valuation
+- Redemption refusals
+- Exit disagreements</p>
+<p>Use existing customary structures (councils, women's groups, etc.) to root the <strong>trust tribunal</strong> logic. All pool members should understand and agree to this restorative process before any vouchers are seeded.</p>
+<hr />
+<h3 id="community-mobilization">📣 Community Mobilization<a class="headerlink" href="#community-mobilization" title="Permanent link">&para;</a></h3>
+<p>After vouchers are issued, community mobilization ensures:
+- Trust-based uptake of vouchers
+- Responsible circulation
+- Awareness of redemption terms</p>
+<p>⚠️ <strong>Warning</strong>: Issued vouchers must not be airdropped freely outside the redemption group without consent. Doing so overextends promise capacity.</p>
+<p>Each group should invite 3–5 trusted peers to begin accepting the voucher as payment, ensuring:
+- Redemption is possible (goods/services exist)
+- Trust is mutual
+- Capacity is documented</p>
+<p>If a group donates vouchers (e.g. to elders), it becomes a <strong>social enterprise</strong>—a valuable story to uplift.</p>
+<hr />
+<h3 id="using-vouchers-circulation-demurrage">🔁 Using Vouchers: Circulation &amp; Demurrage<a class="headerlink" href="#using-vouchers-circulation-demurrage" title="Permanent link">&para;</a></h3>
+<p>Once seeded, vouchers circulate:
+- Within issuing groups
+- To trusted partners
+- In swaps with other community promises</p>
+<p>To encourage flow and prevent hoarding, a <strong>demurrage mechanism</strong> (e.g., 1% monthly decay) can be introduced. This aligns with natural cycles: <strong>trust must move to stay alive</strong>.</p>
+<p>Educate all members on:
+- Swap protocols
+- Demurrage rules
+- Redemption commitments</p>
+<hr />
+<h3 id="capacity-development-integrated-support">🏗️ Capacity Development &amp; Integrated Support<a class="headerlink" href="#capacity-development-integrated-support" title="Permanent link">&para;</a></h3>
+<p>Humanitarian partners can:
+1. <strong>Build Capacity</strong>: Train groups to increase redeemable production—e.g., maize mills, poultry co-ops, child care collectives.
+2. <strong>Support via Commitments</strong>:
+   - Purchase local vouchers (pre-buying services)
+   - Redistribute them in lieu of CVA (cash) programs
+   - Keep value circulating inside the ecosystem
+3. <strong>Index Trust Flows</strong>:
+   - Map voucher circulation to SDGs
+   - Certify impact for donors
+4. <strong>Create Treasuries</strong>:
+   - Hold committed value to redistribute during shocks</p>
+<p>This avoids extractive aid models and boosts local self-determination.</p>
+<hr />
+<h3 id="participant-registration">🧍 Participant Registration<a class="headerlink" href="#participant-registration" title="Permanent link">&para;</a></h3>
+<p>New entrants—vendors, caregivers, laborers—may be registered by:
+- Issuing groups (peer invitation)
+- Field staff (during cycles of program expansion)</p>
+<p>Minimum data:
+- Demographic info
+- Contact &amp; location
+- Socioeconomic metrics (e.g. <a href="https://www.povertyindex.org/">PPI</a>)</p>
+<p>All registration must:
+- Be ethical
+- Align with data privacy standards
+- Enable follow-up for redemption audits and trust certification</p>
+<hr />
+<h3 id="verification-databases">🧾 Verification &amp; Databases<a class="headerlink" href="#verification-databases" title="Permanent link">&para;</a></h3>
+<p>To prevent duplication:
+- Use unique IDs (e.g. phone or ID numbers)
+- Store in open or consortium-managed ledgers
+- Regularly audit for redemption and seeding balance</p>
+<p>A Core Service Provider (CSP) manages the ledger (digital or paper-based). The CSP ensures continuity, visibility, and technical integrity.</p>
+<hr />
+<h3 id="exit-strategy">🚪 Exit Strategy<a class="headerlink" href="#exit-strategy" title="Permanent link">&para;</a></h3>
+<h4 id="ongoing-education">🎓 Ongoing Education<a class="headerlink" href="#ongoing-education" title="Permanent link">&para;</a></h4>
+<p>Train <strong>local champions</strong> in:
+- Pool logic
+- Voucher lifecycle
+- Conflict mediation
+- Seeding and redemption audits</p>
+<p>Use community-generated media (e.g. theatre, murals, song) to encode protocol memory.</p>
+<hr />
+<h4 id="infrastructure-sustainability">🛠️ Infrastructure Sustainability<a class="headerlink" href="#infrastructure-sustainability" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Partner with non-profit CSPs committed to open source tools</li>
+<li>Ensure local ownership of ledgers (distributed if possible)</li>
+<li>Provide fallback protocols (e.g. offline paper redemption) in case of tech outages</li>
+</ul>
+<hr />
+<h4 id="stakeholder-weaving">🔗 Stakeholder Weaving<a class="headerlink" href="#stakeholder-weaving" title="Permanent link">&para;</a></h4>
+<p>"<strong>Braid</strong>" IGAs (Income Generating Activities) together by:
+- Facilitating regular barter/swap sessions
+- Sharing trust metrics across groups
+- Encouraging interdependence, not competition</p>
+<p>This transforms discrete groups into a <strong>networked metabolism</strong>.</p>
+<hr />
+<blockquote>
+<p>A successful Commitment Pool project doesn’t end when the team exits—it evolves as a <strong>trust commons</strong>, stewarded by its participants.</p>
+</blockquote>
+<h2 id="monitoring-evaluation-of-commitment-pools">📊 MONITORING &amp; EVALUATION OF COMMITMENT POOLS<a class="headerlink" href="#monitoring-evaluation-of-commitment-pools" title="Permanent link">&para;</a></h2>
+<p>Monitoring a commitment pool is a continuous, reflexive process that helps communities and stewards understand how promises are flowing, where trust is thriving, and where adjustments are needed to improve fulfillment and ecosystem balance.</p>
+<hr />
+<h3 id="process-output-and-outcome-monitoring">🔍 Process, Output, and Outcome Monitoring<a class="headerlink" href="#process-output-and-outcome-monitoring" title="Permanent link">&para;</a></h3>
+<h4 id="trust-flow-monitoring-voucher-use">💱 Trust Flow Monitoring (Voucher Use)<a class="headerlink" href="#trust-flow-monitoring-voucher-use" title="Permanent link">&para;</a></h4>
+<p>Core questions to assess the health of the pool:</p>
+<ul>
+<li><strong>Velocity of Promises</strong>: Are vouchers changing hands frequently? High velocity signals vibrant trust circulation and local production alignment.</li>
+<li><strong>Transaction Spread</strong>: Is voucher use evenly distributed? Or are only a few members trading? Low spread may signal barriers to access or trust.</li>
+<li><strong>Demographic Inclusion</strong>: Who is transacting? Disaggregate by gender, age, role to surface inclusion gaps. Use this to inform targeted outreach.</li>
+<li><strong>Commodity Anchoring</strong>: What types of goods or services are being exchanged? Are vouchers routing toward local production or external dependencies?</li>
+</ul>
+<blockquote>
+<p>Trust flows must reflect community metabolism—not just economic activity.</p>
+</blockquote>
+<hr />
+<h4 id="market-monitoring">🛒 Market Monitoring<a class="headerlink" href="#market-monitoring" title="Permanent link">&para;</a></h4>
+<p>To ensure the pool doesn’t distort or destabilize community trade:</p>
+<ul>
+<li><strong>Price Watch</strong>: Monitor key goods to track if voucher-based trade causes local inflation.</li>
+<li><strong>Availability Audits</strong>: Are key goods consistently available? Does redemption capacity stay in sync with voucher issuance?</li>
+<li><strong>Supply vs. Demand Mapping</strong>: Ensure local traders can restock and liquidity isn’t overly dependent on vouchers.</li>
+</ul>
+<p>Commitment pooling is intended to <strong>stabilize and support</strong> trade—not distort it.</p>
+<hr />
+<h4 id="spending-journals">📓 Spending Journals<a class="headerlink" href="#spending-journals" title="Permanent link">&para;</a></h4>
+<p>Track both:
+- Voucher-based spending
+- National currency spending</p>
+<p>Journals help identify:
+- Whether vouchers retain value locally while cash leaks out
+- Seasonal or shock-based shifts in economic behavior
+- Complementarity of pooled commitments with other forms of aid</p>
+<hr />
+<h4 id="baseline-inline-and-endline-reflections">📞 Baseline, Inline, and Endline Reflections<a class="headerlink" href="#baseline-inline-and-endline-reflections" title="Permanent link">&para;</a></h4>
+<p>Use surveys, phone interviews, and testimonials to surface:</p>
+<ul>
+<li>Shifts in trust relationships</li>
+<li>Changes in perceived community resilience</li>
+<li>Levels of participation in cooperative exchange</li>
+</ul>
+<p>📹 <strong>Testimonial videos</strong> are powerful in rural settings. Let pool members speak to each other across regions—regeneration is contagious.</p>
+<hr />
+<h3 id="evaluation">🧠 Evaluation<a class="headerlink" href="#evaluation" title="Permanent link">&para;</a></h3>
+<p>Plan an evaluation aligned with wider strategic and policy questions. Good evaluation asks:</p>
+<ul>
+<li>Are pools increasing incomes and fulfillment capacity?</li>
+<li>Are they reducing debt and dependency?</li>
+<li>Is community trade diversifying?</li>
+<li>Are trust flows equitable?</li>
+</ul>
+<p>Where possible:
+- Use <strong>external evaluators</strong>
+- Set clear terms of reference
+- Include regenerative indicators (e.g. local production, mutual aid frequency, fulfillment rates)</p>
+<hr />
+<h3 id="sharing-me-learnings">🔄 Sharing M&amp;E Learnings<a class="headerlink" href="#sharing-me-learnings" title="Permanent link">&para;</a></h3>
+<p>Insights from monitoring and evaluation should be shared:</p>
+<ul>
+<li><strong>Internally</strong>: With pool stewards and facilitators for learning loops</li>
+<li><strong>Externally</strong>: With local authorities, peer organizations, and donors to support:</li>
+<li>Coordination</li>
+<li>Transparency</li>
+<li>Avoidance of duplicative or extractive interventions</li>
+</ul>
+<blockquote>
+<p>Monitoring trust flows is not surveillance—it’s stewardship.</p>
+</blockquote>
+<hr />
+<h2 id="appendices-resources">📚 APPENDICES &amp; RESOURCES<a class="headerlink" href="#appendices-resources" title="Permanent link">&para;</a></h2>
+<h3 id="educational">🌱 Educational<a class="headerlink" href="#educational" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="/edu/glossary/">Glossary</a></li>
+<li><a href="/edu/faq/">FAQ</a></li>
+<li><a href="/edu/training/">Community Training Guide</a></li>
+<li><a href="/edu/voucher/">Voucher Creation Summary</a></li>
+<li><a href="/edu/case_study/">Case Study</a></li>
+<li><a href="https://www.grassrootseconomics.org/pages/mooc.html">Book</a></li>
+<li><a href="https://forms.gle/yJfVKsZUS1Tdmmmc9">Quiz</a></li>
+</ul>
+<h3 id="operations">⚙️ Operations<a class="headerlink" href="#operations" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Logical Framework</li>
+<li>Team Training Guide</li>
+<li>Stakeholder Engagement Guide</li>
+<li>Humanitarian Support<br />
+📁 <a href="https://docs.grassecon.org/ops">docs.grassecon.org/ops</a></li>
+</ul>
+<h3 id="legal">⚖️ Legal<a class="headerlink" href="#legal" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Economic Commons Licence</li>
+<li>Clearing Union Agreement</li>
+<li>Voucher Creation Protocol</li>
+<li>Service Agreement</li>
+<li>Data Policy<br />
+📁 <a href="https://docs.grassecon.org/commons">docs.grassecon.org/commons</a></li>
+</ul>
+<h3 id="software">🖥️ Software<a class="headerlink" href="#software" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Core Services + Ledger</li>
+<li>Wallet Interfaces</li>
+<li>Developer Tools<br />
+📁 <a href="https://software.grassecon.org/">software.grassecon.org</a></li>
+</ul>
+<h3 id="external-tools">📦 External Tools<a class="headerlink" href="#external-tools" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="https://cash-hub.org/">Cash Hub for CVA</a></li>
+<li><a href="http://www.cashlearning.org/resources/library/25-vouchers---a-quick-delivery-guide-booklet-version">Voucher Quick Guide (CaLP 2011)</a></li>
+</ul>
+
+  <hr>
+<div class="md-source-file">
+  <small>
+    
+      Last update:
+      2025-07-27
+    
+  </small>
+</div>
+
+              
+            </article>
+          </div>
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" data-md-state="hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg>
+            Back to top
+          </a>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../log_frame/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Logical Framework" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Logical Framework
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../voucher/" class="md-footer__link md-footer__link--next" aria-label="Next: Voucher Creation" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Voucher Creation
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "toc.integrate", "navigation.sections", "navigation.indexes", "navigation.top", "header.autohide"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.cefbb252.min.js"}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.17f42bbf.min.js"></script>
+      
+    
+  </body>
+</html>

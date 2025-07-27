@@ -1,0 +1,1472 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://docs.grassecon.org/software/">
+      
+      <link rel="icon" href="../assets/favicon.svg">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-8.1.0">
+    
+    
+      
+        <title>CIC Software - Grassroots Economics Documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.82f3c0b9.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.9204c3b2.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#4cae4f">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/style.css">
+    
+    <script>__md_scope=new URL("..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+<script async src="https://analytics.grassecon.net/kilifi" data-website-id="a130799a-f214-440b-91db-3654c0eadabb"></script>
+
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="green" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#cic-software" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Grassroots Economics Documentation" class="md-header__button md-logo" aria-label="Grassroots Economics Documentation" data-md-component="logo">
+      
+  <img src="../assets/logo.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Grassroots Economics Documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              CIC Software
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/grassrootseconomics/docs.grassecon.org/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    grassrootseconomics/docs
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href=".." class="md-tabs__link">
+      Karibu
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../community/" class="md-tabs__link">
+        Community
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../ops/" class="md-tabs__link">
+        Operations
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../commons/" class="md-tabs__link">
+        Commons
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../cyber/" class="md-tabs__link">
+        Software
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../edu/" class="md-tabs__link">
+        Education
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Grassroots Economics Documentation" class="md-nav__button md-logo" aria-label="Grassroots Economics Documentation" data-md-component="logo">
+      
+  <img src="../assets/logo.svg" alt="logo">
+
+    </a>
+    Grassroots Economics Documentation
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/grassrootseconomics/docs.grassecon.org/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    grassrootseconomics/docs
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Karibu
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../community/">Community</a>
+          
+            <label for="__nav_2">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Community" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Community
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../community/charter/" class="md-nav__link">
+        Charter
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../community/contrib/" class="md-nav__link">
+        Contribution Guidelines
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../community/conduct/" class="md-nav__link">
+        Code of Conduct
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../community/roadmap/" class="md-nav__link">
+        Roadmap
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../ops/">Operations</a>
+          
+            <label for="__nav_3">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Operations" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Operations
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ops/log_frame/" class="md-nav__link">
+        Logical Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ops/pqt/" class="md-nav__link">
+        Program Toolkit
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ops/voucher/" class="md-nav__link">
+        Voucher Creation
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ops/team_guide/" class="md-nav__link">
+        Team Guide
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ops/local_stakeholders/" class="md-nav__link">
+        Stakeholder Guide
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ops/support/" class="md-nav__link">
+        Humanitarian Support
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../commons/">Commons</a>
+          
+            <label for="__nav_4">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Commons" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Commons
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../commons/template/" class="md-nav__link">
+        Commons Template
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../commons/agreement/" class="md-nav__link">
+        Commons Agreement
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../commons/voucher/" class="md-nav__link">
+        Voucher Agreement
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../commons/service/" class="md-nav__link">
+        Service Agreement
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../commons/path/" class="md-nav__link">
+        PATH License
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../commons/sprout/" class="md-nav__link">
+        SPROUT License
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../commons/data_policy/" class="md-nav__link">
+        Data Policy
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../commons/child_policy/" class="md-nav__link">
+        Child Protection Policy
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../cyber/">Software</a>
+          
+            <label for="__nav_5">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Software" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Software
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://software.grassecon.org/" class="md-nav__link">
+        Software
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cyber/pool-guide/" class="md-nav__link">
+        Pooling Guide
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cyber/staking-guide/" class="md-nav__link">
+        Staking Guide
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../edu/">Education</a>
+          
+            <label for="__nav_6">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" aria-label="Education" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Education
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../edu/glossary/" class="md-nav__link">
+        Glossary
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../edu/faq/" class="md-nav__link">
+        FAQ
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://willruddick.substack.com/p/grassroots-economics-the-book-is" class="md-nav__link">
+        Book
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../edu/training/" class="md-nav__link">
+        Training Guide
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../edu/case_study/" class="md-nav__link">
+        Case Study
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+<a href="https://github.com/grassrootseconomics/docs.grassecon.org/edit/main/docs/software/index.md" title="Edit this page" class="md-content__button md-icon">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+</a>
+
+
+<h1 id="cic-software">CIC Software<a class="headerlink" href="#cic-software" title="Permanent link">&para;</a></h1>
+<h2 id="technology-setup">Technology Setup<a class="headerlink" href="#technology-setup" title="Permanent link">&para;</a></h2>
+<p>Generally the technical setup is done by a local Platform Service Provider like Grassroots Economics. The more local the better.</p>
+<ol>
+<li><strong>Open Source (CopyLeft) Software</strong>: Ensure that you trust the software being used and that even if it is open source now, that improvements and upgrades will remain open source. Check out our <a href="/software/">stack</a>.</li>
+<li><strong>Distributed Ledger</strong>: We highly recommend developing your own ledger system where members of the community hold nodes that decentralize and secure the ledger.</li>
+<li><strong>Interfaces / Wallets</strong>: We’ve built custodial systems that enable users to assign guardians that can help them reset lost passwords.</li>
+<li><strong>Data Sharing</strong>: Given the consent of the community, anonymous transaction data can be recorded and displayed</li>
+</ol>
+<h2 id="cic-stack-summary">CIC Stack Summary<a class="headerlink" href="#cic-stack-summary" title="Permanent link">&para;</a></h2>
+<p>While work toward <em>non-custodial</em> and web interfaces are underway, the CIC Stack is currently a <em>custodial</em> wallet and blockchain bidirectional interface engine for community inclusion currencies</p>
+<ul>
+<li>Fully Open source GPL 3.0 License</li>
+<li>Automates the full lifecycle of blockchain transactions</li>
+<li>Chain agnostic by design</li>
+<li>Introduces a new chain library toolset written from scratch</li>
+<li>Modular design with fully standalone but recombinable components</li>
+<li>Includes a broad collection CLI tools for most common chain and engine operations</li>
+<li>Empowers implementers to choose their level of abstraction</li>
+<li>Supports both local, containerized and decentralized environments</li>
+<li>Support last mile front-end apis and integrations</li>
+</ul>
+<h2 id="system-parts">System parts<a class="headerlink" href="#system-parts" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Base components</strong>, containing all necessary provisions for services and tooling. (<a href="https://git.grassecon.net/chaintool">Chaintools</a>)</li>
+<li><strong>Generic services components</strong>, libraries, daemons and services making up the custodial engine. (<a href="https://git.grassecon.net/chaintool">cicnet</a>)</li>
+<li><strong>Deployment components</strong>, which facilitates deployment of the custodial engine, as well as seeding data for development, demonstration and migration. (<a href="https://git.grassecon.net/grassrootseconomics">GrassrootsEconomics</a>) </li>
+<li><a href="https://coverage-reports.grassecon.net/">Test Coverage</a></li>
+</ul>
+<h2 id="base-components">Base components<a class="headerlink" href="#base-components" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Queue handling</strong> (<a href="https://git.grassecon.net/chaintool/chainqueue">chainqueue</a>): Makes sure that a transaction sent on behalf of a user is sent, resubmitted if stalled, and whose execution is verified by quering the network state. </li>
+<li><strong>Chain syncing</strong>, (<a href="https://git.grassecon.net/chaintool/chainsyncer">chainsyncer</a>): Retrieves all state changes from the network and executes an arbitary number of code fragments per transaction. </li>
+<li><strong>RPC (Remote Procedure Call) interface</strong>, which divides in two parts:<ol>
+<li><strong>Generic interface</strong> (<a href="https://git.grassecon.net/chaintool/chainlib">chainlib</a>): Concepts common to all chain-like RPCs, and provides a thread-safe interaction framework.</li>
+<li><strong>Ethereum interface</strong> (<a href="https://git.grassecon.net/chaintool/chainlib-eth">chainlib-eth</a>): An extension of the former for the Ethereum/EVM network.</li>
+</ol>
+</li>
+<li><strong>Chain tooling</strong> (<a href="https://git.grassecon.net/chaintool/chainlib">chainlib</a>, <a href="https://gitlab.com/chaintool/chainlib-eth">chainlib-eth</a>): Granular access to all conceptual layers of chain interaction, including binary serializations and application interfaces, along with CLI (Command Line Interface) tooling framework.</li>
+<li><strong>Signer</strong>, (<a href="https://git.grassecon.net/chaintool/crypto-dev-signer">crypto-dev-signer</a>) Low-security keystore and signer which is easily usable in both production (provided that no external access is possible) and in any development environment.</li>
+<li><strong>Configuration</strong> (<a href="https://gitlab.com/nolash/python-confini">confini</a>): Incrementally merging configuration definition from multiple modules, and easily overriding them with command line flags and environment variables.</li>
+</ul>
+<h3 id="generic-services-components">Generic services components<a class="headerlink" href="#generic-services-components" title="Permanent link">&para;</a></h3>
+<ul>
+<li>All smart contract wrappers in the <a href="https://git.grassecon.net/cicnet">cicnet</a> repository.</li>
+<li><strong>CIC Contract registry</strong> (<a href="https://gitlab.com/grassrootseconomics/cic-eth-registry">cic-eth-registry</a>): Defines token and resource pointer lookup and authentication resources.</li>
+<li>Daemons and microservices in the <strong>apps</strong> subdirectories in the <a href="https://gitlab.com/grassrootseconomics/cic-internal-integration">cic-internal-integration</a> monorepo, specifically:<ul>
+<li><strong>cic-eth</strong>: Massively parallel and fault-tolerant implementation of the custodial signer/queuer/syncer engine, accepting tasks from end-users via middleware.</li>
+<li><strong>cic-cache</strong>: Cache syncer and database fetching and storing details on transactions of interest.</li>
+<li><strong>cic-ussd</strong>: State machine, microservices and gateway for end-users using the USSD (Unstructured Supplementary Service Data) interface via telcos.</li>
+<li><strong>cic-notify</strong>: Pluggable notification engine, initially used only for SMS notifications to end-users.</li>
+</ul>
+</li>
+</ul>
+<h3 id="deployment-components">Deployment components<a class="headerlink" href="#deployment-components" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Data seeding and/or migrations for new development deployments. Located in the <strong>apps/data-seeding</strong> subdirectory of <a href="https://gitlab.com/grassrootseconomics/cic-internal-integration">cic-internal-integration</a>.</li>
+<li>Deployment and initialization of network resources (smart contracts etc) and initialization of the custodial engine. Located in the <strong>apps/contract-migrations</strong> subdirectory of <a href="https://gitlab.com/grassrootseconomics/cic-internal-integration">cic-internal-integration</a>.</li>
+</ul>
+<p><img alt="stack.svg" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8IS0tIEdlbmVyYXRlZCBieSBncmFwaHZpeiB2ZXJzaW9uIDIuNDQuMCAoKQogLS0+CjwhLS0gUGFnZXM6IDEgLS0+Cjxzdmcgd2lkdGg9IjEyNTBwdCIgaGVpZ2h0PSI4NTZwdCIgdmlld0JveD0iMC4wMCAwLjAwIDEyNTAuMDAgODU1LjU5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KPGcgaWQ9ImdyYXBoMCIgY2xhc3M9ImdyYXBoIiB0cmFuc2Zvcm09InNjYWxlKDEgMSkgcm90YXRlKDApIHRyYW5zbGF0ZSg0IDg1MS41OSkiPgo8cG9seWdvbiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJ0cmFuc3BhcmVudCIgcG9pbnRzPSItNCw0IC00LC04NTEuNTkgMTI0NiwtODUxLjU5IDEyNDYsNCAtNCw0Ii8+CjwhLS0gYmxvY2tjaGFpbiAtLT4KPGcgaWQ9Im5vZGUxIiBjbGFzcz0ibm9kZSI+Cjx0aXRsZT5ibG9ja2NoYWluPC90aXRsZT4KPGVsbGlwc2UgZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgY3g9IjI0NSIgY3k9Ii03MTEuNzkiIHJ4PSI1OS42IiByeT0iNTkuNiIvPgo8ZWxsaXBzZSBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBjeD0iMjQ1IiBjeT0iLTcxMS43OSIgcng9IjYzLjU5IiByeT0iNjMuNTkiLz4KPHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iMjQ1IiB5PSItNzA4LjA5IiBmb250LWZhbWlseT0iVGltZXMsc2VyaWYiIGZvbnQtc2l6ZT0iMTQuMDAiPmJsb2NrY2hhaW48L3RleHQ+CjwvZz4KPCEtLSBjaWNfZXRoX3RyYWNrZXIgLS0+CjxnIGlkPSJub2RlNCIgY2xhc3M9Im5vZGUiPgo8dGl0bGU+Y2ljX2V0aF90cmFja2VyPC90aXRsZT4KPHBvbHlnb24gZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSIyMTYuNSwtNDY4IDg3LjUsLTQ2OCA4Ny41LC00MzIgMjE2LjUsLTQzMiAyMTYuNSwtNDY4Ii8+Cjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjE1MiIgeT0iLTQ0Ni4zIiBmb250LWZhbWlseT0iVGltZXMsc2VyaWYiIGZvbnQtc2l6ZT0iMTQuMDAiPmNpYyYjNDU7ZXRoJiM0NTt0cmFja2VyPC90ZXh0Pgo8L2c+CjwhLS0gYmxvY2tjaGFpbiYjNDU7Jmd0O2NpY19ldGhfdHJhY2tlciAtLT4KPGcgaWQ9ImVkZ2UyMiIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+YmxvY2tjaGFpbiYjNDU7Jmd0O2NpY19ldGhfdHJhY2tlcjwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik0yMjMuNzgsLTY1MS41MkMyMDQuMjEsLTU5Ni44NSAxNzYuMDYsLTUxOC4yIDE2MS41MSwtNDc3LjU2Ii8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjE2NC43OCwtNDc2LjMyIDE1OC4xMSwtNDY4LjA4IDE1OC4xOSwtNDc4LjY4IDE2NC43OCwtNDc2LjMyIi8+CjwvZz4KPCEtLSBjaWNfY2FjaGVfdHJhY2tlciAtLT4KPGcgaWQ9Im5vZGU4IiBjbGFzcz0ibm9kZSI+Cjx0aXRsZT5jaWNfY2FjaGVfdHJhY2tlcjwvdGl0bGU+Cjxwb2x5Z29uIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iNTEwLC02MTIgMzY2LC02MTIgMzY2LC01NzYgNTEwLC01NzYgNTEwLC02MTIiLz4KPHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iNDM4IiB5PSItNTkwLjMiIGZvbnQtZmFtaWx5PSJUaW1lcyxzZXJpZiIgZm9udC1zaXplPSIxNC4wMCI+Y2ljJiM0NTtjYWNoZSYjNDU7dHJhY2tlcjwvdGV4dD4KPC9nPgo8IS0tIGJsb2NrY2hhaW4mIzQ1OyZndDtjaWNfY2FjaGVfdHJhY2tlciAtLT4KPGcgaWQ9ImVkZ2UzMSIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+YmxvY2tjaGFpbiYjNDU7Jmd0O2NpY19jYWNoZV90cmFja2VyPC90aXRsZT4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgZD0iTTI5OS4yNywtNjc4LjIzQzMzMS41NywtNjU4Ljg2IDM3MS43MiwtNjM0Ljc2IDQwMC41MSwtNjE3LjQ5Ii8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjQwMi42NSwtNjIwLjI5IDQwOS40MywtNjEyLjE0IDM5OS4wNSwtNjE0LjI5IDQwMi42NSwtNjIwLjI5Ii8+CjwvZz4KPCEtLSBjaWNfZXRoX2Rpc3BhdGNoZXIgLS0+CjxnIGlkPSJub2RlMiIgY2xhc3M9Im5vZGUiPgo8dGl0bGU+Y2ljX2V0aF9kaXNwYXRjaGVyPC90aXRsZT4KPHBvbHlnb24gZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSIzMjgsLTE4MCAxNzYsLTE4MCAxNzYsLTE0NCAzMjgsLTE0NCAzMjgsLTE4MCIvPgo8dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSIyNTIiIHk9Ii0xNTguMyIgZm9udC1mYW1pbHk9IlRpbWVzLHNlcmlmIiBmb250LXNpemU9IjE0LjAwIj5jaWMmIzQ1O2V0aCYjNDU7ZGlzcGF0Y2hlcjwvdGV4dD4KPC9nPgo8IS0tIGNpY19ldGhfZGlzcGF0Y2hlciYjNDU7Jmd0O2Jsb2NrY2hhaW4gLS0+CjxnIGlkPSJlZGdlMjEiIGNsYXNzPSJlZGdlIj4KPHRpdGxlPmNpY19ldGhfZGlzcGF0Y2hlciYjNDU7Jmd0O2Jsb2NrY2hhaW48L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNMjUxLjUsLTE4MC4zOUMyNTAuODMsLTIwNC41MyAyNDkuNjQsLTI0OS41OCAyNDksLTI4OCAyNDYuOTUsLTQxMC41OSAyNDUuODcsLTU1My4yIDI0NS4zNywtNjM3LjUyIi8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjI0MS44NywtNjM3Ljc0IDI0NS4zMSwtNjQ3Ljc2IDI0OC44NywtNjM3Ljc4IDI0MS44NywtNjM3Ljc0Ii8+CjwvZz4KPCEtLSBjaWNfZXRoX3Rhc2tlciAtLT4KPGcgaWQ9Im5vZGUzIiBjbGFzcz0ibm9kZSI+Cjx0aXRsZT5jaWNfZXRoX3Rhc2tlcjwvdGl0bGU+Cjxwb2x5Z29uIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iMzgwLC0zMjQgMjU4LC0zMjQgMjU4LC0yODggMzgwLC0yODggMzgwLC0zMjQiLz4KPHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iMzE5IiB5PSItMzAyLjMiIGZvbnQtZmFtaWx5PSJUaW1lcyxzZXJpZiIgZm9udC1zaXplPSIxNC4wMCI+Y2ljJiM0NTtldGgmIzQ1O3Rhc2tlcjwvdGV4dD4KPC9nPgo8IS0tIHF1ZXVlIC0tPgo8ZyBpZD0ibm9kZTE5IiBjbGFzcz0ibm9kZSI+Cjx0aXRsZT5xdWV1ZTwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik0yMDEuNSwtMjQ4LjczQzIwMS41LC0yNTAuNTMgMTc5LjMxLC0yNTIgMTUyLC0yNTIgMTI0LjY5LC0yNTIgMTAyLjUsLTI1MC41MyAxMDIuNSwtMjQ4LjczIDEwMi41LC0yNDguNzMgMTAyLjUsLTIxOS4yNyAxMDIuNSwtMjE5LjI3IDEwMi41LC0yMTcuNDcgMTI0LjY5LC0yMTYgMTUyLC0yMTYgMTc5LjMxLC0yMTYgMjAxLjUsLTIxNy40NyAyMDEuNSwtMjE5LjI3IDIwMS41LC0yMTkuMjcgMjAxLjUsLTI0OC43MyAyMDEuNSwtMjQ4LjczIi8+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik0yMDEuNSwtMjQ4LjczQzIwMS41LC0yNDYuOTIgMTc5LjMxLC0yNDUuNDUgMTUyLC0yNDUuNDUgMTI0LjY5LC0yNDUuNDUgMTAyLjUsLTI0Ni45MiAxMDIuNSwtMjQ4LjczIi8+Cjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjE1MiIgeT0iLTIzMC4zIiBmb250LWZhbWlseT0iVGltZXMsc2VyaWYiIGZvbnQtc2l6ZT0iMTQuMDAiPnF1ZXVlIHN0b3JlPC90ZXh0Pgo8L2c+CjwhLS0gY2ljX2V0aF90YXNrZXImIzQ1OyZndDtxdWV1ZSAtLT4KPGcgaWQ9ImVkZ2UxOSIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+Y2ljX2V0aF90YXNrZXImIzQ1OyZndDtxdWV1ZTwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik0yNzguMTUsLTI4Ny44OEMyNTQuNywtMjc4LjA1IDIyNS4xMywtMjY1LjY1IDIwMC41MSwtMjU1LjMzIi8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjIwMS41NywtMjUxLjk4IDE5MSwtMjUxLjM1IDE5OC44NiwtMjU4LjQ0IDIwMS41NywtMjUxLjk4Ii8+CjwvZz4KPCEtLSBjaWNfdXNlcl90YXNrZXIgLS0+CjxnIGlkPSJub2RlMTIiIGNsYXNzPSJub2RlIj4KPHRpdGxlPmNpY191c2VyX3Rhc2tlcjwvdGl0bGU+Cjxwb2x5Z29uIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iNDc2LjUsLTM5NiAzNDcuNSwtMzk2IDM0Ny41LC0zNjAgNDc2LjUsLTM2MCA0NzYuNSwtMzk2Ii8+Cjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjQxMiIgeT0iLTM3NC4zIiBmb250LWZhbWlseT0iVGltZXMsc2VyaWYiIGZvbnQtc2l6ZT0iMTQuMDAiPmNpYyYjNDU7dXNlciYjNDU7dGFza2VyPC90ZXh0Pgo8L2c+CjwhLS0gY2ljX2V0aF90cmFja2VyJiM0NTsmZ3Q7Y2ljX3VzZXJfdGFza2VyIC0tPgo8ZyBpZD0iZWRnZTI0IiBjbGFzcz0iZWRnZSI+Cjx0aXRsZT5jaWNfZXRoX3RyYWNrZXImIzQ1OyZndDtjaWNfdXNlcl90YXNrZXI8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNMjE1LjI3LC00MzEuOTdDMjUyLjU1LC00MjEuOTMgMjk5Ljg2LC00MDkuMTkgMzM4Ljc1LC0zOTguNzIiLz4KPHBvbHlnb24gZmlsbD0iYmxhY2siIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iMzM5LjcsLTQwMi4wOSAzNDguNDUsLTM5Ni4xMSAzMzcuODgsLTM5NS4zMyAzMzkuNywtNDAyLjA5Ii8+CjwvZz4KPCEtLSBjaWNfZXRoX3RyYWNrZXImIzQ1OyZndDtxdWV1ZSAtLT4KPGcgaWQ9ImVkZ2UyMyIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+Y2ljX2V0aF90cmFja2VyJiM0NTsmZ3Q7cXVldWU8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNMTUyLC00MzEuODVDMTUyLC0zOTQuODMgMTUyLC0zMDcuMTggMTUyLC0yNjIuMzkiLz4KPHBvbHlnb24gZmlsbD0iYmxhY2siIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iMTU1LjUsLTI2Mi4yMyAxNTIsLTI1Mi4yMyAxNDguNSwtMjYyLjIzIDE1NS41LC0yNjIuMjMiLz4KPC9nPgo8IS0tIGNpY19ldGhfcmV0cmllciAtLT4KPGcgaWQ9Im5vZGU1IiBjbGFzcz0ibm9kZSI+Cjx0aXRsZT5jaWNfZXRoX3JldHJpZXI8L3RpdGxlPgo8cG9seWdvbiBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjE1Ny41LC0xODAgMjguNSwtMTgwIDI4LjUsLTE0NCAxNTcuNSwtMTQ0IDE1Ny41LC0xODAiLz4KPHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iOTMiIHk9Ii0xNTguMyIgZm9udC1mYW1pbHk9IlRpbWVzLHNlcmlmIiBmb250LXNpemU9IjE0LjAwIj5jaWMmIzQ1O2V0aCYjNDU7cmV0cmllcjwvdGV4dD4KPC9nPgo8IS0tIGNpY19ldGhfcmV0cmllciYjNDU7Jmd0O2Jsb2NrY2hhaW4gLS0+CjxnIGlkPSJlZGdlMzUiIGNsYXNzPSJlZGdlIj4KPHRpdGxlPmNpY19ldGhfcmV0cmllciYjNDU7Jmd0O2Jsb2NrY2hhaW48L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNODYuMTIsLTE4MC4xN0M3Ni4xOCwtMjA2LjU2IDU5LC0yNTguODYgNTksLTMwNSA1OSwtNTIzIDU5LC01MjMgNTksLTUyMyA1OSwtNTkzLjIgMTI1LjQyLC02NDYuNTYgMTc4Ljg4LC02NzguMTQiLz4KPHBvbHlnb24gZmlsbD0iYmxhY2siIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iMTc3LjI2LC02ODEuMjUgMTg3LjY4LC02ODMuMjEgMTgwLjc2LC02NzUuMTkgMTc3LjI2LC02ODEuMjUiLz4KPC9nPgo8IS0tIGNpY19ldGhfc2VydmVyIC0tPgo8ZyBpZD0ibm9kZTYiIGNsYXNzPSJub2RlIj4KPHRpdGxlPmNpY19ldGhfc2VydmVyPC90aXRsZT4KPHBvbHlnb24gZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI0ODcsLTU0MCAzNjUsLTU0MCAzNjUsLTUwNCA0ODcsLTUwNCA0ODcsLTU0MCIvPgo8dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI0MjYiIHk9Ii01MTguMyIgZm9udC1mYW1pbHk9IlRpbWVzLHNlcmlmIiBmb250LXNpemU9IjE0LjAwIj5jaWMmIzQ1O2V0aCYjNDU7c2VydmVyPC90ZXh0Pgo8L2c+CjwhLS0gY2ljX2V0aF9zZXJ2ZXImIzQ1OyZndDtjaWNfZXRoX3Rhc2tlciAtLT4KPGcgaWQ9ImVkZ2U4IiBjbGFzcz0iZWRnZSI+Cjx0aXRsZT5jaWNfZXRoX3NlcnZlciYjNDU7Jmd0O2NpY19ldGhfdGFza2VyPC90aXRsZT4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgZD0iTTQxMC42NCwtNTAzLjdDMzkxLjA2LC00ODAuNzIgMzU3LjUzLC00MzguMTEgMzM5LC0zOTYgMzMwLjMsLTM3Ni4yMiAzMjUuMTksLTM1Mi4yNCAzMjIuMzIsLTMzNC4xNiIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSIzMjUuNzQsLTMzMy40IDMyMC44NCwtMzI0LjAxIDMxOC44MiwtMzM0LjQxIDMyNS43NCwtMzMzLjQiLz4KPC9nPgo8IS0tIGNpY19jYWNoZV90YXNrZXIgLS0+CjxnIGlkPSJub2RlNyIgY2xhc3M9Im5vZGUiPgo8dGl0bGU+Y2ljX2NhY2hlX3Rhc2tlcjwvdGl0bGU+Cjxwb2x5Z29uIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iNTcwLjUsLTQ2OCA0MzMuNSwtNDY4IDQzMy41LC00MzIgNTcwLjUsLTQzMiA1NzAuNSwtNDY4Ii8+Cjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjUwMiIgeT0iLTQ0Ni4zIiBmb250LWZhbWlseT0iVGltZXMsc2VyaWYiIGZvbnQtc2l6ZT0iMTQuMDAiPmNpYyYjNDU7Y2FjaGUmIzQ1O3Rhc2tlcjwvdGV4dD4KPC9nPgo8IS0tIGNpY19jYWNoZV90YXNrZXImIzQ1OyZndDtjaWNfdXNlcl90YXNrZXIgLS0+CjxnIGlkPSJlZGdlMTgiIGNsYXNzPSJlZGdlIj4KPHRpdGxlPmNpY19jYWNoZV90YXNrZXImIzQ1OyZndDtjaWNfdXNlcl90YXNrZXI8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNNDc5Ljc1LC00MzEuN0M0NjguNDIsLTQyMi44OCA0NTQuNDcsLTQxMi4wMyA0NDIuMTgsLTQwMi40NyIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI0NDQuMDMsLTM5OS40OCA0MzMuOTksLTM5Ni4xIDQzOS43NCwtNDA1LjAxIDQ0NC4wMywtMzk5LjQ4Ii8+CjwvZz4KPCEtLSBjYWNoZV9zdG9yZSAtLT4KPGcgaWQ9Im5vZGUxMCIgY2xhc3M9Im5vZGUiPgo8dGl0bGU+Y2FjaGVfc3RvcmU8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNNzg3LjUsLTUzNi43M0M3ODcuNSwtNTM4LjUzIDc2NS4zMSwtNTQwIDczOCwtNTQwIDcxMC42OSwtNTQwIDY4OC41LC01MzguNTMgNjg4LjUsLTUzNi43MyA2ODguNSwtNTM2LjczIDY4OC41LC01MDcuMjcgNjg4LjUsLTUwNy4yNyA2ODguNSwtNTA1LjQ3IDcxMC42OSwtNTA0IDczOCwtNTA0IDc2NS4zMSwtNTA0IDc4Ny41LC01MDUuNDcgNzg3LjUsLTUwNy4yNyA3ODcuNSwtNTA3LjI3IDc4Ny41LC01MzYuNzMgNzg3LjUsLTUzNi43MyIvPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNNzg3LjUsLTUzNi43M0M3ODcuNSwtNTM0LjkyIDc2NS4zMSwtNTMzLjQ1IDczOCwtNTMzLjQ1IDcxMC42OSwtNTMzLjQ1IDY4OC41LC01MzQuOTIgNjg4LjUsLTUzNi43MyIvPgo8dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI3MzgiIHk9Ii01MTguMyIgZm9udC1mYW1pbHk9IlRpbWVzLHNlcmlmIiBmb250LXNpemU9IjE0LjAwIj5jYWNoZSBzdG9yZTwvdGV4dD4KPC9nPgo8IS0tIGNpY19jYWNoZV90cmFja2VyJiM0NTsmZ3Q7Y2FjaGVfc3RvcmUgLS0+CjxnIGlkPSJlZGdlMzIiIGNsYXNzPSJlZGdlIj4KPHRpdGxlPmNpY19jYWNoZV90cmFja2VyJiM0NTsmZ3Q7Y2FjaGVfc3RvcmU8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNNTEwLjI0LC01NzYuMTRDNTYxLjcxLC01NjQuMTMgNjMwLjA3LC01NDguMTggNjc4LjQzLC01MzYuOSIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI2NzkuNDksLTU0MC4yNSA2ODguNDMsLTUzNC41NyA2NzcuODksLTUzMy40MyA2NzkuNDksLTU0MC4yNSIvPgo8L2c+CjwhLS0gY2ljX2NhY2hlX3NlcnZlciAtLT4KPGcgaWQ9Im5vZGU5IiBjbGFzcz0ibm9kZSI+Cjx0aXRsZT5jaWNfY2FjaGVfc2VydmVyPC90aXRsZT4KPHBvbHlnb24gZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI4MzQuNSwtNjEyIDY5Ny41LC02MTIgNjk3LjUsLTU3NiA4MzQuNSwtNTc2IDgzNC41LC02MTIiLz4KPHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iNzY2IiB5PSItNTkwLjMiIGZvbnQtZmFtaWx5PSJUaW1lcyxzZXJpZiIgZm9udC1zaXplPSIxNC4wMCI+Y2ljJiM0NTtjYWNoZSYjNDU7c2VydmVyPC90ZXh0Pgo8L2c+CjwhLS0gY2ljX2NhY2hlX3NlcnZlciYjNDU7Jmd0O2NhY2hlX3N0b3JlIC0tPgo8ZyBpZD0iZWRnZTUiIGNsYXNzPSJlZGdlIj4KPHRpdGxlPmNpY19jYWNoZV9zZXJ2ZXImIzQ1OyZndDtjYWNoZV9zdG9yZTwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik03NTkuMDgsLTU3NS43Qzc1NS45MywtNTY3LjgxIDc1Mi4xMiwtNTU4LjMgNzQ4LjYyLC01NDkuNTUiLz4KPHBvbHlnb24gZmlsbD0iYmxhY2siIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iNzUxLjgxLC01NDguMDkgNzQ0Ljg0LC01NDAuMSA3NDUuMzEsLTU1MC42OSA3NTEuODEsLTU0OC4wOSIvPgo8L2c+CjwhLS0gY2ljX2RhdGFfZmV0Y2hlciAtLT4KPGcgaWQ9Im5vZGUxNyIgY2xhc3M9Im5vZGUiPgo8dGl0bGU+Y2ljX2RhdGFfZmV0Y2hlcjwvdGl0bGU+Cjxwb2x5Z29uIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iMTAwNS41LC01NDAgODY4LjUsLTU0MCA4NjguNSwtNTA0IDEwMDUuNSwtNTA0IDEwMDUuNSwtNTQwIi8+Cjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjkzNyIgeT0iLTUxOC4zIiBmb250LWZhbWlseT0iVGltZXMsc2VyaWYiIGZvbnQtc2l6ZT0iMTQuMDAiPmNpYyYjNDU7ZGF0YSYjNDU7ZmV0Y2hlcjwvdGV4dD4KPC9nPgo8IS0tIGNpY19jYWNoZV9zZXJ2ZXImIzQ1OyZndDtjaWNfZGF0YV9mZXRjaGVyIC0tPgo8ZyBpZD0iZWRnZTM2IiBjbGFzcz0iZWRnZSI+Cjx0aXRsZT5jaWNfY2FjaGVfc2VydmVyJiM0NTsmZ3Q7Y2ljX2RhdGFfZmV0Y2hlcjwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik04MDcuODMsLTU3NS44OEM4MzEuNDIsLTU2Ni4yMiA4NjEuMDYsLTU1NC4wOSA4ODYsLTU0My44OCIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI4ODcuMzgsLTU0Ny4xIDg5NS4zLC01NDAuMDcgODg0LjcyLC01NDAuNjIgODg3LjM4LC01NDcuMSIvPgo8L2c+CjwhLS0gY2FjaGVfc3RvcmUmIzQ1OyZndDtjaWNfY2FjaGVfdGFza2VyIC0tPgo8ZyBpZD0iZWRnZTE3IiBjbGFzcz0iZWRnZSI+Cjx0aXRsZT5jYWNoZV9zdG9yZSYjNDU7Jmd0O2NpY19jYWNoZV90YXNrZXI8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNNjg4LjI0LC01MDYuMjRDNjUzLjczLC00OTYgNjA3LjM1LC00ODIuMjUgNTY5LjUxLC00NzEuMDIiLz4KPHBvbHlnb24gZmlsbD0iYmxhY2siIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iNTcwLjE3LC00NjcuNTcgNTU5LjU5LC00NjguMDggNTY4LjE4LC00NzQuMjggNTcwLjE3LC00NjcuNTciLz4KPC9nPgo8IS0tIHN0b3JhZ2VfbXV4IC0tPgo8ZyBpZD0ibm9kZTIwIiBjbGFzcz0ibm9kZSI+Cjx0aXRsZT5zdG9yYWdlX211eDwvdGl0bGU+Cjxwb2x5Z29uIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIHN0cm9rZS1kYXNoYXJyYXk9IjEsNSIgcG9pbnRzPSI4NzgsLTEwOCA3NjQsLTEwOCA3NjQsLTcyIDg3OCwtNzIgODc4LC0xMDgiLz4KPHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iODIxIiB5PSItODYuMyIgZm9udC1mYW1pbHk9IlRpbWVzLHNlcmlmIiBmb250LXNpemU9IjE0LjAwIj5TdG9yYWdlIG11eGVyPC90ZXh0Pgo8L2c+CjwhLS0gY2FjaGVfc3RvcmUmIzQ1OyZndDtzdG9yYWdlX211eCAtLT4KPGcgaWQ9ImVkZ2UzMyIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+Y2FjaGVfc3RvcmUmIzQ1OyZndDtzdG9yYWdlX211eDwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik03NTEuNTcsLTUwMy43NkM3NzAuMzYsLTQ3OC4xIDgwMiwtNDI3LjY3IDgwMiwtMzc5IDgwMiwtMzc5IDgwMiwtMzc5IDgwMiwtMjMzIDgwMiwtMTkyLjg2IDgwOS41NSwtMTQ2LjkgODE1LjEzLC0xMTguNCIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI4MTguNjEsLTExOC44OCA4MTcuMTYsLTEwOC4zOSA4MTEuNzQsLTExNy41IDgxOC42MSwtMTE4Ljg4Ii8+CjwvZz4KPCEtLSBjaWNfdXNlcl9zZXJ2ZXIgLS0+CjxnIGlkPSJub2RlMTEiIGNsYXNzPSJub2RlIj4KPHRpdGxlPmNpY191c2VyX3NlcnZlcjwvdGl0bGU+Cjxwb2x5Z29uIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iMzkyLjUsLTM2IDI2My41LC0zNiAyNjMuNSwwIDM5Mi41LDAgMzkyLjUsLTM2Ii8+Cjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjMyOCIgeT0iLTE0LjMiIGZvbnQtZmFtaWx5PSJUaW1lcyxzZXJpZiIgZm9udC1zaXplPSIxNC4wMCI+Y2ljJiM0NTt1c2VyJiM0NTtzZXJ2ZXI8L3RleHQ+CjwvZz4KPCEtLSBjaWNfdXNlcl90YXNrZXImIzQ1OyZndDtjaWNfZXRoX3Rhc2tlciAtLT4KPGcgaWQ9ImVkZ2UxNiIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+Y2ljX3VzZXJfdGFza2VyJiM0NTsmZ3Q7Y2ljX2V0aF90YXNrZXI8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNMzg5LjAxLC0zNTkuN0MzNzcuMTksLTM1MC44IDM2Mi42MSwtMzM5LjgyIDM0OS44MiwtMzMwLjIiLz4KPHBvbHlnb24gZmlsbD0iYmxhY2siIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iMzUxLjgyLC0zMjcuMzIgMzQxLjcyLC0zMjQuMSAzNDcuNjEsLTMzMi45MSAzNTEuODIsLTMyNy4zMiIvPgo8L2c+CjwhLS0gY2ljX25vdGlmeV90YXNrZXIgLS0+CjxnIGlkPSJub2RlMTUiIGNsYXNzPSJub2RlIj4KPHRpdGxlPmNpY19ub3RpZnlfdGFza2VyPC90aXRsZT4KPHBvbHlnb24gZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI1ODAsLTMyNCA0MzYsLTMyNCA0MzYsLTI4OCA1ODAsLTI4OCA1ODAsLTMyNCIvPgo8dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MDgiIHk9Ii0zMDIuMyIgZm9udC1mYW1pbHk9IlRpbWVzLHNlcmlmIiBmb250LXNpemU9IjE0LjAwIj5jaWMmIzQ1O25vdGlmeSYjNDU7dGFza2VyPC90ZXh0Pgo8L2c+CjwhLS0gY2ljX3VzZXJfdGFza2VyJiM0NTsmZ3Q7Y2ljX25vdGlmeV90YXNrZXIgLS0+CjxnIGlkPSJlZGdlMjUiIGNsYXNzPSJlZGdlIj4KPHRpdGxlPmNpY191c2VyX3Rhc2tlciYjNDU7Jmd0O2NpY19ub3RpZnlfdGFza2VyPC90aXRsZT4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgZD0iTTQzNS43MywtMzU5LjdDNDQ3Ljk0LC0zNTAuOCA0NjIuOTksLTMzOS44MiA0NzYuMTgsLTMzMC4yIi8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjQ3OC41MiwtMzMyLjgyIDQ4NC41NCwtMzI0LjEgNDc0LjQsLTMyNy4xNyA0NzguNTIsLTMzMi44MiIvPgo8L2c+CjwhLS0gY2ljX3VzZXJfdXNzZF9zZXJ2ZXIgLS0+CjxnIGlkPSJub2RlMTMiIGNsYXNzPSJub2RlIj4KPHRpdGxlPmNpY191c2VyX3Vzc2Rfc2VydmVyPC90aXRsZT4KPHBvbHlnb24gZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI1NTIuNSwtMTgwIDM4NS41LC0xODAgMzg1LjUsLTE0NCA1NTIuNSwtMTQ0IDU1Mi41LC0xODAiLz4KPHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iNDY5IiB5PSItMTU4LjMiIGZvbnQtZmFtaWx5PSJUaW1lcyxzZXJpZiIgZm9udC1zaXplPSIxNC4wMCI+Y2ljJiM0NTt1c2VyJiM0NTt1c3NkJiM0NTtzZXJ2ZXI8L3RleHQ+CjwvZz4KPCEtLSBjaWNfdXNlcl91c3NkX3NlcnZlciYjNDU7Jmd0O2NpY191c2VyX3Rhc2tlciAtLT4KPGcgaWQ9ImVkZ2UxNSIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+Y2ljX3VzZXJfdXNzZF9zZXJ2ZXImIzQ1OyZndDtjaWNfdXNlcl90YXNrZXI8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNNDYyLjIzLC0xODAuMDhDNDU4LjIyLC0xOTAuNDIgNDUzLjEzLC0yMDMuOSA0NDksLTIxNiA0MzguMiwtMjQ3LjY3IDQzNC42OSwtMjU1LjQzIDQyNywtMjg4IDQyMi4xNywtMzA4LjQ2IDQxOC4yOCwtMzMxLjkyIDQxNS42OCwtMzQ5LjYxIi8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjQxMi4xNywtMzQ5LjQxIDQxNC4yMiwtMzU5LjgxIDQxOS4xLC0zNTAuNCA0MTIuMTcsLTM0OS40MSIvPgo8L2c+CjwhLS0gdXNlcl9zdG9yZSAtLT4KPGcgaWQ9Im5vZGUxNCIgY2xhc3M9Im5vZGUiPgo8dGl0bGU+dXNlcl9zdG9yZTwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik00NjMuNSwtMTA0LjczQzQ2My41LC0xMDYuNTMgNDM0LjU5LC0xMDggMzk5LC0xMDggMzYzLjQxLC0xMDggMzM0LjUsLTEwNi41MyAzMzQuNSwtMTA0LjczIDMzNC41LC0xMDQuNzMgMzM0LjUsLTc1LjI3IDMzNC41LC03NS4yNyAzMzQuNSwtNzMuNDcgMzYzLjQxLC03MiAzOTksLTcyIDQzNC41OSwtNzIgNDYzLjUsLTczLjQ3IDQ2My41LC03NS4yNyA0NjMuNSwtNzUuMjcgNDYzLjUsLTEwNC43MyA0NjMuNSwtMTA0LjczIi8+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik00NjMuNSwtMTA0LjczQzQ2My41LC0xMDIuOTIgNDM0LjU5LC0xMDEuNDUgMzk5LC0xMDEuNDUgMzYzLjQxLC0xMDEuNDUgMzM0LjUsLTEwMi45MiAzMzQuNSwtMTA0LjczIi8+Cjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjM5OSIgeT0iLTg2LjMiIGZvbnQtZmFtaWx5PSJUaW1lcyxzZXJpZiIgZm9udC1zaXplPSIxNC4wMCI+dXNzZCB1c2VyIHN0b3JlPC90ZXh0Pgo8L2c+CjwhLS0gY2ljX3VzZXJfdXNzZF9zZXJ2ZXImIzQ1OyZndDt1c2VyX3N0b3JlIC0tPgo8ZyBpZD0iZWRnZTI5IiBjbGFzcz0iZWRnZSI+Cjx0aXRsZT5jaWNfdXNlcl91c3NkX3NlcnZlciYjNDU7Jmd0O3VzZXJfc3RvcmU8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNNDUxLjcsLTE0My43QzQ0My4xNCwtMTM1LjE0IDQzMi42NiwtMTI0LjY2IDQyMy4zLC0xMTUuMyIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI0MjUuNjUsLTExMi43IDQxNi4xLC0xMDguMSA0MjAuNywtMTE3LjY1IDQyNS42NSwtMTEyLjciLz4KPC9nPgo8IS0tIGNpY191c2VyX3Vzc2Rfc2VydmVyJiM0NTsmZ3Q7c3RvcmFnZV9tdXggLS0+CjxnIGlkPSJlZGdlMTQiIGNsYXNzPSJlZGdlIj4KPHRpdGxlPmNpY191c2VyX3Vzc2Rfc2VydmVyJiM0NTsmZ3Q7c3RvcmFnZV9tdXg8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNNTUyLjg3LC0xNDQuMzJDNjE0LjM1LC0xMzIuMSA2OTYuNzIsLTExNS43MSA3NTMuODcsLTEwNC4zNSIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI3NTQuNzYsLTEwNy43NCA3NjMuODgsLTEwMi4zNiA3NTMuMzksLTEwMC44OCA3NTQuNzYsLTEwNy43NCIvPgo8L2c+CjwhLS0gdXNlcl9zdG9yZSYjNDU7Jmd0O2NpY191c2VyX3NlcnZlciAtLT4KPGcgaWQ9ImVkZ2UzMCIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+dXNlcl9zdG9yZSYjNDU7Jmd0O2NpY191c2VyX3NlcnZlcjwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik0zODEuNDUsLTcxLjdDMzcyLjc3LC02My4xNCAzNjIuMTQsLTUyLjY2IDM1Mi42NSwtNDMuMyIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSIzNTQuOTMsLTQwLjYzIDM0NS4zNSwtMzYuMSAzNTAuMDEsLTQ1LjYyIDM1NC45MywtNDAuNjMiLz4KPC9nPgo8IS0tIHRlbGNvIC0tPgo8ZyBpZD0ibm9kZTI1IiBjbGFzcz0ibm9kZSI+Cjx0aXRsZT50ZWxjbzwvdGl0bGU+Cjxwb2x5Z29uIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iNTA4LC0yNTIgNDU4LjIzLC0yMzQgNTA4LC0yMTYgNTU3Ljc3LC0yMzQgNTA4LC0yNTIiLz4KPHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iNTA4IiB5PSItMjMwLjMiIGZvbnQtZmFtaWx5PSJUaW1lcyxzZXJpZiIgZm9udC1zaXplPSIxNC4wMCI+VGVsY288L3RleHQ+CjwvZz4KPCEtLSBjaWNfbm90aWZ5X3Rhc2tlciYjNDU7Jmd0O3RlbGNvIC0tPgo8ZyBpZD0iZWRnZTI2IiBjbGFzcz0iZWRnZSI+Cjx0aXRsZT5jaWNfbm90aWZ5X3Rhc2tlciYjNDU7Jmd0O3RlbGNvPC90aXRsZT4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgZD0iTTUwOCwtMjg3LjdDNTA4LC0yNzkuOTggNTA4LC0yNzAuNzEgNTA4LC0yNjIuMTEiLz4KPHBvbHlnb24gZmlsbD0iYmxhY2siIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iNTExLjUsLTI2Mi4xIDUwOCwtMjUyLjEgNTA0LjUsLTI2Mi4xIDUxMS41LC0yNjIuMSIvPgo8L2c+CjwhLS0gY2ljX2RhdGFfc2VydmVyIC0tPgo8ZyBpZD0ibm9kZTE2IiBjbGFzcz0ibm9kZSI+Cjx0aXRsZT5jaWNfZGF0YV9zZXJ2ZXI8L3RpdGxlPgo8cG9seWdvbiBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjExNzcuNSwtMzk2IDEwNDguNSwtMzk2IDEwNDguNSwtMzYwIDExNzcuNSwtMzYwIDExNzcuNSwtMzk2Ii8+Cjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjExMTMiIHk9Ii0zNzQuMyIgZm9udC1mYW1pbHk9IlRpbWVzLHNlcmlmIiBmb250LXNpemU9IjE0LjAwIj5jaWMmIzQ1O2RhdGEmIzQ1O3NlcnZlcjwvdGV4dD4KPC9nPgo8IS0tIGRhdGFfc3RvcmUgLS0+CjxnIGlkPSJub2RlMTgiIGNsYXNzPSJub2RlIj4KPHRpdGxlPmRhdGFfc3RvcmU8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNOTk3LjUsLTQ2NC43M0M5OTcuNSwtNDY2LjUzIDk2OC41OSwtNDY4IDkzMywtNDY4IDg5Ny40MSwtNDY4IDg2OC41LC00NjYuNTMgODY4LjUsLTQ2NC43MyA4NjguNSwtNDY0LjczIDg2OC41LC00MzUuMjcgODY4LjUsLTQzNS4yNyA4NjguNSwtNDMzLjQ3IDg5Ny40MSwtNDMyIDkzMywtNDMyIDk2OC41OSwtNDMyIDk5Ny41LC00MzMuNDcgOTk3LjUsLTQzNS4yNyA5OTcuNSwtNDM1LjI3IDk5Ny41LC00NjQuNzMgOTk3LjUsLTQ2NC43MyIvPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNOTk3LjUsLTQ2NC43M0M5OTcuNSwtNDYyLjkyIDk2OC41OSwtNDYxLjQ1IDkzMywtNDYxLjQ1IDg5Ny40MSwtNDYxLjQ1IDg2OC41LC00NjIuOTIgODY4LjUsLTQ2NC43MyIvPgo8dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI5MzMiIHk9Ii00NDYuMyIgZm9udC1mYW1pbHk9IlRpbWVzLHNlcmlmIiBmb250LXNpemU9IjE0LjAwIj5hbmFseXRpY3Mgc3RvcmU8L3RleHQ+CjwvZz4KPCEtLSBjaWNfZGF0YV9mZXRjaGVyJiM0NTsmZ3Q7ZGF0YV9zdG9yZSAtLT4KPGcgaWQ9ImVkZ2UzNyIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+Y2ljX2RhdGFfZmV0Y2hlciYjNDU7Jmd0O2RhdGFfc3RvcmU8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNOTM2LjAxLC01MDMuN0M5MzUuNTcsLTQ5NS45OCA5MzUuMDQsLTQ4Ni43MSA5MzQuNTUsLTQ3OC4xMSIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI5MzguMDQsLTQ3Ny44OSA5MzMuOTgsLTQ2OC4xIDkzMS4wNSwtNDc4LjI5IDkzOC4wNCwtNDc3Ljg5Ii8+CjwvZz4KPCEtLSBkYXRhX3N0b3JlJiM0NTsmZ3Q7Y2ljX2RhdGFfc2VydmVyIC0tPgo8ZyBpZD0iZWRnZTM5IiBjbGFzcz0iZWRnZSI+Cjx0aXRsZT5kYXRhX3N0b3JlJiM0NTsmZ3Q7Y2ljX2RhdGFfc2VydmVyPC90aXRsZT4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgZD0iTTk3Ni4xMSwtNDMyLjIzQzEwMDEuMTIsLTQyMi41MSAxMDMyLjg0LC00MTAuMTcgMTA1OS40NCwtMzk5LjgzIi8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjEwNjAuOTQsLTQwMyAxMDY4Ljk5LC0zOTYuMTIgMTA1OC40LC0zOTYuNDggMTA2MC45NCwtNDAzIi8+CjwvZz4KPCEtLSBkYXRhX3N0b3JlJiM0NTsmZ3Q7c3RvcmFnZV9tdXggLS0+CjxnIGlkPSJlZGdlMzgiIGNsYXNzPSJlZGdlIj4KPHRpdGxlPmRhdGFfc3RvcmUmIzQ1OyZndDtzdG9yYWdlX211eDwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik05MjcuNTQsLTQzMS43MUM5MTkuNjUsLTQwNS4xOCA5MDYsLTM1Mi42NyA5MDYsLTMwNyA5MDYsLTMwNyA5MDYsLTMwNyA5MDYsLTIzMyA5MDYsLTE4Ni40NSA4NzEuOTYsLTE0MS45NSA4NDYuOTYsLTExNS41NSIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI4NDkuMzUsLTExMi45OCA4MzkuODYsLTEwOC4yNyA4NDQuMzQsLTExNy44NyA4NDkuMzUsLTExMi45OCIvPgo8L2c+CjwhLS0gcXVldWUmIzQ1OyZndDtjaWNfZXRoX2Rpc3BhdGNoZXIgLS0+CjxnIGlkPSJlZGdlMjAiIGNsYXNzPSJlZGdlIj4KPHRpdGxlPnF1ZXVlJiM0NTsmZ3Q7Y2ljX2V0aF9kaXNwYXRjaGVyPC90aXRsZT4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgZD0iTTE3Ni40NiwtMjE1Ljg4QzE4OS4zLC0yMDYuODkgMjA1LjIsLTE5NS43NiAyMTkuMDksLTE4Ni4wMyIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSIyMjEuMjYsLTE4OC43OSAyMjcuNDQsLTE4MC4xOSAyMTcuMjQsLTE4My4wNiAyMjEuMjYsLTE4OC43OSIvPgo8L2c+CjwhLS0gcXVldWUmIzQ1OyZndDtjaWNfZXRoX3JldHJpZXIgLS0+CjxnIGlkPSJlZGdlMzQiIGNsYXNzPSJlZGdlIj4KPHRpdGxlPnF1ZXVlJiM0NTsmZ3Q7Y2ljX2V0aF9yZXRyaWVyPC90aXRsZT4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgZD0iTTEzNy40MiwtMjE1LjdDMTMwLjM0LC0yMDcuMyAxMjEuNzIsLTE5Ny4wNyAxMTMuOTUsLTE4Ny44NiIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSIxMTYuNTQsLTE4NS40OSAxMDcuNDIsLTE4MC4xIDExMS4xOSwtMTkwLjAxIDExNi41NCwtMTg1LjQ5Ii8+CjwvZz4KPCEtLSBzd2FybSAtLT4KPGcgaWQ9Im5vZGUyMSIgY2xhc3M9Im5vZGUiPgo8dGl0bGU+c3dhcm08L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNOTc5LC0zMi43M0M5NzksLTM0LjUzIDk2Ni45LC0zNiA5NTIsLTM2IDkzNy4xLC0zNiA5MjUsLTM0LjUzIDkyNSwtMzIuNzMgOTI1LC0zMi43MyA5MjUsLTMuMjcgOTI1LC0zLjI3IDkyNSwtMS40NyA5MzcuMSwwIDk1MiwwIDk2Ni45LDAgOTc5LC0xLjQ3IDk3OSwtMy4yNyA5NzksLTMuMjcgOTc5LC0zMi43MyA5NzksLTMyLjczIi8+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik05NzksLTMyLjczQzk3OSwtMzAuOTIgOTY2LjksLTI5LjQ1IDk1MiwtMjkuNDUgOTM3LjEsLTI5LjQ1IDkyNSwtMzAuOTIgOTI1LC0zMi43MyIvPgo8dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI5NTIiIHk9Ii0xNC4zIiBmb250LWZhbWlseT0iVGltZXMsc2VyaWYiIGZvbnQtc2l6ZT0iMTQuMDAiPlN3YXJtPC90ZXh0Pgo8L2c+CjwhLS0gc3RvcmFnZV9tdXgmIzQ1OyZndDtzd2FybSAtLT4KPGcgaWQ9ImVkZ2U0MCIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+c3RvcmFnZV9tdXgmIzQ1OyZndDtzd2FybTwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik04NTMuMDUsLTcxLjg4Qzg3Mi4wMSwtNjEuNzQgODk2LjA5LC00OC44OCA5MTUuNzQsLTM4LjM3Ii8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjkxNy41NCwtNDEuMzggOTI0LjcxLC0zMy41OCA5MTQuMjQsLTM1LjIxIDkxNy41NCwtNDEuMzgiLz4KPC9nPgo8IS0tIGlwZnMgLS0+CjxnIGlkPSJub2RlMjIiIGNsYXNzPSJub2RlIj4KPHRpdGxlPmlwZnM8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNNzAyLC0zMi43M0M3MDIsLTM0LjUzIDY4OS45LC0zNiA2NzUsLTM2IDY2MC4xLC0zNiA2NDgsLTM0LjUzIDY0OCwtMzIuNzMgNjQ4LC0zMi43MyA2NDgsLTMuMjcgNjQ4LC0zLjI3IDY0OCwtMS40NyA2NjAuMSwwIDY3NSwwIDY4OS45LDAgNzAyLC0xLjQ3IDcwMiwtMy4yNyA3MDIsLTMuMjcgNzAyLC0zMi43MyA3MDIsLTMyLjczIi8+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik03MDIsLTMyLjczQzcwMiwtMzAuOTIgNjg5LjksLTI5LjQ1IDY3NSwtMjkuNDUgNjYwLjEsLTI5LjQ1IDY0OCwtMzAuOTIgNjQ4LC0zMi43MyIvPgo8dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI2NzUiIHk9Ii0xNC4zIiBmb250LWZhbWlseT0iVGltZXMsc2VyaWYiIGZvbnQtc2l6ZT0iMTQuMDAiPklQRlM8L3RleHQ+CjwvZz4KPCEtLSBzdG9yYWdlX211eCYjNDU7Jmd0O2lwZnMgLS0+CjxnIGlkPSJlZGdlNDEiIGNsYXNzPSJlZGdlIj4KPHRpdGxlPnN0b3JhZ2VfbXV4JiM0NTsmZ3Q7aXBmczwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik03ODUuMjgsLTcxLjg4Qzc2Mi44MywtNjEuMTEgNzMzLjk0LC00Ny4yNiA3MTEuMzYsLTM2LjQzIi8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjcxMi42NCwtMzMuMTYgNzAyLjExLC0zMiA3MDkuNjEsLTM5LjQ4IDcxMi42NCwtMzMuMTYiLz4KPC9nPgo8IS0tIGh0dHBkIC0tPgo8ZyBpZD0ibm9kZTIzIiBjbGFzcz0ibm9kZSI+Cjx0aXRsZT5odHRwZDwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik04MTkuNSwtMzIuNzNDODE5LjUsLTM0LjUzIDc5Ny4zMSwtMzYgNzcwLC0zNiA3NDIuNjksLTM2IDcyMC41LC0zNC41MyA3MjAuNSwtMzIuNzMgNzIwLjUsLTMyLjczIDcyMC41LC0zLjI3IDcyMC41LC0zLjI3IDcyMC41LC0xLjQ3IDc0Mi42OSwwIDc3MCwwIDc5Ny4zMSwwIDgxOS41LC0xLjQ3IDgxOS41LC0zLjI3IDgxOS41LC0zLjI3IDgxOS41LC0zMi43MyA4MTkuNSwtMzIuNzMiLz4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgZD0iTTgxOS41LC0zMi43M0M4MTkuNSwtMzAuOTIgNzk3LjMxLC0yOS40NSA3NzAsLTI5LjQ1IDc0Mi42OSwtMjkuNDUgNzIwLjUsLTMwLjkyIDcyMC41LC0zMi43MyIvPgo8dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI3NzAiIHk9Ii0xNC4zIiBmb250LWZhbWlseT0iVGltZXMsc2VyaWYiIGZvbnQtc2l6ZT0iMTQuMDAiPldlYjIgc2VydmVyPC90ZXh0Pgo8L2c+CjwhLS0gc3RvcmFnZV9tdXgmIzQ1OyZndDtodHRwZCAtLT4KPGcgaWQ9ImVkZ2U0MiIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+c3RvcmFnZV9tdXgmIzQ1OyZndDtodHRwZDwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik04MDguMzksLTcxLjdDODAyLjQsLTYzLjQ3IDc5NS4xMiwtNTMuNDggNzg4LjUyLC00NC40MiIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI3OTEuMTgsLTQyLjEzIDc4Mi40NiwtMzYuMSA3ODUuNTIsLTQ2LjI1IDc5MS4xOCwtNDIuMTMiLz4KPC9nPgo8IS0tIHRvcnJlbnQgLS0+CjxnIGlkPSJub2RlMjQiIGNsYXNzPSJub2RlIj4KPHRpdGxlPnRvcnJlbnQ8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNOTA2LjUsLTMyLjczQzkwNi41LC0zNC41MyA4OTEuMDQsLTM2IDg3MiwtMzYgODUyLjk2LC0zNiA4MzcuNSwtMzQuNTMgODM3LjUsLTMyLjczIDgzNy41LC0zMi43MyA4MzcuNSwtMy4yNyA4MzcuNSwtMy4yNyA4MzcuNSwtMS40NyA4NTIuOTYsMCA4NzIsMCA4OTEuMDQsMCA5MDYuNSwtMS40NyA5MDYuNSwtMy4yNyA5MDYuNSwtMy4yNyA5MDYuNSwtMzIuNzMgOTA2LjUsLTMyLjczIi8+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik05MDYuNSwtMzIuNzNDOTA2LjUsLTMwLjkyIDg5MS4wNCwtMjkuNDUgODcyLC0yOS40NSA4NTIuOTYsLTI5LjQ1IDgzNy41LC0zMC45MiA4MzcuNSwtMzIuNzMiLz4KPHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iODcyIiB5PSItMTQuMyIgZm9udC1mYW1pbHk9IlRpbWVzLHNlcmlmIiBmb250LXNpemU9IjE0LjAwIj5Ub3JyZW50PC90ZXh0Pgo8L2c+CjwhLS0gc3RvcmFnZV9tdXgmIzQ1OyZndDt0b3JyZW50IC0tPgo8ZyBpZD0iZWRnZTQzIiBjbGFzcz0iZWRnZSI+Cjx0aXRsZT5zdG9yYWdlX211eCYjNDU7Jmd0O3RvcnJlbnQ8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNODMzLjYxLC03MS43QzgzOS42LC02My40NyA4NDYuODgsLTUzLjQ4IDg1My40OCwtNDQuNDIiLz4KPHBvbHlnb24gZmlsbD0iYmxhY2siIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iODU2LjQ4LC00Ni4yNSA4NTkuNTQsLTM2LjEgODUwLjgyLC00Mi4xMyA4NTYuNDgsLTQ2LjI1Ii8+CjwvZz4KPCEtLSB0ZWxjbyYjNDU7Jmd0O2NpY191c2VyX3Vzc2Rfc2VydmVyIC0tPgo8ZyBpZD0iZWRnZTI4IiBjbGFzcz0iZWRnZSI+Cjx0aXRsZT50ZWxjbyYjNDU7Jmd0O2NpY191c2VyX3Vzc2Rfc2VydmVyPC90aXRsZT4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgZD0iTTUwMC4xMSwtMjE4LjgzQzQ5NS4zNCwtMjEwLjI3IDQ4OS4xMSwtMTk5LjA5IDQ4My40OCwtMTg4Ljk4Ii8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjQ4Ni40NiwtMTg3LjE0IDQ3OC41MywtMTgwLjExIDQ4MC4zNCwtMTkwLjU1IDQ4Ni40NiwtMTg3LjE0Ii8+CjwvZz4KPCEtLSB1c3NkX3dhbGxldF91c2VyIC0tPgo8ZyBpZD0ibm9kZTI2IiBjbGFzcz0ibm9kZSI+Cjx0aXRsZT51c3NkX3dhbGxldF91c2VyPC90aXRsZT4KPHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iNjY3IiB5PSItMzAyLjMiIGZvbnQtZmFtaWx5PSJUaW1lcyxzZXJpZiIgZm9udC1zaXplPSIxNC4wMCI+dXNzZCB3YWxsZXQgdXNlcjwvdGV4dD4KPC9nPgo8IS0tIHVzc2Rfd2FsbGV0X3VzZXImIzQ1OyZndDt0ZWxjbyAtLT4KPGcgaWQ9ImVkZ2UyNyIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+dXNzZF93YWxsZXRfdXNlciYjNDU7Jmd0O3RlbGNvPC90aXRsZT4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgZD0iTTYyOC4xLC0yODcuODhDNjAwLjU1LC0yNzUuNzUgNTY0LjEsLTI1OS43IDUzOC42MSwtMjQ4LjQ4Ii8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjUzOS45OCwtMjQ1LjI2IDUyOS40MiwtMjQ0LjQzIDUzNy4xNiwtMjUxLjY2IDUzOS45OCwtMjQ1LjI2Ii8+CjwvZz4KPCEtLSB3ZWJfd2FsbGV0X3VzZXIgLS0+CjxnIGlkPSJub2RlMjciIGNsYXNzPSJub2RlIj4KPHRpdGxlPndlYl93YWxsZXRfdXNlcjwvdGl0bGU+Cjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9Ijg2MyIgeT0iLTcwOC4wOSIgZm9udC1mYW1pbHk9IlRpbWVzLHNlcmlmIiBmb250LXNpemU9IjE0LjAwIj53ZWIgd2FsbGV0IHVzZXI8L3RleHQ+CjwvZz4KPCEtLSB3ZWJfd2FsbGV0X3VzZXImIzQ1OyZndDtjaWNfZXRoX3NlcnZlciAtLT4KPGcgaWQ9ImVkZ2U3IiBjbGFzcz0iZWRnZSI+Cjx0aXRsZT53ZWJfd2FsbGV0X3VzZXImIzQ1OyZndDtjaWNfZXRoX3NlcnZlcjwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik04MjMuMDYsLTY5My42M0M3NDIuODQsLTY1OS4xNiA1NjIuMzcsLTU4MS42IDQ3NS4xLC01NDQuMSIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI0NzYuMjYsLTU0MC43OSA0NjUuNjksLTU0MC4wNiA0NzMuNDksLTU0Ny4yMiA0NzYuMjYsLTU0MC43OSIvPgo8L2c+CjwhLS0gd2ViX3dhbGxldF91c2VyJiM0NTsmZ3Q7Y2ljX2NhY2hlX3NlcnZlciAtLT4KPGcgaWQ9ImVkZ2U0IiBjbGFzcz0iZWRnZSI+Cjx0aXRsZT53ZWJfd2FsbGV0X3VzZXImIzQ1OyZndDtjaWNfY2FjaGVfc2VydmVyPC90aXRsZT4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgZD0iTTg0OC42OSwtNjkzLjcxQzgzMi4zNSwtNjc0LjIxIDgwNS40OSwtNjQyLjE1IDc4Ni44NCwtNjE5Ljg4Ii8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9Ijc4OS40OCwtNjE3LjU3IDc4MC4zNywtNjEyLjE2IDc4NC4xMSwtNjIyLjA3IDc4OS40OCwtNjE3LjU3Ii8+CjwvZz4KPCEtLSB3ZWJfd2FsbGV0X3VzZXImIzQ1OyZndDtjaWNfZGF0YV9zZXJ2ZXIgLS0+CjxnIGlkPSJlZGdlOSIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+d2ViX3dhbGxldF91c2VyJiM0NTsmZ3Q7Y2ljX2RhdGFfc2VydmVyPC90aXRsZT4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgZD0iTTg5OC4zNSwtNjkzLjY4Qzk2Mi4yNCwtNjYwLjUxIDEwOTUuMDksLTU4MC42OCAxMTQ3LC00NjggMTE1Ni43LC00NDYuOTYgMTE0NS42LC00MjIuMjkgMTEzMy41NiwtNDA0LjI4Ii8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjExMzYuMzIsLTQwMi4xMiAxMTI3LjY3LC0zOTYuMDEgMTEzMC42MywtNDA2LjE4IDExMzYuMzIsLTQwMi4xMiIvPgo8L2c+CjwhLS0gd2ViX3dhbGxldF91c2VyJiM0NTsmZ3Q7c3RvcmFnZV9tdXggLS0+CjxnIGlkPSJlZGdlNiIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+d2ViX3dhbGxldF91c2VyJiM0NTsmZ3Q7c3RvcmFnZV9tdXg8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNODYwLjQxLC02OTMuNTFDODU0LjM5LC02NTEuODggODQwLC01NDIuNjkgODQwLC00NTEgODQwLC00NTEgODQwLC00NTEgODQwLC0yMzMgODQwLC0xOTIuODYgODMyLjQ1LC0xNDYuOSA4MjYuODcsLTExOC40Ii8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjgzMC4yNiwtMTE3LjUgODI0Ljg0LC0xMDguMzkgODIzLjM5LC0xMTguODggODMwLjI2LC0xMTcuNSIvPgo8L2c+CjwhLS0gc3RhZmZfdXNlciAtLT4KPGcgaWQ9Im5vZGUyOCIgY2xhc3M9Im5vZGUiPgo8dGl0bGU+c3RhZmZfdXNlcjwvdGl0bGU+Cjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjEwMzMiIHk9Ii04MjUuODkiIGZvbnQtZmFtaWx5PSJUaW1lcyxzZXJpZiIgZm9udC1zaXplPSIxNC4wMCI+c3RhZmYgdXNlcjwvdGV4dD4KPC9nPgo8IS0tIHN0YWZmX3VzZXImIzQ1OyZndDtjaWNfdXNlcl9zZXJ2ZXIgLS0+CjxnIGlkPSJlZGdlMiIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+c3RhZmZfdXNlciYjNDU7Jmd0O2NpY191c2VyX3NlcnZlcjwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik05ODYuODcsLTgyNi42OEM4MTMuNTQsLTgxOS40MSAyMDkuMTksLTc5Mi45IDE3MiwtNzc1LjU5IDcxLjUxLC03MjguODIgMCwtNzA1Ljg0IDAsLTU5NSAwLC01OTUgMCwtNTk1IDAsLTE2MSAwLC01MS4zMyAxNTYuMzUsLTI1LjQxIDI1My4xNSwtMTkuODciLz4KPHBvbHlnb24gZmlsbD0iYmxhY2siIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iMjUzLjM5LC0yMy4zNiAyNjMuMiwtMTkuMzUgMjUzLjAzLC0xNi4zNyAyNTMuMzksLTIzLjM2Ii8+CjwvZz4KPCEtLSBzdGFmZl91c2VyJiM0NTsmZ3Q7Y2ljX2RhdGFfc2VydmVyIC0tPgo8ZyBpZD0iZWRnZTMiIGNsYXNzPSJlZGdlIj4KPHRpdGxlPnN0YWZmX3VzZXImIzQ1OyZndDtjaWNfZGF0YV9zZXJ2ZXI8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNMTA1Ny44NiwtODExLjU1QzExMDUuMjksLTc3Ni44MSAxMjA0LC02OTIuNzUgMTIwNCwtNTk1IDEyMDQsLTU5NSAxMjA0LC01OTUgMTIwNCwtNTIxIDEyMDQsLTQ3My44MyAxMTY3Ljk2LC00MjkuNzkgMTE0MS4yNSwtNDAzLjYzIi8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9IjExNDMuMzEsLTQwMC43NiAxMTMzLjY1LC0zOTYuNDIgMTEzOC40OSwtNDA1Ljg0IDExNDMuMzEsLTQwMC43NiIvPgo8L2c+CjwhLS0gc3RhZmZfdXNlciYjNDU7Jmd0O3N0b3JhZ2VfbXV4IC0tPgo8ZyBpZD0iZWRnZTEyIiBjbGFzcz0iZWRnZSI+Cjx0aXRsZT5zdGFmZl91c2VyJiM0NTsmZ3Q7c3RvcmFnZV9tdXg8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNMTA3OS4yLC04MTguNTRDMTEwNS45MSwtODEwLjcgMTEzOC41NywtNzk3LjM4IDExNjEsLTc3NS41OSAxMjI0LjEsLTcxNC4zIDEyNDIsLTY4Mi45NyAxMjQyLC01OTUgMTI0MiwtNTk1IDEyNDIsLTU5NSAxMjQyLC0yMzMgMTI0MiwtMTU5LjI3IDEwMDcuMjEsLTExNi40NyA4ODguMzEsLTk5LjUyIi8+Cjxwb2x5Z29uIGZpbGw9ImJsYWNrIiBzdHJva2U9ImJsYWNrIiBwb2ludHM9Ijg4OC42MSwtOTYuMDMgODc4LjIyLC05OC4xIDg4Ny42MywtMTAyLjk2IDg4OC42MSwtOTYuMDMiLz4KPC9nPgo8IS0tIHN0YWZmX3VzZXImIzQ1OyZndDt3ZWJfd2FsbGV0X3VzZXIgLS0+CjxnIGlkPSJlZGdlMSIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+c3RhZmZfdXNlciYjNDU7Jmd0O3dlYl93YWxsZXRfdXNlcjwvdGl0bGU+CjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iYmxhY2siIGQ9Ik0xMDA3LjkyLC04MTEuNUM5NzguNDEsLTc5MS40MSA5MjkuMzEsLTc1Ny45NiA4OTYuNTUsLTczNS42NSIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI4OTguNDIsLTczMi42OSA4ODguMTksLTcyOS45NSA4OTQuNDgsLTczOC40NyA4OTguNDIsLTczMi42OSIvPgo8L2c+CjwhLS0gc292ZXJlaWduX3VzZXIgLS0+CjxnIGlkPSJub2RlMjkiIGNsYXNzPSJub2RlIj4KPHRpdGxlPnNvdmVyZWlnbl91c2VyPC90aXRsZT4KPHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iNDM4IiB5PSItODI1Ljg5IiBmb250LWZhbWlseT0iVGltZXMsc2VyaWYiIGZvbnQtc2l6ZT0iMTQuMDAiPnNvdmVyZWlnbiB3YWxsZXQgdXNlcjwvdGV4dD4KPC9nPgo8IS0tIHNvdmVyZWlnbl91c2VyJiM0NTsmZ3Q7YmxvY2tjaGFpbiAtLT4KPGcgaWQ9ImVkZ2UxMSIgY2xhc3M9ImVkZ2UiPgo8dGl0bGU+c292ZXJlaWduX3VzZXImIzQ1OyZndDtibG9ja2NoYWluPC90aXRsZT4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgZD0iTTQwOS41MiwtODExLjVDMzgzLjA1LC03OTUuNjIgMzQyLjY5LC03NzEuNDEgMzA4LjU3LC03NTAuOTMiLz4KPHBvbHlnb24gZmlsbD0iYmxhY2siIHN0cm9rZT0iYmxhY2siIHBvaW50cz0iMzA5Ljk2LC03NDcuNjkgMjk5LjU4LC03NDUuNTQgMzA2LjM2LC03NTMuNjkgMzA5Ljk2LC03NDcuNjkiLz4KPC9nPgo8IS0tIHNvdmVyZWlnbl91c2VyJiM0NTsmZ3Q7c3RvcmFnZV9tdXggLS0+CjxnIGlkPSJlZGdlMTAiIGNsYXNzPSJlZGdlIj4KPHRpdGxlPnNvdmVyZWlnbl91c2VyJiM0NTsmZ3Q7c3RvcmFnZV9tdXg8L3RpdGxlPgo8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImJsYWNrIiBkPSJNNDUwLjUxLC04MTEuNThDNDk1Ljc5LC03NDkuMzcgNjUzLjIyLC01MjcuMjcgNzQ1LC0zMjQgNzc5LjQ4LC0yNDcuNjQgNzczLjc1LC0yMjMuMjMgODAxLC0xNDQgODAzLjk5LC0xMzUuMzEgODA3LjQ2LC0xMjUuOSA4MTAuNjYsLTExNy40NiIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSI4MTMuOTQsLTExOC42OCA4MTQuMjYsLTEwOC4wOSA4MDcuNDEsLTExNi4xOCA4MTMuOTQsLTExOC42OCIvPgo8L2c+CjwhLS0gYW5hbHl0aWNzX3VzZXIgLS0+CjxnIGlkPSJub2RlMzAiIGNsYXNzPSJub2RlIj4KPHRpdGxlPmFuYWx5dGljc191c2VyPC90aXRsZT4KPHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iMTA3NyIgeT0iLTQ0Ni4zIiBmb250LWZhbWlseT0iVGltZXMsc2VyaWYiIGZvbnQtc2l6ZT0iMTQuMDAiPmFuYWx5dGljcyB1c2VyPC90ZXh0Pgo8L2c+CjwhLS0gYW5hbHl0aWNzX3VzZXImIzQ1OyZndDtjaWNfZGF0YV9zZXJ2ZXIgLS0+CjxnIGlkPSJlZGdlMTMiIGNsYXNzPSJlZGdlIj4KPHRpdGxlPmFuYWx5dGljc191c2VyJiM0NTsmZ3Q7Y2ljX2RhdGFfc2VydmVyPC90aXRsZT4KPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgZD0iTTEwODUuOSwtNDMxLjdDMTA5MCwtNDIzLjczIDEwOTQuOTUsLTQxNC4xIDEwOTkuNDksLTQwNS4yNiIvPgo8cG9seWdvbiBmaWxsPSJibGFjayIgc3Ryb2tlPSJibGFjayIgcG9pbnRzPSIxMTAyLjc0LC00MDYuNiAxMTA0LjIsLTM5Ni4xIDEwOTYuNTIsLTQwMy40IDExMDIuNzQsLTQwNi42Ii8+CjwvZz4KPC9nPgo8L3N2Zz4K" /></p>
+<h2 id="components-by-category">Components by category<a class="headerlink" href="#components-by-category" title="Permanent link">&para;</a></h2>
+<p>(in no particular order)</p>
+<table>
+<thead>
+<tr>
+<th>area</th>
+<th>category</th>
+<th>components</th>
+<th>maintainer</th>
+<th>support</th>
+<th>tech</th>
+<th>relative complexity</th>
+<th>maturity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>chain queue/sync base</td>
+<td>any</td>
+<td><a href="https://git.grassecon.net/chaintool/chainqueue">chainqueue</a>, <a href="https://git.grassecon.net/chaintool/chainsyncer">chainsyncer</a></td>
+<td>Louis</td>
+<td>?</td>
+<td>py</td>
+<td>mid</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>chain queue/sync engine</td>
+<td>custodial</td>
+<td><a href="https://gitlab.com/grassrootseconomics/cic-internal-integration/-/tree/master/apps/cic-eth">cic-eth</a>, <a href="https://gitlab.com/grassrootseconomics/cic-eth-registry">cic-eth-registry</a>, <a href="https://gitlab.com/grassrootseconomics/cic-internal-integration/-/tree/master/apps/cic-signer">cic-signer</a></td>
+<td>Louis</td>
+<td>Phil</td>
+<td>py, celery</td>
+<td>hi</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>notifications</td>
+<td>custodial</td>
+<td><a href="https://gitlab.com/grassrootseconomics/cic-internal-integration/-/tree/master/apps/cic-notify">cic-notify</a></td>
+<td>Phil</td>
+<td>?</td>
+<td>py, celery</td>
+<td>lo</td>
+<td>mid</td>
+</tr>
+<tr>
+<td>ussd wallet</td>
+<td>custodial</td>
+<td><a href="https://gitlab.com/grassrootseconomics/cic-internal-integration/-/tree/master/apps/cic-ussd">cic-ussd</a></td>
+<td>Phil</td>
+<td>?</td>
+<td>py, celery</td>
+<td>hi</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>wallet interface translations</td>
+<td>any</td>
+<td><a href="https://gitlab.com/grassrootseconomics/cic-internal-integration/-/tree/master/apps/cic-eth">cic-translations</a></td>
+<td>Will?</td>
+<td>Phil</td>
+<td>yaml?</td>
+<td>lo</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>HTTP authentications</td>
+<td>custodial</td>
+<td><a href="https://git.defalsify.org/python-usumbufu/">usumbufu</a>, <a href="https://gitlab.com/grassrootseconomics/cic-auth-helper">cic-auth-helper</a></td>
+<td>Louis</td>
+<td>Blair, Sohail</td>
+<td>py</td>
+<td>hi</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>python chain libaries</td>
+<td>any</td>
+<td><a href="https://git.grassecon.net/chaintool/chainlib-eth">chainlib-eth</a>, <a href="https://git.grassecon.net/chaintool/chainlib-eth">chainlib</a>,</td>
+<td>Louis</td>
+<td>(community?)</td>
+<td>py</td>
+<td>mid</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>python signer libraries</td>
+<td>any</td>
+<td><a href="https://git.grassecon.net/chaintool/funga">funga</a>, <a href="https://gitlab.com/grassrootseconomics/cic-eth-registry">funga-eth</a></td>
+<td>Louis</td>
+<td>?</td>
+<td>py</td>
+<td>mid</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>local queue and sync</td>
+<td>non-custodial</td>
+<td><a href="https://git.grassecon.net/chaintool/chaind">chaind</a>, <a href="https://git.grassecon.net/chaintool/chaind-eth">chaind-eth</a>, <a href="https://git.grassecon.net/grassrootseconomics/cic-batch">cic-batch</a></td>
+<td>Louis</td>
+<td>?</td>
+<td>py</td>
+<td>mid</td>
+<td>?</td>
+</tr>
+<tr>
+<td>contract interfaces</td>
+<td>any</td>
+<td><a href="https://git.grassecon.net/cicnet/cic-contracts">cic-contracts</a>, <a href="https://gitlab.com/cicnet/eth-erc20">eth-erc20</a>, <a href="https://gitlab.com/cicnet/eth-owned">eth-owned</a>, <a href="https://gitlab.com/cicnet/erc20-faucet">erc20-faucet</a>, <a href="https://gitlab.com/cicnet/eth-interface">eth-interface</a></td>
+<td>Louis</td>
+<td>?</td>
+<td>solidity, py, bash</td>
+<td>mid</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>ge token contract</td>
+<td>any</td>
+<td><a href="https://gitlab.com/cicnet/erc20-demurrage-token">erc20-demurrage-token</a>, <a href="https://gitlab.com/grassrootseconomics/sarafu-faucet">sarafu-faucet</a></td>
+<td>Louis</td>
+<td>?</td>
+<td>solidity, py</td>
+<td>hi</td>
+<td>hi/lo</td>
+</tr>
+<tr>
+<td>verificable claims base</td>
+<td>any</td>
+<td><a href="https://git.grassecon.net/cicnet/okota">okota</a></td>
+<td>Louis</td>
+<td>?</td>
+<td>solidity, py</td>
+<td>mid</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>cic analytics and aggregator</td>
+<td>custodial</td>
+<td><a href="https://gitlab.com/grassrootseconomics/cic-data-golang">cic-data-golang</a></td>
+<td>Blair</td>
+<td>Darren</td>
+<td>golang</td>
+<td>mid</td>
+<td>mid</td>
+</tr>
+<tr>
+<td>cic analytics views</td>
+<td>custodial</td>
+<td><a href="https://gitlab.com/grassrootseconomics/cic-data-golang">cic-data-golang</a></td>
+<td>Darren</td>
+<td>?</td>
+<td>grafana, golang?</td>
+<td>mid</td>
+<td>?</td>
+</tr>
+<tr>
+<td>web2 metadata store</td>
+<td>custodial</td>
+<td><a href="https://gitlab.com/grassrootseconomics/cic-internal-integration/-/tree/master/apps/cic-meta">cic-meta</a></td>
+<td>?</td>
+<td>Louis</td>
+<td>typescript</td>
+<td>mid</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>metadata protocol</td>
+<td>any</td>
+<td><a href="https://gitlab.com/cicnet/crdt-meta">crdt-meta</a></td>
+<td>~~Spence~~</td>
+<td>~~Geoff~~, Louis</td>
+<td>typescript</td>
+<td>mid</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>metadata schemas</td>
+<td>any</td>
+<td><a href="https://gitlab.com/grassrootseconomics/cic-types">cic-types</a></td>
+<td>Phil</td>
+<td>~~Geoff~~</td>
+<td>py</td>
+<td>mid</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>contributor badge nft</td>
+<td>non-custodial</td>
+<td><a href="https://rapid-silence-3500.on.fleek.co/">(rose bootcamp project)</a>, <a href="https://git.defalsify.org/evm-badgetoken/">nft-badgetoken</a></td>
+<td>solidity, py, typescript, react(?)</td>
+<td>Rose</td>
+<td>Louis</td>
+<td>mid</td>
+<td>lo</td>
+</tr>
+<tr>
+<td>web3 transition adapters</td>
+<td>any</td>
+<td><a href="https://git.defalsify.org/fadafada/">fadafada</a>, <a href="https://git.defalsify.org/fadafada-curl/">fadafada-curl</a></td>
+<td>Louis</td>
+<td>(community?)</td>
+<td>rust</td>
+<td>mid</td>
+<td>mid</td>
+</tr>
+<tr>
+<td>cli cic creation</td>
+<td>any</td>
+<td><a href="https://git.grassecon.net/cicnet/cic-cli">cic-cli</a></td>
+<td>Phil</td>
+<td>Louis</td>
+<td>py</td>
+<td>hi</td>
+<td>mid</td>
+</tr>
+<tr>
+<td>cli metadata viewer</td>
+<td>custodial</td>
+<td><a href="">clicada</a>, <a href="https://git.grassecon.net/grassrootseconomics/cic-staff-client">cic-staff-installer</a></td>
+<td>?</td>
+<td>Louis</td>
+<td>py</td>
+<td>lo</td>
+<td>lo</td>
+</tr>
+<tr>
+<td>ge blog</td>
+<td>website</td>
+<td><a href="https://git.grassecon.net/grassrootseconomics/pelican-website-ge">pelican website</a></td>
+<td>Ida</td>
+<td>Will</td>
+<td>py, pelican</td>
+<td>lo</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>ge docs</td>
+<td>website</td>
+<td><a href="https://gitlab.com/grassrootseconomics/grassrootseconomics.gitlab.io">docs webstie</a></td>
+<td>Will</td>
+<td>?</td>
+<td>py, (platform)?</td>
+<td>mid?</td>
+<td>mid</td>
+</tr>
+<tr>
+<td>local dev bootstrap</td>
+<td>devops</td>
+<td><a href="https://gitlab.com/grassrootseconomics/cic-internal-integration">cic-stack</a></td>
+<td>?</td>
+<td>all</td>
+<td>bash, docker-compose</td>
+<td>hi</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>dev data seeding / migration</td>
+<td>any</td>
+<td><a href="https://gitlab.com/grassrootseconomics/cic-internal-integration">cic-stack</a></td>
+<td>Phil</td>
+<td>Louis</td>
+<td>py, bash, typecsript</td>
+<td>hi</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>Telegram wallet</td>
+<td>custodial</td>
+<td>?</td>
+<td>Sohail?</td>
+<td>?</td>
+<td>?</td>
+<td>?</td>
+<td>no</td>
+</tr>
+<tr>
+<td>chain queue/sync interface</td>
+<td>custodial</td>
+<td><a href="https://gitlab.com/grassrootseconomics/cic-internal-integration/-/merge_requests/312">cic-eth-server</a>, ...</td>
+<td>Lum</td>
+<td>?</td>
+<td>py</td>
+<td>?</td>
+<td>?</td>
+</tr>
+<tr>
+<td>Web2 wallet</td>
+<td>custodial</td>
+<td><a href="https://gitlab.com/grassrootseconomics/cic-docs/-/blob/lash/social-recovery/spec/025_social_recovery.md">social recovery protocol</a></td>
+<td>Lum</td>
+<td>?</td>
+<td>?</td>
+<td>?</td>
+<td>no</td>
+</tr>
+<tr>
+<td>P2P Services discovery</td>
+<td>any</td>
+<td><a href="https://gitlab.com/grassrootseconomics/cic-p2p">cic-p2p</a>, <a href="https://gitlab.com/cicnet/vmp">village message protocol</a></td>
+<td>Louis</td>
+<td>?</td>
+<td>?</td>
+<td>?</td>
+<td>?</td>
+</tr>
+<tr>
+<td>Gas helpers</td>
+<td>any</td>
+<td><a href="https://gitlab.com/grassrootseconomics/eth-gas-proxy/-/blob/master/gas_proxy/proxy.py">cic-gas-proxy</a>, <a href="https://git.grassecon.net/chaintool/ethd-gas-sum">ethd-gas-sum</a></td>
+<td>Louis</td>
+<td>?</td>
+<td>py</td>
+<td>lo</td>
+<td>lo</td>
+</tr>
+<tr>
+<td>Swarm provisions</td>
+<td>non-custodial</td>
+<td><a href="https://git.defalsify.org/libswarm-ng/">libswarm-ng</a>, <a href="https://git.defalsify.org/pylibswarm/">pylibswarm</a></td>
+<td>Louis</td>
+<td>(community?)</td>
+<td>c, py</td>
+<td>mid</td>
+<td>hi</td>
+</tr>
+<tr>
+<td>Multisig</td>
+<td>non-custodial</td>
+<td><a href="https://gitlab.com/cicnet/erc20-transfer-authorization">erc20-transfer-authorization</a></td>
+<td>Louis</td>
+<td>?</td>
+<td>solidity, py</td>
+<td>mid</td>
+<td>lo</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>("Relative complexity" means complexity in relation to the function of the component.)</p>
+<h2 id="deployment-requirements">Deployment requirements<a class="headerlink" href="#deployment-requirements" title="Permanent link">&para;</a></h2>
+<p>There are the requirements to run our complete software stack:</p>
+<h3 id="blockchain-infrastructure">Blockchain infrastructure<a class="headerlink" href="#blockchain-infrastructure" title="Permanent link">&para;</a></h3>
+<ul>
+<li>3 x (2 CPU, 4GB RAM, 50+ GB Storage) for validator nodes future proofed for 1 yr across different cloud providers/data centers. </li>
+<li>n x (1 CPU, 2GB RAM) for prunning state nodes, useful for non-custodial web3 users tx submissions.</li>
+</ul>
+<h3 id="custodial-infrastructure">Custodial infrastructure<a class="headerlink" href="#custodial-infrastructure" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Kubernetes preffered</li>
+<li>4 CPU, 8GB RAM, 50+ GB Storage minimum (Includes additional monitoring components)</li>
+</ul>
+
+  <hr>
+<div class="md-source-file">
+  <small>
+    
+      Last update:
+      2025-07-27
+    
+  </small>
+</div>
+
+              
+            </article>
+          </div>
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" data-md-state="hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg>
+            Back to top
+          </a>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "toc.integrate", "navigation.sections", "navigation.indexes", "navigation.top", "header.autohide"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../assets/javascripts/workers/search.cefbb252.min.js"}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.17f42bbf.min.js"></script>
+      
+    
+  </body>
+</html>
