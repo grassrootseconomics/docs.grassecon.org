@@ -26,7 +26,7 @@ nav:
       - SPROUT License: commons/sprout.md
       - Data Policy: commons/data_policy.md
       - Child Protection Policy: commons/child_policy.md
-  - Cyber:
+  - Software:
       - Intro: cyber/index.md
       - Software: https://software.grassecon.org/
       - Pooling Guide: cyber/pool-guide.md
@@ -35,10 +35,10 @@ nav:
       - Intro: edu/index.md
       - Glossary: edu/glossary.md
       - FAQ: edu/faq.md
-      - Quiz: https://forms.gle/yJfVKsZUS1Tdmmmc9
+      - Book: https://willruddick.substack.com/p/grassroots-economics-the-book-is
       - Training Guide: edu/training.md
       - Case Study: edu/case_study.md
-      - MOOC: https://www.grassrootseconomics.org/pages/mooc.html
+  
 
 repo_url: https://github.com/grassrootseconomics/docs.grassecon.org
 repo_name: grassrootseconomics/docs
