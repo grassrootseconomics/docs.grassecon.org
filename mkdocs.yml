@@ -29,6 +29,7 @@ nav:
   - Software:
       - Intro: cyber/index.md
       - Software: https://software.grassecon.org/
+      - ETH Safari: cyber/eth-safari-2025.md
       - Pooling Guide: cyber/pool-guide.md
       - Staking Guide: cyber/staking-guide.md
   - Education:
