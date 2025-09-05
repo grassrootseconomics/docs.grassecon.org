@@ -57,6 +57,16 @@ You can use the wallet behind your bracelet to view your balance and transfer to
 - Check on-chain via explorers: Celoscan (https://celoscan.io) or Blockscout (https://explorer.celo.org). If you only know your ENS name, resolve it to a blockchain address at https://app.ens.domains and paste that address into the explorer.
 - Prefer hands-on help? Visit the Grassroots Economics booth.
 
+### Telegram alerts for your wallet
+
+- Visit https://web3alert.io/ and log in with Telegram.
+- Click "Add an alert".
+- Chain: select Celo.
+- Template: choose Address.
+- Address: set your NFC Tag wallet address (copy from your wallet or explorer).
+- Select ERC20.
+- Save alert to start receiving Telegram notifications.
+
 ## What you can buy with SAFARI
 
 - Refreshments at participating vendors
