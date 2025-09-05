@@ -1,4 +1,4 @@
-# ETHSafari 2025 — Your NFC Bracelet & SAFARI tokensGuide
+# ETHSafari 2025 — Your NFC Bracelet & SAFARI Tokens Guide
 
 Welcome to ETHSafari in Kilifi. This quick guide shows how to use your NFC bracelet for cashless payments, how to get more SAFARI tokens, and how to manage your wallet.
 
