@@ -27,7 +27,7 @@ You have two easy options if you need additional SAFARI:
 
 ### Option A: Swap cKES or cUSD to SAFARI (self-serve)
 
-- Open the SAFARI pool: [https://sarafu.network/pools/0x73433D6EB72A67a64348bAB2cDA3a16a0F75c8cf](ETHSafari Roots)
+- Open the SAFARI pool: [ETHSafari Roots](https://sarafu.network/pools/0x73433D6EB72A67a64348bAB2cDA3a16a0F75c8cf)
 - Connect your wallet (e.g. Valora,Rabby, Metamask etc.).
 - Choose the token you’re swapping from (cKES or cUSD) and select SAFARI as the token to receive.
 - Confirm the swap (3 pop ups), and wait a few seconds for finalization on Celo.
