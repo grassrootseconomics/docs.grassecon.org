@@ -27,7 +27,7 @@ You have two easy options if you need additional SAFARI:
 
 ### Option A: Swap cKES or cUSD to SAFARI (self-serve)
 
-- Open the SAFARI pool: https://sarafu.network/pools/0x73433D6EB72A67a64348bAB2cDA3a16a0F75c8cf
+- Open the SAFARI pool: [https://sarafu.network/pools/0x73433D6EB72A67a64348bAB2cDA3a16a0F75c8cf](ETHSafari Roots)
 - Connect your wallet (e.g. Valora,Rabby, Metamask etc.).
 - Choose the token you’re swapping from (cKES or cUSD) and select SAFARI as the token to receive.
 - Confirm the swap (3 pop ups), and wait a few seconds for finalization on Celo.
@@ -54,12 +54,12 @@ You can use the wallet behind your bracelet to view your balance and transfer to
 ## Monitoring your tag blockchain activity
 
 - Tap and open your wallet on sarafu.network on your own smartphone (NFC required) to view balance and recent transactions.
-- Check on-chain via explorers: Celoscan (https://celoscan.io) or Blockscout (https://explorer.celo.org). If you only know your ENS name, resolve it to a blockchain address at https://app.ens.domains and paste that address into the explorer.
+- Check on-chain via explorers: [Celoscan](https://celoscan.io) or [Blockscout](https://explorer.celo.org). If you only know your ENS name, resolve it to a blockchain address at [ENS](https://app.ens.domains) and paste that address into the explorer.
 - Prefer hands-on help? Visit the Grassroots Economics booth.
 
 ### Telegram alerts for your wallet
 
-- Visit https://web3alert.io/ and log in with Telegram.
+- Visit [Web3Alert](https://web3alert.io/) and log in with Telegram.
 - Click "Add an alert".
 - Chain: select Celo.
 - Template: choose Address.
