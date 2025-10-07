@@ -32,6 +32,7 @@ nav:
       - ETH Safari: cyber/eth-safari-2025.md
       - Pooling Guide: cyber/pool-guide.md
       - Staking Guide: cyber/staking-guide.md
+      - Offramp/Onramp Guide: cyber/offramp-onramp.md
   - Education:
       - Intro: edu/index.md
       - Glossary: edu/glossary.md
