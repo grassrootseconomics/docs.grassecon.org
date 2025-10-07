@@ -16,7 +16,7 @@ This short guide explains how to off-ramp (convert stablecoins to M-PESA cash) a
 2. Send the amount to the recipient address: `mpesa.sarafu.eth` (`0x8005ee53E57aB11E11eAA4EFe07Ee3835Dc02F98`).
 3. You should receive a confirmation message within ~1 minute.
 
-## Onramp (receiving from M-PESA)
+## Onramp
 
 1. Request an admin or staff member to initiate an M-PESA push/prompt for the agreed amount and stablecoin.
 2. When you receive the M-PESA prompt, enter your M-PESA PIN to complete the push.
