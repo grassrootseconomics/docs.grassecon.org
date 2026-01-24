@@ -1,5 +1,5 @@
 # Stewarded Pools for Relational Obligations and Unified Trust (SPROUT) License 
-**Version 1.0 – May 19 2025**  
+**Version 1.1 – Jan 24 2026**  
 **© 2025 Grassroots Economics Foundation **  
 This license governs the creation, operation, and federation of digital Commitment Pools.
 
@@ -24,6 +24,10 @@ The Pool established under this License shall not operate as a for-profit enterp
 
 **Definition:**
 > *“Business”* refers to any organized activity undertaken with the intent to make a profit or financial return, including wage disbursement, contracting, or resale of commitments.
+> “Swap Loan” means a zero-interest, repayable advance of an asset from a Pool to a participant executed through a swap transaction, where the participant assumes an obligation to repay the value advanced by the Due Date, either by repayment in approved assets and/or by redemption of their own voucher at Full Value, as specified by the Pool’s “Sign-at-Swap” terms.
+> “Loan Voucher / Collateral Voucher” means the voucher or approved asset posted into the Pool as collateral and as a transferable record of the lender’s claim under a Swap Loan.
+> “Holder” means the Pool or any person/entity that has lawfully obtained the Loan Voucher / Collateral Voucher through a Pool transfer, swap, or subsequent transfer.
+> “Assignment” means the transfer of the right to receive repayment/redemption of a Swap Loan from the Pool to a Holder, evidenced by the on-chain transfer of the Loan Voucher / Collateral Voucher.
 
 ### 2.2 Voluntary and Peer-Curated Participation
 
@@ -32,12 +36,12 @@ Participation in the Pool shall be strictly voluntary and limited to individuals
 **Definition:**
 > *“Peer-curated”* means access to the Pool is granted through a trust-based system of community evaluation or consensus, rather than open market or anonymous access.
 
-### 2.3 Symbolic Commitments, Not Enforceable Debts
+### 2.3 Symbolic Commitments; Swap Loans Create Repayable Obligations¶
 
-All tokens, vouchers, or instruments entered into the Pool represent symbolic, non-enforceable commitments to contribute care, labor, or other community-recognized value. These instruments shall not be construed as contractual debts, IOUs, promissory notes, or securities.
+Tokens, vouchers, or instruments entered into the Pool may represent symbolic, relational commitments within the commons. However, any participant who swaps assets out of a Pool (receives an Advance) agrees that the transaction is a “Swap Loan” — a zero-interest, repayable advance that creates an obligation to repay.
+The repayment obligation is transferable by Assignment: the participant may owe repayment/redemption to the Pool or to any Holder of the participant’s Loan Voucher / Collateral Voucher.
+Swap Loans are not wages, salary, or income at the time of receipt; they are advances that remain obligations until repaid/redeemed under the Pool’s Sign-at-Swap terms.
 
-**Definition:**
-> *“Symbolic commitment”* refers to a voluntary promise or expression of intent to provide goods or services, not backed by legal enforcement or monetary guarantee.
 
 ### 2.4 Mutual Aid Commons, Not Automated Vending or Payroll Mechanism
 
@@ -63,9 +67,10 @@ Pools shall operate as systems of care, reciprocity, and mutual recognition. Und
 **Interpretation:**  
 > Trust, not money, is the core unit of value. All tokenized activity must reflect contribution, not compensation.
 
-### 3.2 Voluntary and Non-Coercive Participation
+### 3.2 Voluntary Participation; Informed Obligations on Swap
 
-All exchanges, redemptions, and contributions within the Pool must be strictly voluntary. No participant shall be contractually obligated to fulfill any specific service or deliverable.
+Participation in the Pool is voluntary. However, when a participant chooses to execute a swap that withdraws assets from the Pool, the participant knowingly enters a Swap Loan and becomes contractually obligated to repay/redeem under the Sign-at-Swap terms.
+Pools must be designed so that obligations are informed, transparent, and non-coercive, including clear Due Dates, Full Value definitions, and lawful/safe redemption conditions.
 
 ### 3.3 Transparent Purpose-Linked Tracking
 
@@ -82,17 +87,21 @@ Pools may not simulate payroll structures, distribute tokens in fixed intervals 
 
 Only known, verified, and trusted members of the Pool may have their vouchers accepted in the Pool. The Pool must maintain documented governance procedures for who may issue, and under what limits.
 
-### 3.6 Symbolic, Non-Enforceable Commitments
+### 3.6 Symbolic Commitments; Enforceable Swap Loan Obligations
 
-Vouchers are to be treated as symbolic representations of intent to contribute, not legally enforceable IOUs. They do not constitute financial claims, debts, or instruments of exchange under banking or securities law.
+Vouchers may function as symbolic representations of intent within the commons. Separately, Swap Loans are repayable obligations created when a participant swaps assets out of the Pool.
+The Pool’s Sign-at-Swap terms shall define the repayment/redemption mechanics, including that the loan claim may be assigned to a Holder by transfer of the Loan Voucher / Collateral Voucher.
+Nothing in this License permits Pools to represent Swap Loans as investments, securities, or interest-bearing credit products.
 
-### 3.7 Prohibition on Fiat Redemption
+3.7 Prohibition on Fiat Redemption Services
 
-No Pool may offer direct fiat, e-money, or cryptocurrency redemption services. Swaps must occur within the bounded mutual aid network.
+No Pool may present itself as offering fiat, e-money, or cryptocurrency “cash-out” or redemption services to the public. Swaps that deliver stablecoins or other assets are permitted only as Swap Loans within the bounded, peer-curated mutual aid network, governed by transparent limits and obligations.
+Pools must not market swaps as guaranteed convertibility to cash; swaps remain subject to inventory, limits, and the participant’s repayment/redemption obligations.
 
-### 3.8 Endowment Integrity
+### 3.8 Endowment Integrity (No Investor Rights)
 
-All resource injections into the Pool (e.g., stablecoins, airtime, food) must be classified as gifts or irrevocable endowments. They shall not accrue interest, create claims of ownership, or imply investor rights.
+All resource injections into the Pool (e.g., stablecoins, airtime, food) are gifts or irrevocable endowments to the Pool commons and do not create investor rights, ownership claims, or entitlement to interest for the donor.
+The Pool may deploy endowment assets as zero-interest Swap Loans to participants under the Sign-at-Swap terms. Any repayment replenishes Pool capacity and does not confer private ownership or profit rights.
 
 ### 3.9 Federated Governance Respect
 
@@ -106,6 +115,7 @@ All individuals or entities creating or operating a Pool under this License (“
 
 - Maintain a publicly accessible written Charter aligning with this License.
 - Document all swaps and redemptions on a permanent, auditable ledger.
+- Publish and enforce Sign-at-Swap Loan Terms: Ensure every swap that withdraws assets from the Pool requires the Swapper to digitally sign the Pool’s Swap Loan Terms, and that the signature (or hash) and TermsVersion/TermsHash are recorded on the auditable ledger/on-chain.
 - Clearly define and display all roles, voucher issuers, and operating logic.
 - Provide provenance documentation for any seeded assets or external inputs.
 - Prohibit anonymous or uncurated token acceptance or participation.
@@ -134,12 +144,14 @@ Grassroots Economics Foundation reserves the right to enforce these conditions i
 
 ## 6.0 Licensing Notice (Mandatory for Sarafu.Network and Affiliates)
 
+
 By accepting this License, the Steward affirms compliance with these foundational conditions and agrees to maintain the Pool’s operations in accordance with the spirit and legal framework of the SPROUT License.
 
 
 Each Pool must include the following text (or equivalent) on its public page, dashboard, or registry:
 
-This Pool operates under the SPROUT License (v1.0): Stewarded Pools for Relational Obligations and Unified Trust. It circulates symbolic commitments, not enforceable payments or contractual wages. Participation is voluntary, curated, and governed by peer trust.
+
+This Pool operates under the SPROUT License: Stewarded Pools for Relational Obligations and Unified Trust. It circulates symbolic commitments within a peer-curated commons of care. Any swap that withdraws assets from the Pool is a 0% interest Swap Loan that creates a repayable obligation. Loan claims may be assigned to the current Holder of the borrower’s Loan Voucher / Collateral Voucher, as recorded on the ledger/on-chain. Participation is voluntary, curated, and governed by peer trust.
 
 License: https://docs.grassecon.org/commons/sprout
 Charter: [Insert link to Pool’s Charter text]
