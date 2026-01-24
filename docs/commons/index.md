@@ -47,7 +47,7 @@ Through the development of an inclusive, legal Nondominium framework, an opt in,
     * [Data Policy](/commons/data_policy/): Here is an example of a data protection policy of Grassroots Economics as a Platform Service Provider.
     * [PATH License](/commons/path/): Here is the license for a Community Asset Voucher.
     * [SPROUT Policy](/commons/sprout/): Here is an license for a Commitment Pool.
-	* [SPROUT Policy](/commons/sprout-loan-terms/): Here are terms for Swap Loans when using a Commitment Pool.
+	* [SPROUT Swap Loan Terms](/commons/sprout-loan-terms/): Here are terms for Swap Loans when using a Commitment Pool.
     
 
 
