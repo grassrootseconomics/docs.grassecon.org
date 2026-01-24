@@ -36,7 +36,7 @@ Participation in the Pool shall be strictly voluntary and limited to individuals
 **Definition:**
 > *“Peer-curated”* means access to the Pool is granted through a trust-based system of community evaluation or consensus, rather than open market or anonymous access.
 
-### 2.3 Symbolic Commitments; Swap Loans Create Repayable Obligations¶
+### 2.3 Symbolic Commitments; Swap Loans Create Repayable Obligations
 
 Tokens, vouchers, or instruments entered into the Pool may represent symbolic, relational commitments within the commons. However, any participant who swaps assets out of a Pool (receives an Advance) agrees that the transaction is a “Swap Loan” — a zero-interest, repayable advance that creates an obligation to repay.
 The repayment obligation is transferable by Assignment: the participant may owe repayment/redemption to the Pool or to any Holder of the participant’s Loan Voucher / Collateral Voucher.
