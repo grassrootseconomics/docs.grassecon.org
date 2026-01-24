@@ -22,8 +22,9 @@ nav:
       - Commons Agreement: commons/agreement.md
       - Voucher Agreement: commons/voucher.md
       - Service Agreement: commons/service.md
-      - PATH License: commons/path.md
-      - SPROUT License: commons/sprout.md
+      - PATH (voucher) License: commons/path.md
+      - SPROUT (pool) License: commons/sprout.md
+      - SPROUT Swap Loan Terms: commons/sprout-loan-terms.md
       - Data Policy: commons/data_policy.md
       - Child Protection Policy: commons/child_policy.md
   - Software:
