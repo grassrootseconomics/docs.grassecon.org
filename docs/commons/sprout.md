@@ -54,6 +54,13 @@ The Pool operates as a commons-based system of mutual aid and community trust. I
 **Definition:**
 > *“Commons of care”* means a resource system collectively maintained and governed by a defined group for mutual benefit, without the intention of private ownership or profit extraction.
 
+### 2.5 Swap Loan Terms (Sign-at-Swap)
+
+Pools operating under this License may require participants who withdraw assets via swaps to accept a repayable, zero-interest obligation governed by the “SPROUT Swap Loan Terms (Sign-at-Swap)” (“Swap Loan Terms”).
+
+The Swap Loan Terms are incorporated by reference for any Pool that adopts them and must be made publicly available at:
+[https://docs.grassecon.org]
+
 ---
 
 ## 3.0 Core Principles of the SPROUT License
@@ -116,6 +123,7 @@ All individuals or entities creating or operating a Pool under this License (“
 - Maintain a publicly accessible written Charter aligning with this License.
 - Document all swaps and redemptions on a permanent, auditable ledger.
 - Publish and enforce Sign-at-Swap Loan Terms: Ensure every swap that withdraws assets from the Pool requires the Swapper to digitally sign the Pool’s Swap Loan Terms, and that the signature (or hash) and TermsVersion/TermsHash are recorded on the auditable ledger/on-chain.
+- Publish and enforce Swap Loan Terms (if used): If the Pool uses Swap Loans, the Steward must (i) publish a public link to the applicable SPROUT Swap Loan Terms, (ii) require “Sign-at-Swap” acceptance for any swap that withdraws assets from the Pool, and (iii) store the acceptance record (e.g., Terms version/hash + signature reference and transaction reference) on the Pool’s permanent, auditable ledger.
 - Clearly define and display all roles, voucher issuers, and operating logic.
 - Provide provenance documentation for any seeded assets or external inputs.
 - Prohibit anonymous or uncurated token acceptance or participation.
@@ -151,7 +159,10 @@ By accepting this License, the Steward affirms compliance with these foundationa
 Each Pool must include the following text (or equivalent) on its public page, dashboard, or registry:
 
 
-This Pool operates under the SPROUT License: Stewarded Pools for Relational Obligations and Unified Trust. It circulates symbolic commitments within a peer-curated commons of care. Any swap that withdraws assets from the Pool is a 0% interest Swap Loan that creates a repayable obligation. Loan claims may be assigned to the current Holder of the borrower’s Loan Voucher / Collateral Voucher, as recorded on the ledger/on-chain. Participation is voluntary, curated, and governed by peer trust.
+This Pool operates under the SPROUT License: Stewarded Pools for Relational Obligations and Unified Trust. It circulates symbolic commitments within a peer-curated commons of care. Any swap that withdraws assets from the Pool is a 0% interest Swap Loan that creates a repayable obligation. Loan claims may be assigned to the current Holder of the borrower’s Loan Voucher / Collateral Voucher, as recorded on the ledger/on-chain. 
+If this Pool enables withdrawals via swaps, those swaps are governed as repayable Swap Loans under the SPROUT Swap Loan Terms (Sign-at-Swap): [https://docs.grassecon.org].
+
+Participation is voluntary, curated, and governed by peer trust.
 
 License: https://docs.grassecon.org/commons/sprout
 Charter: [Insert link to Pool’s Charter text]
