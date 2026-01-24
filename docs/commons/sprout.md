@@ -22,12 +22,12 @@ The Pool established under this License shall not operate as a for-profit enterp
 - Offer services or goods in exchange for currency;
 - Engage in speculative trading, token sales, or other capital market activities.
 
-**Definition:**
-> *“Business”* refers to any organized activity undertaken with the intent to make a profit or financial return, including wage disbursement, contracting, or resale of commitments.
-> “Swap Loan” means a zero-interest, repayable advance of an asset from a Pool to a participant executed through a swap transaction, where the participant assumes an obligation to repay the value advanced by the Due Date, either by repayment in approved assets and/or by redemption of their own voucher at Full Value, as specified by the Pool’s “Sign-at-Swap” terms.
-> “Loan Voucher / Collateral Voucher” means the voucher or approved asset posted into the Pool as collateral and as a transferable record of the lender’s claim under a Swap Loan.
-> “Holder” means the Pool or any person/entity that has lawfully obtained the Loan Voucher / Collateral Voucher through a Pool transfer, swap, or subsequent transfer.
-> “Assignment” means the transfer of the right to receive repayment/redemption of a Swap Loan from the Pool to a Holder, evidenced by the on-chain transfer of the Loan Voucher / Collateral Voucher.
+**Definitions:**
+- “Business” refers to any organized activity undertaken with the intent to make a profit or financial return, including wage disbursement, contracting, or resale of commitments.
+- “Swap Loan” means a zero-interest, repayable advance of an asset from a Pool to a participant executed through a swap transaction, where the participant assumes an obligation to repay the value advanced by the Due Date, either by repayment in approved assets and/or by redemption of their own voucher at Full Value, as specified by the Pool’s “Sign-at-Swap” terms.
+- “Loan Voucher / Collateral Voucher” means the voucher or approved asset posted into the Pool as collateral and as a transferable record of the lender’s claim under a Swap Loan.
+- “Holder” means the Pool or any person/entity that has lawfully obtained the Loan Voucher / Collateral Voucher through a Pool transfer, swap, or subsequent transfer.
+- “Assignment” means the transfer of the right to receive repayment/redemption of a Swap Loan from the Pool to a Holder, evidenced by the on-chain transfer of the Loan Voucher / Collateral Voucher.
 
 ### 2.2 Voluntary and Peer-Curated Participation
 
@@ -56,8 +56,7 @@ The Pool operates as a commons-based system of mutual aid and community trust. I
 
 ### 2.5 Swap Loan Terms (Sign-at-Swap)
 
-Pools operating under this License may require participants who withdraw assets via swaps to accept a repayable, zero-interest obligation governed by the “SPROUT Swap Loan Terms (Sign-at-Swap)” (“Swap Loan Terms”).
-
+Pools operating under this License may require participants who withdraw assets via swaps to accept a repayable, zero-interest obligation governed by the “SPROUT Swap Loan Terms” 
 The Swap Loan Terms are incorporated by reference for any Pool that adopts them and must be made publicly available at:
 [SPROUT Swap Loan Terms](https://docs.grassecon.org/commons/sprout-loan-terms/)
 
