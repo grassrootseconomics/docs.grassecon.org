@@ -1,8 +1,19 @@
-# Introduction to Operations
+# Operations
 
-The following documentation is meant to give you an idea and examples based on CIC implementations in Kenya. These documents can act as general templates for how to setup, support, maintain and build on Community Asset Vouchers (CAVs).
+This section is for teams implementing Commitment Pools, Community Asset Vouchers, and related field programs. It collects practical guides for planning, onboarding, training, stakeholder engagement, voucher creation, monitoring, and partner support.
 
-* [Logical Framework](log_frame/): This framework is a summary of goals, outputs and activities related to CAV implementations.
-* [Team Guide](team_guide/): This is a guide for building a team that will implement a CAV.
-* [Stakeholder Guide](local_stakeholders/): This guide steps you through some pointers on how to engage with local stakeholders.
-* [Humanitarian Support](support/): This is a summary of how humanitarian and other development organizations and supporters can support and interact with CAVs.
+The materials are based on Grassroots Economics work in Kenya and related collaborations. Treat them as adaptable templates: every pool should be grounded in local relationships, local governance, clear redemption commitments, and consent-based data practices.
+
+## Implementation guides
+
+* [Program Toolkit](pqt/): A broad implementation toolkit for Commitment Pool protocols, readiness assessment, needs analysis, risk review, training, and evaluation.
+* [Voucher Creation](voucher/): A field process for forming a group voucher and launching it through Sarafu Network.
+* [Logical Framework](log_frame/): Goals, outputs, and activities for Commitment Pool implementation.
+* [Team Guide](team_guide/): Roles, supervision, safeguarding, data handling, and team expectations.
+* [Stakeholder Guide](local_stakeholders/): How to engage local leaders, groups, public institutions, partners, and community members.
+* [Humanitarian Support](support/): How humanitarian and development actors can support communities through Commitment Pooling.
+
+## Live tools
+
+* [Sarafu Network](https://sarafu.network): Create and browse vouchers, pools, reports, maps, and profiles.
+* [Grassroots Economics](https://grassecon.org): Public organization site, current work, research, games, and ways to get involved.

@@ -1,5 +1,11 @@
 # CIC Software
 
+## Current software entry points
+
+Sarafu Network is the current public platform for Community Asset Vouchers, Commitment Pools, reports, maps, and wallets: [sarafu.network](https://sarafu.network).
+
+Current developer documentation is maintained at [software.grassecon.org](https://software.grassecon.org/). This page preserves historical CIC stack notes and architecture references.
+
 ## Technology Setup
 
 Generally the technical setup is done by a local Platform Service Provider like Grassroots Economics. The more local the better.
@@ -209,6 +215,4 @@ There are the requirements to run our complete software stack:
 
 - Kubernetes preffered
 - 4 CPU, 8GB RAM, 50+ GB Storage minimum (Includes additional monitoring components)
-
-
 

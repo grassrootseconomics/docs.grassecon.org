@@ -23,7 +23,7 @@ Each department supervisor maintains regular communications with their team memb
 
 ## Frequently Asked Questions (FAQs)
 
-For orientation to Commitment Pooling concepts, visit the FAQ [here](https://docs.grassecon.org/faq/).
+For orientation to Commitment Pooling concepts, visit the FAQ [here](/edu/faq/).
 
 ## Reimbursement for Approved Expenses
 
@@ -51,7 +51,7 @@ All tools, materials, and protocols developed through implementation belong to t
 
 ## Data Protection and Privacy
 
-Handling community data is a sacred trust. Respect local confidentiality customs and comply with international [data policy standards](https://docs.grassecon.org/data_policy/). Always ask consent before recording, storing, or publishing.
+Handling community data is a sacred trust. Respect local confidentiality customs and comply with international [data policy standards](/commons/data_policy/). Always ask consent before recording, storing, or publishing.
 
 ## Code of Conduct
 

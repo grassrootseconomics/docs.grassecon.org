@@ -1,26 +1,28 @@
-# Community Statement
+# Community
 
-Community members are extremely important - your input and support is needed to make these tools useful and change the world.
-Below are some key roles that make up the community:
+Grassroots Economics is a community of practitioners, stewards, engineers, educators, researchers, lawyers, translators, volunteers, and local groups working with Economic Commons, Community Asset Vouchers, and Commitment Pools.
 
-1. **Practitioners and community groups**: Are you working on or gettign started using a Community Asset Voucher or Commitment Pool? Hats off - you rock! Let's compare notes! 
-1. **Technical engineers**: Are you able to make technology work better? We need you so much!
-1. **System administrators, field & support engineers**: Are you maintaining, building, training?
-1. **Educators, writers & speakers, content designers and artists**: People need to understand and own Economic Commons and their Instruments. We need so much help on content and getting the word out there that economic alternatives exists and work!
-1. **Translators**: This is all in English right now! HELP!
-1. **Researchers**: How do we know what we know? Please help us study the impacts of these programs and improve them! The study of resource coordination by groups needs to be developed more and more.
-1. **Grassroots economists**: Are you able to curate great people and their services into living economic-ecosystems? 
-1. **Lawyers**: You are so important to making sure these next generation legal systems stand on solid foundations. Formalizing ancentral wisdom and indigenous practices is a must.
-1. **Volunteers and activists**: Come support and share with a Community in transition in person in Kenya and abroad.
+This section explains how to participate, how we work together, and how the roadmap is governed.
 
-..and more: If you don't see where you can help, PLEASE contact us: info@grassecon.org and check out our:
+## Ways to participate
 
-* [Charter](/community/charter/)
-* [Contribution Guide](/community/contrib/)
-* [Code of Conduct](/community/conduct/)
-* [Get Involved](https://grassecon.org/pages/get-involved)
+1. **Community groups and practitioners:** Start or improve a Commitment Pool, create a Community Asset Voucher, document field practice, and share what works.
+1. **Stewards and field teams:** Support workshops, onboarding, stakeholder engagement, training, monitoring, and local governance.
+1. **Technical contributors:** Improve Sarafu Network, software tools, data systems, wallets, maps, reports, integrations, and open-source infrastructure.
+1. **Educators and designers:** Turn the concepts into clear learning materials, games, training flows, stories, translations, and visuals.
+1. **Researchers:** Study resource coordination, impact, settlement, community resilience, ecological outcomes, and data governance.
+1. **Legal and policy contributors:** Strengthen Economic Commons agreements, licenses, privacy policies, safeguards, and compliance practices.
+1. **Supporters and partners:** Seed Commitment Pools, support ecosystem restoration, fund open infrastructure, or partner on implementation.
 
-## Renumeration, bounties and rewards
+If you do not see the right path, contact [info@grassecon.org](mailto:info@grassecon.org) or visit [Get Involved](https://grassecon.org/get-involved).
 
-Organizations such as [Grassroots Economics Foundation](https://grassecon.org) identify digital assets, Community Asset Vouchers and community bounty programs to support these efforts based on available funding from grants. Note that this is a growing field and many organizations like the Red Cross have been and are seeking more and more people in this field because of the impacts they see on the ground. Changing the world's economic systems will not be *affordable* within the world's current economic system. So while traditional national currency funding is sometimes avalaible, don't let that stop you from being the change. People and organizations wanting to support these economic systems should interact with them themselves: Accept a Community Asset Vouchers or create one redeemable for your own services and donate or exchange it to support this work in a Commitment Pool.
+## Community documents
 
+* [Charter](/community/charter/): Shared purpose and principles for Commitment Pooling.
+* [Contribution Guide](/community/contrib/): How to contribute to documentation, software, research, and field practice.
+* [Code of Conduct](/community/conduct/): Expectations for respectful collaboration.
+* [Roadmap](/community/roadmap/): Current direction and development priorities.
+
+## Support, bounties, and rewards
+
+Grassroots Economics Foundation and aligned partners may identify grants, bounties, Community Asset Vouchers, or other support for work that strengthens Economic Commons and Commitment Pools. Support can also be practical: accept a community voucher, create one redeemable for your own services, seed a pool, share training, improve documentation, or contribute to open-source tools.

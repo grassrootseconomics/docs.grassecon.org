@@ -20,8 +20,8 @@ The Platform of the Grassroots Economics Commons (herein called Sarafu Network) 
 
 1. **Ledger Services:**
     1. The Founding Members will deploy their own and other Member Instruments and register them on the ledger known as: [Kitabu Blockchain](/software/kitabu) unless otherwise specified.
-2. **Public Access:** transaction data and user information will be generally available to Researchers and Members and (subject to a one month waiting period) individual balances and trade history will be provided to individual Members and Mediators upon request. See [data protection policy](https://docs.grassecon.org/commons/data_policy/).
-3. **Terms and Conditions:** When using the Platform the Applicant agrees to the [Terms and Conditions](https://grassecon.org/pages/terms-and-conditions.html) of Grassroots Economics Foundation.
+2. **Public Access:** transaction data and user information will be generally available to Researchers and Members and (subject to a one month waiting period) individual balances and trade history will be provided to individual Members and Mediators upon request. See [data protection policy](/commons/data_policy/).
+3. **Terms and Conditions:** When using the Platform the Applicant agrees to the [Terms and Conditions](https://grassecon.org/terms) of Grassroots Economics Foundation.
 
 ## **Instruments**
 
@@ -39,10 +39,10 @@ The Platform of the Grassroots Economics Commons (herein called Sarafu Network) 
     7. **Expiration Rate**: The Vouchers expire each minute with cumulative rate of 2% per month.
     8. **Community Account: Issuance**: Created vouchers will be placed into the following account: 0xBBb4a93c8dCd82465B73A143f00FeD4AF7492a27
     9. **Community Account: Expiration**: All expired Vouchers will be distributed to the following account specified here: 0xBBb4a93c8dCd82465B73A143f00FeD4AF7492a27
-2. Certificate: Non-Confidential Member data utilizing any Platform registered Instrument is made available to Members by mutual agreement in the form of Certificates (herein called an Impact Certificates) which hold endorsements and reports on Instrument usage. See our [data protection policy](https://docs.grassecon.org/commons/data_policy/). 
+2. Certificate: Non-Confidential Member data utilizing any Platform registered Instrument is made available to Members by mutual agreement in the form of Certificates (herein called an Impact Certificates) which hold endorsements and reports on Instrument usage. See our [data protection policy](/commons/data_policy/).
 3. Equity:
     1. Value supplied by Members in money or in-kind exchanged for Vouchers or Impact Certificates, will be used to maintain the Sarafu Network infrastructure and to support Members as specified by mutual agreement.
-    2. GEC Equity: The GEC Equity is an community run instrument that is in the process of being defined. Please [read more](./equity.md) and join us in its creation. 
+    2. GEC Equity: The GEC Equity is a community-run instrument that is in the process of being defined. Please contact [info@grassecon.org](mailto:info@grassecon.org) to join us in its creation.
        
 
 ## **Addendum:**

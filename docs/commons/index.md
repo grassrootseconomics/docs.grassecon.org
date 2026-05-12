@@ -1,8 +1,8 @@
-# Introduction to Legal
+# Commons
 
-The following documentation is meant to give you templates on designing legal frameworks surrounding community driven financial instruments like Community Asset Vouchers and Commitment Pools.
+The Commons section holds legal and governance templates for community-driven financial instruments such as Community Asset Vouchers and Commitment Pools.
 
-This legal design for a Economic Commons utilizes the [Nondominium](https://wiki.p2pfoundation.net/Nondominium) recursive framework, where mutually defined Instruments are utilized by (General Members) who jointly oversee active stewards (Service Providers) subject to passive custodians (Guardians) with protective governance rights of arbitration and final veto.
+Grassroots Economics uses an Economic Commons frame so communities can define rights, responsibilities, instruments, service agreements, stewardship roles, and safeguards around shared systems. The legal design draws on the [Nondominium](https://wiki.p2pfoundation.net/Nondominium) recursive framework: members define instruments together, service providers maintain active infrastructure, and guardians hold protective governance rights such as arbitration and final veto.
 
 * [Glossary](/edu/glossary/) of terms.
 
@@ -37,17 +37,23 @@ digraph D {
 }
 ```
 
-Through the development of an inclusive, legal Nondominium framework, an opt in, open community is created. Any individual or association can opt in. As long as the protocols are followed, member to member agreements can proliferate, decentralising the target commons whilst maintaining integrity of the initial vision.
+Through this opt-in framework, individuals and associations can join a commons, issue or use instruments, and form member-to-member agreements while preserving shared integrity and accountability.
 
-- An Economic Commons can be broken into various agreements:
-    * [Economic Commons Template (ECT)](/commons/template/): A general overarching template that defines an Economic Commons and various rights and responsibilities of its Members.
-    * [Grassroots Economics Commons Agreement](/commons/agreement/): The Grassroots Economics Commons Agreement is an example Economic Commons which incorporates the ECT with Grassroots Economics Foundation's Sarafu Network as its Platform. Further Grassroots Economics as a Platform Service Provider declares the Sarafu Voucher redeemable as payment for various services such as training, clearing, mediation, and running various micro-services, like blockchain nodes, wallets and marketplaces.
-    * [Voucher Declaration](/commons/voucher/): An example of an individual or group that wants to create a Voucher within an Economic Commons
-    * [Intermember Service Agreement](/commons/service/): Establishes agreements between Economic Commons Members. In this example a Voucher creating Member wishes to subscribe to the services of a Platform Service Provider.
-    * [Data Policy](/commons/data_policy/): Here is an example of a data protection policy of Grassroots Economics as a Platform Service Provider.
-    * [PATH License](/commons/path/): Here is the license for a Community Asset Voucher.
-    * [SPROUT Policy](/commons/sprout/): Here is an license for a Commitment Pool.
-	* [SPROUT Swap Loan Terms](/commons/sprout-loan-terms/): Here are terms for Swap Loans when using a Commitment Pool.
-    
+## Core agreements and licenses
 
+* [Economic Commons Template (ECT)](/commons/template/): A general template for Economic Commons rights, responsibilities, roles, and instruments.
+* [Grassroots Economics Commons Agreement](/commons/agreement/): The Grassroots Economics Commons Agreement using Sarafu Network as its platform.
+* [Voucher Declaration](/commons/voucher/): A template for an individual or group creating a Community Asset Voucher.
+* [Intermember Service Agreement](/commons/service/): A template for services between Economic Commons members and platform service providers.
+* [PATH License](/commons/path/): The Public Awareness & Transparent Heritage license for Community Asset Vouchers.
+* [SPROUT Policy](/commons/sprout/): The Stewarded Pools for Relational Obligations and Unified Trust license for Commitment Pools.
+* [SPROUT Swap Loan Terms](/commons/sprout-loan-terms/): Terms for swap loans when a pool uses signed withdrawal terms.
+
+## Policies
+
+* [Data Policy](/commons/data_policy/): Grassroots Economics data protection and privacy policy.
+* [Social Soil Privacy Policy](/commons/privacy_policy_social_soil/): Privacy policy for the Social Soil farming and village-trading game.
+* [Child Protection Policy](/commons/child_policy/): Safeguarding policy for work involving children and young people.
+
+For a single policy index, see [Policies](/policies/).
 

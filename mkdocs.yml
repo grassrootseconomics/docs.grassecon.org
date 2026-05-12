@@ -26,7 +26,14 @@ nav:
       - SPROUT (pool) License: commons/sprout.md
       - SPROUT Swap Loan Terms: commons/sprout-loan-terms.md
       - Data Policy: commons/data_policy.md
+      - Social Soil Privacy Policy: commons/privacy_policy_social_soil.md
       - Child Protection Policy: commons/child_policy.md
+  - Policies:
+      - Overview: policies/index.md
+      - Data Policy: commons/data_policy.md
+      - Social Soil Privacy Policy: commons/privacy_policy_social_soil.md
+      - Child Protection Policy: commons/child_policy.md
+      - Terms & Conditions: https://grassecon.org/terms
   - Software:
       - Intro: cyber/index.md
       - Software: https://software.grassecon.org/

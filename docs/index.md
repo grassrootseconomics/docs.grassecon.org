@@ -1,12 +1,25 @@
-# Karibu (Welcome to) Grassroots Economics' Docs
+# Karibu to Grassroots Economics Docs
 
-Grassroots Economics is a non-profit foundation that seeks to empower marginalized communities to take charge of their own livelihoods and economic future. We focus on community development through economic empowerment and are dedicated to helping communities realize and share their abundance through Economic Commons with Instruments like Communty Asset Vouchers that can act as formal commitments for resources and become part of Commitment Pools (acting as vessels of exchange). While core beneficiaries of our programs include businesses and people living in informal settlements as well as rural areas, the documentation and tools have been broadly applied worldwide. *For the Grassroots Economics website visit [grassecon.org](https://grassecon.org).*
+Grassroots Economics Foundation supports communities to build practical systems of mutual credit, local exchange, and regenerative livelihood. This documentation is the stable reference hub for our public methods, policies, legal templates, field guides, software guides, and educational materials.
 
-It is tremendously important to us that people take, use, build on and share what we've found to be useful. Join us in demonstrating, disseminating, designing & curating the best practices to empower communities to create and manage their own financial instruments. This collaborative documentation site is a work in progress and an evolving collection of the various learnings and tools and broken into:
+Our current work centers on **Commitment Pooling**: communities issue redeemable commitments as Community Asset Vouchers, place them in shared pools, and use transparent rules to exchange, settle, and account for real goods, services, care, labor, and ecological work.
 
-* [Community](/community/): Take part in and build this community and our roadmap.
-* [Operations](/ops/): Learn how to implement, support, build on and maintain a Economic Commons
-* [Commons](/commons/): Learn how legal frameworks and instruments define and are formed around communities
-* [Software](/cyber/): Learn about cyber-social digital infrastructures and tools for Economics Commons. 
-* [Education](/edu/): Learn more about Economic Commons and other related materials.
-* [Glossary](/edu/glossary/) of terms.
+For the public organization website, visit [grassecon.org](https://grassecon.org). For the live Sarafu Network platform, visit [sarafu.network](https://sarafu.network).
+
+## Current work
+
+* **Commitment Pooling:** A protocol and practice for routing promises, settlement, and mutual support through shared pools.
+* **Sarafu Network:** The live platform for Community Asset Vouchers, Commitment Pools, reports, maps, and wallet access.
+* **Social Soil:** An educational farming and village-trading game for learning ecology, exchange, cooperation, and community systems.
+* **Cosmo-Local Credit:** Shared routing, clearing, governance, and safety infrastructure for networks of Commitment Pools.
+* **Ecosystem stewardship:** Field work around soil, food production, agroecology, restoration, and community-led accountability.
+* **Research and education:** Open learning materials, training guides, case studies, publications, and public data references.
+
+## How this site is organized
+
+* [Community](/community/): Participation, contribution paths, community governance, and the roadmap.
+* [Operations](/ops/): Field implementation guides for Commitment Pools, voucher creation, stakeholder engagement, and support.
+* [Commons](/commons/): Economic Commons agreements, legal templates, PATH and SPROUT licenses, and related policy documents.
+* [Policies](/policies/): Data, privacy, child protection, app privacy, and public terms.
+* [Software](/cyber/): Sarafu Network, software stack, wallet and pool guides, developer links, and live tools.
+* [Education](/edu/): FAQ, glossary, training guides, games, case studies, and research links.

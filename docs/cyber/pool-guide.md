@@ -1,6 +1,6 @@
-# Commitment Pool  Technical Guide - Mwongozo wa Kiufundi wa Dimbwi la Kujitolea
+# Commitment Pool Technical Guide - Mwongozo wa Kiufundi wa Dimbwi la Kujitolea
 
-en: Follow this step-by-step guide to exchange Community Asset Vouchers or other digital assets for eachother within Commitment Pools .
+en: Follow this step-by-step guide to exchange Community Asset Vouchers or other digital assets with each other within Commitment Pools.
 
 sw: Fuata mwongozo huu wa hatua kwa hatua ili kubadilishana Vocha za Mali ya Jumuiya au mali nyingine za kidijitali kwa kila mmoja ndani ya Madila ya Kujitolea.
 
@@ -12,7 +12,7 @@ sw: Hapa kuna video fupi kuhusu kutumia Madimbwi ya Kujitolea na Valora.
 
 ![staking](img/Sarafu-Pool-Valora1.webp){: .center}
 
-Download (Pakua) the ![Valora wallet on Google Playstore](https://play.google.com/store/apps/details?id=co.clabs.valora) 
+Download (Pakua) the [Valora wallet on Google Play](https://play.google.com/store/apps/details?id=co.clabs.valora).
 
 en: Once you have setup your Valora wallet choose the Dapps then find Sarafu.Network
 
@@ -26,7 +26,7 @@ sw: Ukiwa ndani ya Sarafu.Network bofya Unganisha Wallet kisha uchague Valora - 
 
 ![staking](img/Sarafu-Pool-Valora3.webp){: .center}
 
-en: en: Finally click to Sign the message and you should see your account on Sarafu.Network. If you have not signed up for a Social Account please do so - this gives you an alias (so you can send from ussd ***384***96# to your valora account) as well as free Celo gas top ups which you will need later. Being approved for a Social Account may take up to a week
+en: Finally click to sign the message and you should see your account on Sarafu.Network. If you have not signed up for a Social Account, please do so. This gives you an alias so you can send from USSD ***384***96# to your Valora account, as well as free Celo gas top-ups you will need later. Being approved for a Social Account may take up to a week.
 
 sw: Hatimaye bofya ili kutia sahihi ujumbe na unapaswa kuona akaunti yako kwenye Sarafu.Network. Ikiwa hujajiandikisha kwa Akaunti ya Kijamii tafadhali fanya hivyo - hii inakupa jina lako (ili uweze kutuma kutoka ussd ***384***96# hadi kwenye akaunti yako ya valora) pamoja na nyongeza za bure za Celo ambazo utahitaji baadaye. Kuidhinishwa kwa Akaunti ya Kijamii kunaweza kuchukua hadi wiki.
 

@@ -856,9 +856,9 @@ Insights from monitoring and evaluation should be shared:
 - [Glossary](/edu/glossary/)
 - [FAQ](/edu/faq/)
 - [Community Training Guide](/edu/training/)
-- [Voucher Creation Summary](/edu/voucher/)
+- [Voucher Creation Summary](/ops/voucher/)
 - [Case Study](/edu/case_study/)
-- [Book](https://www.grassrootseconomics.org/pages/mooc.html)
+- [Book](https://willruddick.substack.com/p/grassroots-economics-the-book-is)
 - [Quiz](https://forms.gle/yJfVKsZUS1Tdmmmc9)
 
 ### ⚙️ Operations
