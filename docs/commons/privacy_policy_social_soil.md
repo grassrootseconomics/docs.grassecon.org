@@ -2,7 +2,7 @@
 
 Last updated: May 12, 2026
 
-This Privacy Policy applies to **Social Soil** (`org.grassecon.socialsoil`), published by **Grassroots Economics Foundation**.
+This Privacy Policy applies to **Cellular & Social Soil** (`org.grassecon.cellular & org.grassecon.socialsoil`), published by **Grassroots Economics Foundation**.
 
 Social Soil is a farming and village-trading game. We designed the app to work without user accounts, advertising, analytics, or collection of personal information.
 
