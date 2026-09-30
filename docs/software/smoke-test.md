@@ -1,5 +1,7 @@
 # Smoke Testing Proceedure
 
+> **Archive notice:** This checklist documents a historical Sarafu USSD service. The shortcode, menus, tokens, phone support, and expected behavior are retained as implementation history and must not be used to test or describe the current CLC App.
+
 ## Setup
 
 1. via Phone

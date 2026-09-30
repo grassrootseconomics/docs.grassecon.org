@@ -3,6 +3,8 @@
 **© 2025 Grassroots Economics Foundation **  
 This license governs the creation, operation, and federation of digital Commitment Pools.
 
+> **Legal source status:** This license is preserved with its platform-specific source wording, including references to Sarafu.Network. Do not infer its applicability to the current CLC App from this page alone, and do not use it as a substitute for the [current CLC Terms of Service](https://docs.cosmolocal.credit/governance/terms).
+
 ---
 
 ## 1.0 Preamble

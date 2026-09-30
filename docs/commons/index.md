@@ -2,6 +2,8 @@
 
 The Commons section holds legal and governance templates for community-driven financial instruments such as Community Asset Vouchers and Commitment Pools.
 
+> **Status note:** Some agreements, declarations, and licenses in this section preserve platform-specific legal source text. Their presence here does not make them the current CLC Terms or establish that historical Sarafu services and obligations migrated to CLC. Use the [current CLC Terms of Service](https://docs.cosmolocal.credit/governance/terms) for the App.
+
 Grassroots Economics uses an Economic Commons frame so communities can define rights, responsibilities, instruments, service agreements, stewardship roles, and safeguards around shared systems. The legal design draws on the [Nondominium](https://wiki.p2pfoundation.net/Nondominium) recursive framework: members define instruments together, service providers maintain active infrastructure, and guardians hold protective governance rights such as arbitration and final veto.
 
 * [Glossary](/edu/glossary/) of terms.
@@ -42,11 +44,11 @@ Through this opt-in framework, individuals and associations can join a commons, 
 ## Core agreements and licenses
 
 * [Economic Commons Template (ECT)](/commons/template/): A general template for Economic Commons rights, responsibilities, roles, and instruments.
-* [Grassroots Economics Commons Agreement](/commons/agreement/): The Grassroots Economics Commons Agreement using Sarafu Network as its platform.
-* [Voucher Declaration](/commons/voucher/): A template for an individual or group creating a Community Asset Voucher.
-* [Intermember Service Agreement](/commons/service/): A template for services between Economic Commons members and platform service providers.
+* [Grassroots Economics Commons Agreement](/commons/agreement/): A historical, platform-specific agreement preserved with its Sarafu source wording.
+* [Voucher Declaration](/commons/voucher/): A historical, platform-specific template for an individual or group declaring a Community Asset Voucher.
+* [Intermember Service Agreement](/commons/service/): A historical, platform-specific template for services between Economic Commons members and platform service providers.
 * [PATH License](/commons/path/): The Public Awareness & Transparent Heritage license for Community Asset Vouchers.
-* [SPROUT Policy](/commons/sprout/): The Stewarded Pools for Relational Obligations and Unified Trust license for Commitment Pools.
+* [SPROUT Policy](/commons/sprout/): License source text for Commitment Pools, including a notice about its platform-specific language.
 * [SPROUT Swap Loan Terms](/commons/sprout-loan-terms/): Terms for swap loans when a pool uses signed withdrawal terms.
 
 ## Policies

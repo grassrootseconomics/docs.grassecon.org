@@ -3,6 +3,8 @@
 # **Service Agreement (en)**
 
 
+> **Legal source status:** This service-agreement template is preserved with its Sarafu-specific wording and links. Do not use it as a substitute for the [current CLC Terms of Service](https://docs.cosmolocal.credit/governance/terms), and do not assume its services or operating terms are available in the current CLC deployment.
+
 ## **Preamble**
 
 Two Members of the[ Grassroots Economic Commons](https://docs.grassecon.org/commons/agreement/) willingly consent to the following service agreement.

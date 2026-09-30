@@ -1,10 +1,10 @@
 # CIC Software
 
+> **Archive notice:** The CIC stack and component inventory on this page documents historical Grassroots Economics infrastructure. Names, repositories, endpoints, maintainers, and deployment instructions may be obsolete and must not be treated as current CLC architecture.
+
 ## Current software entry points
 
-Sarafu Network is the current public platform for Community Asset Vouchers, Commitment Pools, reports, maps, and wallets: [sarafu.network](https://sarafu.network).
-
-Current developer documentation is maintained at [software.grassecon.org](https://software.grassecon.org/). This page preserves historical CIC stack notes and architecture references.
+Use the [CLC App](https://cosmolocal.credit) and [current CLC documentation](https://docs.cosmolocal.credit) for supported product and protocol behavior. Grassroots Economics developer material remains available at [software.grassecon.org](https://software.grassecon.org/). The remainder of this page preserves historical CIC stack notes and architecture references.
 
 ## Technology Setup
 

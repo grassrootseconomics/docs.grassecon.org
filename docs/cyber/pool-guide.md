@@ -1,5 +1,7 @@
 # Commitment Pool Technical Guide - Mwongozo wa Kiufundi wa Dimbwi la Kujitolea
 
+> **Archive notice:** This bilingual guide and its screenshots document a historical Sarafu.Network and Valora workflow. Do not use it as current CLC wallet or Pool instructions. See [Getting Started](https://docs.cosmolocal.credit/introduction/getting-started) for supported current flows.
+
 en: Follow this step-by-step guide to exchange Community Asset Vouchers or other digital assets with each other within Commitment Pools.
 
 sw: Fuata mwongozo huu wa hatua kwa hatua ili kubadilishana Vocha za Mali ya Jumuiya au mali nyingine za kidijitali kwa kila mmoja ndani ya Madila ya Kujitolea.

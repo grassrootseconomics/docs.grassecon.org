@@ -3,7 +3,7 @@ Grassroots Economics Foundation is thrilled to announce this initiative to drive
 
 By staking your CELO, you'll earn a competitive ~2-3% APR (an additional yearly increased to your stake Celo of approxiemately 2-3% - for 1 Million Celo you will recieve 20,000+ yearly), while contributing to our ambitious goal of cultivating 1 million acres of regenerative agriculture and over 10,000 daily peer to peer transactions in the next five years. Your support extends beyond financial growth, directly impacting communities by enabling access to the Celo ecosystem, supporting agro-forestry, and revitalizing and interconnecting indigenous mutual aid practices.
 
-With a robust track record of community-driven projects, Grassroots Economics and Sarafu.Network is poised to significantly grow the usage and impact of the Celo blockchain. Our partnership with organizations like the Red Cross for decentralized scaling underscores our commitment to global outreach and economic empowerment.
+Grassroots Economics' community-driven work provides practical context for open digital infrastructure. Its validator work and partnerships with organizations such as the Red Cross support continuing research into decentralized coordination, community exchange, and regenerative activity.
 
 Join us in making a difference. Stake your CELO with Grassroots Economics and be part of creating a more inclusive, sustainable world. Together, we can transform lives and nurture the planet for future generations.
 

@@ -1,6 +1,6 @@
 # 📘 Frequently Asked Questions (FAQ)
 
-This FAQ supports the [Training Guide](/training/) and [Glossary](/glossary/).
+This FAQ supports the [Training Guide](/edu/training/) and [Glossary](/edu/glossary/).
 
 ---
 
@@ -79,8 +79,8 @@ A promise and a witness are enough.
 - Ask: “What can we promise one another?”
 
 ### What tools can I use?
-- **USSD or SMS** (for basic phones)
-- **[Sarafu.Network](https://sarafu.network)** (web interface)
+- **[Cosmo-Local Credit](https://cosmolocal.credit)** (current web App; review the [Getting Started guide](https://docs.cosmolocal.credit/introduction/getting-started))
+- **USSD or SMS**, only where a local deployment currently operates and documents that service
 - **Paper ledgers or slips** (for offline pools)
 - **Community boards or airtime logs** (local record-keeping)
 

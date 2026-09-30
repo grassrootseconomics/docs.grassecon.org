@@ -1,5 +1,7 @@
 # ETHSafari 2025 — Your NFC Bracelet & SAFARI Tokens Guide
 
+> **Event archive:** This guide documents the 2025 ETHSafari deployment and its historical Sarafu interface. Its links, assets, wallet flows, and support arrangements may no longer operate and do not describe the current CLC App. See [Getting Started](https://docs.cosmolocal.credit/introduction/getting-started) for current guidance.
+
 Welcome to ETHSafari in Kilifi. This quick guide shows how to use your NFC bracelet for cashless payments, how to get more SAFARI tokens, and how to manage your wallet.
 
 ## Your NFC bracelet at a glance

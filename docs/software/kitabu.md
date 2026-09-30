@@ -1,5 +1,7 @@
 # Kitabu Chain
 
+> **Archive notice:** This page preserves historical Kitabu and Sarafu Network architecture. Its chain parameters, RPC and statistics endpoints, repositories, governance process, and operating assumptions may be obsolete and are not current CLC architecture.
+
 ## About Kitabu Chain
 
 The Kitabu (Meaning 'Ledger or Book' in Kiswahili) Blockchain is derived from Open Ethereum and Aura Consensus and learnings from BloxBerg.org by Grassroots Economics Foundation to enable decentralized ledger services to reach vulnerable and marginalized communities. It is a key part of Sarafu Network and the Grassroots Economic Commons which enable people and organizations to create and utilize Instruments.

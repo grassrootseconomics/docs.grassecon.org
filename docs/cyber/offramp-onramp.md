@@ -1,5 +1,7 @@
 # Offramp & Onramp (M-PESA)
 
+> **Archived deployment guide:** These Sarafu-era M-PESA, USSD, address, asset, fee, and support instructions are not verified for the current CLC deployment. Do not send assets or rely on this workflow unless the responsible operator confirms the current provider, destination, limits, fees, eligibility, and terms.
+
 This short guide explains how to off-ramp (convert stablecoins to M-PESA cash) and on-ramp (receive stablecoins from an M-PESA push) using M-PESA via USSD or other wallets.
 
 - Supported assets: cUSD, USDT, USDC

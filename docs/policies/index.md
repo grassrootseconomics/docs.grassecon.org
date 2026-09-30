@@ -9,7 +9,7 @@ The original document URLs remain in place so existing links continue to work.
 * [Data Policy](/commons/data_policy/): Grassroots Economics Foundation's data protection and privacy policy for handling personal and community data.
 * [Social Soil Privacy Policy](/commons/privacy_policy_social_soil/): Privacy policy for the Social Soil farming and village-trading game.
 * [Child Protection Policy](/commons/child_policy/): Safeguarding commitments for work involving children and young people.
-* [Terms & Conditions](https://grassecon.org/terms): Public terms for Sarafu Network and related Grassroots Economics services.
+* [CLC Terms of Service](https://docs.cosmolocal.credit/governance/terms): Current terms governing use of the CLC App and associated services.
 
 ## Related legal commons documents
 

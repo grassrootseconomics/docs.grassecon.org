@@ -1,5 +1,7 @@
 # 🛤️ Grassroots Economics Roadmap (2025 Edition)
 
+> **Historical roadmap:** This page records the organization's 2025 goals and terminology. Its statements do not establish current feature availability. For current CLC behavior and roadmap status, use the [CLC documentation](https://docs.cosmolocal.credit).
+
 ## 🌐 Custodial & Core Systems
 
 - CIC-Stack v2 contracts deployed and maintained

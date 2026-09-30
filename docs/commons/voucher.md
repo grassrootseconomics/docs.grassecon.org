@@ -1,5 +1,7 @@
 # **Voucher Declaration (en)**
 
+> **Legal source status:** This declaration template is preserved with its Sarafu-specific wording and fields. Do not use it as a substitute for the [current CLC Terms of Service](https://docs.cosmolocal.credit/governance/terms) or as a description of the current CLC voucher-creation flow.
+
 ## Preamble
 
 We .....................................................................................................[Group Name] _(herein called the Founding Member(s))_ hereby agree to the Grassroots Economics Commons Agreement and join as a Member. Further we seek to create a Voucher registered on the Sarafu Network Platform as per the Service Agreement with Grassroots Economics Foundation.

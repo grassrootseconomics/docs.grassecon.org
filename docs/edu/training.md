@@ -210,7 +210,7 @@ By the end of this training, groups will:
         - Mancala-style board or ground-based hole setup for visualizing trust flows ([see example](https://youtu.be/tSTzOXu4f6k))
     - For Participants:
         - Notebook and pencil
-        - (Optional) Access to a demo version of the Sarafu.Network or a sample Commitment Pool interface via mobile or web
+        - (Optional) Access to the [CLC App](https://cosmolocal.credit), a documented test deployment, or a sample Commitment Pool interface via mobile or web
 
 ---
 

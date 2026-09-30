@@ -8,7 +8,7 @@ This section explains how to participate, how we work together, and how the road
 
 1. **Community groups and practitioners:** Start or improve a Commitment Pool, create a Community Asset Voucher, document field practice, and share what works.
 1. **Stewards and field teams:** Support workshops, onboarding, stakeholder engagement, training, monitoring, and local governance.
-1. **Technical contributors:** Improve Sarafu Network, software tools, data systems, wallets, maps, reports, integrations, and open-source infrastructure.
+1. **Technical contributors:** Improve the [CLC App and protocol](https://github.com/cosmo-local-credit), Grassroots Economics software tools, data systems, wallets, maps, reports, integrations, and other open-source infrastructure.
 1. **Educators and designers:** Turn the concepts into clear learning materials, games, training flows, stories, translations, and visuals.
 1. **Researchers:** Study resource coordination, impact, settlement, community resilience, ecological outcomes, and data governance.
 1. **Legal and policy contributors:** Strengthen Economic Commons agreements, licenses, privacy policies, safeguards, and compliance practices.

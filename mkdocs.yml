@@ -33,14 +33,16 @@ nav:
       - Data Policy: commons/data_policy.md
       - Social Soil Privacy Policy: commons/privacy_policy_social_soil.md
       - Child Protection Policy: commons/child_policy.md
-      - Terms & Conditions: https://grassecon.org/terms
+      - CLC Terms of Service: https://docs.cosmolocal.credit/governance/terms
   - Software:
       - Intro: cyber/index.md
+      - CLC App: https://cosmolocal.credit/
+      - CLC Documentation: https://docs.cosmolocal.credit/introduction/getting-started
       - Software: https://software.grassecon.org/
-      - ETH Safari: cyber/eth-safari-2025.md
-      - Pooling Guide: cyber/pool-guide.md
+      - ETH Safari 2025 (Archive): cyber/eth-safari-2025.md
+      - Sarafu/Valora Pooling Guide (Archive): cyber/pool-guide.md
       - Staking Guide: cyber/staking-guide.md
-      - Offramp/Onramp Guide: cyber/offramp-onramp.md
+      - Sarafu M-PESA Guide (Archive): cyber/offramp-onramp.md
   - Education:
       - Intro: edu/index.md
       - Glossary: edu/glossary.md

@@ -15,7 +15,7 @@ You are a great fit for a Commitment Pool implementation team if:
 
 ## Team Member Training
 
-All team members should have equal access to orientation and learning resources. Team member development is a collaboration between Grassroots Economics, Red Cross, and other implementing partners. The training integrates digital tools like [sarafu.network](https://sarafu.network) with analog practices like mutual aid, seed sharing, and community audits.
+All team members should have equal access to orientation and learning resources. Team member development is a collaboration between Grassroots Economics, Red Cross, and other implementing partners. The training can integrate the current [Cosmo-Local Credit App](https://cosmolocal.credit) with analog practices like mutual aid, seed sharing, and community audits. Facilitators should use the [current App guidance](https://docs.cosmolocal.credit/introduction/getting-started) rather than treating this field guide as a product specification.
 
 ## Communicating with Supervisors
 

@@ -1,5 +1,7 @@
 # **Grassroots Economic Commons (GEC) Agreement (en)**
 
+> **Legal source status:** This agreement is preserved with its Sarafu-specific wording and links. Do not use it as a substitute for the [current CLC Terms of Service](https://docs.cosmolocal.credit/governance/terms), and do not infer that every historical account, asset, record, participant, or obligation migrated to CLC.
+
 ## **Preamble**
 
 We **Grassroots Economics Foundation** _(herein called the Founding Member)_ hereby ratify and incorporate the [Grassroots Economics Commons Template](https://docs.grassecon.org/commons/template) in the following Economic Commons (herein called the Grassroots Economic Commons) as its Guardian, General Member and Platform Service Provider.

@@ -4,14 +4,15 @@ Grassroots Economics Foundation supports communities to build practical systems 
 
 Our current work centers on **Commitment Pooling**: communities issue redeemable commitments as Community Asset Vouchers, place them in shared pools, and use transparent rules to exchange, settle, and account for real goods, services, care, labor, and ecological work.
 
-For the public organization website, visit [grassecon.org](https://grassecon.org). For the live Sarafu Network platform, visit [sarafu.network](https://sarafu.network).
+For the public organization website, visit [Grassroots Economics](https://grassrootseconomics.org). For the current digital platform, open the [Cosmo-Local Credit App](https://cosmolocal.credit). Current product and protocol behavior is documented at [docs.cosmolocal.credit](https://docs.cosmolocal.credit).
+
+> **Platform transition:** The service formerly presented as Sarafu Network transitioned to Cosmo-Local Credit. This transition does not mean that every historical Sarafu account, wallet, token, voucher, Pool, balance, report, participant, or obligation migrated or remains available in the current App. See the [CLC history](https://docs.cosmolocal.credit/introduction/history) for context.
 
 ## Current work
 
 * **Commitment Pooling:** A protocol and practice for routing promises, settlement, and mutual support through shared pools.
-* **Sarafu Network:** The live platform for Community Asset Vouchers, Commitment Pools, reports, maps, and wallet access.
+* **Cosmo-Local Credit:** The current App and open protocol family for independently governed vouchers and Commitment Pools. Start with the [current App guide](https://docs.cosmolocal.credit/introduction/getting-started).
 * **Social Soil:** An educational farming and village-trading game for learning ecology, exchange, cooperation, and community systems.
-* **Cosmo-Local Credit:** Shared routing, clearing, governance, and safety infrastructure for networks of Commitment Pools.
 * **Ecosystem stewardship:** Field work around soil, food production, agroecology, restoration, and community-led accountability.
 * **Research and education:** Open learning materials, training guides, case studies, publications, and public data references.
 
@@ -21,5 +22,7 @@ For the public organization website, visit [grassecon.org](https://grassecon.org
 * [Operations](/ops/): Field implementation guides for Commitment Pools, voucher creation, stakeholder engagement, and support.
 * [Commons](/commons/): Economic Commons agreements, legal templates, PATH and SPROUT licenses, and related policy documents.
 * [Policies](/policies/): Data, privacy, child protection, app privacy, and public terms.
-* [Software](/cyber/): Sarafu Network, software stack, wallet and pool guides, developer links, and live tools.
+* [Software](/cyber/): Current CLC entry points plus archived Sarafu, wallet, event, and CIC stack guides.
 * [Education](/edu/): FAQ, glossary, training guides, games, case studies, and research links.
+
+Training and archival material on this site supplements—but does not define—current CLC App or Protocol behavior. Use the [CLC documentation](https://docs.cosmolocal.credit) for current definitions, limitations, and legal terms.

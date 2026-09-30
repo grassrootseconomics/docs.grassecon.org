@@ -4,7 +4,7 @@ This section collects learning materials for communities, facilitators, students
 
 ## Learning materials
 
-* [Frequently Asked Questions](faq/): Plain-language answers about Commitment Pooling, Community Asset Vouchers, Sarafu Network, and starting a pool.
+* [Frequently Asked Questions](faq/): Plain-language answers about Commitment Pooling, Community Asset Vouchers, current and offline tools, and starting a pool.
 * [Glossary](glossary/): Core terms used across the documentation.
 * [Community Training Guide](training/): Facilitator material for workshops, simulations, and practical learning.
 * [Case Study](case_study/): Commitment Pooling in Binguni and Mbele, Kenya.
@@ -17,4 +17,4 @@ This section collects learning materials for communities, facilitators, students
 
 ## Research and public data
 
-Research, publications, and datasets are listed on [grassecon.org/research](https://grassecon.org/research). Sarafu Network activity and reports are available through [sarafu.network](https://sarafu.network).
+Research, publications, and datasets are listed by [Grassroots Economics](https://grassrootseconomics.org/research). The [historical Sarafu Network dashboard](https://dune.com/grassrootseconomics/sarafu-network) preserves activity evidence; it is not evidence of current CLC coverage or adoption. Use the [CLC documentation](https://docs.cosmolocal.credit) for current App and Protocol behavior.
